@@ -14,13 +14,14 @@ tags:
 - agents
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:domain-driven-agents
 first_seen: '2026-08-30T04:14:33.013596+05:30'
 last_seen: '2026-08-30T11:02:21.560229+05:30'
 last_checked: '2026-08-30T11:02:21.560229+05:30'
 health_score: 100
 ---
+
 
 # Domain-Driven Agents
 

@@ -4,23 +4,22 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/techwithtim/Langflow-RAG-Tutorial
-collected_at: '2026-08-11T00:54:59.046392+05:30'
-published_at: '2026-07-22T08:36:27Z'
+collected_at: '2026-08-30T19:24:08.610804+05:30'
+published_at: '2026-08-21T16:57:17Z'
 tags:
 - github-repo
 - rag
 - unknown
-- workflows
-stars: 98
+stars: 97
 language: Unknown
 status: active
 archived: false
 created_at: '2024-04-17T10:56:19Z'
 pushed_at: '2024-07-18T10:50:24Z'
 resource_id: github:techwithtim/langflow-rag-tutorial
-first_seen: '2026-08-11T00:54:59.046392+05:30'
-last_seen: '2026-08-11T00:54:59.046392+05:30'
-last_checked: '2026-08-11T00:54:59.046392+05:30'
+first_seen: '2026-08-30T19:24:08.610804+05:30'
+last_seen: '2026-08-30T19:24:08.610804+05:30'
+last_checked: '2026-08-30T19:24:08.610804+05:30'
 health_score: 100
 ---
 
@@ -28,9 +27,7 @@ health_score: 100
 
 ## Summary
 
-- **Repository**: `techwithtim/Langflow-RAG-Tutorial` (98 ⭐, 26 🍴) – No description, topics, or language metadata provided.
-- **Last Updated**: 2026-07-22T08:36:27Z (future-dated, likely placeholder or error).
-- **Content**: Unspecified, but inferred to involve Langflow-based RAG (Retrieval-Augmented Generation) workflows given the repository name.
+*   Illustrates the implementation of Retrieval-Augmented Generation (RAG) systems.
 
 ## Why It Matters
 
@@ -39,11 +36,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: techwithtim
-- Stars: 98
+- Stars: 97
 - Forks: 26
 - Language: Unknown
 - Topics: None
-- Last Updated: 2026-07-22T08:36:27Z
+- Last Updated: 2026-08-21T16:57:17Z
 - Archived: No
 - Created At: 2024-04-17T10:56:19Z
 - Pushed At: 2024-07-18T10:50:24Z

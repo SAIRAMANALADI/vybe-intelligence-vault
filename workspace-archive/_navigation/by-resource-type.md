@@ -146,10 +146,10 @@ This index groups files by resource kind (e.g. frameworks, templates, prompts, e
 - [luosijie/threejs-examples](https://github.com/luosijie/threejs-examples) (Tier: `useful` | [`Local File`](../../web-development/threejs/luosijie-threejs-examples.md))
 - [spite/Wagner](https://github.com/spite/wagner) (Tier: `useful` | [`Local File`](../../web-development/threejs/spite-wagner.md))
 - [michaelfeil/infinity](https://github.com/michaelfeil/infinity) (Tier: `useful` | [`Local File`](../../ai/rag/michaelfeil-infinity.md))
+- [lancedb/vectordb-recipes](https://github.com/lancedb/vectordb-recipes) (Tier: `useful` | [`Local File`](../../ai/rag/lancedb-vectordb-recipes.md))
 - [dgreenheck/webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) (Tier: `useful` | [`Local File`](../../web-development/webgpu/dgreenheck-webgpu-claude-skill.md))
 - [mikbry/awesome-webgpu](https://github.com/mikbry/awesome-webgpu) (Tier: `useful` | [`Local File`](../../web-development/webgpu/mikbry-awesome-webgpu.md))
 - [GEngine-js/GEngine](https://github.com/gengine-js/gengine) (Tier: `useful` | [`Local File`](../../web-development/webgpu/gengine-js-gengine.md))
-- [emmelleppi/codrops-r3f-mirrors](https://github.com/emmelleppi/codrops-r3f-mirrors) (Tier: `useful` | [`Local File`](../../web-development/react-three-fiber/emmelleppi-codrops-r3f-mirrors.md))
 
 ## TUTORIAL
 
@@ -182,4 +182,4 @@ This index groups files by resource kind (e.g. frameworks, templates, prompts, e
 - [Topological Attribution Distance (TAD): Revealing Segment-Level RAG Influence on LLM Output Geometry for Incident Log Analysis](https://arxiv.org/abs/2608.16775) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2608-16775.md))
 
 ---
-*Last updated: 2026-08-30 11:20 IST*
+*Last updated: 2026-08-30 19:41 IST*

@@ -13,13 +13,14 @@ collected_at: '2026-08-30T11:02:20.012490+05:30'
 tags:
 - hackernews
 - rag
-status: active
+status: inactive
 resource_id: github:gbin/defragger
 first_seen: '2026-08-30T11:02:20.012490+05:30'
 last_seen: '2026-08-30T11:02:20.012490+05:30'
 last_checked: '2026-08-30T11:02:20.012490+05:30'
 health_score: 100
 ---
+
 
 # Show HN: I missed the moving blocks, so I built a real Linux disk defragmenter
 

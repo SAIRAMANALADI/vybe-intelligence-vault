@@ -20050,11 +20050,10 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [Domain-Driven Agents](../ai/community/domain-driven-agents.md)
-  - [Good Culture Is the Biggest Productivity Hack, Not AI](../ai/community/good-culture-is-the-biggest-productivity-hack-not.md)
+  - [Fair Work Commission condemns 'plain wrong' AI legal advice](../ai/community/fair-work-commission-condemns-plain-wrong-ai-legal.md)
   - [Lawmakers added $1 to car insurance policies. That money paid for Flock cameras](../ai/community/lawmakers-added-1-to-car-insurance-policies-that-m.md)
-  - [Open Oscar Server: open-source server compatible with AIM and ICQ clients](../ai/community/mk6i-open-oscar-server.md)
-  - [Show HN: I missed the moving blocks, so I built a real Linux disk defragmenter](../ai/community/gbin-defragger.md)
+  - [Longest Straight Line Paths on Water or Land on the Earth (2018)](../ai/community/arxiv-1804-07389.md)
+  - [What my dad taught me about AI coding in the 90s](../ai/community/what-my-dad-taught-me-about-ai-coding-in-the-90s.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -20926,10 +20925,10 @@ Resources organized by publisher feed and query sources.
 
   - [BAAI/bge-m3](../ai/rag/huggingface-baai-bge-m3.md)
   - [BAAI/bge-small-en-v1.5](../ai/rag/huggingface-baai-bge-small-en-v1-5.md)
-  - [Qwen/Qwen3-0.6B](../ai/models/huggingface-qwen-qwen3-0-6b.md)
   - [amazon/chronos-2](../ai/models/huggingface-amazon-chronos-2.md)
   - [cross-encoder/ms-marco-MiniLM-L6-v2](../ai/rag/huggingface-cross-encoder-ms-marco-minilm-l6-v2.md)
   - [google-bert/bert-base-uncased](../ai/models/huggingface-google-bert-bert-base-uncased.md)
+  - [google-t5/t5-small](../ai/models/huggingface-google-t5-t5-small.md)
   - [google/electra-base-discriminator](../ai/models/huggingface-google-electra-base-discriminator.md)
   - [sentence-transformers/all-MiniLM-L6-v2](../ai/rag/huggingface-sentence-transformers-all-minilm-l6-v2.md)
   - [sentence-transformers/all-mpnet-base-v2](../ai/rag/huggingface-sentence-transformers-all-mpnet-base-v2.md)
@@ -23879,4 +23878,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-30T11:18:26.509343+05:30*
+*Index generated on 2026-08-30T19:39:18.938436+05:30*

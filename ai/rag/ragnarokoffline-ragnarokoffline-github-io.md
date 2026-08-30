@@ -4,13 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ragnarokoffline/ragnarokoffline.github.io
-collected_at: '2026-08-28T17:04:51.604409+05:30'
+collected_at: '2026-08-30T19:23:58.587318+05:30'
 published_at: '2026-08-24T08:08:48Z'
 tags:
 - github-repo
 - html
 - rag
-- scripts
 stars: 20
 language: HTML
 status: active
@@ -18,9 +17,9 @@ archived: false
 created_at: '2025-02-06T11:16:38Z'
 pushed_at: '2026-08-13T00:14:50Z'
 resource_id: github:ragnarokoffline/ragnarokoffline.github.io
-first_seen: '2026-08-28T17:04:51.604409+05:30'
-last_seen: '2026-08-28T17:04:51.604409+05:30'
-last_checked: '2026-08-28T17:04:51.604409+05:30'
+first_seen: '2026-08-30T19:23:58.587318+05:30'
+last_seen: '2026-08-30T19:23:58.587318+05:30'
+last_checked: '2026-08-30T19:23:58.587318+05:30'
 health_score: 100
 ---
 
@@ -28,9 +27,9 @@ health_score: 100
 
 ## Summary
 
-*   Distributes a pre-renewal client/server pack for Ragnarok Online, optimized for offline deployment.
-*   Leverages community-driven tools and platforms, including OpenKore for automation and rAthena for server emulation.
-*   Hosted as a static site on GitHub Pages (github.io), primarily utilizing HTML for content delivery.
+*   Distributes a pre-renewal asset/data pack for Ragnarok Online.
+*   Targets integration with rAthena server emulation and OpenKore bot clients.
+*   Hosted via GitHub Pages (`.github.io`) for community resource dissemination.
 
 ## Why It Matters
 

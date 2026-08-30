@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pguso/rag-from-scratch
-collected_at: '2026-08-11T00:54:54.042434+05:30'
-published_at: '2026-08-10T12:24:21Z'
+collected_at: '2026-08-30T19:24:08.604170+05:30'
+published_at: '2026-08-30T10:46:39Z'
 tags:
 - agents
 - github-repo
@@ -13,7 +13,7 @@ tags:
 - meta-ai
 - models
 - rag
-stars: 1550
+stars: 1611
 language: JavaScript
 status: active
 license: MIT
@@ -21,9 +21,9 @@ archived: false
 created_at: '2025-10-27T16:19:58Z'
 pushed_at: '2026-03-11T11:44:33Z'
 resource_id: github:pguso/rag-from-scratch
-first_seen: '2026-08-11T00:54:54.042434+05:30'
-last_seen: '2026-08-11T00:54:54.042434+05:30'
-last_checked: '2026-08-11T00:54:54.042434+05:30'
+first_seen: '2026-08-30T19:24:08.604170+05:30'
+last_seen: '2026-08-30T19:24:08.604170+05:30'
+last_checked: '2026-08-30T19:24:08.604170+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Educational RAG Pipeline**: Implements Retrieval-Augmented Generation (RAG) from scratch using local LLMs (via `node-llama-cpp`) to avoid black-box abstractions, focusing on embeddings, vector search, retrieval, and context-augmented generation.
-
-- **JavaScript-Based Implementation**: Built entirely in JavaScript/Node.js, leveraging `node-llama-cpp` for local LLM inference and demonstrating a full-stack, self-contained RAG pipeline.
-
-- **Open-Source Tutorial**: Provides a hands-on, step-by-step guide for developers to understand and implement RAG systems locally, emphasizing transparency and educational value.
+*   Provides a from-scratch RAG pipeline implementation using local LLMs via JavaScript/Node.js and `node-llama-cpp`.
+*   Focuses on demystifying core RAG components: embeddings, vector search, retrieval, and context-augmented generation.
+*   Emphasizes transparent, non-black-box understanding of RAG mechanics rather than high-level API abstractions.
 
 ## Why It Matters
 
@@ -44,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: pguso
-- Stars: 1550
-- Forks: 189
+- Stars: 1611
+- Forks: 193
 - Language: JavaScript
 - Topics: agents, ai-agents, educational, llm, node-llama-cpp, nodejs, rag, rag-chatbot, rag-pipeline, tutorial
-- Last Updated: 2026-08-10T12:24:21Z
+- Last Updated: 2026-08-30T10:46:39Z
 - License: MIT
 - Archived: No
 - Created At: 2025-10-27T16:19:58Z

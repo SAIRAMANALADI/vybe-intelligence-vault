@@ -13,13 +13,14 @@ collected_at: '2026-08-30T11:02:21.453164+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: github:mk6i/open-oscar-server
 first_seen: '2026-08-30T11:02:21.453164+05:30'
 last_seen: '2026-08-30T11:02:21.453164+05:30'
 last_checked: '2026-08-30T11:02:21.453164+05:30'
 health_score: 100
 ---
+
 
 # Open Oscar Server: open-source server compatible with AIM and ICQ clients
 

@@ -4,25 +4,25 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/langchain-ai/open-swe
-collected_at: '2026-08-29T12:51:19.213066+05:30'
-published_at: '2026-08-29T04:54:15Z'
+collected_at: '2026-08-30T19:26:08.751926+05:30'
+published_at: '2026-08-30T00:50:06Z'
 tags:
 - agents
 - anthropic
 - github-repo
 - openai
 - python
-stars: 10627
+stars: 10633
 language: Python
 status: active
 license: MIT
 archived: false
 created_at: '2025-05-21T21:44:24Z'
-pushed_at: '2026-08-29T07:21:15Z'
+pushed_at: '2026-08-30T08:22:15Z'
 resource_id: github:langchain-ai/open-swe
-first_seen: '2026-08-29T12:51:19.213066+05:30'
-last_seen: '2026-08-29T12:51:19.213066+05:30'
-last_checked: '2026-08-29T12:51:19.213066+05:30'
+first_seen: '2026-08-30T19:26:08.751926+05:30'
+last_seen: '2026-08-30T19:26:08.751926+05:30'
+last_checked: '2026-08-30T19:26:08.751926+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,7 @@ health_score: 100
 
 ## Summary
 
-*   Open-source asynchronous coding agent.
-*   Integrates with multiple LLM providers, including OpenAI and Anthropic (ClaudeCode).
-*   Developed in Python, featuring an asynchronous execution model.
+*   Asynchronous, open-source Python agent for automated coding and software engineering (SWE
 
 ## Why It Matters
 
@@ -41,15 +39,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: langchain-ai
-- Stars: 10627
-- Forks: 1250
+- Stars: 10633
+- Forks: 1252
 - Language: Python
 - Topics: agent, agents, ai, anthropic, claudecode, llm, llms, openai
-- Last Updated: 2026-08-29T04:54:15Z
+- Last Updated: 2026-08-30T00:50:06Z
 - License: MIT
 - Archived: No
 - Created At: 2025-05-21T21:44:24Z
-- Pushed At: 2026-08-29T07:21:15Z
+- Pushed At: 2026-08-30T08:22:15Z
 
 ## Possible Use Cases
 

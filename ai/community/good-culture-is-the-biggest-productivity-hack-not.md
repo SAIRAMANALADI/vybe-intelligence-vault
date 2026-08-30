@@ -13,13 +13,14 @@ collected_at: '2026-08-30T11:02:21.903538+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:good-culture-is-the-biggest-productivity-hack-not
 first_seen: '2026-08-30T00:59:10.286432+05:30'
 last_seen: '2026-08-30T11:02:21.903538+05:30'
 last_checked: '2026-08-30T11:02:21.903538+05:30'
 health_score: 100
 ---
+
 
 # Good Culture Is the Biggest Productivity Hack, Not AI
 
