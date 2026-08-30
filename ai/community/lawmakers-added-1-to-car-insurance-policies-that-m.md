@@ -13,13 +13,14 @@ collected_at: '2026-08-30T19:23:17.443746+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:lawmakers-added-1-to-car-insurance-policies-that-m
 first_seen: '2026-08-30T11:02:20.397005+05:30'
 last_seen: '2026-08-30T19:23:17.443746+05:30'
 last_checked: '2026-08-30T19:23:17.443746+05:30'
 health_score: 100
 ---
+
 
 # Lawmakers added $1 to car insurance policies. That money paid for Flock cameras
 

@@ -20050,8 +20050,8 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [Fair Work Commission condemns 'plain wrong' AI legal advice](../ai/community/fair-work-commission-condemns-plain-wrong-ai-legal.md)
-  - [Lawmakers added $1 to car insurance policies. That money paid for Flock cameras](../ai/community/lawmakers-added-1-to-car-insurance-policies-that-m.md)
+  - [Electric rain can eat through metal](../ai/community/electric-rain-can-eat-through-metal.md)
+  - [Haiku R1/beta6 has been released](../ai/community/haiku-r1-beta6-has-been-released.md)
   - [Longest Straight Line Paths on Water or Land on the Earth (2018)](../ai/community/arxiv-1804-07389.md)
   - [What my dad taught me about AI coding in the 90s](../ai/community/what-my-dad-taught-me-about-ai-coding-in-the-90s.md)
 
@@ -23878,4 +23878,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-30T19:39:18.938436+05:30*
+*Index generated on 2026-08-31T01:10:07.654296+05:30*

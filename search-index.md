@@ -16938,7 +16938,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2608.04524>
 
 * **[odsc2015/agentic-hackathon-template](ai/agents/odsc2015-agentic-hackathon-template.md)** (`template` | `useful` tier)
-  * Summary: - **Standardized Starter Repository**: Provides a pre-configured folder structure and environment specifications for the Agentic AI App Hackathon, facilitating reproducible submissions and judging. - **Documentation Placeholders**: Includes template
+  * Summary: * Provides a standardized starter template for Agentic AI application development. * Includes a reproducible environment specification and pre-defined folder structure. * Designed to streamline submission and judging processes for hackathon participa
   * Tags: `agents`, `github-repo`, `unknown`
   * Source URL: <https://github.com/odsc2015/agentic-hackathon-template>
 
@@ -32759,6 +32759,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `benchmark`, `dataset`, `hackernews`, `models`, `rag`, `web-crawled`, `workflows`, `youtube`
   * Source URL: <https://www.elastic.co/elasticsearch/>
 
+* **[Electric rain can eat through metal](ai/community/electric-rain-can-eat-through-metal.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by sohkamyung. Score: 54, Comments: 10. Original Link: https://www.scientificamerican.com/article/electric-rain-can-eat-through-metal/
+  * Tags: `ai`, `hackernews`
+  * Source URL: <https://scientificamerican.com/article/electric-rain-can-eat-through-metal>
+
 * **[Electronic Navigational Chart Change Classification](ai/rag/arxiv-2608-20218.md)** (`dataset` | `useful` tier)
   * Summary: arXiv:2608.20218v1 Announce Type: new Abstract: Electronic Navigational Charts (ENCs) are geospatial vector datasets used in maritime navigation systems that represent hydrographic and navigational information such as depths, navigational aids, traff
   * Tags: `dataset`, `hackernews`, `rag`, `workflows`
@@ -32928,11 +32933,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: - **Static Site Generator**: Docusaurus is a modern static site generator optimized for documentation websites, leveraging React and TypeScript for dynamic content rendering and customization. - **MDX & Markdown Support**: Enables seamless integratio
   * Tags: `frontend_ui`, `github-repo`, `rag`, `typescript`, `workflows`
   * Source URL: <https://github.com/facebook/docusaurus>
-
-* **[Fair Work Commission condemns 'plain wrong' AI legal advice](ai/community/fair-work-commission-condemns-plain-wrong-ai-legal.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by martyvis. Score: 37, Comments: 12. Original Link: https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766
-  * Tags: `ai`, `hackernews`
-  * Source URL: <https://abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766>
 
 * **[False Confidence: Automated Labels Confound Fairness Audits in Cervical Spine Segmentation](ai/research/arxiv-2607-07852.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2607.07852v1 Announce Type: cross Abstract: Automated segmentation of cervical-spine MRI is increasingly used in clinical workflows, yet no fairness audit exists for this anatomy. We show that auditing these segmentation tasks is complicated by
@@ -33534,6 +33534,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `paper`, `rag`, `workflows`
   * Source URL: <https://arxiv.org/abs/2608.20364>
 
+* **[Haiku R1/beta6 has been released](ai/community/haiku-r1-beta6-has-been-released.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by metrofun. Score: 151, Comments: 39. Original Link: https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6
+  * Tags: `ai`, `hackernews`
+  * Source URL: <https://haiku-os.org/news/2026-08-26_haiku_r1_beta6>
+
 * **[HalluJudge: A Reference-Free Hallucination Detection for Context Misalignment in Code Review Automation](ai/rag/arxiv-2601-19072.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2601.19072v3 Announce Type: replace-cross Abstract: Large Language models (LLMs) have shown strong capabilities in code review automation, such as review comment generation, yet they suffer from hallucinations -- where the generated review comm
   * Tags: `benchmark`, `rag`, `scripts`, `workflows`
@@ -34029,11 +34034,6 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `hackernews`, `models`, `openai`, `rag`, `web-crawled`, `workflows`
   * Source URL: <https://platform.openai.com/docs/guides/latency-optimization>
 
-* **[Lawmakers added $1 to car insurance policies. That money paid for Flock cameras](ai/community/lawmakers-added-1-to-car-insurance-policies-that-m.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by DeepLogin. Score: 344, Comments: 217. Original Link: https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/
-  * Tags: `ai`, `hackernews`
-  * Source URL: <https://texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants>
-
 * **[Layer-Isolated Evaluation: Gating the Deterministic Scaffold of a Production LLM Agent with a No-LLM, Regression-Locked Test Harness](ai/rag/arxiv-2606-11686.md)** (`benchmark` | `useful` tier)
   * Summary: arXiv:2606.11686v1 Announce Type: cross Abstract: End-to-end task-success is the dominant way to evaluate LLM agents, but one aggregate number tells you that an agent regressed, not where. We present layer-isolated evaluation: a deployed ordering age
   * Tags: `agents`, `rag`, `workflows`
@@ -34205,7 +34205,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.08964>
 
 * **[Longest Straight Line Paths on Water or Land on the Earth (2018)](ai/community/arxiv-1804-07389.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by joebig. Score: 132, Comments: 34. Original Link: https://arxiv.org/abs/1804.07389
+  * Summary: Hacker News story by joebig. Score: 176, Comments: 51. Original Link: https://arxiv.org/abs/1804.07389
   * Tags: `ai`, `hackernews`
   * Source URL: <https://arxiv.org/abs/1804.07389>
 
@@ -36324,7 +36324,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.29090>
 
 * **[What my dad taught me about AI coding in the 90s](ai/community/what-my-dad-taught-me-about-ai-coding-in-the-90s.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by askmike. Score: 22, Comments: 0. Original Link: https://askmike.org/articles/ai-coding-lessons-in-the-90s-from-my-dad/
+  * Summary: Hacker News story by askmike. Score: 99, Comments: 49. Original Link: https://askmike.org/articles/ai-coding-lessons-in-the-90s-from-my-dad/
   * Tags: `ai`, `hackernews`
   * Source URL: <https://askmike.org/articles/ai-coding-lessons-in-the-90s-from-my-dad>
 
@@ -40265,7 +40265,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.09235>
 
 * **[allenai/c4](ai/models/huggingface-datasets-allenai.md)** (`dataset` | `useful` tier)
-  * Summary: Trending Hugging Face dataset: allenai/c4 (Likes: 636, Downloads: 1322705)
+  * Summary: Trending Hugging Face dataset: allenai/c4 (Likes: 637, Downloads: 1322705)
   * Tags: `dataset`, `hf-dataset`, `huggingface`
   * Source URL: <https://huggingface.co/datasets/allenai>
 
@@ -43833,7 +43833,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2608.12403>
 
 * **[black-forest-labs/FLUX.1-dev](ai/models/huggingface-spaces-black-forest-labs.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face space: black-forest-labs/FLUX.1-dev (Likes: 9521, Downloads: 0)
+  * Summary: Trending Hugging Face space: black-forest-labs/FLUX.1-dev (Likes: 9523, Downloads: 0)
   * Tags: `hf-space`, `huggingface`
   * Source URL: <https://huggingface.co/spaces/black-forest-labs>
 
@@ -48134,7 +48134,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2607.27549>
 
 * **[cross-encoder/ms-marco-MiniLM-L6-v2](ai/rag/huggingface-cross-encoder-ms-marco-minilm-l6-v2.md)** (`dataset` | `useful` tier)
-  * Summary: Trending Hugging Face model: cross-encoder/ms-marco-MiniLM-L6-v2 (Likes: 305, Downloads: 87066660)
+  * Summary: Trending Hugging Face model: cross-encoder/ms-marco-MiniLM-L6-v2 (Likes: 308, Downloads: 87066660)
   * Tags: `dataset`, `hf-model`, `huggingface`, `rag`, `reddit`
   * Source URL: <https://huggingface.co/cross-encoder/ms-marco-minilm-l6-v2>
 
@@ -48526,7 +48526,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2501.19401>
 
 * **[dalle-mini/dalle-mini](ai/models/huggingface-spaces-dalle-mini.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face space: dalle-mini/dalle-mini (Likes: 5718, Downloads: 0)
+  * Summary: Trending Hugging Face space: dalle-mini/dalle-mini (Likes: 5719, Downloads: 0)
   * Tags: `hf-space`, `huggingface`
   * Source URL: <https://huggingface.co/spaces/dalle-mini>
 
@@ -58720,7 +58720,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://research.google>
 
 * **[google-bert/bert-base-uncased](ai/models/huggingface-google-bert-bert-base-uncased.md)** (`dataset` | `useful` tier)
-  * Summary: Trending Hugging Face model: google-bert/bert-base-uncased (Likes: 2756, Downloads: 77711078)
+  * Summary: Trending Hugging Face model: google-bert/bert-base-uncased (Likes: 2778, Downloads: 77711078)
   * Tags: `dataset`, `hf-model`, `huggingface`
   * Source URL: <https://huggingface.co/google-bert/bert-base-uncased>
 
@@ -80984,7 +80984,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://huggingface.co/blog/sentence-transformers-joins-hf>
 
 * **[sentence-transformers/all-MiniLM-L6-v2](ai/rag/huggingface-sentence-transformers-all-minilm-l6-v2.md)** (`dataset` | `useful` tier)
-  * Summary: Trending Hugging Face model: sentence-transformers/all-MiniLM-L6-v2 (Likes: 5279, Downloads: 255115397)
+  * Summary: Trending Hugging Face model: sentence-transformers/all-MiniLM-L6-v2 (Likes: 5295, Downloads: 255115397)
   * Tags: `dataset`, `hf-model`, `huggingface`, `rag`
   * Source URL: <https://huggingface.co/sentence-transformers/all-minilm-l6-v2>
 
@@ -98877,7 +98877,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://github.com/Azure/agent-innovator-lab>
 
 * **[BAAI/bge-m3](ai/rag/huggingface-baai-bge-m3.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face model: BAAI/bge-m3 (Likes: 3445, Downloads: 37070236)
+  * Summary: Trending Hugging Face model: BAAI/bge-m3 (Likes: 3446, Downloads: 37070236)
   * Tags: `hf-model`, `huggingface`, `rag`
   * Source URL: <https://huggingface.co/baai/bge-m3>
 
@@ -101721,9 +101721,9 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `rag`
   * Source URL: <https://arxiv.org/abs/2607.24717>
 
-* **[datawhalechina/all-in-rag](ai/rag/datawhalechina-all-in-rag.md)** (`tutorial` | `useful` tier)
-  * Summary: * Comprehensive RAG implementation guide for LLM application development, encompassing full-stack methodologies. * Utilizes `langchain` and `llama-index` for RAG orchestration, integrating vector databases (`milvus`) and graph databases (`neo4j`). *
-  * Tags: `github-repo`, `hackernews`, `meta-ai`, `models`, `python`, `rag`
+* **[datawhalechina/all-in-rag](ai/rag/datawhalechina-all-in-rag.md)** (`benchmark` | `useful` tier)
+  * Summary: * Provides a comprehensive, practical guide for full-stack Retrieval Augmented Generation (R
+  * Tags: `github-repo`, `meta-ai`, `models`, `python`, `rag`
   * Source URL: <https://github.com/datawhalechina/all-in-rag>
 
 * **[datawhalechina/hello-agents](ai/rag/datawhalechina-hello-agents.md)** (`benchmark` | `useful` tier)
@@ -114586,7 +114586,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2608.24304>
 
 * **[sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2](ai/rag/huggingface-sentence-transformers-paraphrase-multilingual-minilm-l12-v2.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face model: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2 (Likes: 1358, Downloads: 46668346)
+  * Summary: Trending Hugging Face model: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2 (Likes: 1359, Downloads: 46668346)
   * Tags: `hf-model`, `huggingface`, `rag`
   * Source URL: <https://huggingface.co/sentence-transformers/paraphrase-multilingual-minilm-l12-v2>
 

@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://askmike.org/articles/ai-coding-lessons-in-the-90s-from-my-dad
 hn_url: https://news.ycombinator.com/item?id=49419381
-score: 22
+score: 99
 author: askmike
-comments_count: 0
+comments_count: 49
 published_at: '2026-08-24T18:49:55+05:30'
-collected_at: '2026-08-30T19:23:15.351718+05:30'
+collected_at: '2026-08-31T00:54:02.006891+05:30'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: hackernews:what-my-dad-taught-me-about-ai-coding-in-the-90s
 first_seen: '2026-08-30T19:23:15.351718+05:30'
-last_seen: '2026-08-30T19:23:15.351718+05:30'
-last_checked: '2026-08-30T19:23:15.351718+05:30'
+last_seen: '2026-08-31T00:54:02.006891+05:30'
+last_checked: '2026-08-31T00:54:02.006891+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by askmike. Score: 22, Comments: 0.
+Hacker News story by askmike. Score: 99, Comments: 49.
 Original Link: https://askmike.org/articles/ai-coding-lessons-in-the-90s-from-my-dad/
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: askmike
-- Score: 22 Upvotes
-- Comments: 0 Discussions
+- Score: 99 Upvotes
+- Comments: 49 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49419381
 - Original Article: https://askmike.org/articles/ai-coding-lessons-in-the-90s-from-my-dad
 

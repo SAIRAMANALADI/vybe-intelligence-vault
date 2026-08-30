@@ -13,13 +13,14 @@ collected_at: '2026-08-30T19:23:17.363507+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:fair-work-commission-condemns-plain-wrong-ai-legal
 first_seen: '2026-08-30T19:23:17.363507+05:30'
 last_seen: '2026-08-30T19:23:17.363507+05:30'
 last_checked: '2026-08-30T19:23:17.363507+05:30'
 health_score: 100
 ---
+
 
 # Fair Work Commission condemns 'plain wrong' AI legal advice
 

@@ -5362,8 +5362,8 @@ Resources organized by keyword tags.
 
 ## ai
 
-  - [Fair Work Commission condemns 'plain wrong' AI legal advice](../ai/community/fair-work-commission-condemns-plain-wrong-ai-legal.md)
-  - [Lawmakers added $1 to car insurance policies. That money paid for Flock cameras](../ai/community/lawmakers-added-1-to-car-insurance-policies-that-m.md)
+  - [Electric rain can eat through metal](../ai/community/electric-rain-can-eat-through-metal.md)
+  - [Haiku R1/beta6 has been released](../ai/community/haiku-r1-beta6-has-been-released.md)
   - [Longest Straight Line Paths on Water or Land on the Earth (2018)](../ai/community/arxiv-1804-07389.md)
   - [What my dad taught me about AI coding in the 90s](../ai/community/what-my-dad-taught-me-about-ai-coding-in-the-90s.md)
 
@@ -22335,6 +22335,7 @@ Resources organized by keyword tags.
   - [Efficient bias mitigation in T2I diffusion models using Concept Graphs](../ai/research/arxiv-2607-03397.md)
   - [EfficientRollout: System-Aware Self-Speculative Decoding for RL Rollouts](../ai/agents/arxiv-2606-18967.md)
   - [Elasticsearch: The Official Distributed Search & Analytics Engine | Elastic](../ai/rag/elasticsearch-the-official-distributed-search-anal.md)
+  - [Electric rain can eat through metal](../ai/community/electric-rain-can-eat-through-metal.md)
   - [Electricity Maps: The world's most comprehensive electricity data platform](../ai/rag/electricity-maps-the-world-s-most-comprehensive-el.md)
   - [Electronic Navigational Chart Change Classification](../ai/rag/arxiv-2608-20218.md)
   - [ElevenLabs - YouTube](../ai/resources/elevenlabs-youtube.md)
@@ -22440,7 +22441,6 @@ Resources organized by keyword tags.
   - [FPEdit: Robust LLM Fingerprinting through Localized Parameter Editing](../ai/rag/arxiv-2508-02092.md)
   - [Face De-Identification: A Domain-Centric Survey from Capture to Processing](../ai/research/arxiv-2607-25926.md)
   - [Fail-Aware and Explainable Test Oracle Prediction](../ai/research/arxiv-2607-11342.md)
-  - [Fair Work Commission condemns 'plain wrong' AI legal advice](../ai/community/fair-work-commission-condemns-plain-wrong-ai-legal.md)
   - [FairFund-Bench: Evaluating Distributive Bias in LLM Resource Allocation](../ai/research/arxiv-2607-28934.md)
   - [Fairness Invariants: A Relational Approach to Explaining and Mitigating Fairness Bugs](../ai/research/arxiv-2608-26209.md)
   - [Fairness in Augmented Graph Learning: A Survey](../ai/research/arxiv-2504-21296.md)
@@ -22726,6 +22726,7 @@ Resources organized by keyword tags.
   - [HTTP Archive: Tech Report](../ai/resources/http-archive-tech-report.md)
   - [HTTP authentication - HTTP | MDN](../ai/agents/http-authentication-http-mdn.md)
   - [Hackster.io - The community dedicated to learning hardware.](../ai/resources/hackster-io-the-community-dedicated-to-learning-ha.md)
+  - [Haiku R1/beta6 has been released](../ai/community/haiku-r1-beta6-has-been-released.md)
   - [Hamilton-Zero: A Neural Tensor-Network Foundation Model for Ground States of Arbitrary Quadratic Qubit Hamiltonians](../ai/research/arxiv-2608-11911.md)
   - [HandFlow: Fully Generative 4D Hand Recovery with Flow Matching](../ai/research/arxiv-2607-11221.md)
   - [Handle - AT Protocol](../ai/resources/handle-at-protocol.md)
@@ -23026,7 +23027,6 @@ Resources organized by keyword tags.
   - [Latent Memory Palace: Reasoning for Control as Autoregressive Variational Inference](../ai/research/arxiv-2607-08724.md)
   - [Latent On-Policy Self-Distillation](../ai/agents/arxiv-2608-13040.md)
   - [Latent PDE mapping for efficient physics-informed learning across geometries with limited data](../ai/research/arxiv-2607-22215.md)
-  - [Lawmakers added $1 to car insurance policies. That money paid for Flock cameras](../ai/community/lawmakers-added-1-to-car-insurance-policies-that-m.md)
   - [Layer-wise LoRA fine-tuning: a similarity metric approach](../ai/rag/arxiv-2602-05988.md)
   - [Leadership that Moves Business Forward | Harvard Business Impact](../ai/rag/leadership-that-moves-business-forward-harvard-bus.md)
   - [Leaking Circuit Secrets: Gradient Leakage Attacks on Graph Neural Networks](../ai/research/arxiv-2606-25589.md)
@@ -24579,7 +24579,6 @@ Resources organized by keyword tags.
   - [data.gouv.fr : Plateforme ouverte des données publiques françaises](../ai/rag/data-gouv-fr-plateforme-ouverte-des-donnees-publiq.md)
   - [databrickslabs/doc-qa](../ai/resources/databrickslabs-doc-qa.md)
   - [datacamp/rdocumentation-2.0](../ai/resources/datacamp-rdocumentation-2-0.md)
-  - [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md)
   - [datawhalechina/hello-agents](../ai/rag/datawhalechina-hello-agents.md)
   - [datawhalechina/wow-rag](../ai/rag/datawhalechina-wow-rag.md)
   - [daveebbelaar/ai-cookbook](../ai/agents/daveebbelaar-ai-cookbook.md)
@@ -53042,4 +53041,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-30T19:39:18.681913+05:30*
+*Index generated on 2026-08-31T01:10:07.400766+05:30*

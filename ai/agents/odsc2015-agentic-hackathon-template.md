@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/odsc2015/agentic-hackathon-template
-collected_at: '2026-08-11T00:58:19.196422+05:30'
+collected_at: '2026-08-31T00:58:22.588207+05:30'
 published_at: '2026-05-10T13:08:24Z'
 tags:
 - agents
@@ -18,9 +18,9 @@ archived: false
 created_at: '2025-07-24T08:33:29Z'
 pushed_at: '2025-07-25T16:42:10Z'
 resource_id: github:odsc2015/agentic-hackathon-template
-first_seen: '2026-08-11T00:58:19.196422+05:30'
-last_seen: '2026-08-11T00:58:19.196422+05:30'
-last_checked: '2026-08-11T00:58:19.196422+05:30'
+first_seen: '2026-08-31T00:58:22.588207+05:30'
+last_seen: '2026-08-31T00:58:22.588207+05:30'
+last_checked: '2026-08-31T00:58:22.588207+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Standardized Starter Repository**: Provides a pre-configured folder structure and environment specifications for the Agentic AI App Hackathon, facilitating reproducible submissions and judging.
-
-- **Documentation Placeholders**: Includes template files for documentation, streamlining the process of organizing and presenting project details for participants.
-
-- **Version Control & Maintenance**: Last updated in 2026, indicating ongoing support and potential future updates for hackathon participants.
+*   Provides a standardized starter template for Agentic AI application development.
+*   Includes a reproducible environment specification and pre-defined folder structure.
+*   Designed to streamline submission and judging processes for hackathon participants.
 
 ## Why It Matters
 
@@ -42,7 +40,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: odsc2015
 - Stars: 19
-- Forks: 192
+- Forks: 193
 - Language: Unknown
 - Topics: None
 - Last Updated: 2026-05-10T13:08:24Z
