@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-08-30T19:42:08.201613+05:30`
+Generated at: `2026-08-30T21:23:35.113709+05:30`
 
 ## Executive Summary
 
@@ -8,36 +8,33 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## ✨ New Discoveries
 
-- **Longest Straight Line Paths on Water or Land on the Earth (2018)** - Score: `132` in category `ai/community` ([Link](https://arxiv.org/abs/1804.07389)) ([File](../ai/community/arxiv-1804-07389.md))
-- **Fair Work Commission condemns 'plain wrong' AI legal advice** - Score: `37` in category `ai/community` ([Link](https://abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766)) ([File](../ai/community/fair-work-commission-condemns-plain-wrong-ai-legal.md))
-- **What my dad taught me about AI coding in the 90s** - Score: `22` in category `ai/community` ([Link](https://askmike.org/articles/ai-coding-lessons-in-the-90s-from-my-dad)) ([File](../ai/community/what-my-dad-taught-me-about-ai-coding-in-the-90s.md))
-- **google-t5/t5-small** - Score: `0` in category `ai/models` ([Link](https://huggingface.co/google-t5/t5-small)) ([File](../ai/models/huggingface-google-t5-t5-small.md))
+- **langchain-ai/langgraph** - Score: `0` in category `Agent Framework` ([File](../docs/sample-digest.md))
 
 ## Top Trending Resources
 
-- **Lawmakers added $1 to car insurance policies. That money paid for Flock cameras** - Score: `344` (+127), Rank Change: `+1` ([File](../ai/community/lawmakers-added-1-to-car-insurance-policies-that-m.md))
-- **yzfly/awesome-voice-agents** - Score: `0` (0), Rank Change: `+1458` ([File](../ai/agents/yzfly-awesome-voice-agents.md))
-- **langchain-ai/open-swe** - Score: `0` (0), Rank Change: `+998` ([File](../ai/agents/langchain-ai-open-swe.md))
-- **NirDiamant/GenAI_Agents** - Score: `0` (0), Rank Change: `+6463` ([File](../ai/rag/nirdiamant-genai-agents.md))
-- **labring/sealos** - Score: `0` (0), Rank Change: `+6471` ([File](../ai/rag/labring-sealos.md))
-- **opendataloader-project/opendataloader-pdf** - Score: `0` (0), Rank Change: `+6522` ([File](../ai/rag/opendataloader-project-opendataloader-pdf.md))
-- **lancedb/vectordb-recipes** - Score: `0` (0), Rank Change: `+6531` ([File](../ai/rag/lancedb-vectordb-recipes.md))
-- **techwithtim/Langflow-RAG-Tutorial** - Score: `0` (0), Rank Change: `+6531` ([File](../ai/rag/techwithtim-langflow-rag-tutorial.md))
-- **pguso/rag-from-scratch** - Score: `0` (0), Rank Change: `+6534` ([File](../ai/rag/pguso-rag-from-scratch.md))
-- **krishnaik06/RAG-Tutorials** - Score: `0` (0), Rank Change: `+6532` ([File](../ai/rag/krishnaik06-rag-tutorials.md))
+- **sierra-research/tau2-bench** - Score: `0` (0), Rank Change: `+992` ([File](../ai/agents/sierra-research-tau2-bench.md))
+- **XMUDeepLIT/MemGraphRAG** - Score: `0` (0), Rank Change: `+992` ([File](../ai/rag/xmudeeplit-memgraphrag.md))
+- **apecloud/ApeRAG** - Score: `0` (0), Rank Change: `+992` ([File](../ai/rag/apecloud-aperag.md))
+- **techwithtim/ProductionGradeRAGPythonApp** - Score: `0` (0), Rank Change: `+992` ([File](../ai/rag/techwithtim-productiongraderagpythonapp.md))
+- **IntelLabs/fastRAG** - Score: `0` (0), Rank Change: `+992` ([File](../ai/rag/intellabs-fastrag.md))
+- **QuivrHQ/quivr** - Score: `0` (0), Rank Change: `+992` ([File](../ai/rag/quivrhq-quivr.md))
+- **naver/bergen** - Score: `0` (0), Rank Change: `+992` ([File](../ai/rag/naver-bergen.md))
+- **zhengxuJosh/Awesome-RAG-Vision** - Score: `0` (0), Rank Change: `+992` ([File](../ai/rag/zhengxujosh-awesome-rag-vision.md))
+- **felladrin/awesome-ai-web-search** - Score: `0` (0), Rank Change: `+992` ([File](../ai/rag/felladrin-awesome-ai-web-search.md))
+- **alvinreal/awesome-opensource-ai** - Score: `0` (0), Rank Change: `+992` ([File](../ai/rag/alvinreal-awesome-opensource-ai.md))
 
 ## 🚀 Fastest Rising Tools
 
-- **pguso/rag-from-scratch** - (Rank Change: `+6534`) ([File](../ai/rag/pguso-rag-from-scratch.md))
-- **krishnaik06/RAG-Tutorials** - (Rank Change: `+6532`) ([File](../ai/rag/krishnaik06-rag-tutorials.md))
-- **lancedb/vectordb-recipes** - (Rank Change: `+6531`) ([File](../ai/rag/lancedb-vectordb-recipes.md))
-- **techwithtim/Langflow-RAG-Tutorial** - (Rank Change: `+6531`) ([File](../ai/rag/techwithtim-langflow-rag-tutorial.md))
-- **opendataloader-project/opendataloader-pdf** - (Rank Change: `+6522`) ([File](../ai/rag/opendataloader-project-opendataloader-pdf.md))
-- **labring/sealos** - (Rank Change: `+6471`) ([File](../ai/rag/labring-sealos.md))
-- **NirDiamant/GenAI_Agents** - (Rank Change: `+6463`) ([File](../ai/rag/nirdiamant-genai-agents.md))
-- **IcensRAGHomework/icensraghomework-classroom01-rag3-hw03_workflow** - (Rank Change: `+1731`) ([File](../ai/rag/icensraghomework-icensraghomework-classroom01-rag3-hw03-workflow.md))
-- **yzfly/awesome-voice-agents** - (Rank Change: `+1458`) ([File](../ai/agents/yzfly-awesome-voice-agents.md))
-- **ragnarokoffline/ragnarokoffline.github.io** - (Rank Change: `+1009`) ([File](../ai/rag/ragnarokoffline-ragnarokoffline-github-io.md))
+- **RUC-NLPIR/FlashRAG** - (Rank Change: `+21535`) ([File](../ai/rag/ruc-nlpir-flashrag-2.md))
+- **Medium Privacy Policy | by Medium | Medium Policy** - (Rank Change: `+9250`) ([File](../ai/rag/medium-privacy-policy-by-medium-medium-policy.md))
+- **microsoft/rag-time** - (Rank Change: `+993`) ([File](../ai/rag/microsoft-rag-time.md))
+- **GROVE: Growing and Reasoning over Temporally Stratified Memory from Streaming Video Experience** - (Rank Change: `+993`) ([File](../ai/research/arxiv-2608-02392.md))
+- **CompanionBench: A Theory-Anchored, Real-World-Grounded Benchmark for AI Emotional Companionship** - (Rank Change: `+993`) ([File](../ai/rag/arxiv-2608-02046.md))
+- **PICopilot: An LLM-based Agentic Framework for Assisting Photonic Integrated Circuit Design via Script Generation** - (Rank Change: `+993`) ([File](../ai/rag/arxiv-2608-01791.md))
+- **It's the Decoding Format, Not the Perturbation: Auditing Consistency-Based Selection for Vision-Language Test-Time Scaling** - (Rank Change: `+993`) ([File](../ai/rag/arxiv-2608-01207.md))
+- **War in the Abstract: The Rise and Consequences of Militarized Language in Scientific Communication** - (Rank Change: `+993`) ([File](../ai/research/arxiv-2606-23462.md))
+- **Delta-Diffusion: Modeling Longitudinal Brain Amyloid-PET Trajectories via Conditional Poisson Diffusion Bridge** - (Rank Change: `+993`) ([File](../ai/research/arxiv-2606-22216.md))
+- **An Enhanced Geometric-Spectral Feature Learning Framework for Airborne Multispectral Point Cloud Classification** - (Rank Change: `+993`) ([File](../ai/research/arxiv-2606-09123.md))
 
 ## 🔄 Essential Tier Transitions
 
@@ -48,7 +45,5 @@ No resources left the Essential tier in this run.
 
 ## 💤 Recently Inactive Resources
 
-- **Good Culture Is the Biggest Productivity Hack, Not AI** (Category: `ai/community`) ([File](../ai/community/good-culture-is-the-biggest-productivity-hack-not.md))
-- **Domain-Driven Agents** (Category: `ai/community`) ([File](../ai/community/domain-driven-agents.md))
-- **Show HN: I missed the moving blocks, so I built a real Linux disk defragmenter** (Category: `ai/community`) ([File](../ai/community/gbin-defragger.md))
-- **Open Oscar Server: open-source server compatible with AIM and ICQ clients** (Category: `ai/community`) ([File](../ai/community/mk6i-open-oscar-server.md))
+No recently active resources transitioned to inactive.
+
