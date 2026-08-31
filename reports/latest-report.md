@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-09-01T03:21:31.713209+05:30`
+Generated at: `2026-09-01T05:10:05.310307+05:30`
 
 ## Executive Summary
 
@@ -8,36 +8,33 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## ✨ New Discoveries
 
-- **Apple caught off guard by AI demand for Mac Mini and Mac Studio** - Score: `223` in category `ai/community` ([Link](https://macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand)) ([File](../ai/community/apple-caught-off-guard-by-ai-demand-for-mac-mini-a.md))
-- **Smartphone LED detects hidden cameras with AI** - Score: `91` in category `ai/community` ([Link](https://chosun.com/english/industry-en/2026/08/30/sbfxuijqyzearkp5t4fbay25hq)) ([File](../ai/community/smartphone-led-detects-hidden-cameras-with-ai.md))
-- **Terence Tao explains 6 essential mathematical concepts [video]** - Score: `84` in category `ai/community` ([Link](https://youtube.com/watch?v=OOMx2BHHWtE)) ([File](../ai/community/youtube-oomx2bhhwte.md))
-- **Show HN: We built the smallest dual-band aircraft tracker** - Score: `59` in category `ai/community` ([Link](https://pantsforbirds.com/the-worlds-smallest-dual-band-ads-b-receiver-module)) ([File](../ai/community/show-hn-we-built-the-smallest-dual-band-aircraft-t.md))
+- **langchain-ai/langgraph** - Score: `0` in category `Agent Framework` ([File](../docs/sample-digest.md))
 
 ## Top Trending Resources
 
-- **Launch HN: Almanac (YC S26) – AI that knows your company** - Score: `32` (+21), Rank Change: `0` ([File](../ai/community/launch-hn-almanac-yc-s26-ai-that-knows-your-compan.md))
-- **datawhalechina/all-in-rag** - Score: `0` (0), Rank Change: `+17` ([File](../ai/rag/datawhalechina-all-in-rag.md))
-- **raganwald/raganwald.github.com** - Score: `0` (0), Rank Change: `+15` ([File](../ai/rag/raganwald-raganwald-github-com.md))
-- **SylphAI-Inc/GithubChat** - Score: `0` (0), Rank Change: `+12` ([File](../ai/rag/sylphai-inc-githubchat.md))
-- **Search & information retrieval** - Score: `0` (0), Rank Change: `+15` ([File](../ai/companies/search-information-retrieval.md))
-- **Human language technologies** - Score: `0` (0), Rank Change: `+15` ([File](../ai/companies/human-language-technologies.md))
-- **Human-computer interaction** - Score: `0` (0), Rank Change: `+15` ([File](../ai/companies/human-computer-interaction.md))
-- **Graphics & multimedia** - Score: `0` (0), Rank Change: `+15` ([File](../ai/companies/graphics-multimedia.md))
-- **Computer vision** - Score: `0` (0), Rank Change: `+15` ([File](../ai/companies/computer-vision.md))
-- **Audio & acoustics** - Score: `0` (0), Rank Change: `+15` ([File](../ai/companies/audio-acoustics.md))
+- **The-Swarm-Corporation/Multi-Agent-RAG-Template** - Score: `0` (0), Rank Change: `+993` ([File](../ai/rag/the-swarm-corporation-multi-agent-rag-template.md))
+- **pingwu/crewai-similar-framework-finder-template** - Score: `0` (0), Rank Change: `+993` ([File](../ai/agents/pingwu-crewai-similar-framework-finder-template.md))
+- **braincrew-lab/langgraph-mcp-agents** - Score: `0` (0), Rank Change: `+993` ([File](../ai/agents/braincrew-lab-langgraph-mcp-agents.md))
+- **WenyuChiou/awesome-agentic-ai-zh** - Score: `0` (0), Rank Change: `+993` ([File](../ai/rag/wenyuchiou-awesome-agentic-ai-zh.md))
+- **mongodb-developer/GenAI-Showcase** - Score: `0` (0), Rank Change: `+993` ([File](../ai/rag/mongodb-developer-genai-showcase.md))
+- **ashishpatel26/500-AI-Agents-Projects** - Score: `0` (0), Rank Change: `+993` ([File](../ai/agents/ashishpatel26-500-ai-agents-projects.md))
+- **docker/compose-for-agents** - Score: `0` (0), Rank Change: `+993` ([File](../ai/agents/docker-compose-for-agents.md))
+- **TEN-framework/ten-framework** - Score: `0` (0), Rank Change: `+993` ([File](../ai/agents/ten-framework-ten-framework.md))
+- **huangjia2019/ai-agents** - Score: `0` (0), Rank Change: `+993` ([File](../ai/agents/huangjia2019-ai-agents.md))
+- **mergisi/awesome-openclaw-agents** - Score: `0` (0), Rank Change: `+993` ([File](../ai/agents/mergisi-awesome-openclaw-agents.md))
 
 ## 🚀 Fastest Rising Tools
 
-- **facebook/MusicGen** - (Rank Change: `+885`) ([File](../ai/models/huggingface-spaces-facebook.md))
-- **AP123/IllusionDiffusion** - (Rank Change: `+885`) ([File](../ai/models/huggingface-spaces-ap123.md))
-- **dalle-mini/dalle-mini** - (Rank Change: `+885`) ([File](../ai/models/huggingface-spaces-dalle-mini.md))
-- **mteb/leaderboard** - (Rank Change: `+885`) ([File](../ai/models/huggingface-spaces-mteb.md))
-- **black-forest-labs/FLUX.1-dev** - (Rank Change: `+885`) ([File](../ai/models/huggingface-spaces-black-forest-labs.md))
-- **Kwai-Kolors/Kolors-Virtual-Try-On** - (Rank Change: `+885`) ([File](../ai/models/huggingface-spaces-kwai-kolors.md))
-- **jbilcke-hf/ai-comic-factory** - (Rank Change: `+885`) ([File](../ai/models/huggingface-spaces-jbilcke-hf.md))
-- **open-llm-leaderboard/open_llm_leaderboard** - (Rank Change: `+885`) ([File](../ai/models/huggingface-spaces-open-llm-leaderboard.md))
-- **enzostvs/deepsite** - (Rank Change: `+885`) ([File](../ai/models/huggingface-spaces-enzostvs.md))
-- **Next.js 5: Universal Webpack, CSS Imports, Plugins and Zones** - (Rank Change: `+26`) ([File](../web-development/nextjs/next-js-5-universal-webpack-css-imports-plugins-an.md))
+- **RUC-NLPIR/FlashRAG** - (Rank Change: `+21532`) ([File](../ai/rag/ruc-nlpir-flashrag-2.md))
+- **Medium Privacy Policy | by Medium | Medium Policy** - (Rank Change: `+9251`) ([File](../ai/rag/medium-privacy-policy-by-medium-medium-policy.md))
+- **microsoft/rag-time** - (Rank Change: `+994`) ([File](../ai/rag/microsoft-rag-time.md))
+- **GROVE: Growing and Reasoning over Temporally Stratified Memory from Streaming Video Experience** - (Rank Change: `+994`) ([File](../ai/research/arxiv-2608-02392.md))
+- **CompanionBench: A Theory-Anchored, Real-World-Grounded Benchmark for AI Emotional Companionship** - (Rank Change: `+994`) ([File](../ai/rag/arxiv-2608-02046.md))
+- **PICopilot: An LLM-based Agentic Framework for Assisting Photonic Integrated Circuit Design via Script Generation** - (Rank Change: `+994`) ([File](../ai/rag/arxiv-2608-01791.md))
+- **It's the Decoding Format, Not the Perturbation: Auditing Consistency-Based Selection for Vision-Language Test-Time Scaling** - (Rank Change: `+994`) ([File](../ai/rag/arxiv-2608-01207.md))
+- **War in the Abstract: The Rise and Consequences of Militarized Language in Scientific Communication** - (Rank Change: `+994`) ([File](../ai/research/arxiv-2606-23462.md))
+- **Delta-Diffusion: Modeling Longitudinal Brain Amyloid-PET Trajectories via Conditional Poisson Diffusion Bridge** - (Rank Change: `+994`) ([File](../ai/research/arxiv-2606-22216.md))
+- **An Enhanced Geometric-Spectral Feature Learning Framework for Airborne Multispectral Point Cloud Classification** - (Rank Change: `+994`) ([File](../ai/research/arxiv-2606-09123.md))
 
 ## 🔄 Essential Tier Transitions
 
@@ -48,7 +45,5 @@ No resources left the Essential tier in this run.
 
 ## 💤 Recently Inactive Resources
 
-- **P99 0 ms* autocomplete for 240M domain names** (Category: `ai/community`) ([File](../ai/community/p99-0-ms-autocomplete-for-240m-domain-names.md))
-- **ReactOS 0.4.16** (Category: `web-development/community`) ([File](../web-development/community/reactos-0-4-16.md))
-- **Study: Blue light impairs the eye's ability to distinguish fine detail most** (Category: `ai/community`) ([File](../ai/community/study-blue-light-impairs-the-eye-s-ability-to-dist.md))
-- **Ask HN: What would happen if your company stopped using all AI tomorrow?** (Category: `ai/community`) ([File](../ai/community/ask-hn-what-would-happen-if-your-company-stopped-u.md))
+No recently active resources transitioned to inactive.
+
