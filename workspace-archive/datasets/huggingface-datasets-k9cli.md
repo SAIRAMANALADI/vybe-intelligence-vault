@@ -33,7 +33,7 @@ selection_reason:
 
 ## Summary
 
-Trending Hugging Face dataset: k9cli/video-vec2wav2-tokenizer (Likes: 18, Downloads: 1581454)
+Trending Hugging Face dataset: k9cli/video-vec2wav2-tokenizer (Likes: 18, Downloads: 1523755)
 
 ## Use Cases
 

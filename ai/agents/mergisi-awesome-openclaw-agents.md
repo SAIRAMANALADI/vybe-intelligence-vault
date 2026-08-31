@@ -4,15 +4,15 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/mergisi/awesome-openclaw-agents
-collected_at: '2026-08-24T14:43:36.845472+05:30'
-published_at: '2026-08-24T04:23:02Z'
+collected_at: '2026-08-31T21:48:13.765964+05:30'
+published_at: '2026-08-31T13:41:14Z'
 tags:
 - agents
 - anthropic
 - github-repo
 - html
 - scripts
-stars: 3934
+stars: 3948
 language: HTML
 status: active
 license: MIT
@@ -20,9 +20,9 @@ archived: false
 created_at: '2026-02-05T10:51:17Z'
 pushed_at: '2026-05-25T10:21:05Z'
 resource_id: github:mergisi/awesome-openclaw-agents
-first_seen: '2026-08-24T14:43:36.845472+05:30'
-last_seen: '2026-08-24T14:43:36.845472+05:30'
-last_checked: '2026-08-24T14:43:36.845472+05:30'
+first_seen: '2026-08-31T21:48:13.765964+05:30'
+last_seen: '2026-08-31T21:48:13.765964+05:30'
+last_checked: '2026-08-31T21:48:13.765964+05:30'
 health_score: 100
 ---
 
@@ -30,7 +30,9 @@ health_score: 100
 
 ## Summary
 
-*   Provides 162 production-ready AI agent templates for the OpenClaw framework
+*   Provides 162 production-ready AI agent templates, configured via SOUL.md, specifically for the OpenClaw framework.
+*   Categorized into 19 distinct domains, supporting multi-agent architectures and integrating with LLMs such as Anthropic's Claude.
+*   Enables AI automation and productivity solutions, with Docker support for deployment and a community contribution model.
 
 ## Why It Matters
 
@@ -39,11 +41,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: mergisi
-- Stars: 3934
-- Forks: 639
+- Stars: 3948
+- Forks: 638
 - Language: HTML
 - Topics: ai-agent-templates, ai-agents, ai-automation, anthropic, automation, awesome, awesome-list, claude, community-agents, crewclaw, docker, llm, mcp, multi-agent, no-code, openclaw, productivity, soul-md, submit-your-agent, telegram-bot
-- Last Updated: 2026-08-24T04:23:02Z
+- Last Updated: 2026-08-31T13:41:14Z
 - License: MIT
 - Archived: No
 - Created At: 2026-02-05T10:51:17Z

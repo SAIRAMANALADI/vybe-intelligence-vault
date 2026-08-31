@@ -25,8 +25,8 @@ https://github.com/steven-tey/precedent (Precedent Next.js Template)
 - [vonzosten/awesome-LangGraph](https://github.com/vonzosten/awesome-LangGraph)
 - [Tencent/AI-Infra-Guard](https://github.com/tencent/ai-infra-guard)
 - [h1papc11/healthcare-ai-agent-vault](https://github.com/h1papc11/healthcare-ai-agent-vault)
-- [ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects)
 - [secureagentics/Adrian](https://github.com/secureagentics/Adrian)
+- [The-Swarm-Corporation/Multi-Agent-Template-App](https://github.com/The-Swarm-Corporation/Multi-Agent-Template-App)
 
 ## Best Learning Resources
 
@@ -44,4 +44,4 @@ https://github.com/steven-tey/precedent (Precedent Next.js Template)
 
 ---
 
-*Last updated: 2026-08-31 11:33 IST*
+*Last updated: 2026-08-31 22:02 IST*

@@ -13,13 +13,14 @@ collected_at: '2026-08-31T11:15:23.094135+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:commercially-available-bike-generators-are-not-sus
 first_seen: '2026-08-31T04:22:33.504404+05:30'
 last_seen: '2026-08-31T11:15:23.094135+05:30'
 last_checked: '2026-08-31T11:15:23.094135+05:30'
 health_score: 100
 ---
+
 
 # Commercially Available Bike Generators Are Not Sustainable (2011)
 

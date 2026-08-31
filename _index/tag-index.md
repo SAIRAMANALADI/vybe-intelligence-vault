@@ -5387,10 +5387,10 @@ Resources organized by keyword tags.
 
 ## ai
 
-  - [Commercially Available Bike Generators Are Not Sustainable (2011)](../ai/community/commercially-available-bike-generators-are-not-sus.md)
-  - [Haiku R1/beta6 has been released](../ai/community/haiku-r1-beta6-has-been-released.md)
-  - [Longest Straight Line Paths on Water or Land on the Earth (2018)](../ai/community/arxiv-1804-07389.md)
+  - [Ask HN: What would happen if your company stopped using all AI tomorrow?](../ai/community/ask-hn-what-would-happen-if-your-company-stopped-u.md)
+  - [Launch HN: Almanac (YC S26) – AI that knows your company](../ai/community/launch-hn-almanac-yc-s26-ai-that-knows-your-compan.md)
   - [P99 0 ms* autocomplete for 240M domain names](../ai/community/p99-0-ms-autocomplete-for-240m-domain-names.md)
+  - [Study: Blue light impairs the eye's ability to distinguish fine detail most](../ai/community/study-blue-light-impairs-the-eye-s-ability-to-dist.md)
 
 ## animation
 
@@ -18255,6 +18255,7 @@ Resources organized by keyword tags.
   - [Parameterized Quantum Circuits as Feature Maps: Representation Quality and Readout Effects in Multispectral Land-Cover Classification](../ai/research/arxiv-2604-26675.md)
   - [ParasGB: A Graph Benchmark Suite for Parasitic Estimation on AMS Circuits](../ai/research/arxiv-2607-23225.md)
   - [ParetoPilot: Zero-Surrogate Offline Multi-Objective Optimization via Infer-Perturb-Guide Diffusion](../ai/research/arxiv-2606-04468.md)
+  - [ParticleMedia/RAGTruth](../ai/rag/particlemedia-ragtruth.md)
   - [Partition of Unity Neural Networks for Interpretable Classification with Explicit Class Regions](../ai/research/arxiv-2602-00511.md)
   - [Patch-based Memory Gate Model in Time Series Foundation Model](../ai/research/arxiv-2509-18751.md)
   - [PatchDenoiser: Parameter-efficient multi-scale patch learning and fusion denoiser for Low-dose CT imaging](../ai/research/arxiv-2602-21987.md)
@@ -20444,6 +20445,7 @@ Resources organized by keyword tags.
   - [React v18.0](../web-development/react-v18-0.md)
   - [React v19](../web-development/react-v19.md)
   - [ReactBench: A Benchmark for Topological Reasoning in MLLMs on Chemical Reaction Diagrams](../ai/research/arxiv-2604-15994.md)
+  - [ReactOS 0.4.16](../web-development/community/reactos-0-4-16.md)
   - [Reaction-Transformation-Aware Flow Matching for Generalizable Transition State Generation](../ai/rag/arxiv-2608-14076.md)
   - [Reaction-network reasoning with frontier models for experimentally confirmed catalyst-selectivity hypotheses](../ai/research/arxiv-2607-08003.md)
   - [ReactiveBFM: Reactive Closed-Loop Motion Planning Towards Universal Humanoid Whole-Body Control](../ai/rag/arxiv-2606-30362.md)
@@ -21884,6 +21886,7 @@ Resources organized by keyword tags.
   - [AsciiDoc](../ai/rag/asciidoc.md)
   - [AsciiDoc Language Documentation | Asciidoctor Docs](../ai/resources/asciidoc-language-documentation-asciidoctor-docs.md)
   - [Asciidoctor | A fast, open source text processor and publishing toolchain for converting AsciiDoc content to HTML5, DocB](../ai/rag/asciidoctor-a-fast-open-source-text-processor-and.md)
+  - [Ask HN: What would happen if your company stopped using all AI tomorrow?](../ai/community/ask-hn-what-would-happen-if-your-company-stopped-u.md)
   - [Assessing the Operational Impact of Poisoning Attacks over Augmented 3D Point Cloud Public Datasets for Connected and Autonomous Vehicles](../ai/agents/arxiv-2607-06484.md)
   - [Assessment Design in the GenAI Era: The X1-X2-X3 Assessment Pattern for Testing Students' AI Literacy, Learning Outcomes, and Reflection](../ai/research/arxiv-2608-12351.md)
   - [Associated Press Stylebook](../ai/resources/associated-press-stylebook.md)
@@ -22177,7 +22180,6 @@ Resources organized by keyword tags.
   - [Combining Retrieval-Augmented Text Generation with LLMs for Reading Content Recommendations](../ai/rag/arxiv-2606-14817.md)
   - [Commercial UAV Expo | Drone Conference & Trade Show](../ai/resources/commercial-uav-expo-drone-conference-trade-show.md)
   - [Commercial UAV News](../ai/rag/commercial-uav-news.md)
-  - [Commercially Available Bike Generators Are Not Sustainable (2011)](../ai/community/commercially-available-bike-generators-are-not-sus.md)
   - [CommonMark](../ai/resources/commonmark.md)
   - [CommonMark Spec](../ai/resources/commonmark-spec.md)
   - [Communicating Credit Risk with Large Language Models: Evaluation of Explanations from Standard and Alternative Data-Based Models](../ai/research/arxiv-2608-17715.md)
@@ -22878,7 +22880,6 @@ Resources organized by keyword tags.
   - [HTTP Archive: Tech Report](../ai/resources/http-archive-tech-report.md)
   - [HTTP authentication - HTTP | MDN](../ai/agents/http-authentication-http-mdn.md)
   - [Hackster.io - The community dedicated to learning hardware.](../ai/resources/hackster-io-the-community-dedicated-to-learning-ha.md)
-  - [Haiku R1/beta6 has been released](../ai/community/haiku-r1-beta6-has-been-released.md)
   - [Hamilton-Zero: A Neural Tensor-Network Foundation Model for Ground States of Arbitrary Quadratic Qubit Hamiltonians](../ai/research/arxiv-2608-11911.md)
   - [HandFlow: Fully Generative 4D Hand Recovery with Flow Matching](../ai/research/arxiv-2607-11221.md)
   - [Handle - AT Protocol](../ai/resources/handle-at-protocol.md)
@@ -23180,6 +23181,7 @@ Resources organized by keyword tags.
   - [Latent Memory Palace: Reasoning for Control as Autoregressive Variational Inference](../ai/research/arxiv-2607-08724.md)
   - [Latent On-Policy Self-Distillation](../ai/agents/arxiv-2608-13040.md)
   - [Latent PDE mapping for efficient physics-informed learning across geometries with limited data](../ai/research/arxiv-2607-22215.md)
+  - [Launch HN: Almanac (YC S26) – AI that knows your company](../ai/community/launch-hn-almanac-yc-s26-ai-that-knows-your-compan.md)
   - [Layer-wise LoRA fine-tuning: a similarity metric approach](../ai/rag/arxiv-2602-05988.md)
   - [Leadership that Moves Business Forward | Harvard Business Impact](../ai/rag/leadership-that-moves-business-forward-harvard-bus.md)
   - [Leaking Circuit Secrets: Gradient Leakage Attacks on Graph Neural Networks](../ai/research/arxiv-2606-25589.md)
@@ -23279,7 +23281,6 @@ Resources organized by keyword tags.
   - [London](../ai/rag/london.md)
   - [Long-Tailed Medical Image Classification](../ai/research/arxiv-2607-23883.md)
   - [Long-term Measurements: Towards a Longitudinal Understanding of Human-AI Interactions](../ai/rag/arxiv-2608-02491.md)
-  - [Longest Straight Line Paths on Water or Land on the Earth (2018)](../ai/community/arxiv-1804-07389.md)
   - [Longhorn Alert | Security and Emergency Management](../ai/resources/longhorn-alert-security-and-emergency-management.md)
   - [Look Before You Lift: Visual and Quantitative Diagnostics for Topological Deep Learning](../ai/rag/arxiv-2608-15388.md)
   - [Loss Landscape Geometry of Partial Differential Equation Emulators: Or, Symmetry Learning via Gradient Alignment](../ai/research/arxiv-2601-20172.md)
@@ -23847,6 +23848,7 @@ Resources organized by keyword tags.
   - [ReRAM-aware Model Finetuning addressing I-V Non-linearity and Retention Errors](../ai/research/arxiv-2606-17471.md)
   - [ReSum: Synergizing LLM Reasoning and Summarization with Reinforcement Learning](../ai/rag/arxiv-2606-13316.md)
   - [React](../ai/resources/react.md)
+  - [ReactOS 0.4.16](../web-development/community/reactos-0-4-16.md)
   - [Real vs. Complex Spectral Bases for Neural Operators: The Role of Green's Function Alignment](../ai/research/arxiv-2606-24851.md)
   - [Real-Time Hard Negative Sampling via LLM-based Clustering for Large-Scale Two-Tower Retrieval](../ai/rag/arxiv-2607-00448.md)
   - [Real-Time Monitoring of MHD Liquid Metal Flows with Shallow Recurrent Decoders](../ai/research/arxiv-2608-28366.md)
@@ -24185,6 +24187,7 @@ Resources organized by keyword tags.
   - [Structured Nonparametric Variational Inference for Dependent Latent Modeling](../ai/rag/arxiv-2606-15458.md)
   - [Structured Pruning of Large Language Models via Power Transformation and Sign-Preserving Score Aggregation with Adaptive Feature Retention](../ai/research/arxiv-2607-08027.md)
   - [Structured Representation Learning with Locally Linear Embeddings and Adaptive Feature Fusion](../ai/rag/arxiv-2606-18469.md)
+  - [Study: Blue light impairs the eye's ability to distinguish fine detail most](../ai/community/study-blue-light-impairs-the-eye-s-ability-to-dist.md)
   - [Studying, Identifying, and Fixing Hidden Technical Debt in AI-Intensive Cyber-Physical Systems](../ai/agents/arxiv-2608-02638.md)
   - [Stylised pathways to “well below 2°C”](../ai/resources/stylised-pathways-to-well-below-2degc.md)
   - [Subresource Integrity](../ai/rag/subresource-integrity.md)
@@ -24588,6 +24591,7 @@ Resources organized by keyword tags.
   - [Welcome | Lab of Atomic of Solid State Physics (LASSP)](../ai/resources/welcome-lab-of-atomic-of-solid-state-physics-lassp.md)
   - [Welcome | University Privacy](../ai/resources/welcome-university-privacy.md)
   - [Welcome, GraphAware](../ai/agents/welcome-graphaware.md)
+  - [WenyuChiou/awesome-agentic-ai-zh](../ai/rag/wenyuchiou-awesome-agentic-ai-zh.md)
   - [Werkzeug · PyPI](../ai/agents/werkzeug-pypi.md)
   - [What Are AI Tokens? The Language and Currency Powering Modern AI | NVIDIA Blog](../ai/rag/what-are-ai-tokens-the-language-and-currency-power.md)
   - [What Do AI Agents Actually Change? An Empirical Taxonomy of Mutation Patterns in Performance-Improving Pull Requests](../ai/agents/arxiv-2607-05666.md)
@@ -24829,6 +24833,7 @@ Resources organized by keyword tags.
   - [mistralai/LeanstralSafeVerify](../ai/agents/mistralai-leanstralsafeverify.md)
   - [mit-han-lab/smoothquant](../ai/rag/mit-han-lab-smoothquant.md)
   - [moby/moby · Discussions · GitHub](../ai/resources/moby-moby.md)
+  - [mongodb-developer/GenAI-Showcase](../ai/rag/mongodb-developer-genai-showcase.md)
   - [nASR: An End-to-End Trainable Neural Layer for Channel-Level EEG Artifact Subspace Reconstruction in Real-Time BCI](../ai/research/arxiv-2605-14941.md)
   - [nerfies/nerfies.github.io](../ai/resources/nerfies-nerfies-github-io.md)
   - [nicknochnack/Llama2RAG](../ai/rag/nicknochnack-llama2rag.md)
@@ -35644,6 +35649,7 @@ Resources organized by keyword tags.
   - [LangChain Blog](../ai/agents/langchain-blog.md)
   - [LangSmith Cloud changelog - Docs by LangChain](../ai/rag/langsmith-cloud-changelog-docs-by-langchain.md)
   - [Langfuse](../ai/rag/langfuse.md)
+  - [Launch HN: Almanac (YC S26) – AI that knows your company](../ai/community/launch-hn-almanac-yc-s26-ai-that-knows-your-compan.md)
   - [Launch in Fiddle](../ai/resources/launch-in-fiddle.md)
   - [Launching the Artificial Analysis Text to Image Leaderboard & Arena](../ai/models/huggingface-blog-leaderboard-artificial-analysis2.md)
   - [Launchpad](../ai/resources/launchpad.md)
@@ -43570,6 +43576,10 @@ Resources organized by keyword tags.
   - [🧑‍🍳 Cookbook | Haystack](../ai/rag/cookbook-haystack.md)
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
+## react
+
+  - [ReactOS 0.4.16](../web-development/community/reactos-0-4-16.md)
+
 ## reddit
 
   - ["I understand your perspective": LLM Persuasion through the Lens of Communicative Action Theory](../ai/rag/arxiv-2606-08076.md)
@@ -50590,7 +50600,6 @@ Resources organized by keyword tags.
   - [The safety failures we are not instrumenting: a perspective on hidden safety-critical challenges in modern AI systems](../ai/research/arxiv-2607-19292.md)
   - [The xAI Platform for OCI Generative AI](../ai/agents/the-xai-platform-for-oci-generative-ai.md)
   - [The-Pocket/PocketFlow-Template-Python](../ai/agents/the-pocket-pocketflow-template-python.md)
-  - [The-Swarm-Corporation/Multi-Agent-RAG-Template](../ai/rag/the-swarm-corporation-multi-agent-rag-template.md)
   - [Think Before You Grid-Search: Floor-First Triage for LLM Serving](../ai/agents/arxiv-2607-05876.md)
   - [Three-Phase Evaluation of AI-Assisted Software Development Life Cycle](../ai/research/arxiv-2607-05125.md)
   - [TiTiler](../ai/rag/titiler.md)
@@ -50771,7 +50780,6 @@ Resources organized by keyword tags.
   - [aws-samples/amazon-bedrock-samples](../ai/rag/aws-samples-amazon-bedrock-samples.md)
   - [beezwax blog](../ai/resources/beezwax-blog.md)
   - [bigscience-workshop/promptsource](../ai/resources/bigscience-workshop-promptsource.md)
-  - [braincrew-lab/langgraph-mcp-agents](../ai/agents/braincrew-lab-langgraph-mcp-agents.md)
   - [cigh](../ai/resources/cigh.md)
   - [cloudflare/mcp](../ai/resources/cloudflare-mcp.md)
   - [cmAIdx/headless-claude-automation-template](../ai/agents/cmaidx-headless-claude-automation-template.md)
@@ -50782,7 +50790,6 @@ Resources organized by keyword tags.
   - [crewAIInc/crewAI](../ai/rag/crewaiinc-crewai.md)
   - [cyproxio/mcp-for-security](../ai/resources/cyproxio-mcp-for-security.md)
   - [datarobot-community/datarobot-agent-templates](../ai/rag/datarobot-community-datarobot-agent-templates.md)
-  - [datawhalechina/llm-universe](../ai/rag/datawhalechina-llm-universe.md)
   - [daveebbelaar/ai-cookbook](../ai/agents/daveebbelaar-ai-cookbook.md)
   - [dblp: computer science bibliography](../ai/resources/dblp-computer-science-bibliography.md)
   - [decodingai-magazine/llm-twin-course](../ai/rag/decodingai-magazine-llm-twin-course.md)
@@ -53331,4 +53338,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-31T11:32:11.231104+05:30*
+*Index generated on 2026-08-31T22:01:23.763155+05:30*

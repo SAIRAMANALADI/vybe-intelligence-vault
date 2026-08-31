@@ -20231,10 +20231,11 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [Commercially Available Bike Generators Are Not Sustainable (2011)](../ai/community/commercially-available-bike-generators-are-not-sus.md)
-  - [Haiku R1/beta6 has been released](../ai/community/haiku-r1-beta6-has-been-released.md)
-  - [Longest Straight Line Paths on Water or Land on the Earth (2018)](../ai/community/arxiv-1804-07389.md)
+  - [Ask HN: What would happen if your company stopped using all AI tomorrow?](../ai/community/ask-hn-what-would-happen-if-your-company-stopped-u.md)
+  - [Launch HN: Almanac (YC S26) – AI that knows your company](../ai/community/launch-hn-almanac-yc-s26-ai-that-knows-your-compan.md)
   - [P99 0 ms* autocomplete for 240M domain names](../ai/community/p99-0-ms-autocomplete-for-240m-domain-names.md)
+  - [ReactOS 0.4.16](../web-development/community/reactos-0-4-16.md)
+  - [Study: Blue light impairs the eye's ability to distinguish fine detail most](../ai/community/study-blue-light-impairs-the-eye-s-ability-to-dist.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -24059,4 +24060,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-31T11:32:11.497980+05:30*
+*Index generated on 2026-08-31T22:01:24.012707+05:30*
