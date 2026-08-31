@@ -13,13 +13,14 @@ collected_at: '2026-08-31T04:22:34.407062+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:electric-rain-can-eat-through-metal
 first_seen: '2026-08-31T00:54:00.726483+05:30'
 last_seen: '2026-08-31T04:22:34.407062+05:30'
 last_checked: '2026-08-31T04:22:34.407062+05:30'
 health_score: 100
 ---
+
 
 # Electric rain can eat through metal
 

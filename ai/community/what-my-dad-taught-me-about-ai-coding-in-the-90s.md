@@ -13,13 +13,14 @@ collected_at: '2026-08-31T04:22:35.600111+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:what-my-dad-taught-me-about-ai-coding-in-the-90s
 first_seen: '2026-08-30T19:23:15.351718+05:30'
 last_seen: '2026-08-31T04:22:35.600111+05:30'
 last_checked: '2026-08-31T04:22:35.600111+05:30'
 health_score: 100
 ---
+
 
 # What my dad taught me about AI coding in the 90s
 
