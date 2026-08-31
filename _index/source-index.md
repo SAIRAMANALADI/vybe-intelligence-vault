@@ -20231,11 +20231,11 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [Ask HN: What would happen if your company stopped using all AI tomorrow?](../ai/community/ask-hn-what-would-happen-if-your-company-stopped-u.md)
+  - [Apple caught off guard by AI demand for Mac Mini and Mac Studio](../ai/community/apple-caught-off-guard-by-ai-demand-for-mac-mini-a.md)
   - [Launch HN: Almanac (YC S26) – AI that knows your company](../ai/community/launch-hn-almanac-yc-s26-ai-that-knows-your-compan.md)
-  - [P99 0 ms* autocomplete for 240M domain names](../ai/community/p99-0-ms-autocomplete-for-240m-domain-names.md)
-  - [ReactOS 0.4.16](../web-development/community/reactos-0-4-16.md)
-  - [Study: Blue light impairs the eye's ability to distinguish fine detail most](../ai/community/study-blue-light-impairs-the-eye-s-ability-to-dist.md)
+  - [Show HN: We built the smallest dual-band aircraft tracker](../ai/community/show-hn-we-built-the-smallest-dual-band-aircraft-t.md)
+  - [Smartphone LED detects hidden cameras with AI](../ai/community/smartphone-led-detects-hidden-cameras-with-ai.md)
+  - [Terence Tao explains 6 essential mathematical concepts [video]](../ai/community/youtube-oomx2bhhwte.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -24060,4 +24060,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-31T22:01:24.012707+05:30*
+*Index generated on 2026-09-01T03:19:38.112186+05:30*

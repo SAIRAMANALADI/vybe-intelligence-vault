@@ -31872,6 +31872,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `openai`, `rag`, `web-crawled`, `workflows`
   * Source URL: <https://openai.com/api/>
 
+* **[Apple caught off guard by AI demand for Mac Mini and Mac Studio](ai/community/apple-caught-off-guard-by-ai-demand-for-mac-mini-a.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by thm. Score: 223, Comments: 249. Original Link: https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/
+  * Tags: `ai`, `hackernews`
+  * Source URL: <https://macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand>
+
 * **[Apple Vision Pro - Apple](ai/resources/apple-vision-pro-apple.md)** (`tutorial` | `useful` tier)
   * Summary: - **M5 Chip Integration**: Apple Vision Pro features the new M5 chip, designed for high-performance mobile and wearable computing, enabling seamless blending of digital content with physical space and supporting advanced spatial computing experiences
   * Tags: `frontend_ui`, `hackernews`, `reddit`, `web-crawled`, `workflows`, `youtube`
@@ -31921,11 +31926,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: - **Sprite Composition**: Aseprite sprites are structured as a grid of *cels* (frame-layer intersections), where each cel contains pixel data editable independently; frames (horizontal timeline axis) define animation sequences, and layers (vertical s
   * Tags: `rag`, `reddit`, `web-crawled`, `workflows`, `youtube`
   * Source URL: <https://www.aseprite.org/docs/basics>
-
-* **[Ask HN: What would happen if your company stopped using all AI tomorrow?](ai/community/ask-hn-what-would-happen-if-your-company-stopped-u.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by jc_811. Score: 13, Comments: 16. Original Link: None
-  * Tags: `ai`, `hackernews`
-  * Source URL: <https://news.ycombinator.com/item?id=49510066>
 
 * **[astro/CONTRIBUTING.md at main · withastro/astro · GitHub](ai/rag/withastro-astro.md)** (`benchmark` | `useful` tier)
   * Summary: - **Environment Setup**: Requires Node.js `>=22.12.0` and PNPM `>=10.28.0`; use Corepack for dependency management. Configure Git blame to ignore formatting revisions via `.git-blame-ignore-revs` and set up PNPM merge driver for `pnpm-lock.yaml` conf
@@ -34178,7 +34178,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://platform.openai.com/docs/guides/latency-optimization>
 
 * **[Launch HN: Almanac (YC S26) – AI that knows your company](ai/community/launch-hn-almanac-yc-s26-ai-that-knows-your-compan.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by kushagrchitkar. Score: 11, Comments: 4. Original Link: https://usealmanac.com/
+  * Summary: Hacker News story by kushagrchitkar. Score: 32, Comments: 36. Original Link: https://usealmanac.com/
   * Tags: `ai`, `hackernews`, `producthunt`
   * Source URL: <https://usealmanac.com>
 
@@ -34867,11 +34867,6 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `rag`, `workflows`, `youtube`
   * Source URL: <https://arxiv.org/abs/2608.10131>
 
-* **[P99 0 ms* autocomplete for 240M domain names](ai/community/p99-0-ms-autocomplete-for-240m-domain-names.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by dbalatero. Score: 197, Comments: 73. Original Link: https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names
-  * Tags: `ai`, `hackernews`
-  * Source URL: <https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names>
-
 * **[PacktPublishing/LLM-Engineers-Handbook](ai/rag/packtpublishing-llm-engineers-handbook.md)** (`benchmark` | `useful` tier)
   * Summary: - **Comprehensive LLM Engineering Guide**: Covers fundamentals to advanced deployment of LLM and RAG applications on AWS, integrating LLMOps best practices for scalable, production-grade systems. - **Technical Focus Areas**: Includes fine-tuning LLMs
   * Tags: `benchmark`, `github-repo`, `hackernews`, `models`, `python`, `rag`, `workflows`
@@ -35267,11 +35262,6 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `github-repo`, `jupyter notebook`, `meta-ai`, `models`, `openai`, `rag`, `workflows`
   * Source URL: <https://github.com/ray-project/llm-applications>
 
-* **[ReactOS 0.4.16](web-development/community/reactos-0-4-16.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by marttt. Score: 108, Comments: 28. Original Link: https://reactos.org/project-news/reactos-0416-released/
-  * Tags: `frontend_ui`, `hackernews`, `react`
-  * Source URL: <https://reactos.org/project-news/reactos-0416-released>
-
 * **[Read the Docs · GitHub](ai/resources/read-the-docs-github.md)** (`tutorial` | `useful` tier)
   * Summary: - **Primary Platform**: Read the Docs is an open-source documentation hosting platform primarily implemented in Python, with key repositories like `readthedocs.org` (8.4k stars) and `sphinx_rtd_theme` (5.1k stars) for Sphinx documentation themes. - *
   * Tags: `reddit`, `scripts`, `web-crawled`, `workflows`
@@ -35627,6 +35617,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `frontend_ui`, `web-crawled`, `workflows`
   * Source URL: <https://shibuya.lepture.com>
 
+* **[Show HN: We built the smallest dual-band aircraft tracker](ai/community/show-hn-we-built-the-smallest-dual-band-aircraft-t.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by CoolNamesAllTkn. Score: 59, Comments: 19. Original Link: https://pantsforbirds.com/the-worlds-smallest-dual-band-ads-b-receiver-module/
+  * Tags: `ai`, `hackernews`
+  * Source URL: <https://pantsforbirds.com/the-worlds-smallest-dual-band-ads-b-receiver-module>
+
 * **[shprink/nonharmful-and-must-have-actions](ai/resources/shprink-nonharmful-and-must-have-actions.md)** (`workflow` | `useful` tier)
   * Summary: - Demonstrates GitHub Actions workflows exploiting CI/CD secrets exposure via log poisoning and environment variable leaks. - Includes JavaScript-based payloads to extract secrets from GitHub Actions logs, CI/CD pipelines, and third-party integration
   * Tags: `github-repo`, `javascript`, `scripts`, `workflows`
@@ -35696,6 +35691,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2607.06748v1 Announce Type: cross Abstract: Smart home automation platforms increasingly rely on user-authored YAML configuration files to define device behaviors, but these files are prone to syntax, formatting, and semantic logic errors that
   * Tags: `meta-ai`, `models`, `paper`, `scripts`, `workflows`
   * Source URL: <https://arxiv.org/abs/2607.06748>
+
+* **[Smartphone LED detects hidden cameras with AI](ai/community/smartphone-led-detects-hidden-cameras-with-ai.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by geox. Score: 91, Comments: 28. Original Link: https://www.chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ/
+  * Tags: `ai`, `hackernews`
+  * Source URL: <https://chosun.com/english/industry-en/2026/08/30/sbfxuijqyzearkp5t4fbay25hq>
 
 * **[Snowflake Status](ai/rag/snowflake-status.md)** (`tutorial` | `useful` tier)
   * Summary: - **Multi-Channel Incident Notifications**: Snowflake provides real-time incident updates via email, SMS (with country-specific dialing codes), Slack, Microsoft Teams, and webhook integrations for automated alerting. - **Global Infrastructure Monitor
@@ -35866,11 +35866,6 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `rag`, `workflows`
   * Source URL: <https://arxiv.org/abs/2606.12983>
 
-* **[Study: Blue light impairs the eye's ability to distinguish fine detail most](ai/community/study-blue-light-impairs-the-eye-s-ability-to-dist.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by giuliomagnifico. Score: 63, Comments: 38. Original Link: https://research.uga.edu/news/blue-light-has-a-surprising-effect-on-your-eyes-study-finds/
-  * Tags: `ai`, `hackernews`
-  * Source URL: <https://research.uga.edu/news/blue-light-has-a-surprising-effect-on-your-eyes-study-finds>
-
 * **[Supabase | The Postgres Development Platform](ai/rag/supabase-the-postgres-development-platform.md)** (`template` | `useful` tier)
   * Summary: - **PostgreSQL Core**: Supabase provides a full PostgreSQL database with 100% portability, built-in Row-Level Security (RLS), and extensibility, serving as the foundational database layer for applications. - **Integrated Backend Services**: Includes
   * Tags: `agents`, `anthropic`, `frontend_ui`, `hackernews`, `openai`, `producthunt`, `rag`, `reddit`, `web-crawled`, `workflows`, `youtube`
@@ -35950,6 +35945,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: - **Tensor Playground** is an interactive tool for experimenting with tensor algebra operations, including dense/sparse tensor dot products, vector-matrix products, matrix multiplication, tensor generation, dimension renaming, concatenation, and Jacc
   * Tags: `web-crawled`, `workflows`
   * Source URL: <https://docs.vespa.ai/playground/>
+
+* **[Terence Tao explains 6 essential mathematical concepts [video]](ai/community/youtube-oomx2bhhwte.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by matthewsinclair. Score: 84, Comments: 11. Original Link: https://www.youtube.com/watch?v=OOMx2BHHWtE
+  * Tags: `ai`, `hackernews`, `youtube`
+  * Source URL: <https://youtube.com/watch?v=OOMx2BHHWtE>
 
 * **[Tevatron Meets Megatron: Expert-Parallel LLM Reranker Training on an Academic Budget](ai/research/arxiv-2608-00916.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2608.00916v1 Announce Type: cross Abstract: Modern reranking recipes---billion-scale cross-encoders, mixture-of-experts (MoE) backbones, and distillation against strong teachers---have outpaced the training infrastructure available to most acad
@@ -40519,7 +40519,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://huggingface.co/blog/tiiuae/emirati-benchmarks>
 
 * **[amazon/chronos-2](ai/models/huggingface-amazon-chronos-2.md)** (`dataset` | `useful` tier)
-  * Summary: Trending Hugging Face model: amazon/chronos-2 (Likes: 415, Downloads: 28590450)
+  * Summary: Trending Hugging Face model: amazon/chronos-2 (Likes: 416, Downloads: 28590450)
   * Tags: `dataset`, `hf-model`, `huggingface`
   * Source URL: <https://huggingface.co/amazon/chronos-2>
 
@@ -48833,7 +48833,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2501.19401>
 
 * **[dalle-mini/dalle-mini](ai/models/huggingface-spaces-dalle-mini.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face space: dalle-mini/dalle-mini (Likes: 5719, Downloads: 0)
+  * Summary: Trending Hugging Face space: dalle-mini/dalle-mini (Likes: 5720, Downloads: 0)
   * Tags: `hf-space`, `huggingface`
   * Source URL: <https://huggingface.co/spaces/dalle-mini>
 
@@ -59113,7 +59113,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://research.google>
 
 * **[google-bert/bert-base-uncased](ai/models/huggingface-google-bert-bert-base-uncased.md)** (`dataset` | `useful` tier)
-  * Summary: Trending Hugging Face model: google-bert/bert-base-uncased (Likes: 2804, Downloads: 73085822)
+  * Summary: Trending Hugging Face model: google-bert/bert-base-uncased (Likes: 2805, Downloads: 73085822)
   * Tags: `dataset`, `hf-model`, `huggingface`
   * Source URL: <https://huggingface.co/google-bert/bert-base-uncased>
 
@@ -61304,7 +61304,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://github.com/huggingface/datasets>
 
 * **[huggingface/documentation-images](ai/models/huggingface-datasets-huggingface.md)** (`dataset` | `useful` tier)
-  * Summary: Trending Hugging Face dataset: huggingface/documentation-images (Likes: 180, Downloads: 1952204)
+  * Summary: Trending Hugging Face dataset: huggingface/documentation-images (Likes: 181, Downloads: 1952204)
   * Tags: `dataset`, `hf-dataset`, `huggingface`
   * Source URL: <https://huggingface.co/datasets/huggingface>
 
@@ -81604,12 +81604,12 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://huggingface.co/blog/sentence-transformers-joins-hf>
 
 * **[sentence-transformers/all-MiniLM-L6-v2](ai/rag/huggingface-sentence-transformers-all-minilm-l6-v2.md)** (`dataset` | `useful` tier)
-  * Summary: Trending Hugging Face model: sentence-transformers/all-MiniLM-L6-v2 (Likes: 5325, Downloads: 253520473)
+  * Summary: Trending Hugging Face model: sentence-transformers/all-MiniLM-L6-v2 (Likes: 5326, Downloads: 253520473)
   * Tags: `dataset`, `hf-model`, `huggingface`, `rag`
   * Source URL: <https://huggingface.co/sentence-transformers/all-minilm-l6-v2>
 
 * **[sentence-transformers/all-mpnet-base-v2](ai/rag/huggingface-sentence-transformers-all-mpnet-base-v2.md)** (`dataset` | `useful` tier)
-  * Summary: Trending Hugging Face model: sentence-transformers/all-mpnet-base-v2 (Likes: 1345, Downloads: 24426211)
+  * Summary: Trending Hugging Face model: sentence-transformers/all-mpnet-base-v2 (Likes: 1347, Downloads: 24426211)
   * Tags: `dataset`, `hf-model`, `huggingface`, `rag`
   * Source URL: <https://huggingface.co/sentence-transformers/all-mpnet-base-v2>
 
@@ -99631,7 +99631,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://github.com/Azure/agent-innovator-lab>
 
 * **[BAAI/bge-m3](ai/rag/huggingface-baai-bge-m3.md)** (`tutorial` | `useful` tier)
-  * Summary: Trending Hugging Face model: BAAI/bge-m3 (Likes: 3449, Downloads: 36994228)
+  * Summary: Trending Hugging Face model: BAAI/bge-m3 (Likes: 3450, Downloads: 36994228)
   * Tags: `hf-model`, `huggingface`, `rag`
   * Source URL: <https://huggingface.co/baai/bge-m3>
 
@@ -102495,8 +102495,8 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `rag`
   * Source URL: <https://arxiv.org/abs/2607.24717>
 
-* **[datawhalechina/all-in-rag](ai/rag/datawhalechina-all-in-rag.md)** (`benchmark` | `useful` tier)
-  * Summary: * Comprehensive full-stack guide for Retrieval Augmented Generation (RAG) application development. * Utilizes LangChain and LlamaIndex for RAG orchestration, integrating vector databases (Milvus) and graph databases (Neo4j) for diverse retrieval stra
+* **[datawhalechina/all-in-rag](ai/rag/datawhalechina-all-in-rag.md)** (`framework` | `useful` tier)
+  * Summary: * Comprehensive RAG application development guide leveraging frameworks like LangChain and LlamaIndex for practical implementation. * Explores diverse RAG architectural components including vector databases (Milvus), graph databases (Neo4j), and inte
   * Tags: `github-repo`, `hackernews`, `meta-ai`, `models`, `python`, `rag`
   * Source URL: <https://github.com/datawhalechina/all-in-rag>
 
@@ -113465,7 +113465,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2608.20845>
 
 * **[raganwald/raganwald.github.com](ai/rag/raganwald-raganwald-github-com.md)** (`tool` | `useful` tier)
-  * Summary: * Jekyll source repository for a `github.io` static site, indicating GitHub Pages deployment
+  * Summary: * Jekyll-based static site generator source for `raganwald.com`. * Primary content rendered in HTML. * Repository serves as the foundational codebase for a personal website.
   * Tags: `github-repo`, `html`, `rag`
   * Source URL: <https://github.com/raganwald/raganwald.github.com>
 
@@ -116723,8 +116723,8 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `models`, `openai`, `paper`, `rag`
   * Source URL: <https://arxiv.org/abs/2606.16617>
 
-* **[SylphAI-Inc/GithubChat](ai/rag/sylphai-inc-githubchat.md)** (`framework` | `useful` tier)
-  * Summary: * Implements a practical Retrieval-Augmented Generation (RAG) system for interactive querying. * Processes and indexes GitHub repository content as the knowledge base for conversational AI. * Developed in Python, providing a framework for downloading
+* **[SylphAI-Inc/GithubChat](ai/rag/sylphai-inc-githubchat.md)** (`benchmark` | `useful` tier)
+  * Summary: * Implements a practical Retrieval-Augmented Generation (RAG) system for conversational AI. * Facilitates interactive querying and contextual understanding of downloaded GitHub repository content. * Developed primarily in Python.
   * Tags: `github-repo`, `python`, `rag`
   * Source URL: <https://github.com/SylphAI-Inc/GithubChat>
 

@@ -5387,10 +5387,11 @@ Resources organized by keyword tags.
 
 ## ai
 
-  - [Ask HN: What would happen if your company stopped using all AI tomorrow?](../ai/community/ask-hn-what-would-happen-if-your-company-stopped-u.md)
+  - [Apple caught off guard by AI demand for Mac Mini and Mac Studio](../ai/community/apple-caught-off-guard-by-ai-demand-for-mac-mini-a.md)
   - [Launch HN: Almanac (YC S26) – AI that knows your company](../ai/community/launch-hn-almanac-yc-s26-ai-that-knows-your-compan.md)
-  - [P99 0 ms* autocomplete for 240M domain names](../ai/community/p99-0-ms-autocomplete-for-240m-domain-names.md)
-  - [Study: Blue light impairs the eye's ability to distinguish fine detail most](../ai/community/study-blue-light-impairs-the-eye-s-ability-to-dist.md)
+  - [Show HN: We built the smallest dual-band aircraft tracker](../ai/community/show-hn-we-built-the-smallest-dual-band-aircraft-t.md)
+  - [Smartphone LED detects hidden cameras with AI](../ai/community/smartphone-led-detects-hidden-cameras-with-ai.md)
+  - [Terence Tao explains 6 essential mathematical concepts [video]](../ai/community/youtube-oomx2bhhwte.md)
 
 ## animation
 
@@ -20445,7 +20446,6 @@ Resources organized by keyword tags.
   - [React v18.0](../web-development/react-v18-0.md)
   - [React v19](../web-development/react-v19.md)
   - [ReactBench: A Benchmark for Topological Reasoning in MLLMs on Chemical Reaction Diagrams](../ai/research/arxiv-2604-15994.md)
-  - [ReactOS 0.4.16](../web-development/community/reactos-0-4-16.md)
   - [Reaction-Transformation-Aware Flow Matching for Generalizable Transition State Generation](../ai/rag/arxiv-2608-14076.md)
   - [Reaction-network reasoning with frontier models for experimentally confirmed catalyst-selectivity hypotheses](../ai/research/arxiv-2607-08003.md)
   - [ReactiveBFM: Reactive Closed-Loop Motion Planning Towards Universal Humanoid Whole-Body Control](../ai/rag/arxiv-2606-30362.md)
@@ -21861,6 +21861,7 @@ Resources organized by keyword tags.
   - [AppendiGrade: An XAI-Enhanced Deep Learning Framework for Grading Appendicitis in Ultrasound with Gaussian Blur and Grad-CAM](../ai/research/arxiv-2608-17923.md)
   - [Apple Support - YouTube](../ai/resources/apple-support-youtube.md)
   - [Apple Vision Pro - Apple](../ai/resources/apple-vision-pro-apple.md)
+  - [Apple caught off guard by AI demand for Mac Mini and Mac Studio](../ai/community/apple-caught-off-guard-by-ai-demand-for-mac-mini-a.md)
   - [AppleCare - Apple](../ai/rag/applecare-apple.md)
   - [Application of Artificial Intelligence and Machine Learning in Libraries: A Systematic Review](../ai/research/arxiv-2112-04573.md)
   - [Approved Too Late: Verdict Staleness in LLM-Guarded Self-Adaptive Systems](../ai/research/arxiv-2608-26306.md)
@@ -21886,7 +21887,6 @@ Resources organized by keyword tags.
   - [AsciiDoc](../ai/rag/asciidoc.md)
   - [AsciiDoc Language Documentation | Asciidoctor Docs](../ai/resources/asciidoc-language-documentation-asciidoctor-docs.md)
   - [Asciidoctor | A fast, open source text processor and publishing toolchain for converting AsciiDoc content to HTML5, DocB](../ai/rag/asciidoctor-a-fast-open-source-text-processor-and.md)
-  - [Ask HN: What would happen if your company stopped using all AI tomorrow?](../ai/community/ask-hn-what-would-happen-if-your-company-stopped-u.md)
   - [Assessing the Operational Impact of Poisoning Attacks over Augmented 3D Point Cloud Public Datasets for Connected and Autonomous Vehicles](../ai/agents/arxiv-2607-06484.md)
   - [Assessment Design in the GenAI Era: The X1-X2-X3 Assessment Pattern for Testing Students' AI Literacy, Learning Outcomes, and Reflection](../ai/research/arxiv-2608-12351.md)
   - [Associated Press Stylebook](../ai/resources/associated-press-stylebook.md)
@@ -23601,7 +23601,6 @@ Resources organized by keyword tags.
   - [Overview - ResearchKit & CareKit](../ai/rag/overview-researchkit-carekit.md)
   - [P$^2$CE: Model-Agnostic Plausible Pareto-Optimal Counterfactual Explanations](../ai/rag/arxiv-2606-18418.md)
   - [P-K-GCN: Physics-augmented Koopman-enhanced Graph Convolutional Network for Deep Spatiotemporal Super-resolution](../ai/research/arxiv-2606-19303.md)
-  - [P99 0 ms* autocomplete for 240M domain names](../ai/community/p99-0-ms-autocomplete-for-240m-domain-names.md)
   - [PACIFIER: Pacing Opinion Depolarization via a Unified Graph Learning Framework](../ai/research/arxiv-2602-23390.md)
   - [PCA of probability measures: Sparse and Dense sampling regimes](../ai/research/arxiv-2602-02190.md)
   - [PEFT · Hugging Face](../ai/rag/huggingface-docs-peft.md)
@@ -23848,7 +23847,6 @@ Resources organized by keyword tags.
   - [ReRAM-aware Model Finetuning addressing I-V Non-linearity and Retention Errors](../ai/research/arxiv-2606-17471.md)
   - [ReSum: Synergizing LLM Reasoning and Summarization with Reinforcement Learning](../ai/rag/arxiv-2606-13316.md)
   - [React](../ai/resources/react.md)
-  - [ReactOS 0.4.16](../web-development/community/reactos-0-4-16.md)
   - [Real vs. Complex Spectral Bases for Neural Operators: The Role of Green's Function Alignment](../ai/research/arxiv-2606-24851.md)
   - [Real-Time Hard Negative Sampling via LLM-based Clustering for Large-Scale Two-Tower Retrieval](../ai/rag/arxiv-2607-00448.md)
   - [Real-Time Monitoring of MHD Liquid Metal Flows with Shallow Recurrent Decoders](../ai/research/arxiv-2608-28366.md)
@@ -24062,6 +24060,7 @@ Resources organized by keyword tags.
   - [ShielDroid: A Hybrid Approach Integrating Machine and Deep Learning for Android Malware Detection](../ai/research/arxiv-2608-03250.md)
   - [Shielding for Higher-Order Safety](../ai/research/arxiv-2608-03662.md)
   - [Short-circuit evaluation - Wikipedia](../ai/resources/short-circuit-evaluation-wikipedia.md)
+  - [Show HN: We built the smallest dual-band aircraft tracker](../ai/community/show-hn-we-built-the-smallest-dual-band-aircraft-t.md)
   - [Show Me How You Reason and I'll Tell You Who You Are: Reasoning Graphs for Robust LLM Authorship Attribution](../ai/rag/arxiv-2607-14905.md)
   - [Shows | web.dev](../ai/resources/shows-web-dev.md)
   - [Shubhamsaboo/awesome-llm-apps](../ai/rag/shubhamsaboo-awesome-llm-apps.md)
@@ -24090,6 +24089,7 @@ Resources organized by keyword tags.
   - [Small Data Explainer -- The impact of small data methods in everyday life](../ai/rag/arxiv-2507-11773.md)
   - [Small, Free, and Effective: Orchestrating Open-Weight Small Language Models to Outperform Single LLM for Malware Analysis](../ai/agents/arxiv-2607-20216.md)
   - [Smart drones, safe skies: Student’s system tests, coordinates drone fleets | Cornell Chronicle](../ai/rag/smart-drones-safe-skies-students-system-tests-coor.md)
+  - [Smartphone LED detects hidden cameras with AI](../ai/community/smartphone-led-detects-hidden-cameras-with-ai.md)
   - [Smooth Flow Matching for Synthesizing Functional Data](../ai/research/arxiv-2508-13831.md)
   - [Smooth Reparameterizations of Functions on Simplicial Product Spaces: Applications to Probabilistic Tensor Decomposition and Functional Data Registration](../ai/research/arxiv-2608-02576.md)
   - [Smoothness Errors in Dynamics Models and How to Avoid Them](../ai/research/arxiv-2602-05352.md)
@@ -24187,7 +24187,6 @@ Resources organized by keyword tags.
   - [Structured Nonparametric Variational Inference for Dependent Latent Modeling](../ai/rag/arxiv-2606-15458.md)
   - [Structured Pruning of Large Language Models via Power Transformation and Sign-Preserving Score Aggregation with Adaptive Feature Retention](../ai/research/arxiv-2607-08027.md)
   - [Structured Representation Learning with Locally Linear Embeddings and Adaptive Feature Fusion](../ai/rag/arxiv-2606-18469.md)
-  - [Study: Blue light impairs the eye's ability to distinguish fine detail most](../ai/community/study-blue-light-impairs-the-eye-s-ability-to-dist.md)
   - [Studying, Identifying, and Fixing Hidden Technical Debt in AI-Intensive Cyber-Physical Systems](../ai/agents/arxiv-2608-02638.md)
   - [Stylised pathways to “well below 2°C”](../ai/resources/stylised-pathways-to-well-below-2degc.md)
   - [Subresource Integrity](../ai/rag/subresource-integrity.md)
@@ -24264,6 +24263,7 @@ Resources organized by keyword tags.
   - [TensorFlow.js API](../ai/rag/tensorflow-js-api.md)
   - [Tensorblue - YouTube](../ai/resources/tensorblue-youtube.md)
   - [Tensorblue | LinkedIn](../ai/agents/tensorblue-linkedin.md)
+  - [Terence Tao explains 6 essential mathematical concepts [video]](../ai/community/youtube-oomx2bhhwte.md)
   - [Terminal Dimension Reduction for Time Series with Applications](../ai/rag/arxiv-2607-09490.md)
   - [Terms & Conditions | Speechify](../ai/rag/terms-conditions-speechify.md)
   - [Terms of Service](../ai/rag/terms-of-service.md)
@@ -43576,10 +43576,6 @@ Resources organized by keyword tags.
   - [🧑‍🍳 Cookbook | Haystack](../ai/rag/cookbook-haystack.md)
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
-## react
-
-  - [ReactOS 0.4.16](../web-development/community/reactos-0-4-16.md)
-
 ## reddit
 
   - ["I understand your perspective": LLM Persuasion through the Lens of Communicative Action Theory](../ai/rag/arxiv-2606-08076.md)
@@ -52910,6 +52906,7 @@ Resources organized by keyword tags.
   - [TensorFlow](../ai/agents/tensorflow.md)
   - [TensorFlow.js API](../ai/rag/tensorflow-js-api.md)
   - [Tensorblue - YouTube](../ai/resources/tensorblue-youtube.md)
+  - [Terence Tao explains 6 essential mathematical concepts [video]](../ai/community/youtube-oomx2bhhwte.md)
   - [Terms & Conditions | Speechify](../ai/rag/terms-conditions-speechify.md)
   - [Terms of Service](../ai/rag/terms-of-service.md)
   - [Terms of Service | Resemble AI](../ai/agents/terms-of-service-resemble-ai.md)
@@ -53338,4 +53335,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-08-31T22:01:23.763155+05:30*
+*Index generated on 2026-09-01T03:19:37.912060+05:30*

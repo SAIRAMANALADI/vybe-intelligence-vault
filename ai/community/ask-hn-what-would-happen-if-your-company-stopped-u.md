@@ -13,13 +13,14 @@ collected_at: '2026-08-31T21:45:16.499536+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:ask-hn-what-would-happen-if-your-company-stopped-u
 first_seen: '2026-08-31T21:45:16.499536+05:30'
 last_seen: '2026-08-31T21:45:16.499536+05:30'
 last_checked: '2026-08-31T21:45:16.499536+05:30'
 health_score: 100
 ---
+
 
 # Ask HN: What would happen if your company stopped using all AI tomorrow?
 

@@ -5,11 +5,11 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://usealmanac.com
 hn_url: https://news.ycombinator.com/item?id=49511007
-score: 11
+score: 32
 author: kushagrchitkar
-comments_count: 4
+comments_count: 36
 published_at: '2026-08-31T21:04:34+05:30'
-collected_at: '2026-08-31T21:45:14.150992+05:30'
+collected_at: '2026-09-01T03:03:13.477240+05:30'
 tags:
 - ai
 - hackernews
@@ -17,8 +17,8 @@ tags:
 status: active
 resource_id: hackernews:launch-hn-almanac-yc-s26-ai-that-knows-your-compan
 first_seen: '2026-08-31T21:45:14.150992+05:30'
-last_seen: '2026-08-31T21:45:14.150992+05:30'
-last_checked: '2026-08-31T21:45:14.150992+05:30'
+last_seen: '2026-09-01T03:03:13.477240+05:30'
+last_checked: '2026-09-01T03:03:13.477240+05:30'
 health_score: 100
 ---
 
@@ -26,7 +26,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by kushagrchitkar. Score: 11, Comments: 4.
+Hacker News story by kushagrchitkar. Score: 32, Comments: 36.
 Original Link: https://usealmanac.com/
 
 ## Why It Matters
@@ -36,8 +36,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: kushagrchitkar
-- Score: 11 Upvotes
-- Comments: 4 Discussions
+- Score: 32 Upvotes
+- Comments: 36 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49511007
 - Original Article: https://usealmanac.com
 

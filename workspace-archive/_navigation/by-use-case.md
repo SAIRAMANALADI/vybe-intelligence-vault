@@ -101,4 +101,4 @@ This index groups resources by direct developer use-cases and design goals.
 - [AutoMine Solution for AV2 2026 Scenario Mining Challenge](https://arxiv.org/abs/2606.11874) (Category: `project-ideas` | [`Local File`](../../ai/agents/arxiv-2606-11874.md))
 
 ---
-*Last updated: 2026-08-31 22:03 IST*
+*Last updated: 2026-09-01 03:20 IST*

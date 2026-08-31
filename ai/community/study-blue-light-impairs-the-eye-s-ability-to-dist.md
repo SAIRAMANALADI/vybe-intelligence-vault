@@ -13,13 +13,14 @@ collected_at: '2026-08-31T21:45:15.636192+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:study-blue-light-impairs-the-eye-s-ability-to-dist
 first_seen: '2026-08-31T21:45:15.636192+05:30'
 last_seen: '2026-08-31T21:45:15.636192+05:30'
 last_checked: '2026-08-31T21:45:15.636192+05:30'
 health_score: 100
 ---
+
 
 # Study: Blue light impairs the eye's ability to distinguish fine detail most
 
