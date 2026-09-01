@@ -11,11 +11,11 @@ Building a startup requires integrating landing pages, auth, Stripe, and AI tool
 - [An Agentic Interface for End-to-End Probabilistic Seismic Hazard and Risk Analysis](https://arxiv.org/abs/2607.16249) (framework - USEFUL Tier)
 - [Bitbucket | Atlassian Community](https://community.atlassian.com/t5/bitbucket/ct-p/bitbucket) (tutorial - USEFUL Tier)
 - [CG4AI: A Column Generation Framework for Training AI Models Under Constraints](https://arxiv.org/abs/2608.26375) (framework - USEFUL Tier)
+- [Calibrating Small Language Models for Claim Check-Worthiness Detection](https://arxiv.org/abs/2608.30731) (framework - USEFUL Tier)
 - [Flama: a Python framework for development and deployment of production-ready APIs, machine learning, and LLM services](https://arxiv.org/abs/2608.18733) (mcp-server - USEFUL Tier)
 - [Quota Marketplace: Dynamic Pricing for Efficient Allocation of ML Training Resources](https://arxiv.org/abs/2607.09802) (framework - USEFUL Tier)
 - [Graph-Based Modeling of Financial Volatility Dynamics](https://arxiv.org/abs/2608.26127) (framework - USEFUL Tier)
 - [Purchase & watch Primetime Channels on YouTube - Computer - YouTube Help](https://support.google.com/youtube/answer/12769543?sjid=5082629036510608231-NA) (tutorial - USEFUL Tier)
-- [Apple Watch - Apple](https://www.apple.com/watch/) (tutorial - USEFUL Tier)
 
 ## Best GitHub Repositories
 
@@ -42,4 +42,4 @@ https://github.com/shadcn-ui/taxonomy (Taxonomy App)
 
 ---
 
-*Last updated: 2026-09-01 03:20 IST*
+*Last updated: 2026-09-01 11:12 IST*

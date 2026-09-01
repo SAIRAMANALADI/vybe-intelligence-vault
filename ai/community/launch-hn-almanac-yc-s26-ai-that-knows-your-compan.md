@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - producthunt
-status: active
+status: inactive
 resource_id: hackernews:launch-hn-almanac-yc-s26-ai-that-knows-your-compan
 first_seen: '2026-08-31T21:45:14.150992+05:30'
 last_seen: '2026-09-01T03:03:13.477240+05:30'
 last_checked: '2026-09-01T03:03:13.477240+05:30'
 health_score: 100
 ---
+
 
 # Launch HN: Almanac (YC S26) – AI that knows your company
 

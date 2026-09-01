@@ -4,14 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/olegnazarov/rag-security-scanner
-collected_at: '2026-08-11T00:56:04.093950+05:30'
-published_at: '2026-08-04T06:08:54Z'
+collected_at: '2026-09-01T10:55:48.805758+05:30'
+published_at: '2026-08-31T16:01:21Z'
 tags:
 - github-repo
 - openai
 - python
 - rag
-stars: 72
+stars: 74
 language: Python
 status: active
 license: MIT
@@ -19,9 +19,9 @@ archived: false
 created_at: '2025-07-15T14:16:25Z'
 pushed_at: '2025-09-14T06:39:55Z'
 resource_id: github:olegnazarov/rag-security-scanner
-first_seen: '2026-08-11T00:56:04.093950+05:30'
-last_seen: '2026-08-11T00:56:04.093950+05:30'
-last_checked: '2026-08-11T00:56:04.093950+05:30'
+first_seen: '2026-09-01T10:55:48.805758+05:30'
+last_seen: '2026-09-01T10:55:48.805758+05:30'
+last_checked: '2026-09-01T10:55:48.805758+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Identifies critical vulnerabilities in AI-powered applications (e.g., chatbots, RAG systems) via automated security testing.
-- **Features**: Detects prompt injection, OWASP Top 10 LLM risks, and other AI-specific threats using Python-based tooling.
-- **Scope**: Supports red-team assessments, security audits, and penetration testing for LLM/RAG deployments.
+- **Purpose**: Automated security scanner for RAG/LLM-based AI applications (e.g., chatbots, assistants) to detect critical vulnerabilities like prompt injection, OWASP Top 10 risks, and red-team attack vectors.
+- **Features**: Supports Python-based testing for AI security audits, integrates with OpenAI/ChatGPT, and includes automated penetration testing for LLM/RAG systems.
+- **Scope**: Covers prompt-injection, cybersecurity risks, and vulnerability assessment in AI-powered systems, last updated August 31, 2026.
 
 ## Why It Matters
 
@@ -40,11 +40,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: olegnazarov
-- Stars: 72
+- Stars: 74
 - Forks: 10
 - Language: Python
 - Topics: ai-security, artificial-intelligence, automated-testing, chatgpt, cybersecurity, llm, llm-security, openai, owasp, penetration-testing, prompt-injection, python, rag, rag-security, red-team, security, security-audit, security-testing, security-tools, vulnerability-scanner
-- Last Updated: 2026-08-04T06:08:54Z
+- Last Updated: 2026-08-31T16:01:21Z
 - License: MIT
 - Archived: No
 - Created At: 2025-07-15T14:16:25Z

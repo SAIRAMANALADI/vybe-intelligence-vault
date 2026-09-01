@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/eosphoros-ai/DB-GPT
-collected_at: '2026-08-11T00:56:09.122649+05:30'
-published_at: '2026-08-10T18:38:23Z'
+collected_at: '2026-09-01T10:55:53.821930+05:30'
+published_at: '2026-09-01T04:02:36Z'
 tags:
 - agents
 - github-repo
@@ -13,17 +13,17 @@ tags:
 - openai
 - python
 - rag
-stars: 19684
+stars: 19834
 language: Python
 status: active
 license: MIT
 archived: false
 created_at: '2023-04-13T14:52:43Z'
-pushed_at: '2026-08-08T09:31:45Z'
+pushed_at: '2026-08-31T03:49:48Z'
 resource_id: github:eosphoros-ai/db-gpt
-first_seen: '2026-08-11T00:56:09.122649+05:30'
-last_seen: '2026-08-11T00:56:09.122649+05:30'
-last_checked: '2026-08-11T00:56:09.122649+05:30'
+first_seen: '2026-09-01T10:55:53.821930+05:30'
+last_seen: '2026-09-01T10:55:53.821930+05:30'
+last_checked: '2026-09-01T10:55:53.821930+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Open-source agentic AI framework designed to serve as a data assistant for next-gen AI + Data products, enabling natural language interaction with databases via LLMs (e.g., DeepSeek, GPT-4, Vicuna).
-- **Key Features**: Supports **RAG (Retrieval-Augmented Generation)**, **private/local LLM deployment**, and **multi-agent orchestration** for database operations, with security and hacktoberfest contributions.
-- **Tech Stack**: Primarily Python-based, integrates with **BGI (Big Data Infrastructure)**, and emphasizes **private/local LLM** execution for enhanced security and customization.
+- **Agentic AI Data Assistant**: DB-GPT is an open-source framework designed to act as an autonomous AI agent for data interaction, leveraging large language models (LLMs) like GPT-4 and DeepSeek to enable natural language querying and analysis of databases.
+
+- **Modular Architecture**: Built in Python, it supports plugins, Retrieval-Augmented Generation (RAG), and integrates with private/local LLMs for enhanced security and customization, targeting next-gen AI + Data products.
+
+- **Multi-Model & Security Focus**: Supports multiple LLMs (e.g., Vicuna, BGI), emphasizes private/local deployment for data security, and includes features like hacktoberfest contributions, making it adaptable for enterprise use.
 
 ## Why It Matters
 
@@ -42,15 +44,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: eosphoros-ai
-- Stars: 19684
-- Forks: 2864
+- Stars: 19834
+- Forks: 2904
 - Language: Python
 - Topics: agents, bgi, database, deepseek, gpt, gpt-4, hacktoberfest, llm, private, rag, security, vicuna
-- Last Updated: 2026-08-10T18:38:23Z
+- Last Updated: 2026-09-01T04:02:36Z
 - License: MIT
 - Archived: No
 - Created At: 2023-04-13T14:52:43Z
-- Pushed At: 2026-08-08T09:31:45Z
+- Pushed At: 2026-08-31T03:49:48Z
 
 ## Possible Use Cases
 

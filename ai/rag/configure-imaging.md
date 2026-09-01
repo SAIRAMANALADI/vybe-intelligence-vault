@@ -3,9 +3,9 @@ title: Configure imaging
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://gohugo.io/configuration/imaging/#avif-images
-published_at: '2026-08-10T03:30:18.980659+05:30'
-collected_at: '2026-08-10T03:30:18.980673+05:30'
+source_url: https://gohugo.io/configuration/imaging/#avif
+published_at: '2026-09-01T11:01:44.090221+05:30'
+collected_at: '2026-09-01T11:01:44.090231+05:30'
 tags:
 - hackernews
 - rag
@@ -13,9 +13,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:configure-imaging
-first_seen: '2026-08-10T03:30:18.980673+05:30'
-last_seen: '2026-08-10T03:30:18.980673+05:30'
-last_checked: '2026-08-10T03:30:18.980673+05:30'
+first_seen: '2026-09-01T11:01:44.090231+05:30'
+last_seen: '2026-09-01T11:01:44.090231+05:30'
+last_checked: '2026-09-01T11:01:44.090231+05:30'
 health_score: 100
 ---
 
@@ -23,11 +23,13 @@ health_score: 100
 
 ## Summary
 
-- **Image Processing Configuration**: Hugo's `imaging` settings support format-specific parameters for AVIF (`compression`, `encoderSpeed`, `hint`, `quality`), JPEG (`quality`), and WebP (`compression`, `hint`, `method`, `quality`, `useSharpYuv`), with defaults optimized for performance and quality trade-offs.
+- **Image Processing Defaults**: Default settings include `anchor: smart`, `bgColor: #ffffff`, `resampleFilter: box`, and format-specific defaults (e.g., AVIF `quality: 60`, JPEG `quality: 75`, WebP `quality: 75`).
 
-- **Metadata Handling**: The `meta` method allows granular control over EXIF/IPTC/XMP metadata extraction via `fields` (glob patterns) and `sources` (e.g., `exif`, `iptc`), excluding technical fields by default to reduce cache size.
+- **Format-Specific Encoding Controls**:
+  - **AVIF**: Supports `lossy`/`lossless` compression, `encoderSpeed` (1–10), `hint` (e.g., `photo`, `text`), and `quality` (1–100).
+  - **WebP**: Configurable via `compression`, `method` (0–6), `hint`, `quality` (1–100), and `useSharpYuv` (bool).
 
-- **Resampling & Focal Points**: `resampleFilter` (e.g., `box`, `lanczos`, `catmullRom`) dictates pixel interpolation during resizing, while `anchor` (`smart` or directional) defines cropping/filling focal points using `muesli/smartcrop` for automated detection.
+- **Metadata Extraction**: `Meta` method allows granular control over EXIF/IPTC/XMP fields via `fields` (glob patterns) and `sources` (e.g., `['exif', 'iptc']`), excluding technical metadata by default for performance.
 
 ## Why It Matters
 
@@ -37,7 +39,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-10T03:30:18.980659+05:30
+- Published: 2026-09-01T11:01:44.090221+05:30
 
 ## Related Tags
 
@@ -48,4 +50,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://gohugo.io/configuration/imaging/#avif-images
+Original source: https://gohugo.io/configuration/imaging/#avif

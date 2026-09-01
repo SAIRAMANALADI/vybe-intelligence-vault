@@ -4,19 +4,18 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.youtube.com/c/MilvusVectorDatabase
-published_at: '2026-07-20T15:12:16.492962+05:30'
-collected_at: '2026-07-20T15:12:16.492974+05:30'
+published_at: '2026-09-01T11:01:47.636068+05:30'
+collected_at: '2026-09-01T11:01:47.636075+05:30'
 tags:
 - hackernews
 - rag
-- scripts
 - web-crawled
 - youtube
 status: active
 resource_id: blog:zilliz-youtube
-first_seen: '2026-07-20T15:12:16.492974+05:30'
-last_seen: '2026-07-20T15:12:16.492974+05:30'
-last_checked: '2026-07-20T15:12:16.492974+05:30'
+first_seen: '2026-09-01T11:01:47.636075+05:30'
+last_seen: '2026-09-01T11:01:47.636075+05:30'
+last_checked: '2026-09-01T11:01:47.636075+05:30'
 health_score: 100
 ---
 
@@ -24,11 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **Platform Overview**: YouTube is a video-sharing platform owned by Google LLC, offering services including content hosting, streaming, monetization, and community engagement tools for creators and advertisers.
+- **Platform Overview**: YouTube is a video-sharing platform owned by Google LLC, enabling users to upload, share, and view videos, with additional functionalities for creators, advertisers, and developers.
 
-- **Developer & Technical Resources**: Provides APIs, SDKs, and documentation via [YouTube Developers](https://developers.google.com/youtube) for integration, analytics, and automation of YouTube functionalities.
+- **Technical Infrastructure**: Utilizes Google's cloud infrastructure for scalability, with APIs (YouTube Data API, YouTube Analytics API) supporting integration and third-party development.
 
-- **Policy & Compliance**: Enforces [Terms of Service](https://www.youtube.com/t/terms), [Privacy Policy](https://www.youtube.com/t/privacy), and [Community Guidelines](https://www.youtube.com/about/policies/) to regulate content, copyright, and user behavior.
+- **Content & Monetization**: Supports diverse content types (videos, live streams) with monetization options (ads, YouTube Premium, channel memberships), governed by policies for copyright, privacy, and safety.
 
 ## Why It Matters
 
@@ -38,13 +37,12 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-07-20T15:12:16.492962+05:30
+- Published: 2026-09-01T11:01:47.636068+05:30
 
 ## Related Tags
 
 - hackernews
 - rag
-- scripts
 - web-crawled
 - youtube
 

@@ -12,10 +12,10 @@ Aligning skill development with current hiring signals helps developers optimize
 - [Job-a-Thon](https://practice.geeksforgeeks.org/events/rec/job-a-thon/) (tutorial - USEFUL Tier)
 - [Counterfactual Bias Testing for Application Tracking System](https://arxiv.org/abs/2608.26899) (prompt - USEFUL Tier)
 - [Probabilistic Salary Prediction with Graph Attention Networks and a Mixture Density Network](https://arxiv.org/abs/2606.11663) (framework - USEFUL Tier)
+- [Gender, Race, and Intersectional Bias in Resume Screening via Language Model Retrieval](https://arxiv.org/abs/2407.20371) (framework - USEFUL Tier)
 - [Understanding AI Anxiety in the Workplace: A Multimethod Investigation Using Fear Acquisition Theory and the Technology Acceptance Model](https://arxiv.org/abs/2608.14609) (framework - USEFUL Tier)
 - [Lost in Phonation: Voice Quality Variation as an Evaluation Dimension for Speech Foundation Models](https://arxiv.org/abs/2510.25577) (framework - USEFUL Tier)
 - [Generative Ontology Induction: Domain-Agnostic Schema Discovery from Document Corpora Using Large Language Models](https://arxiv.org/abs/2607.16201) (template - USEFUL Tier)
-- [TRACE Bench: Task-driven Roleplay Agentic Checklist Evaluation](https://arxiv.org/abs/2608.11236) (framework - USEFUL Tier)
 
 ## Best GitHub Repositories
 
@@ -35,4 +35,4 @@ Aligning skill development with current hiring signals helps developers optimize
 
 ---
 
-*Last updated: 2026-09-01 03:20 IST*
+*Last updated: 2026-09-01 11:12 IST*

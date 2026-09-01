@@ -4,10 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/KnowledgeXLab/LeanRAG
-collected_at: '2026-08-11T00:56:24.112662+05:30'
-published_at: '2026-08-04T08:00:33Z'
+collected_at: '2026-09-01T10:56:08.846493+05:30'
+published_at: '2026-08-22T07:48:50Z'
 tags:
+- benchmark
 - github-repo
+- hackernews
 - python
 - rag
 stars: 257
@@ -17,9 +19,9 @@ archived: false
 created_at: '2025-05-19T09:31:30Z'
 pushed_at: '2026-07-07T06:10:59Z'
 resource_id: github:knowledgexlab/leanrag
-first_seen: '2026-08-11T00:56:24.112662+05:30'
-last_seen: '2026-08-11T00:56:24.112662+05:30'
-last_checked: '2026-08-11T00:56:24.112662+05:30'
+first_seen: '2026-09-01T10:56:08.846493+05:30'
+last_seen: '2026-09-01T10:56:08.846493+05:30'
+last_checked: '2026-09-01T10:56:08.846493+05:30'
 health_score: 100
 ---
 
@@ -27,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Semantic Aggregation & Hierarchical Retrieval**: Implements a knowledge-graph-based RAG framework with multi-level retrieval (e.g., entity → subgraph → full graph) and semantic aggregation to enhance contextual relevance in generation tasks.
-
-- **Optimized for AAAI 2026**: Designed for high-performance knowledge-grounded generation, leveraging graph structures to mitigate hallucinations and improve factual consistency in LLMs.
-
-- **Python-Based Implementation**: Provides modular, extensible codebase with tools for knowledge graph construction, retrieval augmentation, and hierarchical query processing.
+- **Semantic Aggregation & Hierarchical Retrieval**: Implements a knowledge-graph-based RAG framework with multi-level retrieval (e.g., node, subgraph, global) and semantic aggregation for improved contextual relevance.
+- **Efficiency Optimizations**: Leverages lightweight graph traversal and pruning techniques to reduce computational overhead while maintaining retrieval accuracy.
+- **Python-Based Implementation**: Provides an open-source toolkit with modular components for integrating knowledge graphs into LLMs, optimized for AAAI 2026 benchmarks.
 
 ## Why It Matters
 
@@ -44,7 +44,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - Forks: 28
 - Language: Python
 - Topics: None
-- Last Updated: 2026-08-04T08:00:33Z
+- Last Updated: 2026-08-22T07:48:50Z
 - Archived: No
 - Created At: 2025-05-19T09:31:30Z
 - Pushed At: 2026-07-07T06:10:59Z

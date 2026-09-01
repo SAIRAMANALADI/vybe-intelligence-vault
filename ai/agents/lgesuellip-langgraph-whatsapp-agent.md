@@ -4,15 +4,14 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/lgesuellip/langgraph-whatsapp-agent
-collected_at: '2026-08-10T19:23:24.452183+05:30'
-published_at: '2026-07-28T14:06:38Z'
+collected_at: '2026-09-01T10:58:18.933479+05:30'
+published_at: '2026-08-16T03:40:13Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - python
 - workflows
-stars: 239
+stars: 240
 language: Python
 status: active
 license: Apache-2.0
@@ -20,9 +19,9 @@ archived: false
 created_at: '2025-04-11T15:05:10Z'
 pushed_at: '2025-06-10T19:14:06Z'
 resource_id: github:lgesuellip/langgraph-whatsapp-agent
-first_seen: '2026-08-10T19:23:24.452183+05:30'
-last_seen: '2026-08-10T19:23:24.452183+05:30'
-last_checked: '2026-08-10T19:23:24.452183+05:30'
+first_seen: '2026-09-01T10:58:18.933479+05:30'
+last_seen: '2026-09-01T10:58:18.933479+05:30'
+last_checked: '2026-09-01T10:58:18.933479+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **WhatsApp Agent Framework**: Template for deploying AI agents on WhatsApp using LangGraph and Twilio, enabling message/image processing and graph-based agent invocation.
-
-- **Integration & Deployment**: Supports MCP integration and runs on the LangGraph Platform, facilitating custom agent workflows and real-time WhatsApp interactions.
-
-- **Technical Stack**: Python-based repository with 239 stars and 97 forks, last updated on 2026-07-28.
+- **Integration**: Template for deploying AI agents on WhatsApp using **LangGraph**, **Twilio**, and **MCP**, enabling graph-based agent workflows with message/image processing.
+- **Deployment**: Runs on the **LangGraph Platform**, facilitating scalable, customizable agent interactions via WhatsApp.
+- **Tech Stack**: Primarily **Python**-based, with dependencies on Twilio for WhatsApp API and LangGraph for graph-based agent orchestration.
 
 ## Why It Matters
 
@@ -43,11 +40,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: lgesuellip
-- Stars: 239
+- Stars: 240
 - Forks: 97
 - Language: Python
 - Topics: None
-- Last Updated: 2026-07-28T14:06:38Z
+- Last Updated: 2026-08-16T03:40:13Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2025-04-11T15:05:10Z

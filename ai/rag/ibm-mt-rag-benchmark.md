@@ -4,15 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/IBM/mt-rag-benchmark
-collected_at: '2026-08-11T00:55:54.131079+05:30'
-published_at: '2026-08-03T00:50:53Z'
+collected_at: '2026-09-01T10:55:43.815899+05:30'
+published_at: '2026-08-23T22:35:57Z'
 tags:
 - benchmark
 - dataset
 - github-repo
 - python
 - rag
-stars: 150
+stars: 152
 language: Python
 status: active
 license: Apache-2.0
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-12-17T19:26:10Z'
 pushed_at: '2026-07-14T01:32:02Z'
 resource_id: github:ibm/mt-rag-benchmark
-first_seen: '2026-08-11T00:55:54.131079+05:30'
-last_seen: '2026-08-11T00:55:54.131079+05:30'
-last_checked: '2026-08-11T00:55:54.131079+05:30'
+first_seen: '2026-09-01T10:55:43.815899+05:30'
+last_seen: '2026-09-01T10:55:43.815899+05:30'
+last_checked: '2026-09-01T10:55:43.815899+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Evaluates Multi-Turn Retrieval-Augmented Generation (RAG) systems, focusing on conversational context retention and iterative retrieval quality.
-- **Implementation**: Python-based benchmark with standardized metrics for assessing multi-turn RAG performance (e.g., answer correctness, context relevance, and retrieval efficiency).
-- **Scope**: Includes datasets, evaluation scripts, and baseline models to facilitate reproducible research and comparative analysis of RAG frameworks.
+- **Purpose**: Multi-Turn Retrieval-Augmented Generation (RAG) benchmark for evaluating conversational AI systems' performance in multi-turn dialogue scenarios.
+- **Implementation**: Python-based framework with standardized evaluation metrics for assessing RAG models' context retention and response coherence across sequential interactions.
+- **Scope**: Includes datasets and evaluation protocols for benchmarking multi-turn conversational capabilities, last updated August 2026.
 
 ## Why It Matters
 
@@ -41,11 +41,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: IBM
-- Stars: 150
-- Forks: 30
+- Stars: 152
+- Forks: 29
 - Language: Python
 - Topics: None
-- Last Updated: 2026-08-03T00:50:53Z
+- Last Updated: 2026-08-23T22:35:57Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2024-12-17T19:26:10Z

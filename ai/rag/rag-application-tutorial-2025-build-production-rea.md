@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://sysdebug.com/posts/rag-application-tutorial-production-guide/
-published_at: '2026-08-10T21:47:28.868439+05:30'
-collected_at: '2026-08-10T21:47:28.868449+05:30'
+published_at: '2026-09-01T10:54:35.857756+05:30'
+collected_at: '2026-09-01T10:54:35.857768+05:30'
 tags:
 - agents
 - benchmark
@@ -21,9 +21,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:rag-application-tutorial-2025-build-production-rea
-first_seen: '2026-08-10T21:47:28.868449+05:30'
-last_seen: '2026-08-10T21:47:28.868449+05:30'
-last_checked: '2026-08-10T21:47:28.868449+05:30'
+first_seen: '2026-09-01T10:54:35.857768+05:30'
+last_seen: '2026-09-01T10:54:35.857768+05:30'
+last_checked: '2026-09-01T10:54:35.857768+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Core RAG Architecture**: Combines retrieval (dense/sparse embeddings, vector DBs like Supabase) and generation (LLMs) to enhance factual accuracy by grounding responses in external knowledge bases.
+- **Core RAG Architecture**: Combines retrieval (vector DB + embeddings) and generation (LLM) components, with LangChain facilitating pipeline integration; chunking strategies (e.g., recursive, semantic) optimize retrieval granularity.
 
-- **Production Optimizations**: Implements chunking strategies (semantic/size-based), embedding optimization (model selection, dimensionality reduction), hybrid retrieval (dense + sparse), and caching to reduce latency and cost.
+- **Production Optimizations**: Hybrid search (dense + sparse embeddings) and query rewriting improve retrieval accuracy; Supabase-managed vector DB ensures scalability with pgvector; caching and load balancing mitigate latency.
 
-- **Scalability & Monitoring**: Uses load balancing (multi-model inference), Cloudflare Workers for edge deployment, Sentry for observability, and token-efficient techniques (query rewriting, streaming) to balance performance and expenses.
+- **Monitoring & Cost Control**: Sentry integration tracks pipeline failures; token optimization (e.g., truncation, prompt compression) reduces costs; benchmarks highlight trade-offs between retrieval depth and LLM context window usage.
 
 ## Why It Matters
 
@@ -45,7 +45,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-10T21:47:28.868439+05:30
+- Published: 2026-09-01T10:54:35.857756+05:30
 
 ## Related Tags
 

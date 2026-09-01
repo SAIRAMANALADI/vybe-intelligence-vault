@@ -4,8 +4,8 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: http://www.sungjuhwang.com
-published_at: '2026-08-05T22:30:52.076903+05:30'
-collected_at: '2026-08-05T22:30:52.076919+05:30'
+published_at: '2026-09-01T11:00:52.688024+05:30'
+collected_at: '2026-09-01T11:00:52.688031+05:30'
 tags:
 - agents
 - hackernews
@@ -15,9 +15,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:sung-ju-hwang
-first_seen: '2026-08-05T22:30:52.076919+05:30'
-last_seen: '2026-08-05T22:30:52.076919+05:30'
-last_checked: '2026-08-05T22:30:52.076919+05:30'
+first_seen: '2026-09-01T11:00:52.688031+05:30'
+last_seen: '2026-09-01T11:00:52.688031+05:30'
+last_checked: '2026-09-01T11:00:52.688031+05:30'
 health_score: 100
 ---
 
@@ -25,11 +25,11 @@ health_score: 100
 
 ## Summary
 
-- **Academic & Leadership Roles**: Associate Professor at KAIST (KAIST Endowed Chair since 2022), former Assistant Professor at UNIST, and Postdoctoral Research Associate at Disney Research; also CEO of DeepAuto, focusing on self-evolving agentic AI platforms.
+- **Academic Appointment**: Associate Professor at KAIST (KAIST Endowed Chair since 2022), previously Assistant Professor at UNIST and Postdoctoral Research Associate at Disney Research; Ph.D. in Computer Science from UT Austin (2013), advised by Kristen Grauman and Fei Sha.
 
-- **Research Focus**: Specializes in generative AI (LLMs, multimodal models), self-evolving AI (neural architecture search, autonomous research agents), AI for scientific discovery (protein design, drug/material discovery), and on-device learning (compression, federated learning); emphasizes robustness, uncertainty quantification, and adversarial defenses.
+- **Research Focus**: Specializes in generative AI/LLMs, self-evolving AI (neural architecture search, LLM self-training), AI for scientific discovery (protein/molecule/material design), on-device learning (model compression, federated learning), and safe/secure AI (uncertainty quantification, adversarial robustness).
 
-- **Publication & Service**: Published 14+ papers in 2026 (ICLR, ICML, CVPR, ECCV, ACL, TMLR); serves as Senior Area Chair (ICLR/ICML) and Area Chair (NeurIPS, AAAI, CVPR); previously served as AC for ICML/NeurIPS and reviewer for TPAMI, JMLR, and IEEE Transactions.
+- **Publications & Leadership**: Published 200+ papers in top-tier venues (NeurIPS, ICML, ICLR, CVPR, ACL, EMNLP); served as Senior Area Chair (ICLR/ICML), Area Chair (NeurIPS, AAAI, CVPR), and Associate Editor for TPAMI; founded DeepAuto for agentic AI platforms.
 
 ## Why It Matters
 
@@ -39,7 +39,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-08-05T22:30:52.076903+05:30
+- Published: 2026-09-01T11:00:52.688024+05:30
 
 ## Related Tags
 

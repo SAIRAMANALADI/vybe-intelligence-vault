@@ -8,6 +8,7 @@ Academic preprints, benchmark publications, and evaluation frameworks for large 
 | [LLM-Derived Preference Judgments Are Not Self-Consistent](https://arxiv.org/abs/2608.17644) | `ai-coding-agents/` | 70 |
 | [Measurement Without Validity: The Compounding Reliability Problem in Agentic AI Evaluation](https://arxiv.org/abs/2608.00794) | `ai-coding-agents/` | 70 |
 | [What Models Express, Suppress, and Resist: Auditing Open-Weight LLMs with Persona Vectors](https://arxiv.org/abs/2607.13162) | `ai-coding-agents/` | 70 |
+| [Language-Informed Flow Matching for Trend-Guided Structure-Based 3D Molecular Generation](https://arxiv.org/abs/2608.31009) | `ai-coding-agents/` | 70 |
 | [VideoAgent: All-in-One Framework for Video Understanding and Editing](https://arxiv.org/abs/2606.23327) | `ai-coding-agents/` | 70 |
 | [Optimal Design for Multinomial Logit Model with Applications to Best Assortment Identification](https://arxiv.org/abs/2605.25592) | `ai-coding-agents/` | 70 |
 | [The Containment Gap: How Deployed Agentic AI Frameworks Fail Public-Facing Safety Requirements](https://arxiv.org/abs/2606.12797) | `ai-coding-agents/` | 70 |
@@ -19,6 +20,7 @@ Academic preprints, benchmark publications, and evaluation frameworks for large 
 | [A Unifying Perspective on Causal World Models: From Observations to Representations to Structure](https://arxiv.org/abs/2608.13456) | `ai-coding-agents/` | 70 |
 | [Why Git Is the Memory Solution for the Agentic Development Lifecycle](https://arxiv.org/abs/2607.14390) | `ai-coding-agents/` | 70 |
 | [Strategic Buying Agents](https://arxiv.org/abs/2607.04708) | `ai-coding-agents/` | 70 |
+| [AutoScientist-Quant: Self-Evolving Coding Agents for Automatic Research in Quantitative Investment](https://arxiv.org/abs/2608.28632) | `ai-coding-agents/` | 70 |
 | [StagedWorkspace: A Versioned Workspace for Knowledge-Work Agents](https://arxiv.org/abs/2608.18050) | `ai-coding-agents/` | 70 |
 | [ARROW: Augmented Replay for RObust World models](https://arxiv.org/abs/2603.11395) | `ai-coding-agents/` | 70 |
 | [Active Learning Guided Design Space Refinement for Scalable Multi-Objective Bayesian Optimization in Materials Discovery](https://arxiv.org/abs/2608.04651) | `ai-coding-agents/` | 70 |
@@ -27,7 +29,5 @@ Academic preprints, benchmark publications, and evaluation frameworks for large 
 | [Resource-Aware LLM Reasoning for Mobile Edge General Intelligence](https://arxiv.org/abs/2509.23248) | `ai-coding-agents/` | 70 |
 | [RecHarness: A Bandit-Routed Agentic Harness for Self-Evolving Recommender Systems](https://arxiv.org/abs/2607.29241) | `ai-coding-agents/` | 70 |
 | [Multilevel Fair Allocation under Additive Preferences](https://arxiv.org/abs/2608.24400) | `ai-coding-agents/` | 70 |
-| [AgenticData: An Agentic Data Analytics System for Heterogeneous Data](https://arxiv.org/abs/2508.05002) | `ai-coding-agents/` | 70 |
-| [When Collaboration Becomes a Trigger: Collective Evidence-Threshold Backdoors in Multi-Agent Systems](https://arxiv.org/abs/2608.01085) | `ai-coding-agents/` | 70 |
 
 More resources will appear as the harvester collects them.

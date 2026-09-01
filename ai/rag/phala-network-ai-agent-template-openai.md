@@ -4,15 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Phala-Network/ai-agent-template-openai
-collected_at: '2026-08-11T00:56:54.145128+05:30'
+collected_at: '2026-09-01T10:56:38.789820+05:30'
 published_at: '2026-08-09T15:07:02Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - openai
 - rag
 - typescript
+- workflows
 stars: 221
 language: TypeScript
 status: active
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-03-28T19:00:47Z'
 pushed_at: '2024-09-05T18:01:35Z'
 resource_id: github:phala-network/ai-agent-template-openai
-first_seen: '2026-08-11T00:56:54.145128+05:30'
-last_seen: '2026-08-11T00:56:54.145128+05:30'
-last_checked: '2026-08-11T00:56:54.145128+05:30'
+first_seen: '2026-09-01T10:56:38.789820+05:30'
+last_seen: '2026-09-01T10:56:38.789820+05:30'
+last_checked: '2026-09-01T10:56:38.789820+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Template Purpose**: Provides a TypeScript-based contract template for integrating OpenAI's AI agents with the Phala Network, enabling decentralized AI agent execution.
+- **Template Overview**: Provides a TypeScript-based contract template for integrating OpenAI's AI agents with the Phala Network, enabling decentralized AI agent deployment.
 
-- **Key Components**: Includes pre-configured interfaces for OpenAI API interactions, Phala Network SDK integration, and contract deployment scripts for AI agent logic.
+- **Key Components**: Includes pre-configured modules for OpenAI API interactions, contract deployment scripts, and agent workflow orchestration within a Phala Network environment.
 
-- **Technical Stack**: Leverages TypeScript for contract development, OpenAI's API for AI model interactions, and Phala Network's confidential computing for secure off-chain computation.
+- **Purpose**: Facilitates rapid development of AI agents that leverage Phala's confidential computing for secure, off-chain AI inference while maintaining on-chain verifiability.
 
 ## Why It Matters
 

@@ -4,8 +4,8 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Speechify-AI/tts-shims
-collected_at: '2026-08-06T17:17:27.561214+05:30'
-published_at: '2026-07-13T18:28:02Z'
+collected_at: '2026-09-01T11:03:31.873611+05:30'
+published_at: '2026-08-21T19:38:17Z'
 tags:
 - agents
 - github-repo
@@ -17,11 +17,11 @@ status: active
 license: MIT
 archived: false
 created_at: '2026-07-03T11:20:06Z'
-pushed_at: '2026-07-13T18:27:45Z'
+pushed_at: '2026-08-21T19:35:07Z'
 resource_id: github:speechify-ai/tts-shims
-first_seen: '2026-08-06T17:17:27.561214+05:30'
-last_seen: '2026-08-06T17:17:27.561214+05:30'
-last_checked: '2026-08-06T17:17:27.561214+05:30'
+first_seen: '2026-09-01T11:03:31.873611+05:30'
+last_seen: '2026-09-01T11:03:31.873611+05:30'
+last_checked: '2026-09-01T11:03:31.873611+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Provider-Agnostic TTS Shim Layer**: Go-based proxy engine (`tts-shims`) that standardizes API calls from multiple TTS providers (OpenAI, ElevenLabs, Cartesia, etc.) into a unified interface compatible with the Speechify API, enabling seamless integration via a single binary per provider.
+- **Provider-Agnostic TTS Shim Layer**: Go-based repository implementing provider-compatible shims (OpenAI, ElevenLabs, Cartesia, AWS Polly, Deepgram, etc.) that proxy requests to the Speechify API, enabling unified TTS functionality across multiple providers via a single shared engine.
 
-- **Voice-Agent BYOC Support**: Designed for Bring-Your-Own-Cloud (BYOC) architectures, facilitating voice-agent deployments by abstracting provider-specific TTS implementations into a modular, scalable Go framework.
+- **BYOC (Bring Your Own Codec) Architecture**: Designed for voice-agent systems requiring custom TTS integration, with one binary per provider and a modular Go engine facilitating seamless switching between supported TTS services.
 
-- **Minimalist Repository Structure**: Single-engine architecture (Go) with provider-specific binaries, zero external dependencies beyond core Go libraries, and last updated July 2026—indicating active but lightweight maintenance.
+- **Minimalist Implementation**: Single-starred repository with no forks, last updated in August 2026, focusing on lightweight proxy shims for 14 TTS providers while maintaining compatibility with Speechify’s core API.
 
 ## Why It Matters
 
@@ -46,11 +46,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - Forks: 0
 - Language: Go
 - Topics: byoc, cartesia, deepgram, elevenlabs, go, openai, proxy, speechify, text-to-speech, tts, voice-ai
-- Last Updated: 2026-07-13T18:28:02Z
+- Last Updated: 2026-08-21T19:38:17Z
 - License: MIT
 - Archived: No
 - Created At: 2026-07-03T11:20:06Z
-- Pushed At: 2026-07-13T18:27:45Z
+- Pushed At: 2026-08-21T19:35:07Z
 
 ## Possible Use Cases
 

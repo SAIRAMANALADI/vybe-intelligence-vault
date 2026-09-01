@@ -4,16 +4,17 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Azure-Samples/aisearch-openai-rag-audio
-collected_at: '2026-08-11T00:55:29.092113+05:30'
-published_at: '2026-08-09T21:07:51Z'
+collected_at: '2026-09-01T10:55:13.797770+05:30'
+published_at: '2026-08-23T13:14:32Z'
 tags:
 - github-repo
+- hackernews
 - models
 - openai
 - python
 - rag
-- scripts
-stars: 561
+- workflows
+stars: 564
 language: Python
 status: active
 license: MIT
@@ -21,9 +22,9 @@ archived: false
 created_at: '2024-09-19T22:36:40Z'
 pushed_at: '2025-11-19T20:13:53Z'
 resource_id: github:azure-samples/aisearch-openai-rag-audio
-first_seen: '2026-08-11T00:55:29.092113+05:30'
-last_seen: '2026-08-11T00:55:29.092113+05:30'
-last_checked: '2026-08-11T00:55:29.092113+05:30'
+first_seen: '2026-09-01T10:55:13.797770+05:30'
+last_seen: '2026-09-01T10:55:13.797770+05:30'
+last_checked: '2026-09-01T10:55:13.797770+05:30'
 health_score: 100
 ---
 
@@ -31,9 +32,9 @@ health_score: 100
 
 ## Summary
 
-- Implements **VoiceRAG pattern** for interactive voice generative AI using **Azure AI Search** and **Azure OpenAI's `gpt-4o-realtime-preview`** model.
-- Leverages **RAG (Retrieval-Augmented Generation)** with **vector database** capabilities via Azure AI Search for enhanced context-aware responses.
-- Provides a **Python-based** example deployment using **AZD templates** for Azure infrastructure automation.
+- **Implementation**: Demonstrates the VoiceRAG pattern for interactive voice generative AI using Azure AI Search and Azure OpenAI's `gpt-4o-realtime-preview` model.
+- **Architecture**: Combines Retrieval-Augmented Generation (RAG) with Azure services to enable real-time audio-based AI interactions.
+- **Technical Stack**: Python-based, leveraging Azure AI Search (vector database) and OpenAI's GPT models for RAG workflows.
 
 ## Why It Matters
 
@@ -42,11 +43,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: Azure-Samples
-- Stars: 561
-- Forks: 351
+- Stars: 564
+- Forks: 354
 - Language: Python
 - Topics: ai-azd-templates, azd-templates, azure, azure-ai-search, generative-ai, gpt, language-model, openai, rag, retrieval-augmented-generation, search, vector-database
-- Last Updated: 2026-08-09T21:07:51Z
+- Last Updated: 2026-08-23T13:14:32Z
 - License: MIT
 - Archived: No
 - Created At: 2024-09-19T22:36:40Z

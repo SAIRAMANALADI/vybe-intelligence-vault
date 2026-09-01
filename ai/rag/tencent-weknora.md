@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Tencent/WeKnora
-collected_at: '2026-08-11T00:55:19.070506+05:30'
-published_at: '2026-08-10T17:56:51Z'
+collected_at: '2026-09-01T10:55:03.755823+05:30'
+published_at: '2026-09-01T05:23:21Z'
 tags:
 - agents
 - benchmark
@@ -16,17 +16,18 @@ tags:
 - models
 - openai
 - rag
-stars: 19613
+- workflows
+stars: 21076
 language: Go
 status: active
 license: NOASSERTION
 archived: false
 created_at: '2025-07-22T08:01:23Z'
-pushed_at: '2026-08-10T13:28:21Z'
+pushed_at: '2026-09-01T05:23:12Z'
 resource_id: github:tencent/weknora
-first_seen: '2026-08-11T00:55:19.070506+05:30'
-last_seen: '2026-08-11T00:55:19.070506+05:30'
-last_checked: '2026-08-11T00:55:19.070506+05:30'
+first_seen: '2026-09-01T10:55:03.755823+05:30'
+last_seen: '2026-09-01T10:55:03.755823+05:30'
+last_checked: '2026-09-01T10:55:03.755823+05:30'
 health_score: 100
 ---
 
@@ -34,11 +35,11 @@ health_score: 100
 
 ## Summary
 
-- **Modular LLM Platform**: WeKnora converts raw documents into a queryable RAG (Retrieval-Augmented Generation) system, autonomous reasoning agent, and self-maintaining Wiki, supporting multi-tenancy and multi-model LLMs (e.g., OpenAI, Ollama).
+- **Multi-modal Knowledge Platform**: WeKnora transforms raw documents into a queryable RAG system, autonomous reasoning agent, and self-maintaining Wiki using Go, supporting embeddings, vector search, and semantic search.
 
-- **Technical Stack**: Built in Go, integrates embeddings, vector search, reranking, and semantic search for efficient knowledge retrieval and reasoning.
+- **Agentic & Multi-tenant Capabilities**: Integrates LLM agents, OpenAI/Ollama APIs, reranking, and multi-tenancy for chatbots, knowledge bases, and evaluation workflows.
 
-- **Features**: Supports chatbots, question-answering, and evaluation pipelines, with extensible architecture for generative AI applications.
+- **Technical Stack**: Built in Go with plugins (e.g., DSH), supporting generative AI, semantic search, and vector databases for scalable, autonomous knowledge management.
 
 ## Why It Matters
 
@@ -47,15 +48,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: Tencent
-- Stars: 19613
-- Forks: 2811
+- Stars: 21076
+- Forks: 3038
 - Language: Go
-- Topics: agent, agentic, ai, chatbot, embeddings, evaluation, generative-ai, golang, knowledge-base, llm, multi-tenant, multimodel, ollama, openai, question-answering, rag, reranking, semantic-search, vector-search, wiki
-- Last Updated: 2026-08-10T17:56:51Z
+- Topics: agent, agentic, ai, chatbot, dsh-plugin, embeddings, evaluation, generative-ai, golang, knowledge-base, llm, multi-tenant, ollama, openai, question-answering, rag, reranking, semantic-search, vector-search, wiki
+- Last Updated: 2026-09-01T05:23:21Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2025-07-22T08:01:23Z
-- Pushed At: 2026-08-10T13:28:21Z
+- Pushed At: 2026-09-01T05:23:12Z
 
 ## Possible Use Cases
 

@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://dagshub.com/
-published_at: '2026-08-10T21:52:29.351080+05:30'
-collected_at: '2026-08-10T21:52:29.351087+05:30'
+published_at: '2026-09-01T11:00:04.648390+05:30'
+collected_at: '2026-09-01T11:00:04.648397+05:30'
 tags:
 - dataset
 - rag
@@ -15,9 +15,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:dagshub-everything-you-need-to-manage-multimodal-a
-first_seen: '2026-08-10T21:52:29.351087+05:30'
-last_seen: '2026-08-10T21:52:29.351087+05:30'
-last_checked: '2026-08-10T21:52:29.351087+05:30'
+first_seen: '2026-09-01T11:00:04.648397+05:30'
+last_seen: '2026-09-01T11:00:04.648397+05:30'
+last_checked: '2026-09-01T11:00:04.648397+05:30'
 health_score: 100
 ---
 
@@ -25,11 +25,11 @@ health_score: 100
 
 ## Summary
 
-- **Unified AI Data & Model Management**: Platform supports multimodal dataset curation (vision, audio, LLM data), experiment tracking (MLflow-compatible), and model versioning with lineage, enabling end-to-end AI workflow integration.
+- **Unified AI Data & Model Management**: Platform supports curation/annotation of multimodal datasets (vision, audio, LLM), experiment tracking (MLflow-compatible), and model versioning/deployment with lineage tracking across petabyte-scale storage.
 
-- **Scalable Infrastructure & RBAC**: Team/Enterprise tiers offer petabyte-scale storage, multimodal auto-labeling, custom storage integration, and role-based access controls (RBAC) with SSO/LDAP/OIDC support for secure collaboration.
+- **Tiered Pricing & Enterprise Features**: Free tier offers 20GB storage with public repo support; Team plan ($99/user/month) adds private repos, auto-labeling, and 1TB storage; Enterprise provides petabyte-scale management, VPC/air-gapped deployment, SSO/LDAP integration, and organizational RBAC.
 
-- **Deployment Flexibility**: Enterprise edition enables air-gapped on-premise, OpenShift-compatible, or cloud deployments with VPC isolation, petabyte-scale data management, and model deployment to private clusters.
+- **MLOps Integration & Security**: Native compatibility with cloud/on-prem storage, CI/CD/CT pipelines, and open-source formats; Enterprise supports full on-premise deployment with SSO, LDAP, OIDC, and SOC2-compliant security controls.
 
 ## Why It Matters
 
@@ -39,7 +39,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-10T21:52:29.351080+05:30
+- Published: 2026-09-01T11:00:04.648390+05:30
 
 ## Related Tags
 

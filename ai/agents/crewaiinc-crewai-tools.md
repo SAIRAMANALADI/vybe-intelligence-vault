@@ -4,14 +4,15 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/crewAIInc/crewAI-tools
-collected_at: '2026-08-11T00:58:54.260139+05:30'
-published_at: '2026-08-05T21:04:11Z'
+collected_at: '2026-09-01T10:58:38.908626+05:30'
+published_at: '2026-08-28T18:48:23Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - python
-stars: 1461
+- scripts
+- workflows
+stars: 1468
 language: Python
 status: active
 license: MIT
@@ -19,9 +20,9 @@ archived: true
 created_at: '2024-01-11T17:29:13Z'
 pushed_at: '2025-10-23T18:08:34Z'
 resource_id: github:crewaiinc/crewai-tools
-first_seen: '2026-08-11T00:58:54.260139+05:30'
-last_seen: '2026-08-11T00:58:54.260139+05:30'
-last_checked: '2026-08-11T00:58:54.260139+05:30'
+first_seen: '2026-09-01T10:58:38.908626+05:30'
+last_seen: '2026-09-01T10:58:38.908626+05:30'
+last_checked: '2026-09-01T10:58:38.908626+05:30'
 health_score: 100
 ---
 
@@ -29,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Extends CrewAI agents' functionality via modular Python tools, enabling enhanced agent capabilities.
-- **Key Features**: Provides reusable, customizable tools for AI agents, supporting integration with CrewAI's agent framework.
-- **Technical Stack**: Pure Python implementation, compatible with CrewAI's agent orchestration system.
+- **Purpose**: Extends CrewAI agent capabilities via modular Python tools, enabling enhanced functionality for AI-driven workflows.
+- **Key Features**: Provides pre-built tools for common tasks (e.g., web scraping, API interactions) and supports custom tool integration.
+- **Compatibility**: Designed for Python-based CrewAI agents, with active maintenance (last updated Aug 2026) and community-driven contributions.
 
 ## Why It Matters
 
@@ -40,11 +41,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: crewAIInc
-- Stars: 1461
-- Forks: 547
+- Stars: 1468
+- Forks: 546
 - Language: Python
 - Topics: ai, aiagents, crewai, crewai-tools
-- Last Updated: 2026-08-05T21:04:11Z
+- Last Updated: 2026-08-28T18:48:23Z
 - License: MIT
 - Archived: Yes
 - Created At: 2024-01-11T17:29:13Z

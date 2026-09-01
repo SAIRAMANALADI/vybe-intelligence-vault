@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://huggingface.co/docs/hub/spaces
-published_at: '2026-08-11T01:00:08.253635+05:30'
-collected_at: '2026-08-11T01:00:08.253648+05:30'
+published_at: '2026-09-01T11:00:02.275141+05:30'
+collected_at: '2026-09-01T11:00:02.275149+05:30'
 tags:
 - agents
 - creative_dev
@@ -15,14 +15,15 @@ tags:
 - models
 - paper
 - rag
+- reddit
 - scripts
 - web-crawled
 - workflows
 status: active
 resource_id: huggingface:docs/hub
-first_seen: '2026-08-11T01:00:08.253648+05:30'
-last_seen: '2026-08-11T01:00:08.253648+05:30'
-last_checked: '2026-08-11T01:00:08.253648+05:30'
+first_seen: '2026-09-01T11:00:02.275149+05:30'
+last_seen: '2026-09-01T11:00:02.275149+05:30'
+last_checked: '2026-09-01T11:00:02.275149+05:30'
 health_score: 100
 ---
 
@@ -30,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Hosting & Deployment**: Hugging Face Spaces enables hosting ML demo apps via Gradio, Docker, or static HTML/JS, with GPU/accelerated hardware support for performance-critical applications.
+- **Spaces Hosting**: Hugging Face Spaces enables hosting ML demo apps directly on user/organization profiles with support for Gradio, Docker, and static HTML/JavaScript applications.
 
-- **SDK & Integration**: Built-in Python SDK (Gradio) allows rapid prototyping, while Docker support enables arbitrary custom environments; GitHub Actions integration streamlines CI/CD workflows.
+- **GPU Acceleration**: Spaces can be upgraded to run on GPUs or other accelerated hardware for enhanced performance, with ZeroGPU and GPU upgrade options available.
 
-- **Storage & Scalability**: Supports disk usage monitoring, custom domains, and embeddable Spaces; advanced configurations include ZeroGPU, MCP server integration, and API endpoint deployment.
+- **Integration & Management**: Supports GitHub Actions for CI/CD, custom domains, disk usage tracking, and embeddable Spaces, with advanced configurations via `spaces-config-reference`.
 
 ## Why It Matters
 
@@ -44,7 +45,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-11T01:00:08.253635+05:30
+- Published: 2026-09-01T11:00:02.275141+05:30
 
 ## Related Tags
 
@@ -56,6 +57,7 @@ General public resource representing technology updates, guides, or tutorials.
 - models
 - paper
 - rag
+- reddit
 - scripts
 - web-crawled
 - workflows

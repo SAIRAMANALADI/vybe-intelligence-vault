@@ -4,23 +4,23 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/cline/cline
-collected_at: '2026-08-10T03:27:15.726488+05:30'
-published_at: '2026-08-09T21:26:16Z'
+collected_at: '2026-09-01T10:58:04.060151+05:30'
+published_at: '2026-09-01T05:24:14Z'
 tags:
 - agents
 - github-repo
 - typescript
-stars: 65919
+stars: 67251
 language: TypeScript
 status: active
 license: Apache-2.0
 archived: false
 created_at: '2024-07-06T07:28:10Z'
-pushed_at: '2026-08-09T21:07:31Z'
+pushed_at: '2026-09-01T04:06:14Z'
 resource_id: github:cline/cline
-first_seen: '2026-08-10T03:27:15.726488+05:30'
-last_seen: '2026-08-10T03:27:15.726488+05:30'
-last_checked: '2026-08-10T03:27:15.726488+05:30'
+first_seen: '2026-09-01T10:58:04.060151+05:30'
+last_seen: '2026-09-01T10:58:04.060151+05:30'
+last_checked: '2026-09-01T10:58:04.060151+05:30'
 health_score: 100
 ---
 
@@ -28,9 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Autonomous Coding Agent**: Cline operates as an autonomous coding agent, functioning as an SDK, IDE extension (VS Code), or CLI assistant to automate software development tasks.
-- **TypeScript Implementation**: Entirely built in TypeScript, enabling cross-platform compatibility and integration with modern development environments.
-- **High Adoption Metrics**: Rapidly growing ecosystem with **65,919 stars** and **7,080 forks**, indicating strong community adoption and active development.
+- **Autonomous Coding Agent**: Implemented as an SDK, IDE extension, or CLI tool, enabling AI-driven code generation, debugging, and refactoring in TypeScript.
+
+- **Multi-Interface Support**: Provides seamless integration across IDEs (e.g., VS Code) and command-line environments via a unified API.
+
+- **Active Development**: Last updated in September 2026, indicating ongoing maintenance and feature enhancements.
 
 ## Why It Matters
 
@@ -39,15 +41,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: cline
-- Stars: 65919
-- Forks: 7080
+- Stars: 67251
+- Forks: 7262
 - Language: TypeScript
 - Topics: None
-- Last Updated: 2026-08-09T21:26:16Z
+- Last Updated: 2026-09-01T05:24:14Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2024-07-06T07:28:10Z
-- Pushed At: 2026-08-09T21:07:31Z
+- Pushed At: 2026-09-01T04:06:14Z
 
 ## Possible Use Cases
 

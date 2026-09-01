@@ -9,24 +9,24 @@ Starter kits and application templates drastically accelerate the deployment of 
 ## Top Matched Resources
 
 - [wassim249/fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template) (template - ESSENTIAL Tier)
+- [vstorm-co/full-stack-ai-agent-template](https://github.com/vstorm-co/full-stack-ai-agent-template) (template - ESSENTIAL Tier)
+- [ATLAS: Dual-Horizon Diagnostic Evaluation for Industrial Tool-Use Agents](https://arxiv.org/abs/2608.30685) (framework - USEFUL Tier)
 - [MobilePA-Bench: Benchmarking Mobile Planner Agents on Complex Real-World Tasks](https://arxiv.org/abs/2608.23035) (benchmark - USEFUL Tier)
 - [Claw-SWE-Bench: A Benchmark for Evaluating OpenClaw-style Agent Harnesses on Coding Tasks](https://arxiv.org/abs/2606.12344) (prompt - USEFUL Tier)
 - [ZoomV: Temporal Zoom-in for Efficient Long Video Understanding](https://arxiv.org/abs/2504.01407) (framework - USEFUL Tier)
 - [Robust Biharmonic Skinning Using Geometric Fields](https://arxiv.org/abs/2406.00238) (framework - USEFUL Tier)
 - [Future Confidence Distillation in Large Language Models](https://arxiv.org/abs/2607.07626) (framework - USEFUL Tier)
-- [The Hitchhiker's Guide to Agentic AI: From Foundations to Systems](https://arxiv.org/abs/2606.24937) (framework - USEFUL Tier)
-- [Science Edge Evaluation: SEE the Missing Step Toward Real Scientific Discovery](https://arxiv.org/abs/2608.06931) (framework - USEFUL Tier)
 
 ## Best GitHub Repositories
 
 https://github.com/vercel/ai (Vercel AI SDK)
 https://github.com/steven-tey/precedent (Precedent Next.js Template)
 - [wassim249/fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template)
+- [vstorm-co/full-stack-ai-agent-template](https://github.com/vstorm-co/full-stack-ai-agent-template)
 - [vonzosten/awesome-LangGraph](https://github.com/vonzosten/awesome-LangGraph)
 - [Tencent/AI-Infra-Guard](https://github.com/tencent/ai-infra-guard)
 - [h1papc11/healthcare-ai-agent-vault](https://github.com/h1papc11/healthcare-ai-agent-vault)
-- [secureagentics/Adrian](https://github.com/secureagentics/Adrian)
-- [The-Swarm-Corporation/Multi-Agent-Template-App](https://github.com/The-Swarm-Corporation/Multi-Agent-Template-App)
+- [czl9707/build-your-own-openclaw](https://github.com/czl9707/build-your-own-openclaw)
 
 ## Best Learning Resources
 
@@ -44,4 +44,4 @@ https://github.com/steven-tey/precedent (Precedent Next.js Template)
 
 ---
 
-*Last updated: 2026-09-01 03:20 IST*
+*Last updated: 2026-09-01 11:11 IST*

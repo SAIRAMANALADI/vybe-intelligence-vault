@@ -4,14 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/zilliztech/attu
-collected_at: '2026-08-11T01:01:41.419566+05:30'
-published_at: '2026-08-10T03:18:00Z'
+collected_at: '2026-09-01T11:00:25.605895+05:30'
+published_at: '2026-09-01T03:47:19Z'
 tags:
 - github-repo
+- hackernews
 - rag
-- scripts
 - shell
-stars: 3087
+- workflows
+stars: 3135
 language: Shell
 status: active
 license: NOASSERTION
@@ -19,9 +20,9 @@ archived: false
 created_at: '2021-12-09T09:15:33Z'
 pushed_at: '2026-06-11T06:23:28Z'
 resource_id: github:zilliztech/attu
-first_seen: '2026-08-11T01:01:41.419566+05:30'
-last_seen: '2026-08-11T01:01:41.419566+05:30'
-last_checked: '2026-08-11T01:01:41.419566+05:30'
+first_seen: '2026-09-01T11:00:25.605895+05:30'
+last_seen: '2026-09-01T11:00:25.605895+05:30'
+last_checked: '2026-09-01T11:00:25.605895+05:30'
 health_score: 100
 ---
 
@@ -29,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Attu**: A web-based GUI designed to simplify interactions with **Milvus**, a vector database, by providing an intuitive interface for managing collections, indexes, and queries.
-- **Shell-based**: Primarily implemented in **Shell scripts**, enabling lightweight deployment and integration with Milvus environments.
-- **Features**: Supports real-time monitoring, data visualization, and CRUD operations for vector databases, enhancing usability for developers and operators.
+- **Attu**: A web-based GUI designed as the primary management interface for Milvus, a vector database, providing user-friendly visualization and control over vector database operations.
+- **Technical Stack**: Primarily implemented in **Shell**, with dependencies on Milvus APIs for backend integration and frontend rendering for real-time data interaction.
+- **Features**: Enables cluster monitoring, data schema management, and query execution, optimized for scalability and ease of use in vector database workflows.
 
 ## Why It Matters
 
@@ -40,11 +41,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: zilliztech
-- Stars: 3087
-- Forks: 219
+- Stars: 3135
+- Forks: 223
 - Language: Shell
 - Topics: attu, milvus, vector-database
-- Last Updated: 2026-08-10T03:18:00Z
+- Last Updated: 2026-09-01T03:47:19Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2021-12-09T09:15:33Z

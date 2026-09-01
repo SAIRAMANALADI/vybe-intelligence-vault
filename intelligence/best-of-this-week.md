@@ -10,6 +10,7 @@ Curated highlights from the current week's collection, representing high-quality
 *   [LLM-Derived Preference Judgments Are Not Self-Consistent](https://arxiv.org/abs/2608.17644) (Score: 70) - Category: `ai-coding-agents/`
 *   [Measurement Without Validity: The Compounding Reliability Problem in Agentic AI Evaluation](https://arxiv.org/abs/2608.00794) (Score: 70) - Category: `ai-coding-agents/`
 *   [What Models Express, Suppress, and Resist: Auditing Open-Weight LLMs with Persona Vectors](https://arxiv.org/abs/2607.13162) (Score: 70) - Category: `ai-coding-agents/`
+*   [Language-Informed Flow Matching for Trend-Guided Structure-Based 3D Molecular Generation](https://arxiv.org/abs/2608.31009) (Score: 70) - Category: `ai-coding-agents/`
 *   [VideoAgent: All-in-One Framework for Video Understanding and Editing](https://arxiv.org/abs/2606.23327) (Score: 70) - Category: `ai-coding-agents/`
 *   [Optimal Design for Multinomial Logit Model with Applications to Best Assortment Identification](https://arxiv.org/abs/2605.25592) (Score: 70) - Category: `ai-coding-agents/`
 *   [The Containment Gap: How Deployed Agentic AI Frameworks Fail Public-Facing Safety Requirements](https://arxiv.org/abs/2606.12797) (Score: 70) - Category: `ai-coding-agents/`
@@ -18,6 +19,5 @@ Curated highlights from the current week's collection, representing high-quality
 *   [Computation, Condensation, and the Incompleteness Between Them: A Coupled Foundation of Intelligence](https://arxiv.org/abs/2303.04203) (Score: 70) - Category: `ai-coding-agents/`
 *   [Failure as a Process: An Anatomy of CLI Coding Agent Trajectories](https://arxiv.org/abs/2607.09510) (Score: 70) - Category: `ai-coding-agents/`
 *   [From ML Predictions to Informed Diagnostic Assistance Using the Toulmin Model of Argumentation](https://arxiv.org/abs/2607.09664) (Score: 70) - Category: `ai-coding-agents/`
-*   [A Unifying Perspective on Causal World Models: From Observations to Representations to Structure](https://arxiv.org/abs/2608.13456) (Score: 70) - Category: `ai-coding-agents/`
 
 More resources will appear as the harvester collects them.

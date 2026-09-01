@@ -4,16 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TIMAN-group/PlugMem
-collected_at: '2026-08-11T00:56:24.224761+05:30'
-published_at: '2026-08-10T02:18:39Z'
+collected_at: '2026-09-01T10:56:08.835978+05:30'
+published_at: '2026-08-31T12:38:46Z'
 tags:
 - agents
-- benchmark
 - github-repo
+- models
 - python
 - rag
-- workflows
-stars: 280
+stars: 295
 language: Python
 status: active
 license: Apache-2.0
@@ -21,9 +20,9 @@ archived: false
 created_at: '2026-02-09T22:43:38Z'
 pushed_at: '2026-07-09T05:51:21Z'
 resource_id: github:timan-group/plugmem
-first_seen: '2026-08-11T00:56:24.224761+05:30'
-last_seen: '2026-08-11T00:56:24.224761+05:30'
-last_checked: '2026-08-11T00:56:24.224761+05:30'
+first_seen: '2026-09-01T10:56:08.835978+05:30'
+last_seen: '2026-09-01T10:56:08.835978+05:30'
+last_checked: '2026-09-01T10:56:08.835978+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Plug-and-play long-term memory integration**: Enables LLM agents to dynamically attach and utilize external memory modules without architectural modifications, leveraging a modular framework for scalable knowledge retention.
-
-- **Hybrid retrieval-augmented architecture**: Combines dense retrieval (e.g., vector embeddings) with structured memory graphs to optimize context relevance and long-term dependency tracking in agentic workflows.
-
-- **ICML 2026 benchmarking focus**: Evaluates memory-augmented agents on tasks requiring extended temporal reasoning, with open-source Python implementation supporting custom memory plugins and multi-agent collaboration.
+- **Plug-and-play long-term memory integration** for LLM agents, enabling persistent contextual retention without fine-tuning (ICML 2026 submission).
+- **Modular architecture** combining retrieval-augmented generation (RAG) with agent-memory systems for scalable, pluggable memory plugins.
+- **Python-based implementation** with 295 stars, supporting dynamic memory updates and agent-environment interaction tracking.
 
 ## Why It Matters
 
@@ -44,11 +41,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: TIMAN-group
-- Stars: 280
-- Forks: 27
+- Stars: 295
+- Forks: 28
 - Language: Python
 - Topics: agent-memory, llm-agent, rag
-- Last Updated: 2026-08-10T02:18:39Z
+- Last Updated: 2026-08-31T12:38:46Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2026-02-09T22:43:38Z

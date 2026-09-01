@@ -18,13 +18,13 @@ MCP provides a unified way for LLMs to securely interact with file systems, data
 ## Current Signal
 
 <!-- GENERATED:CURRENT_SIGNAL_START -->
-Active signals: 161 resources matched in the intelligence vault.
+Active signals: 168 resources matched in the intelligence vault.
 Recently detected signals:
-- [How to Build an MCP Server with Gradio](../ai/models/huggingface-blog-gradio-mcp.md) (Source: Unknown Source) - Collected 2026-09-01
-- [Upskill your LLMs With Gradio MCP Servers](../ai/models/huggingface-blog-gradio-mcp-servers.md) (Source: Unknown Source) - Collected 2026-09-01
-- [Building the Hugging Face MCP Server](../ai/models/huggingface-blog-building-hf-mcp.md) (Source: Unknown Source) - Collected 2026-09-01
-- [Five Big Improvements to Gradio MCP Servers](../ai/models/huggingface-blog-gradio-mcp-updates.md) (Source: Unknown Source) - Collected 2026-09-01
-- [Implementing MCP Servers in Python: An AI Shopping Assistant with Gradio](../ai/models/huggingface-blog-gradio-vton-mcp.md) (Source: Unknown Source) - Collected 2026-09-01
+- [GitHub Copilot app · GitHub](../ai/agents/features-ai.md) (Source: Unknown Source) - Collected 2026-09-01
+- [SpeechifyAI Agents: Real-Time Voice AI Overview | SpeechifyAI API](../ai/agents/speechifyai-agents-real-time-voice-ai-overview-spe.md) (Source: Unknown Source) - Collected 2026-09-01
+- [esxr/langgraph-mcp](../ai/rag/esxr-langgraph-mcp.md) (Source: Unknown Source) - Collected 2026-09-01
+- [sickn33/agentic-awesome-skills](../ai/agents/sickn33-agentic-awesome-skills.md) (Source: Unknown Source) - Collected 2026-09-01
+- [0x4m4/hexstrike-ai](../ai/agents/0x4m4-hexstrike-ai.md) (Source: Unknown Source) - Collected 2026-09-01
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -65,105 +65,105 @@ Recently detected signals:
 - Language: Unknown
 - Description: *   Provides 80+ production-ready Python examples for autonomous, multi-agent, and agentic AI systems.
 
-### 8. [cloudflare/mcp-server-cloudflare](../ai/resources/cloudflare-mcp-server-cloudflare.md) ([GitHub](https://github.com/cloudflare/mcp-server-cloudflare))
+### 8. [esxr/langgraph-mcp](../ai/rag/esxr-langgraph-mcp.md) ([GitHub](https://github.com/esxr/langgraph-mcp))
+- Stars: 0
+- Language: Unknown
+- Description: - **Purpose**: Provides a LangGraph-based solution template for the Model Context Protocol (MCP), enabling structured multi-agent workflows in Python.
+
+### 9. [cloudflare/mcp-server-cloudflare](../ai/resources/cloudflare-mcp-server-cloudflare.md) ([GitHub](https://github.com/cloudflare/mcp-server-cloudflare))
 - Stars: 0
 - Language: Unknown
 - Description: - **TypeScript MCP Server for Cloudflare**: A TypeScript-based implementation of a Model Context Protocol (MCP) server providing programmatic access to Cloudflare's services and APIs.
 
-### 9. [activepieces/activepieces](../ai/rag/activepieces-activepieces.md) ([GitHub](https://github.com/activepieces/activepieces))
+### 10. [activepieces/activepieces](../ai/rag/activepieces-activepieces.md) ([GitHub](https://github.com/activepieces/activepieces))
 - Stars: 0
 - Language: Unknown
 - Description: - **Repository Overview**: Open-source TypeScript framework (`activepieces/activepieces`) for AI agents, MCP servers, and workflow automation (~400 pre-built MCP servers), positioned as an alternat...
 
-### 10. [esxr/langgraph-mcp](../ai/rag/esxr-langgraph-mcp.md) ([GitHub](https://github.com/esxr/langgraph-mcp))
-- Stars: 0
-- Language: Unknown
-- Description: - **Purpose**: LangGraph solution template for **Model Context Protocol (MCP)**, enabling structured multi-agent workflows in Python.
-
-### 11. [patchy631/ai-engineering-hub](../ai/rag/patchy631-ai-engineering-hub.md) ([GitHub](https://github.com/patchy631/ai-engineering-hub))
-- Stars: 0
-- Language: Unknown
-- Description: - **Content Focus**: Repository provides advanced tutorials on **Large Language Models (LLMs)**, **Retrieval-Augmented Generation (RAG)**, and **real-world AI agent applications**, emphasizing prac...
-
-### 12. [Jpisnice/shadcn-ui-mcp-server](../web-development/shadcn-ui/jpisnice-shadcn-ui-mcp-server.md) ([GitHub](https://github.com/jpisnice/shadcn-ui-mcp-server))
+### 11. [Jpisnice/shadcn-ui-mcp-server](../web-development/shadcn-ui/jpisnice-shadcn-ui-mcp-server.md) ([GitHub](https://github.com/jpisnice/shadcn-ui-mcp-server))
 - Stars: 0
 - Language: Unknown
 - Description: A mcp server to allow LLMS gain context about shadcn ui component structure,usage and installation,compaitable with react,svelte 5,vue & React Native
 
-### 13. [study8677/antigravity-workspace-template](../ai/rag/study8677-antigravity-workspace-template.md) ([GitHub](https://github.com/study8677/antigravity-workspace-template))
+### 12. [study8677/antigravity-workspace-template](../ai/rag/study8677-antigravity-workspace-template.md) ([GitHub](https://github.com/study8677/antigravity-workspace-template))
 - Stars: 0
 - Language: Unknown
 - Description: - **Multi-agent knowledge engine**: Enables grounded Q&A with file paths and line numbers for AI IDEs (Claude Code, Cursor, Codex CLI), leveraging RAG and knowledge graphs for codebase-specific res...
 
-### 14. [github/github-mcp-server](../ai/resources/github-github-mcp-server.md) ([GitHub](https://github.com/github/github-mcp-server))
+### 13. [github/github-mcp-server](../ai/resources/github-github-mcp-server.md) ([GitHub](https://github.com/github/github-mcp-server))
 - Stars: 0
 - Language: Unknown
 - Description: GitHub's official MCP Server
 
-### 15. [WenyuChiou/awesome-agentic-ai-zh](../ai/rag/wenyuchiou-awesome-agentic-ai-zh.md) ([GitHub](https://github.com/wenyuchiou/awesome-agentic-ai-zh))
-- Stars: 0
-- Language: Unknown
-- Description: *   Comprehensive trilingual (ZH/EN) learning roadmap for agentic AI, spanning LLM fundamentals to multi-agent system architectures.
-
-### 16. [Pinecone · GitHub](../ai/rag/pinecone-github.md) ([GitHub](https://github.com/pinecone-io))
+### 14. [Pinecone · GitHub](../ai/rag/pinecone-github.md) ([GitHub](https://github.com/pinecone-io))
 - Stars: 0
 - Language: Unknown
 - Description: - **Specialized Vector Database**: Pinecone is a managed vector database optimized for high-performance similarity search and retrieval-augmented generation (RAG) in AI applications, enabling scala...
 
-### 17. [mukul975/cve-mcp-server](../ai/resources/mukul975-cve-mcp-server.md) ([GitHub](https://github.com/mukul975/cve-mcp-server))
+### 15. [apecloud/ApeRAG](../ai/rag/apecloud-aperag.md) ([GitHub](https://github.com/apecloud/aperag))
+- Stars: 0
+- Language: Unknown
+- Description: - **Multi-modal indexing**: Supports diverse data types (text, images, etc.) with graph-based retrieval for enhanced context engineering.
+
+### 16. [WenyuChiou/awesome-agentic-ai-zh](../ai/rag/wenyuchiou-awesome-agentic-ai-zh.md) ([GitHub](https://github.com/wenyuchiou/awesome-agentic-ai-zh))
+- Stars: 0
+- Language: Unknown
+- Description: - **Trilingual Learning Roadmap**: Curates 240+ resources spanning LLM fundamentals to multi-agent systems, with hands-on examples in English, Traditional Chinese (), and Simplified Chinese ().
+
+### 17. [patchy631/ai-engineering-hub](../ai/rag/patchy631-ai-engineering-hub.md) ([GitHub](https://github.com/patchy631/ai-engineering-hub))
+- Stars: 0
+- Language: Unknown
+- Description: - **Repository Overview**: GitHub repository (`patchy631/ai-engineering-hub`) offering advanced tutorials on Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and real-world AI ag...
+
+### 18. [mukul975/cve-mcp-server](../ai/resources/mukul975-cve-mcp-server.md) ([GitHub](https://github.com/mukul975/cve-mcp-server))
 - Stars: 0
 - Language: Unknown
 - Description: Production-grade MCP server giving Claude 27 security intelligence tools across 21 APIs — CVE lookup, EPSS scoring, CISA KEV, MITRE ATT&CK, Shodan, VirusTotal, and more.
 
-### 18. [google-gemini/gemini-cli](../ai/rag/google-gemini-gemini-cli.md) ([GitHub](https://github.com/google-gemini/gemini-cli))
+### 19. [google-gemini/gemini-cli](../ai/rag/google-gemini-gemini-cli.md) ([GitHub](https://github.com/google-gemini/gemini-cli))
 - Stars: 0
 - Language: Unknown
 - Description: - **TypeScript-based CLI agent** integrating Google's Gemini API for terminal-based AI interactions, supporting MCP (Model Context Protocol) client/server architecture.
 
-### 19. [golf-mcp/golf](../ai/agents/golf-mcp-golf.md) ([GitHub](https://github.com/golf-mcp/golf))
+### 20. [golf-mcp/golf](../ai/agents/golf-mcp-golf.md) ([GitHub](https://github.com/golf-mcp/golf))
 - Stars: 0
 - Language: Unknown
 - Description: Production-Ready MCP Server Framework • Build, deploy & scale secure AI agent infrastructure • Includes Auth, Observability, Debugger, Telemetry & Runtime • Run real-world MCPs powering AI Agents
 
-### 20. [SylphxAI/pdf-reader-mcp](../ai/rag/sylphxai-pdf-reader-mcp.md) ([GitHub](https://github.com/sylphxai/pdf-reader-mcp))
+### 21. [SylphxAI/pdf-reader-mcp](../ai/rag/sylphxai-pdf-reader-mcp.md) ([GitHub](https://github.com/sylphxai/pdf-reader-mcp))
 - Stars: 0
 - Language: Unknown
 - Description: Production-ready MCP server for PDF processing - 5-10x faster with parallel processing and 94%+ test coverage
 
-### 21. [GitHub Copilot CLI command reference - GitHub Docs](../ai/rag/github-copilot-cli-command-reference-github-docs.md) ([GitHub](https://docs.github.com/en/copilot/reference/copilot-cli-reference/cli-command-reference))
+### 22. [GitHub Copilot CLI command reference - GitHub Docs](../ai/rag/github-copilot-cli-command-reference-github-docs.md) ([GitHub](https://docs.github.com/en/copilot/reference/copilot-cli-reference/cli-command-reference))
 - Stars: 0
 - Language: Unknown
 - Description: - **Core CLI Commands**: Primary commands include `copilot` (interactive UI), `copilot login` (OAuth authentication with `--host` support), `copilot init` (repository custom instructions), `copilot...
 
-### 22. [ElevenLabs · GitHub](../ai/rag/elevenlabs-github.md) ([GitHub](https://github.com/elevenlabs))
+### 23. [ElevenLabs · GitHub](../ai/rag/elevenlabs-github.md) ([GitHub](https://github.com/elevenlabs))
 - Stars: 0
 - Language: Unknown
 - Description: - **Primary SDKs**: Official client libraries for ElevenLabs API include Python (`elevenlabs-python`, 3.1k stars), JavaScript/Node (`elevenlabs-js`, 439 stars), Kotlin (`elevenlabs-android`), and S...
 
-### 23. [QwenLM/Qwen-Agent](../ai/rag/qwenlm-qwen-agent.md) ([GitHub](https://github.com/qwenlm/qwen-agent))
+### 24. [QwenLM/Qwen-Agent](../ai/rag/qwenlm-qwen-agent.md) ([GitHub](https://github.com/qwenlm/qwen-agent))
 - Stars: 0
 - Language: Unknown
 - Description: - **Framework Overview**: Qwen-Agent is a Python-based agent framework built on Qwen>=3.0, supporting advanced features like Function Calling, MCP (Model Context Protocol), Code Interpreter, RAG (R...
 
-### 24. [braincrew-lab/langgraph-mcp-agents](../ai/agents/braincrew-lab-langgraph-mcp-agents.md) ([GitHub](https://github.com/braincrew-lab/langgraph-mcp-agents))
+### 25. [ai-boost/awesome-harness-engineering](../ai/agents/ai-boost-awesome-harness-engineering.md) ([GitHub](https://github.com/ai-boost/awesome-harness-engineering))
+- Stars: 0
+- Language: Unknown
+- Description: - Curated repository of tools, patterns, and frameworks for AI agent harness engineering, covering evaluation (evals), memory management, Model Context Protocol (MCP), permissions, observability, a...
+
+### 26. [idosal/git-mcp](../ai/agents/idosal-git-mcp.md) ([GitHub](https://github.com/idosal/git-mcp))
+- Stars: 0
+- Language: Unknown
+- Description: - **Purpose**: Acts as a remote MCP (Model Context Protocol) server for GitHub projects to mitigate code hallucinations in AI agents by providing accurate, real-time repository data.
+
+### 27. [braincrew-lab/langgraph-mcp-agents](../ai/agents/braincrew-lab-langgraph-mcp-agents.md) ([GitHub](https://github.com/braincrew-lab/langgraph-mcp-agents))
 - Stars: 0
 - Language: Unknown
 - Description: *   Implements a LangGraph-orchestrated ReAct agent architecture.
-
-### 25. [uber/ADR](../ai/agents/uber-adr.md) ([GitHub](https://github.com/uber/adr))
-- Stars: 0
-- Language: Unknown
-- Description: - **Purpose & Deployment**: ADR (Agent Defense Runtime) secures enterprise AI agents via observability, security benchmarking, and threat detection, with production deployment at Uber.
-
-### 26. [MuhammadUsmanGM/claude-code-best-practices](../ai/agents/muhammadusmangm-claude-code-best-practices.md) ([GitHub](https://github.com/muhammadusmangm/claude-code-best-practices))
-- Stars: 0
-- Language: Unknown
-- Description: - **Repository Structure**: Provides a structured wiki for Claude Code best practices, including setup guides, `CLAUDE.md` templates, workflows, multi-agent patterns, and cost optimization strategies.
-
-### 27. [idosal/git-mcp](../ai/agents/idosal-git-mcp.md) ([GitHub](https://github.com/idosal/git-mcp))
-- Stars: 0
-- Language: Unknown
-- Description: - **Purpose**: GitMCP is an open-source, remote MCP server designed to mitigate "code hallucinations" by providing structured, real-time access to GitHub repositories for AI agents and LLMs.
 
 ### 28. [oxbshw/LLM-Agents-Ecosystem-Handbook](../ai/rag/oxbshw-llm-agents-ecosystem-handbook.md) ([GitHub](https://github.com/oxbshw/llm-agents-ecosystem-handbook))
 - Stars: 0
@@ -190,95 +190,95 @@ Recently detected signals:
 - Language: Unknown
 - Description: Open Source Generic MCP Client for testing & evaluating mcp servers and agents
 
-### 33. [pinecone-io/pinecone-claude-code-plugin](../ai/rag/pinecone-io-pinecone-claude-code-plugin.md) ([GitHub](https://github.com/pinecone-io/pinecone-claude-code-plugin))
+### 33. [0x4m4/hexstrike-ai](../ai/agents/0x4m4-hexstrike-ai.md) ([GitHub](https://github.com/0x4m4/hexstrike-ai))
+- Stars: 0
+- Language: Unknown
+- Description: - **MCP Server for AI Agents**: HexStrike AI MCP Agents is a Python-based MCP server enabling AI agents (e.g., Claude, GPT) to autonomously execute 150+ cybersecurity tools for automated pentesting...
+
+### 34. [pinecone-io/pinecone-claude-code-plugin](../ai/rag/pinecone-io-pinecone-claude-code-plugin.md) ([GitHub](https://github.com/pinecone-io/pinecone-claude-code-plugin))
 - Stars: 0
 - Language: Unknown
 - Description: - **Purpose**: Official Pinecone marketplace repository for Claude Code Plugins, enabling integration with Anthropic's Claude Code ecosystem.
 
-### 34. [snyk/agent-scan](../ai/agents/snyk-agent-scan.md) ([GitHub](https://github.com/snyk/agent-scan))
+### 35. [MuhammadUsmanGM/claude-code-best-practices](../ai/agents/muhammadusmangm-claude-code-best-practices.md) ([GitHub](https://github.com/muhammadusmangm/claude-code-best-practices))
+- Stars: 0
+- Language: Unknown
+- Description: - **Repository Overview**: GitHub repository (`MuhammadUsmanGM/claude-code-best-practices`) providing structured best practices for **Claude Code**, including setup guides, `CLAUDE.md` templates, w...
+
+### 36. [GitHub Copilot app · GitHub](../ai/agents/features-ai.md) ([GitHub](https://github.com/features/ai))
+- Stars: 0
+- Language: Unknown
+- Description: - **Native Agent-Driven Development**: GitHub Copilot app provides a desktop experience for agent-driven workflows, integrating directly with GitHub issues, PRs, and prompts, supporting macOS, Wind...
+
+### 37. [snyk/agent-scan](../ai/agents/snyk-agent-scan.md) ([GitHub](https://github.com/snyk/agent-scan))
 - Stars: 0
 - Language: Unknown
 - Description: - **Purpose**: Security scanner designed to identify vulnerabilities in AI agents, MCP servers, and agent skills.
 
-### 35. [0x4m4/hexstrike-ai](../ai/agents/0x4m4-hexstrike-ai.md) ([GitHub](https://github.com/0x4m4/hexstrike-ai))
+### 38. [affaan-m/agentshield](../ai/agents/affaan-m-agentshield.md) ([GitHub](https://github.com/affaan-m/agentshield))
 - Stars: 0
 - Language: Unknown
-- Description: *   HexStrike AI is an advanced MCP server enabling autonomous execution of 150+ cybersecurity tools by AI agents (e.g., Claude, GPT) for offensive operations.
+- Description: - **Purpose**: AI agent security scanner designed to detect vulnerabilities in agent configurations, MCP servers, and tool permissions.
 
-### 36. [cloudflare/mcp](../ai/resources/cloudflare-mcp.md) ([GitHub](https://github.com/cloudflare/mcp))
+### 39. [cloudflare/mcp](../ai/resources/cloudflare-mcp.md) ([GitHub](https://github.com/cloudflare/mcp))
 - Stars: 0
 - Language: Unknown
 - Description: - **TypeScript-based MCP server** providing programmatic access to Cloudflare's API for managing Cloudflare Workers and other Cloudflare services.
 
-### 37. [cisco-ai-defense/mcp-scanner](../ai/agents/cisco-ai-defense-mcp-scanner.md) ([GitHub](https://github.com/cisco-ai-defense/mcp-scanner))
+### 40. [cisco-ai-defense/mcp-scanner](../ai/agents/cisco-ai-defense-mcp-scanner.md) ([GitHub](https://github.com/cisco-ai-defense/mcp-scanner))
 - Stars: 0
 - Language: Unknown
 - Description: Scan MCP servers for potential threats & security findings.
-
-### 38. [GitHub Copilot app · GitHub](../ai/agents/features-ai.md) ([GitHub](https://github.com/features/ai))
-- Stars: 0
-- Language: Unknown
-- Description: - **Native Agent-Driven Development**: GitHub Copilot app integrates agent workflows directly into GitHub, supporting macOS, Windows, and Linux, with features like isolated sessions, built-in valid...
-
-### 39. [affaan-m/agentshield](../ai/agents/affaan-m-agentshield.md) ([GitHub](https://github.com/affaan-m/agentshield))
-- Stars: 0
-- Language: Unknown
-- Description: - **AI Agent Security Scanner**: Detects vulnerabilities in agent configurations, MCP servers, and tool permissions with multiple integration options (CLI, GitHub Action, ECC plugin, GitHub App).
-
-### 40. [sickn33/agentic-awesome-skills](../ai/agents/sickn33-agentic-awesome-skills.md) ([GitHub](https://github.com/sickn33/agentic-awesome-skills))
-- Stars: 0
-- Language: Unknown
-- Description: - **Core Functionality**: Local, agent-first control plane enabling catalog discovery, agent-owned skill selection, stack validation, and planning via 2,005+ agentic skills, with CLI, local MCP, ca...
 
 ### 41. [GitHub Copilot CLI · GitHub](../ai/agents/features-copilot.md) ([GitHub](https://github.com/features/copilot))
 - Stars: 0
 - Language: Unknown
 - Description: - **Multi-Agent Parallel Execution**: Copilot CLI supports `/fleet` for parallelized subagent execution across multiple models (e.g., Anthropic, Google, OpenAI), enabling concurrent task processing...
 
-### 42. [hammadhaqqani/awesome-devops-ai](../ai/agents/hammadhaqqani-awesome-devops-ai.md) ([GitHub](https://github.com/hammadhaqqani/awesome-devops-ai))
+### 42. [Code-and-Sorts/awesome-copilot-agents](../ai/agents/code-and-sorts-awesome-copilot-agents.md) ([GitHub](https://github.com/code-and-sorts/awesome-copilot-agents))
+- Stars: 0
+- Language: Unknown
+- Description: - **Curated Resource**: A GitHub repository containing a structured collection of GitHub Copilot instructions, prompts, skills, MCPs (Model Context Protocol), and agent markdown files to optimize A...
+
+### 43. [sickn33/agentic-awesome-skills](../ai/agents/sickn33-agentic-awesome-skills.md) ([GitHub](https://github.com/sickn33/agentic-awesome-skills))
+- Stars: 0
+- Language: Unknown
+- Description: - **Core Functionality**: AAS Core serves as a local, agent-first control plane enabling catalog discovery, agent-owned skill selection, stack validation, and planning, with support for 2,005+ agen...
+
+### 44. [hammadhaqqani/awesome-devops-ai](../ai/agents/hammadhaqqani-awesome-devops-ai.md) ([GitHub](https://github.com/hammadhaqqani/awesome-devops-ai))
 - Stars: 0
 - Language: Unknown
 - Description: A curated list of 459 AI tools, agents, MCP servers, and resources for DevOps, SRE, and Platform Engineering
 
-### 43. [modelcontextprotocol/python-sdk](../ai/resources/modelcontextprotocol-python-sdk.md) ([GitHub](https://github.com/modelcontextprotocol/python-sdk))
+### 45. [modelcontextprotocol/python-sdk](../ai/resources/modelcontextprotocol-python-sdk.md) ([GitHub](https://github.com/modelcontextprotocol/python-sdk))
 - Stars: 0
 - Language: Unknown
 - Description: - **Official Python SDK** for Model Context Protocol (MCP) servers and clients, enabling seamless integration and communication between MCP-compliant systems.
 
-### 44. [modelcontextprotocol/typescript-sdk](../ai/resources/modelcontextprotocol-typescript-sdk.md) ([GitHub](https://github.com/modelcontextprotocol/typescript-sdk))
+### 46. [modelcontextprotocol/typescript-sdk](../ai/resources/modelcontextprotocol-typescript-sdk.md) ([GitHub](https://github.com/modelcontextprotocol/typescript-sdk))
 - Stars: 0
 - Language: Unknown
 - Description: - **Official TypeScript SDK** for Model Context Protocol (MCP) servers and clients, enabling TypeScript-based implementations of MCP specifications.
 
-### 45. [FuzzingLabs/secpipe](../ai/agents/fuzzinglabs-secpipe.md) ([GitHub](https://github.com/fuzzinglabs/secpipe))
+### 47. [FuzzingLabs/secpipe](../ai/agents/fuzzinglabs-secpipe.md) ([GitHub](https://github.com/fuzzinglabs/secpipe))
 - Stars: 0
 - Language: Unknown
 - Description: MCP server for AI-driven security pipelines
 
-### 46. [Ed1s0nZ/CyberStrikeAI](../ai/agents/ed1s0nz-cyberstrikeai.md) ([GitHub](https://github.com/ed1s0nz/cyberstrikeai))
+### 48. [Ed1s0nZ/CyberStrikeAI](../ai/agents/ed1s0nz-cyberstrikeai.md) ([GitHub](https://github.com/ed1s0nz/cyberstrikeai))
 - Stars: 0
 - Language: Unknown
 - Description: - **Agentic Execution Layer**: Implements AI-driven cybersecurity agents that convert security intent into governed, auditable actions using MCP-native tools, contextual attack-chain awareness, and...
 
-### 47. [jlbadano/ig-mcp](../ai/resources/jlbadano-ig-mcp.md) ([GitHub](https://github.com/jlbadano/ig-mcp))
+### 49. [jlbadano/ig-mcp](../ai/resources/jlbadano-ig-mcp.md) ([GitHub](https://github.com/jlbadano/ig-mcp))
 - Stars: 0
 - Language: Unknown
 - Description: A production-ready Model Context Protocol (MCP) server that enables AI applications to seamlessly interact with Instagram Business accounts.
 
-### 48. [FuzzingLabs/mcp-security-hub](../ai/resources/fuzzinglabs-mcp-security-hub.md) ([GitHub](https://github.com/fuzzinglabs/mcp-security-hub))
+### 50. [FuzzingLabs/mcp-security-hub](../ai/resources/fuzzinglabs-mcp-security-hub.md) ([GitHub](https://github.com/fuzzinglabs/mcp-security-hub))
 - Stars: 0
 - Language: Unknown
 - Description: A growing collection of MCP servers bringing offensive security tools to AI assistants. Nmap, Ghidra, Nuclei, SQLMap, Hashcat and more.
-
-### 49. [Mintlify · GitHub](../ai/resources/mintlify-github.md) ([GitHub](https://github.com/mintlify))
-- Stars: 0
-- Language: Unknown
-- Description: - **Mintlify** is a verified organization controlling the domain `mintlify.com`, specializing in an intelligent knowledge platform with AI-powered documentation tools (e.g., `writer` repository wit...
-
-### 50. [riseandignite/mcp-shield](../ai/resources/riseandignite-mcp-shield.md) ([GitHub](https://github.com/riseandignite/mcp-shield))
-- Stars: 0
-- Language: Unknown
-- Description: Security scanner for MCP servers
 <!-- GENERATED:BEST_REPOS_END -->
 
 ## Project Ideas
@@ -300,4 +300,4 @@ Useful for roles such as: AI Engineer, ML Engineer, NLP Architect, RAG Pipeline 
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-09-01T03:19:22.077680+05:30.830082+05:30.354177+05:30.979096+05:30.469213+05:30.391703+05:30.677342+05:30.207504+05:30.932003+05:30.770507+05:30.400328+05:30.563035+05:30.166213+05:30.901793+05:30.981852+05:30.817600+05:30.255457+05:30.670160+05:30.541177+05:30.269269+05:30.198586+05:30.742906+05:30.959301+05:30.776180+05:30.291919+05:30.803784+05:30.923712+05:30.621611+05:30.224573+05:30.541827+05:30.771896+05:30.404068+05:30.512335+05:30.677836+05:30.066869+05:30.803657+05:30.025324+05:30.455610+05:30.959525+05:30.373095+05:30.901774+05:30.666957+05:30.716639+05:30.325582+05:30.555085+05:30.019915+05:30.475264+05:30.896809+05:30.290767+05:30.836611+05:30.862624+05:30.851245+05:30.681544+05:30.321437+05:30.003097+05:30.695269+05:30.241067+05:30.843353+05:30.745769+05:30.255300+05:30.523926+05:30.774530+05:30.036242+05:30.382992+05:30.117283+05:30.374889+05:30.204739+05:30.444163+05:30.421036+05:30.594630+05:30.460935+05:30.535713+05:30.915708+05:30.340751+05:30.148394+05:30.777211+05:30.480903+05:30.206149+05:30.833744+05:30.502782+05:30.082805+05:30.710575+05:30.072563+05:30.085704+05:30.682879+05:30.100581+05:30.422735+05:30.067139+05:30.617603+05:30.807675+05:30.601355+05:30.183402+05:30.874893+05:30.264172+05:30.672157+05:30.174836+05:30.659149+05:30.733702+05:30.866269+05:30.325179+05:30.924181+05:30.031706+05:30.696253+05:30.878542+05:30.055708+05:30.835713+05:30.211443+05:30.392451+05:30.738945+05:30.561653+05:30.916216+05:30.571113+05:30.964771+05:30.668027+05:30.519299+05:30.084741+05:30.740664+05:30.059161+05:30.419356+05:30.262146+05:30.341588+05:30.334611+05:30.475122+05:30.230844+05:30.994777+05:30.652992+05:30.832816+05:30.610143+05:30.067475+05:30.467824+05:30.162707+05:30.466101+05:30.638188+05:30.333566+05:30.325110+05:30.057815+05:30.048419+05:30.199544+05:30.184851+05:30.263294+05:30.320788+05:30.145800+05:30.504343+05:30.965937+05:30.340256+05:30.920920+05:30.213209+05:30.782572+05:30.400800+05:30.845256+05:30.518379+05:30.840886+05:30.028042+05:30.300687+05:30.973116+05:30.874435+05:30.985872+05:30.616645+05:30.260875+05:30.979450+05:30.257388+05:30.047242+05:30.851724+05:30.873877+05:30.712018+05:30.659980+05:30.734630+05:30.086340+05:30.151109+05:30.716194+05:30.373885+05:30.828737+05:30.981538+05:30.089838+05:30.305344+05:30.364889+05:30.738260+05:30.339311+05:30.784338+05:30.809197+05:30.384303+05:30.170376+05:30.396249+05:30.609960+05:30.099410+05:30.360813+05:30.701354+05:30.807269+05:30.384108+05:30.582967+05:30.137067+05:30.162660+05:30.086951+05:30.501173+05:30.409625+05:30.921792+05:30.508734+05:30.980872+05:30.311420+05:30.202782+05:30.830683+05:30.201613+05:30.609968+05:30.828320+05:30.297002+05:30.783842+05:30.423144+05:30.918586+05:30.596961+05:30.638802+05:30.896144+05:30.681970+05:30.641481+05:30.271878+05:30.744636+05:30.200648+05:30.599459+05:30.687328+05:30.279088+05:30.374013+05:30.941914+05:30.083177+05:30.636450+05:30.395333+05:30.301110+05:30.155893+05:30.369910+05:30.914308+05:30.132211+05:30.780524+05:30.194117+05:30.824975+05:30.383436+05:30.656603+05:30.662221+05:30.432201+05:30.134071+05:30.257666+05:30.440781+05:30.460485+05:30.017833+05:30.184280+05:30.062716+05:30.572749+05:30.324421+05:30.547724+05:30.887063+05:30.275029+05:30.775939+05:30.332516+05:30.930901+05:30.491377+05:30.854012+05:30.609440+05:30.739784+05:30.601758+05:30.840139+05:30.746993+05:30.536104+05:30.557542+05:30.185287+05:30.096374+05:30.222971+05:30.512173+05:30.874345+05:30.793998+05:30.207109+05:30.331521+05:30.460601+05:30.272302+05:30.020679+05:30.249300+05:30.106261+05:30.319081+05:30.993907+05:30.122388+05:30.520244+05:30.857034+05:30.854349+05:30.158097+05:30.151960+05:30.613998+05:30.612259+05:30.743764+05:30.219495+05:30.226409+05:30.308267+05:30.671842+05:30.192408+05:30.489920+05:30.324090+05:30.681655+05:30.831238+05:30.300012+05:30.282249+05:30.
+Auto-updated by Local AI + Web Harvester on 2026-09-01T11:09:31.757876+05:30.077680+05:30.830082+05:30.354177+05:30.979096+05:30.469213+05:30.391703+05:30.677342+05:30.207504+05:30.932003+05:30.770507+05:30.400328+05:30.563035+05:30.166213+05:30.901793+05:30.981852+05:30.817600+05:30.255457+05:30.670160+05:30.541177+05:30.269269+05:30.198586+05:30.742906+05:30.959301+05:30.776180+05:30.291919+05:30.803784+05:30.923712+05:30.621611+05:30.224573+05:30.541827+05:30.771896+05:30.404068+05:30.512335+05:30.677836+05:30.066869+05:30.803657+05:30.025324+05:30.455610+05:30.959525+05:30.373095+05:30.901774+05:30.666957+05:30.716639+05:30.325582+05:30.555085+05:30.019915+05:30.475264+05:30.896809+05:30.290767+05:30.836611+05:30.862624+05:30.851245+05:30.681544+05:30.321437+05:30.003097+05:30.695269+05:30.241067+05:30.843353+05:30.745769+05:30.255300+05:30.523926+05:30.774530+05:30.036242+05:30.382992+05:30.117283+05:30.374889+05:30.204739+05:30.444163+05:30.421036+05:30.594630+05:30.460935+05:30.535713+05:30.915708+05:30.340751+05:30.148394+05:30.777211+05:30.480903+05:30.206149+05:30.833744+05:30.502782+05:30.082805+05:30.710575+05:30.072563+05:30.085704+05:30.682879+05:30.100581+05:30.422735+05:30.067139+05:30.617603+05:30.807675+05:30.601355+05:30.183402+05:30.874893+05:30.264172+05:30.672157+05:30.174836+05:30.659149+05:30.733702+05:30.866269+05:30.325179+05:30.924181+05:30.031706+05:30.696253+05:30.878542+05:30.055708+05:30.835713+05:30.211443+05:30.392451+05:30.738945+05:30.561653+05:30.916216+05:30.571113+05:30.964771+05:30.668027+05:30.519299+05:30.084741+05:30.740664+05:30.059161+05:30.419356+05:30.262146+05:30.341588+05:30.334611+05:30.475122+05:30.230844+05:30.994777+05:30.652992+05:30.832816+05:30.610143+05:30.067475+05:30.467824+05:30.162707+05:30.466101+05:30.638188+05:30.333566+05:30.325110+05:30.057815+05:30.048419+05:30.199544+05:30.184851+05:30.263294+05:30.320788+05:30.145800+05:30.504343+05:30.965937+05:30.340256+05:30.920920+05:30.213209+05:30.782572+05:30.400800+05:30.845256+05:30.518379+05:30.840886+05:30.028042+05:30.300687+05:30.973116+05:30.874435+05:30.985872+05:30.616645+05:30.260875+05:30.979450+05:30.257388+05:30.047242+05:30.851724+05:30.873877+05:30.712018+05:30.659980+05:30.734630+05:30.086340+05:30.151109+05:30.716194+05:30.373885+05:30.828737+05:30.981538+05:30.089838+05:30.305344+05:30.364889+05:30.738260+05:30.339311+05:30.784338+05:30.809197+05:30.384303+05:30.170376+05:30.396249+05:30.609960+05:30.099410+05:30.360813+05:30.701354+05:30.807269+05:30.384108+05:30.582967+05:30.137067+05:30.162660+05:30.086951+05:30.501173+05:30.409625+05:30.921792+05:30.508734+05:30.980872+05:30.311420+05:30.202782+05:30.830683+05:30.201613+05:30.609968+05:30.828320+05:30.297002+05:30.783842+05:30.423144+05:30.918586+05:30.596961+05:30.638802+05:30.896144+05:30.681970+05:30.641481+05:30.271878+05:30.744636+05:30.200648+05:30.599459+05:30.687328+05:30.279088+05:30.374013+05:30.941914+05:30.083177+05:30.636450+05:30.395333+05:30.301110+05:30.155893+05:30.369910+05:30.914308+05:30.132211+05:30.780524+05:30.194117+05:30.824975+05:30.383436+05:30.656603+05:30.662221+05:30.432201+05:30.134071+05:30.257666+05:30.440781+05:30.460485+05:30.017833+05:30.184280+05:30.062716+05:30.572749+05:30.324421+05:30.547724+05:30.887063+05:30.275029+05:30.775939+05:30.332516+05:30.930901+05:30.491377+05:30.854012+05:30.609440+05:30.739784+05:30.601758+05:30.840139+05:30.746993+05:30.536104+05:30.557542+05:30.185287+05:30.096374+05:30.222971+05:30.512173+05:30.874345+05:30.793998+05:30.207109+05:30.331521+05:30.460601+05:30.272302+05:30.020679+05:30.249300+05:30.106261+05:30.319081+05:30.993907+05:30.122388+05:30.520244+05:30.857034+05:30.854349+05:30.158097+05:30.151960+05:30.613998+05:30.612259+05:30.743764+05:30.219495+05:30.226409+05:30.308267+05:30.671842+05:30.192408+05:30.489920+05:30.324090+05:30.681655+05:30.831238+05:30.300012+05:30.282249+05:30.

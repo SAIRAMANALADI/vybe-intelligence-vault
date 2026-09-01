@@ -4,20 +4,17 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://blog.langchain.com/
-published_at: '2026-08-11T01:00:21.167712+05:30'
-collected_at: '2026-08-11T01:00:21.167728+05:30'
+published_at: '2026-09-01T11:00:26.185979+05:30'
+collected_at: '2026-09-01T11:00:26.185988+05:30'
 tags:
 - agents
-- benchmark
 - producthunt
-- scripts
 - web-crawled
-- workflows
 status: active
 resource_id: blog:langchain-blog
-first_seen: '2026-08-11T01:00:21.167728+05:30'
-last_seen: '2026-08-11T01:00:21.167728+05:30'
-last_checked: '2026-08-11T01:00:21.167728+05:30'
+first_seen: '2026-09-01T11:00:26.185988+05:30'
+last_seen: '2026-09-01T11:00:26.185988+05:30'
+last_checked: '2026-09-01T11:00:26.185988+05:30'
 health_score: 100
 ---
 
@@ -25,11 +22,11 @@ health_score: 100
 
 ## Summary
 
-- **Managed Deep Agents Public Beta**: LangSmith now offers a public beta for Managed Deep Agents, enabling scalable, production-grade autonomous agent deployment with integrated observability and evaluation frameworks.
+- **LangSmith Tuned Evaluators**: Introduces Perceived Error evaluator to enhance agent performance validation by aligning LLM-based assessments with human feedback, improving accuracy in production environments.
 
-- **LangSmith LLM Gateway**: Introduces runtime controls for production agents, allowing dynamic policy enforcement, cost optimization, and latency management via centralized LLM request routing and monitoring.
+- **LangSmith LLM Gateway**: Provides runtime controls for production agents, enabling dynamic model switching, rate limiting, and fallback mechanisms to optimize cost and performance in real-time.
 
-- **Deep Agents v0.7 Release**: Major update introducing enhanced multi-agent orchestration, improved tool integration, and refined state management for complex workflow automation.
+- **Managed Deep Agents (Public Beta)**: Offers cloud-hosted autonomous agents with built-in observability, evals, and deployment controls, reducing operational overhead for enterprise-scale agent systems.
 
 ## Why It Matters
 
@@ -39,16 +36,13 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-08-11T01:00:21.167712+05:30
+- Published: 2026-09-01T11:00:26.185979+05:30
 
 ## Related Tags
 
 - agents
-- benchmark
 - producthunt
-- scripts
 - web-crawled
-- workflows
 
 ## Source
 

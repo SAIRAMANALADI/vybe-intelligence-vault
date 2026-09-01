@@ -4,23 +4,25 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/jxzhangjhu/Awesome-LLM-RAG
-collected_at: '2026-08-11T00:55:44.058951+05:30'
-published_at: '2026-08-09T16:07:20Z'
+collected_at: '2026-09-01T10:55:28.745207+05:30'
+published_at: '2026-08-31T13:40:07Z'
 tags:
+- benchmark
 - github-repo
 - hackernews
+- paper
 - rag
 - unknown
-stars: 1341
+stars: 1346
 language: Unknown
 status: active
 archived: false
 created_at: '2023-10-26T17:47:05Z'
 pushed_at: '2026-07-22T03:17:18Z'
 resource_id: github:jxzhangjhu/awesome-llm-rag
-first_seen: '2026-08-11T00:55:44.058951+05:30'
-last_seen: '2026-08-11T00:55:44.058951+05:30'
-last_checked: '2026-08-11T00:55:44.058951+05:30'
+first_seen: '2026-09-01T10:55:28.745207+05:30'
+last_seen: '2026-09-01T10:55:28.745207+05:30'
+last_checked: '2026-09-01T10:55:28.745207+05:30'
 health_score: 100
 ---
 
@@ -28,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-*   Curates advanced Retrieval Augmented Generation (RAG) methodologies and resources for Large Language Models (LLMs).
-*   Emphasizes technical advancements in RAG, including specialized embedding techniques for enhanced retrieval.
-*   Serves as a comprehensive repository for research and development in LLM-RAG integration and optimization.
+- **Curated resource** focusing on advanced **Retrieval-Augmented Generation (RAG)** techniques for **Large Language Models (LLMs)**, including embeddings, retrieval methods, and integration strategies.
+- **Comprehensive collection** of state-of-the-art RAG frameworks, papers, tools, and benchmarks for enhancing LLM performance via dynamic knowledge retrieval.
+- **Actively maintained** repository (last updated Aug 2026) with **1,346 stars** and **95 forks**, covering topics like **RAG-embeddings**, **information retrieval**, and **LLM optimization**.
 
 ## Why It Matters
 
@@ -39,11 +41,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: jxzhangjhu
-- Stars: 1341
-- Forks: 92
+- Stars: 1346
+- Forks: 95
 - Language: Unknown
 - Topics: embeddings, large-language-models, llm, rag, rag-embeddings, retrieval-augmented-generation, retrieval-information
-- Last Updated: 2026-08-09T16:07:20Z
+- Last Updated: 2026-08-31T13:40:07Z
 - Archived: No
 - Created At: 2023-10-26T17:47:05Z
 - Pushed At: 2026-07-22T03:17:18Z

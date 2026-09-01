@@ -4,25 +4,25 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/deepset-ai/haystack
-collected_at: '2026-08-11T00:59:39.527829+05:30'
-published_at: '2026-08-10T16:35:55Z'
+collected_at: '2026-09-01T10:59:03.944487+05:30'
+published_at: '2026-09-01T02:35:22Z'
 tags:
 - agents
 - github-repo
 - python
 - rag
 - workflows
-stars: 26168
+stars: 26377
 language: Python
 status: active
 license: Apache-2.0
 archived: false
 created_at: '2019-11-14T09:05:28Z'
-pushed_at: '2026-08-10T15:28:51Z'
+pushed_at: '2026-09-01T02:17:33Z'
 resource_id: github:deepset-ai/haystack
-first_seen: '2026-08-11T00:59:39.527829+05:30'
-last_seen: '2026-08-11T00:59:39.527829+05:30'
-last_checked: '2026-08-11T00:59:39.527829+05:30'
+first_seen: '2026-09-01T10:59:03.944487+05:30'
+last_seen: '2026-09-01T10:59:03.944487+05:30'
+last_checked: '2026-09-01T10:59:03.944487+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Modular AI Orchestration**: Haystack enables building production-grade LLM applications via configurable pipelines and agent workflows, with explicit control over retrieval, routing, memory, and generation components.
+- **Modular AI Orchestration**: Haystack enables building production-ready LLM applications via explicit, modular pipelines for retrieval, routing, memory, and generation, supporting scalable agents, RAG, and conversational systems.
 
-- **Multi-Use Case Support**: Supports scalable agents, RAG, multimodal applications, semantic search, and conversational systems, leveraging Python-based modular design for extensibility.
+- **Context-Engineered Design**: Framework emphasizes explicit control over context engineering, facilitating semantic search, multimodal applications, and advanced agent workflows (including multi-agent systems).
 
-- **Context Engineering Focus**: Designed for context-engineered applications, integrating retrieval-augmented generation (RAG), agentic workflows, and semantic search capabilities for enhanced AI-driven decision-making.
+- **Python-Based & Extensible**: Open-source Python framework optimized for orchestration, with support for MCP, agentic RAG, and retrieval-augmented generation, last updated in September 2026.
 
 ## Why It Matters
 
@@ -43,15 +43,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: deepset-ai
-- Stars: 26168
-- Forks: 2992
+- Stars: 26377
+- Forks: 3060
 - Language: Python
 - Topics: agent-framework, agentic-ai, agentic-rag, agents, ai, ai-agents, context-engineering, framework, genai, generative-ai, information-retrieval, large-language-models, llm, mcp, multi-agent, orchestration, python, rag, retrieval-augmented-generation, semantic-search
-- Last Updated: 2026-08-10T16:35:55Z
+- Last Updated: 2026-09-01T02:35:22Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2019-11-14T09:05:28Z
-- Pushed At: 2026-08-10T15:28:51Z
+- Pushed At: 2026-09-01T02:17:33Z
 
 ## Possible Use Cases
 

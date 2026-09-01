@@ -8,10 +8,9 @@ local_vault_path: ai/resources/kaist-jeonsanhagbu-tyutorieol.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: prompt
 importance: medium
 tags:
-- hackernews
 - reddit
 - web-crawled
 - workflows
@@ -26,16 +25,16 @@ selection_reason:
 
 - Matched archive category: `Automation Workflows`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: tutorial
+- Resource kind: prompt
 - Selection reasons:
   - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-- **Registration & Approval**: Requires KCLOUD 1 & 2 membership registration followed by admin approval before cloud access.
-- **Usage Workflow**: Access granted post-approval; resources used, returned, and costs processed with supporting documentation generated.
-- **Documentation Links**: Provides technical guides for KCLOUD1 ([link](https://kcloud.kaist.ac.kr/index.php/tutorial/KCloud1)) and KCLOUD2 ([link](https://kcloud.kaist.ac.kr/index.php/tutorial/KCloud2)) usage.
+- **Registration Process**: Requires KCLOUD 1 & 2 membership, followed by admin approval, cloud access, usage, return, cost processing, and documentation generation.
+- **Access Workflow**: Users must complete registration, obtain approval, access the cloud, utilize resources, return them, process costs, and generate proof materials.
+- **Resource Guides**: Provides separate usage instructions for KCLOUD1 and KCLOUD2 via dedicated tutorial links.
 
 ## Use Cases
 

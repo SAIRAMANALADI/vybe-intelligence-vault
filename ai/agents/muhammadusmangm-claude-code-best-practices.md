@@ -4,16 +4,17 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/MuhammadUsmanGM/claude-code-best-practices
-collected_at: '2026-08-11T00:57:19.139556+05:30'
-published_at: '2026-08-04T06:02:01Z'
+collected_at: '2026-09-01T10:57:03.831740+05:30'
+published_at: '2026-08-31T17:17:06Z'
 tags:
 - agents
 - anthropic
 - github-repo
 - hackernews
+- scripts
 - shell
 - workflows
-stars: 68
+stars: 76
 language: Shell
 status: active
 license: MIT
@@ -21,9 +22,9 @@ archived: false
 created_at: '2026-03-22T10:51:35Z'
 pushed_at: '2026-06-24T15:23:05Z'
 resource_id: github:muhammadusmangm/claude-code-best-practices
-first_seen: '2026-08-11T00:57:19.139556+05:30'
-last_seen: '2026-08-11T00:57:19.139556+05:30'
-last_checked: '2026-08-11T00:57:19.139556+05:30'
+first_seen: '2026-09-01T10:57:03.831740+05:30'
+last_seen: '2026-09-01T10:57:03.831740+05:30'
+last_checked: '2026-09-01T10:57:03.831740+05:30'
 health_score: 100
 ---
 
@@ -31,9 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Repository Structure**: Provides a structured wiki for Claude Code best practices, including setup guides, `CLAUDE.md` templates, workflows, multi-agent patterns, and cost optimization strategies.
-- **Technical Focus**: Primarily shell-based repository covering CLI tools, MCP (Model Context Protocol), and integration with Anthropic's LLM frameworks.
-- **Maintenance & Updates**: Last updated in August 2026, with 68 stars and 15 forks, indicating active community engagement in agentic AI and developer tooling.
+- **Repository Overview**: GitHub repository (`MuhammadUsmanGM/claude-code-best-practices`) providing structured best practices for **Claude Code**, including setup guides, `CLAUDE.md` templates, workflows, multi-agent patterns, and cost optimization strategies.
+
+- **Technical Scope**: Focuses on **agentic AI workflows**, **CLI tooling**, **LLM integration**, and **MCP (Model Context Protocol)** patterns, with Shell scripts for automation and configuration.
+
+- **Metadata**: 76 stars, 16 forks, last updated **2026-08-31**; topics include `agentic-ai`, `claude-code`, `developer-tools`, and `anthropic` ecosystem tools.
 
 ## Why It Matters
 
@@ -42,11 +45,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: MuhammadUsmanGM
-- Stars: 68
-- Forks: 15
+- Stars: 76
+- Forks: 16
 - Language: Shell
 - Topics: agentic-ai, ai, anthropic, best-practices, claude, claude-code, cli, developer-tools, llm, mcp, templates
-- Last Updated: 2026-08-04T06:02:01Z
+- Last Updated: 2026-08-31T17:17:06Z
 - License: MIT
 - Archived: No
 - Created At: 2026-03-22T10:51:35Z

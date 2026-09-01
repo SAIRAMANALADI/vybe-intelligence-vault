@@ -4,24 +4,25 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NanGePlus/CrewAITest
-collected_at: '2026-08-11T00:58:59.178402+05:30'
-published_at: '2026-08-10T08:09:46Z'
+collected_at: '2026-09-01T10:58:43.864623+05:30'
+published_at: '2026-08-31T06:47:16Z'
 tags:
 - agents
 - github-repo
 - meta-ai
 - models
+- openai
 - python
-stars: 357
+stars: 372
 language: Python
 status: active
 archived: false
 created_at: '2024-09-11T02:58:44Z'
 pushed_at: '2024-10-20T14:37:28Z'
 resource_id: github:nangeplus/crewaitest
-first_seen: '2026-08-11T00:58:59.178402+05:30'
-last_seen: '2026-08-11T00:58:59.178402+05:30'
-last_checked: '2026-08-11T00:58:59.178402+05:30'
+first_seen: '2026-09-01T10:58:43.864623+05:30'
+last_seen: '2026-09-01T10:58:43.864623+05:30'
+last_checked: '2026-09-01T10:58:43.864623+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Agent System**: Implements a **CrewAI**-based framework for orchestrating multiple AI agents with **FastAPI** to expose RESTful endpoints for agent collaboration.
+- **Multi-Agent System**: Implements a collaborative multi-agent architecture using CrewAI for task orchestration and FastAPI for RESTful API service provision.
 
-- **Model Agnostic**: Supports **GPT-series**, **domestic LLMs**, and **Ollama-local models**, enabling flexible model integration via unified API interfaces.
+- **Model Agnostic Integration**: Supports multiple LLM backends including OpenAI's GPT, domestic Chinese models, and local Ollama-hosted models via unified API interfaces.
 
-- **Production-Ready API**: Provides a **scalable backend** with FastAPI, supporting concurrent agent tasks, model switching, and real-time API interactions (last updated **2026-08-10**).
+- **Production-Ready Deployment**: Containerized solution with FastAPI endpoints for scalable agent collaboration, last updated August 2026 with active maintenance.
 
 ## Why It Matters
 
@@ -42,11 +43,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: NanGePlus
-- Stars: 357
+- Stars: 372
 - Forks: 83
 - Language: Python
 - Topics: None
-- Last Updated: 2026-08-10T08:09:46Z
+- Last Updated: 2026-08-31T06:47:16Z
 - Archived: No
 - Created At: 2024-09-11T02:58:44Z
 - Pushed At: 2024-10-20T14:37:28Z

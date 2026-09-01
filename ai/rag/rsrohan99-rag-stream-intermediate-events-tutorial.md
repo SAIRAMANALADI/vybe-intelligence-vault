@@ -4,11 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/rsrohan99/rag-stream-intermediate-events-tutorial
-collected_at: '2026-08-11T00:54:59.020780+05:30'
+collected_at: '2026-09-01T10:54:48.838604+05:30'
 published_at: '2026-07-28T13:49:36Z'
 tags:
 - github-repo
-- hackernews
 - meta-ai
 - models
 - rag
@@ -21,9 +20,9 @@ archived: false
 created_at: '2024-04-05T21:12:53Z'
 pushed_at: '2024-04-08T10:45:53Z'
 resource_id: github:rsrohan99/rag-stream-intermediate-events-tutorial
-first_seen: '2026-08-11T00:54:59.020780+05:30'
-last_seen: '2026-08-11T00:54:59.020780+05:30'
-last_checked: '2026-08-11T00:54:59.020780+05:30'
+first_seen: '2026-09-01T10:54:48.838604+05:30'
+last_seen: '2026-09-01T10:54:48.838604+05:30'
+last_checked: '2026-09-01T10:54:48.838604+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Intermediate Event Streaming**: Demonstrates streaming LlamaIndex RAG intermediate events (e.g., node parsing, retrieval, synthesis) to Vercel AI SDK via Server-Sent Events (SSE) for real-time client updates.
-
-- **Technical Integration**: Uses TypeScript to bridge LlamaIndex’s event-driven architecture with Vercel AI SDK’s streaming capabilities, ensuring structured, incremental data transfer without full response buffering.
-
-- **Performance Optimization**: Focuses on low-latency event propagation to enhance user experience in RAG workflows, leveraging SSE for persistent, unidirectional server-to-client communication.
+- **Intermediate Event Streaming**: Demonstrates how to stream intermediate events from LlamaIndex RAG pipelines to the Vercel AI SDK using Server-Sent Events (SSE) for real-time processing.
+- **TypeScript Implementation**: Provides a TypeScript-based solution with structured event handling to ensure seamless integration between LlamaIndex and Vercel AI SDK.
+- **Performance Optimization**: Focuses on efficient event transmission to minimize latency and improve responsiveness in RAG workflows.
 
 ## Why It Matters
 

@@ -12,8 +12,8 @@ Understanding the pricing, capabilities, and APIs of different model providers i
 - [Genkit - Open-source AI framework by Google in JavaScript, Go and Python](https://genkit.dev) (framework - ESSENTIAL Tier)
 - [GoogleCloudPlatform/agent-starter-pack](https://github.com/GoogleCloudPlatform/agent-starter-pack) (template - ESSENTIAL Tier)
 - [maunappl8/openai-agents-ts-kit](https://github.com/maunappl8/openai-agents-ts-kit) (template - ESSENTIAL Tier)
-- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) (benchmark - ESSENTIAL Tier)
 - [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) (template - ESSENTIAL Tier)
+- [NanGePlus/CrewAITest](https://github.com/NanGePlus/CrewAITest) (api - ESSENTIAL Tier)
 - [Sri-Krishna-V/awesome-adk-agents](https://github.com/Sri-Krishna-V/awesome-adk-agents) (template - ESSENTIAL Tier)
 - [OpenAI · GitHub](https://github.com/openai) (framework - ESSENTIAL Tier)
 
@@ -24,8 +24,8 @@ https://github.com/google/generative-ai-python (Gemini SDK)
 - [fetchai/innovation-lab-examples](https://github.com/fetchai/innovation-lab-examples)
 - [GoogleCloudPlatform/agent-starter-pack](https://github.com/GoogleCloudPlatform/agent-starter-pack)
 - [maunappl8/openai-agents-ts-kit](https://github.com/maunappl8/openai-agents-ts-kit)
-- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)
 - [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents)
+- [NanGePlus/CrewAITest](https://github.com/NanGePlus/CrewAITest)
 - [Sri-Krishna-V/awesome-adk-agents](https://github.com/Sri-Krishna-V/awesome-adk-agents)
 
 ## Best Learning Resources
@@ -44,4 +44,4 @@ https://github.com/google/generative-ai-python (Gemini SDK)
 
 ---
 
-*Last updated: 2026-09-01 03:20 IST*
+*Last updated: 2026-09-01 11:11 IST*

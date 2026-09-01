@@ -4,23 +4,23 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TatarinBlack/ai-runtime-security-sandbox
-collected_at: '2026-08-11T00:56:04.072835+05:30'
-published_at: '2026-08-05T14:56:30Z'
+collected_at: '2026-09-01T10:55:53.779900+05:30'
+published_at: '2026-08-25T16:31:50Z'
 tags:
 - github-repo
 - python
 - rag
-stars: 35
+stars: 33
 language: Python
 status: active
 license: MIT
 archived: false
 created_at: '2026-07-11T11:39:26Z'
-pushed_at: '2026-08-05T14:54:14Z'
+pushed_at: '2026-08-24T12:26:04Z'
 resource_id: github:tatarinblack/ai-runtime-security-sandbox
-first_seen: '2026-08-11T00:56:04.072835+05:30'
-last_seen: '2026-08-11T00:56:04.072835+05:30'
-last_checked: '2026-08-11T00:56:04.072835+05:30'
+first_seen: '2026-09-01T10:55:53.779900+05:30'
+last_seen: '2026-09-01T10:55:53.779900+05:30'
+last_checked: '2026-09-01T10:55:53.779900+05:30'
 health_score: 100
 ---
 
@@ -28,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Demonstrates live runtime security risks in AI systems, including prompt injection, tool abuse, and excessive agency.
-- **Implementation**: Python-based sandbox environment showcasing vulnerabilities in RAG chatbot architectures.
-- **Updates**: Last modified on **2026-08-05**, with 35 stars and 24 forks on GitHub.
+- **Demonstrates live RAG chatbot security vulnerabilities**: Showcases prompt injection, tool abuse, and excessive agency in a controlled sandbox environment.
+- **Python-based implementation**: Repository contains executable Python code for reproducing and analyzing runtime security risks in AI systems.
+- **Last updated August 2026**: Indicates ongoing maintenance and relevance for current AI security research.
 
 ## Why It Matters
 
@@ -39,15 +39,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: TatarinBlack
-- Stars: 35
+- Stars: 33
 - Forks: 24
 - Language: Python
 - Topics: None
-- Last Updated: 2026-08-05T14:56:30Z
+- Last Updated: 2026-08-25T16:31:50Z
 - License: MIT
 - Archived: No
 - Created At: 2026-07-11T11:39:26Z
-- Pushed At: 2026-08-05T14:54:14Z
+- Pushed At: 2026-08-24T12:26:04Z
 
 ## Possible Use Cases
 

@@ -4,15 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ritik-prog/n8n-automation-templates-5000
-collected_at: '2026-08-11T00:55:03.992661+05:30'
-published_at: '2026-08-10T12:49:03Z'
+collected_at: '2026-09-01T10:54:53.765116+05:30'
+published_at: '2026-09-01T04:44:23Z'
 tags:
 - github-repo
 - rag
 - scripts
 - unknown
 - workflows
-stars: 474
+stars: 492
 language: Unknown
 status: active
 license: MIT
@@ -20,9 +20,9 @@ archived: false
 created_at: '2025-08-05T16:00:00Z'
 pushed_at: '2026-07-10T11:27:53Z'
 resource_id: github:ritik-prog/n8n-automation-templates-5000
-first_seen: '2026-08-11T00:55:03.992661+05:30'
-last_seen: '2026-08-11T00:55:03.992661+05:30'
-last_checked: '2026-08-11T00:55:03.992661+05:30'
+first_seen: '2026-09-01T10:54:53.765116+05:30'
+last_seen: '2026-09-01T10:54:53.765116+05:30'
+last_checked: '2026-09-01T10:54:53.765116+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository**: `ritik-prog/n8n-automation-templates-5000` contains **5000+ production-ready n8n workflow templates** spanning AI, CRM, finance, e-commerce, marketing, and RAG automation.
-- **Accessibility**: All templates are **open-source and free**, with **474 stars** and **174 forks** as of the last update.
-- **Metadata**: Last updated on **2026-08-10**, language unspecified, and no topics listed.
+- **Repository**: `ritik-prog/n8n-automation-templates-5000` contains **5000+ production-ready n8n workflow templates** for AI, CRM, finance, e-commerce, marketing, and RAG automation.
+- **Metadata**: 492 stars, 179 forks, last updated **2026-09-01T04:44:23Z**, open-source and free.
+- **Purpose**: Designed for **real-world automation** across multiple domains with no specified primary language.
 
 ## Why It Matters
 
@@ -41,11 +41,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: ritik-prog
-- Stars: 474
-- Forks: 174
+- Stars: 492
+- Forks: 179
 - Language: Unknown
 - Topics: None
-- Last Updated: 2026-08-10T12:49:03Z
+- Last Updated: 2026-09-01T04:44:23Z
 - License: MIT
 - Archived: No
 - Created At: 2025-08-05T16:00:00Z

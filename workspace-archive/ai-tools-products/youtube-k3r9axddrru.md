@@ -6,16 +6,18 @@ source_url: https://www.youtube.com/watch?v=K3r9AXddrRU
 resource_id: youtube:K3r9AXddrRU
 local_vault_path: ai/resources/youtube-k3r9axddrru.md
 quality_score: 70
-archive_score: 72
+archive_score: 82
 archive_tier: useful
-resource_kind: framework
-importance: medium
+resource_kind: dataset
+importance: high
 tags:
+- hackernews
 - web-crawled
+- workflows
 - youtube
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Valuable developer reference
 ---
 
 # - YouTube
@@ -23,17 +25,17 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `AI Tools and Products`
-- Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: framework
+- Quality score: 70 | Archive score: 82 (useful)
+- Resource kind: dataset
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- YouTube is a subsidiary of Google LLC, operating under its corporate policies and privacy frameworks.
-- The platform provides APIs and developer tools via [Google's YouTube Developers](https://developers.google.com/youtube) for third-party integration and functionality expansion.
-- YouTube's monetization, content policies, and operational mechanics are detailed in the [How YouTube Works](https://www.youtube.com/howyoutubeworks) resource, covering algorithmic recommendations, ad systems, and cr
+- YouTube operates under Google LLC, adhering to corporate policies, privacy laws, and content safety guidelines as outlined in their respective documentation.
+- The platform provides APIs, developer tools, and monetization options (e.g., advertising) for content creators and businesses via YouTube’s official developer and advertiser portals.
+- YouTube’s infrastructure and operational model are detailed in their "How YouTube Works" resource, covering technical and business workflows for global v
 
 ## Use Cases
 

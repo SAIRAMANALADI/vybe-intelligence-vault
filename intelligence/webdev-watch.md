@@ -13,6 +13,7 @@ Frontend libraries, Three.js shaders, WebGPU concepts, chatbot interfaces, and i
 | [Home | Cornell Research Services](https://researchservices.cornell.edu/) | `frontend-ai-ui/` | 70 |
 | [Getting started | CHI@Edge](https://chameleoncloud.gitbook.io/chi-edge/getting-started) | `frontend-ai-ui/` | 70 |
 | [CORDIS | European Commission](https://cordis.europa.eu) | `frontend-ai-ui/` | 70 |
+| [The world's fastest framework for building websites](https://gohugo.io/) | `frontend-ai-ui/` | 70 |
 | [Bruins Safe App | Bruins Safe Online](https://bso.ucla.edu/bruins-safe-app) | `frontend-ai-ui/` | 70 |
 | [Guide to Using RASS & PI Dashboard | Documentation & Training](https://guide.rass.cornell.edu/) | `frontend-ai-ui/` | 70 |
 | [Privacy Practices & Protections - Google Safety Center](https://safety.google/principles) | `frontend-ai-ui/` | 70 |
@@ -23,6 +24,5 @@ Frontend libraries, Three.js shaders, WebGPU concepts, chatbot interfaces, and i
 | [playcanvas/engine](https://github.com/playcanvas/engine) | `webdev-3d-creative/` | 70 |
 | [hjlld/LearningWebGPU](https://github.com/hjlld/learningwebgpu) | `webdev-3d-creative/` | 70 |
 | [webgpu/webgpufundamentals](https://github.com/webgpu/webgpufundamentals) | `webdev-3d-creative/` | 70 |
-| [google/tour-of-wgsl](https://github.com/google/tour-of-wgsl) | `webdev-3d-creative/` | 70 |
 
 More resources will appear as the harvester collects them.

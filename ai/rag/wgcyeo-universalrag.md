@@ -4,12 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/wgcyeo/UniversalRAG
-collected_at: '2026-08-11T00:56:24.096156+05:30'
+collected_at: '2026-09-01T10:56:13.863570+05:30'
 published_at: '2026-07-21T05:58:28Z'
 tags:
-- benchmark
-- dataset
 - github-repo
+- paper
 - python
 - rag
 stars: 174
@@ -20,9 +19,9 @@ archived: false
 created_at: '2025-04-30T02:55:32Z'
 pushed_at: '2026-06-24T07:15:47Z'
 resource_id: github:wgcyeo/universalrag
-first_seen: '2026-08-11T00:56:24.096156+05:30'
-last_seen: '2026-08-11T00:56:24.096156+05:30'
-last_checked: '2026-08-11T00:56:24.096156+05:30'
+first_seen: '2026-09-01T10:56:13.863570+05:30'
+last_seen: '2026-09-01T10:56:13.863570+05:30'
+last_checked: '2026-09-01T10:56:13.863570+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal & Multi-Granularity RAG**: Introduces a framework enabling retrieval-augmented generation (RAG) across diverse data modalities (text, images, tables) and granularities (document, paragraph, sentence, entity-level), leveraging unified embeddings and cross-modal retrieval mechanisms.
+- **Multimodal & Multi-Granularity RAG Framework**: Introduces UniversalRAG, an ACL 2026 Oral paper proposing a retrieval-augmented generation (RAG) system capable of handling diverse input modalities (e.g., text, images, tables) and varying granularities (e.g., document-level, chunk-level) within a unified architecture.
 
-- **ACL 2026 Oral Contribution**: Presents an advanced RAG system with novel architecture for handling heterogeneous corpora, integrating modality-specific encoders, a unified retrieval index, and a generative model optimized for cross-modal synthesis.
+- **Modular Retrieval & Fusion Mechanisms**: Implements a flexible retrieval pipeline with modality-specific encoders and a cross-modal fusion module, enabling dynamic selection and integration of relevant information across heterogeneous corpora.
 
-- **Open-Source Implementation**: Provides a Python-based, modular implementation with pre-trained models, retrieval pipelines, and evaluation tools, supporting extensibility for custom datasets and modalities.
+- **Open-Source Python Implementation**: Provides a reference implementation in Python with modular components for extensibility, supporting integration with existing LLM backbones and retrieval systems for multimodal applications.
 
 ## Why It Matters
 

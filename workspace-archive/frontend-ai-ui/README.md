@@ -8,7 +8,6 @@ Aesthetic, responsive AI chat interfaces and bento grids enhance user engagement
 
 ## Top Matched Resources
 
-- [Azure-Samples/chat-with-your-data-solution-accelerator](https://github.com/Azure-Samples/chat-with-your-data-solution-accelerator) (template - ESSENTIAL Tier)
 - [ElevenLabs · GitHub](https://github.com/elevenlabs) (framework - ESSENTIAL Tier)
 - [Staircase AI](https://education.gainsight.com/page/staircase-ai) (dataset - USEFUL Tier)
 - [Agentic Graph Retrieval-Augmented Generation for Auditable Commercial Registry Analysis](https://arxiv.org/abs/2605.18770) (benchmark - USEFUL Tier)
@@ -16,17 +15,18 @@ Aesthetic, responsive AI chat interfaces and bento grids enhance user engagement
 - [shadcn-ui/taxonomy](https://github.com/shadcn-ui/taxonomy) (template - USEFUL Tier)
 - [magicuidesign/portfolio](https://github.com/magicuidesign/portfolio) (template - USEFUL Tier)
 - [ObservedObserver/streamlit-shadcn-ui](https://github.com/observedobserver/streamlit-shadcn-ui) (template - USEFUL Tier)
+- [huntabyte/shadcn-svelte](https://github.com/huntabyte/shadcn-svelte) (template - USEFUL Tier)
 
 ## Best GitHub Repositories
 
 https://github.com/shadcn-ui/ui (shadcn/ui)
 https://github.com/tailwindlabs/tailwindcss (Tailwind CSS)
-- [Azure-Samples/chat-with-your-data-solution-accelerator](https://github.com/Azure-Samples/chat-with-your-data-solution-accelerator)
 - [ElevenLabs · GitHub](https://github.com/elevenlabs)
 - [dan5py/turborepo-shadcn-ui](https://github.com/dan5py/turborepo-shadcn-ui)
 - [shadcn-ui/taxonomy](https://github.com/shadcn-ui/taxonomy)
 - [magicuidesign/portfolio](https://github.com/magicuidesign/portfolio)
 - [ObservedObserver/streamlit-shadcn-ui](https://github.com/observedobserver/streamlit-shadcn-ui)
+- [huntabyte/shadcn-svelte](https://github.com/huntabyte/shadcn-svelte)
 
 ## Best Learning Resources
 
@@ -44,4 +44,4 @@ https://github.com/tailwindlabs/tailwindcss (Tailwind CSS)
 
 ---
 
-*Last updated: 2026-09-01 03:20 IST*
+*Last updated: 2026-09-01 11:12 IST*

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/mongodb-developer/GenAI-Showcase
-collected_at: '2026-08-31T21:48:23.846148+05:30'
+collected_at: '2026-09-01T10:56:48.822115+05:30'
 published_at: '2026-08-31T13:25:50Z'
 tags:
 - agents
@@ -21,9 +21,9 @@ archived: false
 created_at: '2024-01-30T14:20:36Z'
 pushed_at: '2026-08-21T16:42:58Z'
 resource_id: github:mongodb-developer/genai-showcase
-first_seen: '2026-08-31T21:48:23.846148+05:30'
-last_seen: '2026-08-31T21:48:23.846148+05:30'
-last_checked: '2026-08-31T21:48:23.846148+05:30'
+first_seen: '2026-09-01T10:56:48.822115+05:30'
+last_seen: '2026-09-01T10:56:48.822115+05:30'
+last_checked: '2026-09-01T10:56:48.822115+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,11 @@ health_score: 100
 
 ## Summary
 
-*   Provides an exhaustive collection of Generative AI sample applications, specifically demonstrating Retrieval-Augmented Generation (RAG) and AI agent architectures.
-*   Utilizes MongoDB Atlas for data management and vector search, integrating with Large Language Models (LLMs) via Python within Jupyter Notebook environments.
-*   Offers practical, industry-specific GenAI use cases, serving as a technical reference for solution development.
+- **Comprehensive GenAI Examples**: Repository contains extensive Jupyter Notebook-based implementations of Retrieval-Augmented Generation (RAG), AI agents, and industry-specific GenAI use cases, leveraging MongoDB's ecosystem (e.g., Atlas).
+
+- **Technical Stack**: Primarily Python-based, integrating Large Language Models (LLMs), MongoDB Atlas for vector search, and tools for building autonomous AI agents.
+
+- **Industry Focus**: Demonstrates GenAI applications across sectors, with modular examples for rapid prototyping and deployment in production environments.
 
 ## Why It Matters
 
@@ -43,7 +45,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: mongodb-developer
 - Stars: 4262
-- Forks: 745
+- Forks: 746
 - Language: Jupyter Notebook
 - Topics: agents, artificial-intelligence, atlas, generative-ai, jupyter-notebook, llms, mongodb, python, rag
 - Last Updated: 2026-08-31T13:25:50Z

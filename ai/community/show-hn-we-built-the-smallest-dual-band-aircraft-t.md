@@ -13,13 +13,14 @@ collected_at: '2026-09-01T03:03:13.092698+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:show-hn-we-built-the-smallest-dual-band-aircraft-t
 first_seen: '2026-09-01T03:03:13.092698+05:30'
 last_seen: '2026-09-01T03:03:13.092698+05:30'
 last_checked: '2026-09-01T03:03:13.092698+05:30'
 health_score: 100
 ---
+
 
 # Show HN: We built the smallest dual-band aircraft tracker
 

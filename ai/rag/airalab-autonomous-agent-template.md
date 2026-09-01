@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/airalab/autonomous_agent_template
-collected_at: '2026-08-11T00:58:04.206112+05:30'
-published_at: '2024-06-25T11:56:51Z'
+collected_at: '2026-09-01T10:57:48.959162+05:30'
+published_at: '2026-08-25T21:50:31Z'
 tags:
 - agents
 - github-repo
@@ -15,13 +15,13 @@ stars: 1
 language: Python
 status: active
 license: BSD-3-Clause
-archived: false
+archived: true
 created_at: '2018-09-26T13:56:23Z'
 pushed_at: '2019-12-02T22:03:37Z'
 resource_id: github:airalab/autonomous_agent_template
-first_seen: '2026-08-11T00:58:04.206112+05:30'
-last_seen: '2026-08-11T00:58:04.206112+05:30'
-last_checked: '2026-08-11T00:58:04.206112+05:30'
+first_seen: '2026-09-01T10:57:48.959162+05:30'
+last_seen: '2026-09-01T10:57:48.959162+05:30'
+last_checked: '2026-09-01T10:57:48.959162+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Modular AIRA Agent Template**: Provides a lightweight framework for constructing autonomous agents using Python, designed for modularity and extensibility in AIRA (AI Robotics Architecture) ecosystems.
+- **Modular AIRA Agent Template**: Provides a basic framework for constructing autonomous agents using the AIRA (Autonomous Intelligent Robot Agents) architecture in Python.
 
-- **ROS Integration**: Leverages the Robot Operating System (ROS) for robotics applications, enabling communication between agent modules and hardware interfaces.
+- **ROS Integration**: Designed for robotics applications, leveraging the Robot Operating System (ROS) for modular communication and control of robotic components.
 
-- **Minimalist Structure**: Repository contains a basic example with 1 star and 5 forks, last updated on 2024-06-25, serving as a starting point for developers to build custom autonomous agents.
+- **Minimalist Structure**: Repository includes a simple example with low complexity, serving as a starting point for developers to extend functionality for autonomous agent development.
 
 ## Why It Matters
 
@@ -46,9 +46,9 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - Forks: 5
 - Language: Python
 - Topics: autonomous-agents, robotics, ros
-- Last Updated: 2024-06-25T11:56:51Z
+- Last Updated: 2026-08-25T21:50:31Z
 - License: BSD-3-Clause
-- Archived: No
+- Archived: Yes
 - Created At: 2018-09-26T13:56:23Z
 - Pushed At: 2019-12-02T22:03:37Z
 

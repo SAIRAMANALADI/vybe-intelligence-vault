@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/RUC-NLPIR/FlashRAG
-collected_at: '2026-08-19T12:44:45.729606+05:30'
-published_at: '2026-08-18T05:25:56Z'
+collected_at: '2026-09-01T10:55:38.798181+05:30'
+published_at: '2026-08-31T22:15:50Z'
 tags:
 - benchmark
 - dataset
@@ -14,17 +14,17 @@ tags:
 - rag
 - reddit
 - workflows
-stars: 3543
+stars: 3562
 language: Python
 status: active
 license: MIT
 archived: false
 created_at: '2024-03-14T01:40:33Z'
-pushed_at: '2026-08-09T05:52:43Z'
+pushed_at: '2026-08-21T07:53:25Z'
 resource_id: github:ruc-nlpir/flashrag
-first_seen: '2026-08-19T12:44:45.729606+05:30'
-last_seen: '2026-08-19T12:44:45.729606+05:30'
-last_checked: '2026-08-19T12:44:45.729606+05:30'
+first_seen: '2026-09-01T10:55:38.798181+05:30'
+last_seen: '2026-09-01T10:55:38.798181+05:30'
+last_checked: '2026-09-01T10:55:38.798181+05:30'
 health_score: 100
 ---
 
@@ -32,9 +32,11 @@ health_score: 100
 
 ## Summary
 
-*   Python toolkit for accelerating Retrieval-Augmented Generation (RAG) research workflows.
-*   Integrates benchmarking, dataset management, and Large Language Model (LLM) components for efficient RAG experimentation.
-*   A WWW2025 resource focused on optimizing RAG system development and evaluation.
+- **FlashRAG Toolkit**: Python-based framework optimized for efficient Retrieval-Augmented Generation (RAG) research, supporting rapid experimentation and benchmarking with minimal overhead.
+
+- **Key Features**: Includes pre-built datasets, modular retrieval components, and integration with large language models (LLMs) for streamlined RAG pipeline development and evaluation.
+
+- **Performance Focus**: Designed for speed and scalability, leveraging optimized retrieval mechanisms and caching to accelerate RAG workflows for research and production use.
 
 ## Why It Matters
 
@@ -43,15 +45,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: RUC-NLPIR
-- Stars: 3543
-- Forks: 311
+- Stars: 3562
+- Forks: 314
 - Language: Python
 - Topics: benchmark, datasets, large-language-models, retrieval-augmented-generation
-- Last Updated: 2026-08-18T05:25:56Z
+- Last Updated: 2026-08-31T22:15:50Z
 - License: MIT
 - Archived: No
 - Created At: 2024-03-14T01:40:33Z
-- Pushed At: 2026-08-09T05:52:43Z
+- Pushed At: 2026-08-21T07:53:25Z
 
 ## Possible Use Cases
 

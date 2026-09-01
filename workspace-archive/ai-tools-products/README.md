@@ -10,7 +10,7 @@ Discovering modern AI productivity tools allows developers to streamline their d
 
 - [langchain-ai/langchain-skills](https://github.com/langchain-ai/langchain-skills) (framework - ESSENTIAL Tier)
 - [Mintlify · GitHub](https://github.com/mintlify) (template - ESSENTIAL Tier)
-- [decodingai-magazine/llm-twin-course](https://github.com/decodingai-magazine/llm-twin-course) (benchmark - ESSENTIAL Tier)
+- [decodingai-magazine/llm-twin-course](https://github.com/decodingai-magazine/llm-twin-course) (tutorial - ESSENTIAL Tier)
 - [Genkit - Open-source AI framework by Google in JavaScript, Go and Python](https://genkit.dev) (framework - USEFUL Tier)
 - [Nonuniformity Principle in Human-AI Coworking](https://arxiv.org/abs/2607.16530) (framework - USEFUL Tier)
 - [Multi-Agent Firewall Architecture for Privacy Protection of Sensitive Data in Interactions with Language Models](https://arxiv.org/abs/2607.08282) (framework - USEFUL Tier)
@@ -23,9 +23,9 @@ https://github.com/steven-tey/charlie (Charlie Directory App)
 - [langchain-ai/langchain-skills](https://github.com/langchain-ai/langchain-skills)
 - [Mintlify · GitHub](https://github.com/mintlify)
 - [decodingai-magazine/llm-twin-course](https://github.com/decodingai-magazine/llm-twin-course)
-- [daveebbelaar/ai-cookbook](https://github.com/daveebbelaar/ai-cookbook)
 - [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx)
 - [ARUNAGIRINATHAN-K/awesome-ai-agents-2026](https://github.com/ARUNAGIRINATHAN-K/awesome-ai-agents-2026)
+- [docs/content/index.md at main · github/docs · GitHub](https://github.com/github/docs/blob/main/content/index.md)
 
 ## Best Learning Resources
 
@@ -42,4 +42,4 @@ https://github.com/steven-tey/charlie (Charlie Directory App)
 
 ---
 
-*Last updated: 2026-09-01 03:20 IST*
+*Last updated: 2026-09-01 11:11 IST*

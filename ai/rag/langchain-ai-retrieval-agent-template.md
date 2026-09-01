@@ -4,25 +4,25 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/langchain-ai/retrieval-agent-template
-collected_at: '2026-08-11T00:58:34.297122+05:30'
-published_at: '2026-08-10T18:19:10Z'
+collected_at: '2026-09-01T10:58:19.035338+05:30'
+published_at: '2026-08-28T21:48:17Z'
 tags:
 - agents
 - github-repo
 - python
 - rag
 - workflows
-stars: 169
+stars: 171
 language: Python
 status: active
 license: MIT
 archived: false
 created_at: '2024-08-21T20:47:35Z'
-pushed_at: '2026-08-05T21:16:43Z'
+pushed_at: '2026-08-28T21:48:19Z'
 resource_id: github:langchain-ai/retrieval-agent-template
-first_seen: '2026-08-11T00:58:34.297122+05:30'
-last_seen: '2026-08-11T00:58:34.297122+05:30'
-last_checked: '2026-08-11T00:58:34.297122+05:30'
+first_seen: '2026-09-01T10:58:19.035338+05:30'
+last_seen: '2026-09-01T10:58:19.035338+05:30'
+last_checked: '2026-09-01T10:58:19.035338+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Template repository for building retrieval agents using LangGraph, a framework for constructing stateful, multi-actor applications with LLMs.
-- **Key Components**: Implements `langgraph-python` for graph-based workflows, enabling structured agent interactions and tool integration.
-- **Structure**: Provides a modular template for rapid deployment of retrieval agents, leveraging LangChain's ecosystem for document retrieval and processing.
+- **Purpose**: Provides a template for building retrieval agents using LangGraph, a framework for constructing stateful, multi-actor applications with LLMs.
+- **Key Components**: Implements LangGraph's Python SDK (`langgraph-python`) for orchestrating agent workflows, focusing on retrieval-based tasks.
+- **Structure**: Template includes modular components for defining agent states, tools, and graph logic, optimized for retrieval-augmented workflows.
 
 ## Why It Matters
 
@@ -41,15 +41,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: langchain-ai
-- Stars: 169
-- Forks: 53
+- Stars: 171
+- Forks: 54
 - Language: Python
 - Topics: langgraph, langgraph-python, langgraph-template
-- Last Updated: 2026-08-10T18:19:10Z
+- Last Updated: 2026-08-28T21:48:17Z
 - License: MIT
 - Archived: No
 - Created At: 2024-08-21T20:47:35Z
-- Pushed At: 2026-08-05T21:16:43Z
+- Pushed At: 2026-08-28T21:48:19Z
 
 ## Possible Use Cases
 

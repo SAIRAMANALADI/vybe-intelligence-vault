@@ -4,16 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/langchain-ai/rag-research-agent-template
-collected_at: '2026-08-11T00:54:59.224207+05:30'
-published_at: '2026-08-07T08:10:27Z'
+collected_at: '2026-09-01T10:54:48.898425+05:30'
+published_at: '2026-08-13T21:20:48Z'
 tags:
 - agents
 - github-repo
 - hackernews
 - python
 - rag
-- workflows
-stars: 313
+stars: 312
 language: Python
 status: active
 license: MIT
@@ -21,9 +20,9 @@ archived: true
 created_at: '2024-10-14T20:06:54Z'
 pushed_at: '2024-12-03T14:41:47Z'
 resource_id: github:langchain-ai/rag-research-agent-template
-first_seen: '2026-08-11T00:54:59.224207+05:30'
-last_seen: '2026-08-11T00:54:59.224207+05:30'
-last_checked: '2026-08-11T00:54:59.224207+05:30'
+first_seen: '2026-09-01T10:54:48.898425+05:30'
+last_seen: '2026-09-01T10:54:48.898425+05:30'
+last_checked: '2026-09-01T10:54:48.898425+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Template repository for building Retrieval-Augmented Generation (RAG) research agents using LangChain, facilitating structured agentic workflows for research tasks.
-
-- **Technical Stack**: Python-based implementation leveraging LangChain's modular framework for agent orchestration, retrieval systems, and tool integration.
-
-- **Last Updated**: Repository last modified on **2026-08-07T08:10:27Z**, indicating ongoing maintenance or development.
+- **Template Overview**: Provides a structured starter template for building Retrieval-Augmented Generation (RAG) research agents using LangChain.
+- **Technical Stack**: Implements Python-based RAG pipelines with modular components for document retrieval, prompt engineering, and agent orchestration.
+- **Last Updated**: Repository was last modified on **2026-08-13**, indicating active maintenance or updates.
 
 ## Why It Matters
 
@@ -44,11 +41,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: langchain-ai
-- Stars: 313
+- Stars: 312
 - Forks: 74
 - Language: Python
 - Topics: None
-- Last Updated: 2026-08-07T08:10:27Z
+- Last Updated: 2026-08-13T21:20:48Z
 - License: MIT
 - Archived: Yes
 - Created At: 2024-10-14T20:06:54Z

@@ -1,6 +1,6 @@
 ---
 title: Welcome to Weaviate Python Client’s documentation! — Weaviate Python Client
-  4.22.0 documentation
+  4.23.0 documentation
 archive_category: automation-workflows
 source_category: ai/rag
 source_url: https://weaviate-python-client.readthedocs.io/en/stable
@@ -17,12 +17,13 @@ tags:
 - rag
 - web-crawled
 - workflows
+- youtube
 selection_reason:
 - Strong keyword match
 - Valuable developer reference
 ---
 
-# Welcome to Weaviate Python Client’s documentation! — Weaviate Python Client 4.22.0 documentation
+# Welcome to Weaviate Python Client’s documentation! — Weaviate Python Client 4.23.0 documentation
 
 ## Why This Is In The Archive
 
@@ -35,9 +36,9 @@ selection_reason:
 
 ## Summary
 
-- **Python Client v4** is the current major version for Weaviate, replacing deprecated v3; supports Python 3.8+ and integrates with Weaviate, an AI-native vector database.
-- **Optional Agent Support** available via `[agents]` extra (`pip install -U "weaviate-client[agents]"`), enabling agentic services (query, transformation, personalization) but requires Weaviate Cloud (WCD) instances.
-- **API Reference** includes `WeaviateClient`/`WeaviateAsyncClient` classes, exception handling, and agent mod
+- **Python Client v4** is the current major version for Weaviate, replacing the deprecated v3; supports Python 3.8+ and provides both synchronous (`WeaviateClient`) and asynchronous (`WeaviateAsyncClient`) interfaces.
+- **Optional Agents Integration** requires `[agents]` extra (`pip install -U "weaviate-client[agents]"`), enabling agentic services (querying, transformation, personalization) but mandates a Weaviate Cloud (WCD) instance.
+- **API Reference** includes detailed docs for core client c
 
 ## Use Cases
 

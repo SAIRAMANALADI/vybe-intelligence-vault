@@ -4,14 +4,15 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/krishnaik06/Agentic-LanggraphCrash-course
-collected_at: '2026-08-20T12:42:59.710976+05:30'
-published_at: '2026-08-14T14:56:40Z'
+collected_at: '2026-09-01T10:58:28.904079+05:30'
+published_at: '2026-08-29T10:38:09Z'
 tags:
 - agents
 - github-repo
 - hackernews
 - jupyter notebook
-stars: 195
+- workflows
+stars: 198
 language: Jupyter Notebook
 status: active
 license: GPL-3.0
@@ -19,9 +20,9 @@ archived: false
 created_at: '2025-06-18T17:08:17Z'
 pushed_at: '2025-08-02T11:48:08Z'
 resource_id: github:krishnaik06/agentic-langgraphcrash-course
-first_seen: '2026-08-20T12:42:59.710976+05:30'
-last_seen: '2026-08-20T12:42:59.710976+05:30'
-last_checked: '2026-08-20T12:42:59.710976+05:30'
+first_seen: '2026-09-01T10:58:28.904079+05:30'
+last_seen: '2026-09-01T10:58:28.904079+05:30'
+last_checked: '2026-09-01T10:58:28.904079+05:30'
 health_score: 100
 ---
 
@@ -29,8 +30,9 @@ health_score: 100
 
 ## Summary
 
-*   Explores Langgraph framework for developing agentic AI systems.
-*   Content delivered
+- **Repository Overview**: GitHub repository titled "Agentic-LanggraphCrash-course" with 198 stars and 190 forks, primarily consisting of Jupyter Notebook files.
+- **Technical Focus**: Implies a crash course on agentic workflows using LangGraph, a framework for building stateful, multi-actor applications with LLMs.
+- **Last Activity**: Last updated on **2026-08-29T10:38:09Z**, indicating recent or ongoing development.
 
 ## Why It Matters
 
@@ -39,11 +41,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: krishnaik06
-- Stars: 195
-- Forks: 187
+- Stars: 198
+- Forks: 190
 - Language: Jupyter Notebook
 - Topics: None
-- Last Updated: 2026-08-14T14:56:40Z
+- Last Updated: 2026-08-29T10:38:09Z
 - License: GPL-3.0
 - Archived: No
 - Created At: 2025-06-18T17:08:17Z

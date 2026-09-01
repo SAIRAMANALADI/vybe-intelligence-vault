@@ -4,14 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/jamwithai/production-agentic-rag-course
-collected_at: '2026-08-11T00:56:09.149587+05:30'
-published_at: '2026-08-10T14:11:29Z'
+collected_at: '2026-09-01T10:55:53.772742+05:30'
+published_at: '2026-09-01T04:23:21Z'
 tags:
 - agents
 - github-repo
 - python
 - rag
-stars: 8308
+stars: 8543
 language: Python
 status: active
 license: MIT
@@ -19,9 +19,9 @@ archived: false
 created_at: '2025-08-06T19:52:50Z'
 pushed_at: '2026-06-05T07:23:49Z'
 resource_id: github:jamwithai/production-agentic-rag-course
-first_seen: '2026-08-11T00:56:09.149587+05:30'
-last_seen: '2026-08-11T00:56:09.149587+05:30'
-last_checked: '2026-08-11T00:56:09.149587+05:30'
+first_seen: '2026-09-01T10:55:53.772742+05:30'
+last_seen: '2026-09-01T10:55:53.772742+05:30'
+last_checked: '2026-09-01T10:55:53.772742+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: GitHub repository titled `production-agentic-rag-course` with 8,308 stars and 1,854 forks, primarily written in Python.
-- **Last Activity**: Last updated on **August 10, 2026**, indicating recent development activity.
-- **Purpose**: Focuses on **production-grade agentic RAG (Retrieval-Augmented Generation) systems**, though no explicit description is provided.
+- **Repository Overview**: GitHub repository `jamwithai/production-agentic-rag-course` focused on production-level Agentic RAG (Retrieval-Augmented Generation) systems, written in Python.
+- **Metrics**: 8,543 stars, 1,886 forks, last updated on 2026-09-01.
+- **Purpose**: Course material for building scalable, agentic RAG pipelines in production environments.
 
 ## Why It Matters
 
@@ -40,11 +40,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: jamwithai
-- Stars: 8308
-- Forks: 1854
+- Stars: 8543
+- Forks: 1886
 - Language: Python
 - Topics: None
-- Last Updated: 2026-08-10T14:11:29Z
+- Last Updated: 2026-09-01T04:23:21Z
 - License: MIT
 - Archived: No
 - Created At: 2025-08-06T19:52:50Z

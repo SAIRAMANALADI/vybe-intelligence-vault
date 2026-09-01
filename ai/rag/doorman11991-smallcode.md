@@ -4,25 +4,25 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Doorman11991/smallcode
-collected_at: '2026-08-10T19:22:29.412511+05:30'
-published_at: '2026-08-10T05:19:11Z'
+collected_at: '2026-09-01T10:57:23.859394+05:30'
+published_at: '2026-08-28T05:29:44Z'
 tags:
 - agents
 - benchmark
 - github-repo
 - javascript
 - rag
-stars: 2003
+stars: 2021
 language: JavaScript
 status: active
 license: MIT
 archived: false
 created_at: '2026-05-18T06:19:44Z'
-pushed_at: '2026-08-09T11:29:17Z'
+pushed_at: '2026-08-12T20:43:58Z'
 resource_id: github:doorman11991/smallcode
-first_seen: '2026-08-10T19:22:29.412511+05:30'
-last_seen: '2026-08-10T19:22:29.412511+05:30'
-last_checked: '2026-08-10T19:22:29.412511+05:30'
+first_seen: '2026-09-01T10:57:23.859394+05:30'
+last_seen: '2026-09-01T10:57:23.859394+05:30'
+last_checked: '2026-09-01T10:57:23.859394+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Optimized AI coding agent**: Designed for small LLMs, achieving **87% benchmark** with a **4B-active model**, balancing performance and efficiency.
+- **Optimized AI Coding Agent**: Designed for small language models (LLMs), achieving **87% benchmark performance** with a **4B-active model**, balancing efficiency and accuracy.
 
-- **JavaScript-based implementation**: Repository written in **JavaScript**, leveraging lightweight frameworks for low-resource environments.
+- **JavaScript Implementation**: Entirely written in **JavaScript**, leveraging lightweight frameworks for minimal overhead and fast execution.
 
-- **Moderate adoption metrics**: **2003 stars**, **152 forks**, last updated **2026-08-10**, indicating active but niche community interest.
+- **Recent Update**: Last modified on **2026-08-28**, indicating active maintenance and potential iterative improvements.
 
 ## Why It Matters
 
@@ -43,15 +43,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: Doorman11991
-- Stars: 2003
-- Forks: 152
+- Stars: 2021
+- Forks: 154
 - Language: JavaScript
 - Topics: None
-- Last Updated: 2026-08-10T05:19:11Z
+- Last Updated: 2026-08-28T05:29:44Z
 - License: MIT
 - Archived: No
 - Created At: 2026-05-18T06:19:44Z
-- Pushed At: 2026-08-09T11:29:17Z
+- Pushed At: 2026-08-12T20:43:58Z
 
 ## Possible Use Cases
 

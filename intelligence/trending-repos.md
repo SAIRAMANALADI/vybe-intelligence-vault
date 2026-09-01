@@ -11,6 +11,7 @@ Open-source codebases, libraries, and developer configurations indexed on GitHub
 | [odsc2015/agentic-hackathon-template](https://github.com/odsc2015/agentic-hackathon-template) | `ai-coding-agents/` | 70 |
 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | `ai-coding-agents/` | 70 |
 | [transitive-bullshit/agentic](https://github.com/transitive-bullshit/agentic) | `ai-coding-agents/` | 70 |
+| [ai-boost/awesome-harness-engineering](https://github.com/ai-boost/awesome-harness-engineering) | `ai-coding-agents/` | 70 |
 | [ARUNAGIRINATHAN-K/awesome-ai-agents-2026](https://github.com/ARUNAGIRINATHAN-K/awesome-ai-agents-2026) | `ai-coding-agents/` | 70 |
 | [cline/cline](https://github.com/cline/cline) | `ai-coding-agents/` | 70 |
 | [sanbuphy/learn-coding-agent](https://github.com/sanbuphy/learn-coding-agent) | `ai-coding-agents/` | 70 |
@@ -28,6 +29,5 @@ Open-source codebases, libraries, and developer configurations indexed on GitHub
 | [run-llama/llama-cloud-ts](https://github.com/run-llama/llama-cloud-ts) | `ai-coding-agents/` | 70 |
 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | `ai-coding-agents/` | 70 |
 | [Leonxlnx/agentic-ai-prompt-research](https://github.com/Leonxlnx/agentic-ai-prompt-research) | `ai-coding-agents/` | 70 |
-| [muhammad-uzair-yasin/CrewAi_starter_template](https://github.com/muhammad-uzair-yasin/CrewAi_starter_template) | `ai-coding-agents/` | 70 |
 
 More resources will appear as the harvester collects them.
