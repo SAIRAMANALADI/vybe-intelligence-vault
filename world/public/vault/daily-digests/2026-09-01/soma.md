@@ -1,33 +1,19 @@
 ---
-title: sunyan999999/soma
-content_type: repo
-engine: v2
-category: world/public/vault/daily-digests/2026-09-01
-tech_stack:
-- Python
-- ONNX Runtime
-- SQLite
-- FastAPI
-- Vue 3
-- AST Parsing
-- Embedding Models
-- Ebbinghaus Forgetting Curves
-- Graph Chain Inference
+title: "sunyan999999/soma"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "ONNX Runtime", "SQLite", "FastAPI", "Vue 3", "AST Parsing", "Embedding Models", "Ebbinghaus Forgetting Curves", "Graph Chain Inference"]
 quality_score: 9
 rag_relevance: 10
-deployment_complexity: Medium
-tags:
-- Cognitive Architecture
-- Memory Management
-- Reasoning Framework
-- Multi-Agent Systems
-- Self-Evolving AI
-source: https://github.com/sunyan999999/soma
+deployment_complexity: "Medium"
+tags: ["Cognitive Architecture", "Memory Management", "Reasoning Framework", "Multi-Agent Systems", "Self-Evolving AI"]
+source: "https://github.com/sunyan999999/soma"
 stars: 7
-language: Python
-last_updated: '2026-08-03T22:06:21Z'
-discovered_at: '2026-08-03T22:09:31Z'
-evaluated_by: mistral-small-latest
+language: "Python"
+last_updated: "2026-08-03T22:06:21Z"
+discovered_at: "2026-08-03T22:09:31Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
