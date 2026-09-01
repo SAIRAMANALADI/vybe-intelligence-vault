@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DEEP-PolyU/LinearRAG
-collected_at: '2026-09-02T01:01:43.500799+05:30'
+collected_at: '2026-09-02T04:14:08.883984+05:30'
 published_at: '2026-08-30T14:51:28Z'
 tags:
 - github-repo
@@ -18,9 +18,9 @@ archived: false
 created_at: '2025-10-27T02:16:18Z'
 pushed_at: '2026-07-05T00:55:44Z'
 resource_id: github:deep-polyu/linearrag
-first_seen: '2026-09-02T01:01:43.500799+05:30'
-last_seen: '2026-09-02T01:01:43.500799+05:30'
-last_checked: '2026-09-02T01:01:43.500799+05:30'
+first_seen: '2026-09-02T04:14:08.883984+05:30'
+last_seen: '2026-09-02T04:14:08.883984+05:30'
+last_checked: '2026-09-02T04:14:08.883984+05:30'
 health_score: 100
 ---
 
@@ -28,9 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Linear Graph Retrieval Augmented Generation (LinearRAG)**: Proposes a novel RAG framework leveraging linear graph structures for efficient retrieval on large-scale corpora, optimizing both scalability and performance for LLMs.
-- **ICLR 2026 Contribution**: Introduces a graph-based retrieval mechanism that linearizes hierarchical or relational data, enabling faster and more accurate augmentation of LLM outputs compared to traditional RAG methods.
-- **Implementation**: Open-source Python library (`LinearRAG`) with 537+ stars, supporting graph-based retrieval for LLMs, optimized for large-scale text corpora and modular integration.
+- **Linear Graph RAG Architecture**: Proposes a linear-time graph-based retrieval mechanism for RAG, optimizing large-scale corpus processing by reducing retrieval complexity from O(n²) to O(n) via linear graph traversal and hierarchical indexing.
+
+- **Efficient Retrieval Augmentation**: Integrates dynamic graph pruning and adaptive query routing to minimize computational overhead while maintaining retrieval accuracy, leveraging sparse attention and graph neural networks for scalable LLM augmentation.
+
+- **ICLR 2026 Contribution**: Introduces a novel linear-time graph construction pipeline (LinearRAG) that outperforms traditional dense retrieval methods in both latency and relevance, validated on large-scale corpora with empirical gains in end-to-end generation quality.
 
 ## Why It Matters
 

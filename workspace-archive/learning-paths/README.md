@@ -8,7 +8,6 @@ Structured roadmaps guide developers through the rapidly shifting landscape of A
 
 ## Top Matched Resources
 
-- [github/roadmap](https://github.com/github/roadmap) (tutorial - ESSENTIAL Tier)
 - [LangChain Community: Connect, Learn & Build AI Agents](https://www.langchain.com/community) (framework - USEFUL Tier)
 - [Continual Learning for VLMs: A Survey and Taxonomy Beyond Forgetting](https://arxiv.org/abs/2508.04227) (benchmark - USEFUL Tier)
 - [Bitbucket | Atlassian Community](https://community.atlassian.com/t5/bitbucket/ct-p/bitbucket) (tutorial - USEFUL Tier)
@@ -16,16 +15,17 @@ Structured roadmaps guide developers through the rapidly shifting landscape of A
 - [Large Models for Battery Prognostics and Health Management: A Review and Future Roadmap](https://arxiv.org/abs/2608.26111) (dataset - USEFUL Tier)
 - [Staircase AI](https://education.gainsight.com/page/staircase-ai) (dataset - USEFUL Tier)
 - [Can Large Language Models Identify Meaningful Touchpoints in Conversion Attribution?](https://arxiv.org/abs/2608.28649) (framework - USEFUL Tier)
+- [Resources to help you build, secure, and scale with GitHub · GitHub](https://resources.github.com) (tutorial - USEFUL Tier)
 
 ## Best GitHub Repositories
 
 https://github.com/kamranahmedse/developer-roadmap (Developer Roadmap)
-- [github/roadmap](https://github.com/github/roadmap)
-- [WenyuChiou/awesome-agentic-ai-zh](https://github.com/WenyuChiou/awesome-agentic-ai-zh)
 - [Resources to help you build, secure, and scale with GitHub · GitHub](https://resources.github.com)
 - [Collections · GitHub](https://github.com/collections)
+- [github/roadmap](https://github.com/github/roadmap)
 - [Postman Inc. · GitHub](https://github.com/postmanlabs)
 - [didilili/ai-agents-from-zero](https://github.com/didilili/ai-agents-from-zero)
+- [WenyuChiou/awesome-agentic-ai-zh](https://github.com/WenyuChiou/awesome-agentic-ai-zh)
 
 ## Best Learning Resources
 
@@ -41,4 +41,4 @@ https://github.com/kamranahmedse/developer-roadmap (Developer Roadmap)
 
 ---
 
-*Last updated: 2026-09-02 01:17 IST*
+*Last updated: 2026-09-02 04:30 IST*

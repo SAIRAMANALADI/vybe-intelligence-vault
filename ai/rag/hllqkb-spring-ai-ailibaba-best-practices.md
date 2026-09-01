@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/hllqkb/Spring-AI-Ailibaba-Best-Practices
-collected_at: '2026-09-02T01:01:03.423246+05:30'
+collected_at: '2026-09-02T04:13:28.827465+05:30'
 published_at: '2026-09-01T09:14:45Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2025-04-17T11:50:47Z'
 pushed_at: '2025-09-07T10:50:31Z'
 resource_id: github:hllqkb/spring-ai-ailibaba-best-practices
-first_seen: '2026-09-02T01:01:03.423246+05:30'
-last_seen: '2026-09-02T01:01:03.423246+05:30'
-last_checked: '2026-09-02T01:01:03.423246+05:30'
+first_seen: '2026-09-02T04:13:28.827465+05:30'
+last_seen: '2026-09-02T04:13:28.827465+05:30'
+last_checked: '2026-09-02T04:13:28.827465+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Implements multiple AI integration patterns** using Spring AI with Alibaba Cloud services, including SSE streaming, Agent-based workflows, Knowledge Graph RAG, Function Calling, and historical message management.
+- **Implementation of AI Q&A System**: Demonstrates a Spring AI-based question-answering system leveraging **Server-Sent Events (SSE) streaming**, **Agent-based workflows**, **RAG with knowledge graphs**, and **Function Calling** for dynamic interactions.
 
-- **Features multimodal capabilities** with image generation, image understanding, and embedding/vector database integration for advanced RAG (Retrieval-Augmented Generation) workflows.
+- **Multimodal & Embedding Support**: Integrates **image generation/understanding**, **text embeddings**, and **vector database storage** (RAG) for hybrid retrieval and contextual responses.
 
-- **Leverages vector databases** (e.g., Milvus, Weaviate) for efficient semantic search and employs embedding models (e.g., BERT, Sentence-BERT) for knowledge retrieval and processing.
+- **Stateful & Historical Context**: Manages **conversation history** and session persistence, enabling coherent multi-turn dialogues with **Alibaba Cloud AI services** integration.
 
 ## Why It Matters
 

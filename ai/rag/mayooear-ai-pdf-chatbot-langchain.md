@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/mayooear/ai-pdf-chatbot-langchain
-collected_at: '2026-09-02T01:03:58.598204+05:30'
+collected_at: '2026-09-02T04:16:28.973512+05:30'
 published_at: '2026-09-01T13:43:56Z'
 tags:
 - agents
@@ -23,9 +23,9 @@ archived: true
 created_at: '2023-03-17T01:23:26Z'
 pushed_at: '2026-03-27T16:04:05Z'
 resource_id: github:mayooear/ai-pdf-chatbot-langchain
-first_seen: '2026-09-02T01:03:58.598204+05:30'
-last_seen: '2026-09-02T01:03:58.598204+05:30'
-last_checked: '2026-09-02T01:03:58.598204+05:30'
+first_seen: '2026-09-02T04:16:28.973512+05:30'
+last_seen: '2026-09-02T04:16:28.973512+05:30'
+last_checked: '2026-09-02T04:16:28.973512+05:30'
 health_score: 100
 ---
 
@@ -33,11 +33,9 @@ health_score: 100
 
 ## Summary
 
-- **Tech Stack**: TypeScript-based AI PDF chatbot leveraging LangChain, LangGraph, and Next.js with OpenAI integration for document interaction and processing.
-
-- **Core Functionality**: Implements an agentic workflow for querying PDFs, utilizing LangChain's document retrieval and LangGraph's stateful graph-based orchestration for multi-step reasoning.
-
-- **Deployment & Scalability**: Open-source repository with 16.6k+ stars, supporting modular extensions (e.g., custom retrievers, LLM backends) and optimized for real-time chatbot interactions.
+- **Tech Stack**: TypeScript-based AI PDF chatbot leveraging **LangChain** for LLM orchestration, **LangGraph** for agent workflows, and **Next.js** for the frontend; integrates **OpenAI** for embeddings/LLM inference.
+- **Core Functionality**: Processes PDFs via **vector embeddings** (likely using OpenAI's `text-embedding-ada-002` or similar), enabling **semantic search** and **context-aware Q&A** with retrieval-augmented generation (RAG).
+- **Architecture**: Implements a **multi-agent system** (via LangGraph) for document ingestion, chunking, indexing (e.g., using **Pinecone**/**Chroma**), and conversational retrieval, optimized for low-latency responses.
 
 ## Why It Matters
 

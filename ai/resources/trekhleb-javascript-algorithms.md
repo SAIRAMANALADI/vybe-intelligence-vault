@@ -4,13 +4,13 @@ category: ai/resources
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/trekhleb/javascript-algorithms
-collected_at: '2026-08-09T15:42:17.598066+05:30'
-published_at: '2026-08-09T09:54:53Z'
+collected_at: '2026-09-02T04:25:28.056228+05:30'
+published_at: '2026-09-01T21:49:25Z'
 tags:
 - github-repo
 - hackernews
 - javascript
-stars: 196420
+stars: 196591
 language: JavaScript
 status: active
 license: MIT
@@ -18,9 +18,9 @@ archived: false
 created_at: '2018-03-24T07:47:04Z'
 pushed_at: '2026-07-26T02:43:08Z'
 resource_id: github:trekhleb/javascript-algorithms
-first_seen: '2026-08-09T15:42:17.598066+05:30'
-last_seen: '2026-08-09T15:42:17.598066+05:30'
-last_checked: '2026-08-09T15:42:17.598066+05:30'
+first_seen: '2026-09-02T04:25:28.056228+05:30'
+last_seen: '2026-09-02T04:25:28.056228+05:30'
+last_checked: '2026-09-02T04:25:28.056228+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive JS Implementation**: Repository contains JavaScript implementations of 50+ algorithms (sorting, searching, graph, dynamic programming) and 20+ data structures (trees, heaps, graphs) with detailed explanations and complexity analysis.
+- **Comprehensive JS Implementation**: Repository contains JavaScript implementations of 50+ algorithms (sorting, searching, graph, dynamic programming) and 20+ data structures (trees, heaps, graphs) with detailed explanations.
 
-- **Interview-Focused**: Curated for technical interview prep with LeetCode-style problem categorization, Big-O complexity annotations, and references to additional resources (e.g., CLRS, Wikipedia).
+- **Interview-Focused**: Curated for technical interview preparation, covering common CS concepts with time/space complexity analysis and further reading references.
 
-- **Active Maintenance**: Last updated in 2026 with ongoing updates, supporting ES6+ features, and includes TypeScript definitions for type safety.
+- **Active Maintenance**: Last updated in 2026 with 196k+ stars and 31k+ forks, indicating strong community adoption and continuous updates.
 
 ## Why It Matters
 
@@ -41,11 +41,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: trekhleb
-- Stars: 196420
-- Forks: 31039
+- Stars: 196591
+- Forks: 31037
 - Language: JavaScript
 - Topics: algorithm, algorithms, computer-science, data-structures, interview, interview-preparation, javascript, javascript-algorithms
-- Last Updated: 2026-08-09T09:54:53Z
+- Last Updated: 2026-09-01T21:49:25Z
 - License: MIT
 - Archived: No
 - Created At: 2018-03-24T07:47:04Z

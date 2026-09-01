@@ -4,14 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/XMUDeepLIT/MemGraphRAG
-collected_at: '2026-09-02T01:01:43.536645+05:30'
-published_at: '2026-09-01T03:11:03Z'
+collected_at: '2026-09-02T04:14:13.918323+05:30'
+published_at: '2026-09-01T19:53:18Z'
 tags:
 - agents
+- dataset
 - github-repo
 - python
 - rag
-stars: 208
+stars: 209
 language: Python
 status: active
 license: MIT
@@ -19,9 +20,9 @@ archived: false
 created_at: '2026-02-02T03:16:55Z'
 pushed_at: '2026-06-20T23:54:03Z'
 resource_id: github:xmudeeplit/memgraphrag
-first_seen: '2026-09-02T01:01:43.536645+05:30'
-last_seen: '2026-09-02T01:01:43.536645+05:30'
-last_checked: '2026-09-02T01:01:43.536645+05:30'
+first_seen: '2026-09-02T04:14:13.918323+05:30'
+last_seen: '2026-09-02T04:14:13.918323+05:30'
+last_checked: '2026-09-02T04:14:13.918323+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Agent Framework**: Introduces a memory-based multi-agent system for Graph Retrieval-Augmented Generation (GraphRAG), leveraging distributed agent memory for enhanced graph construction and retrieval.
+- **Memory-based Multi-Agent System**: Implements a graph retrieval-augmented generation (GraphRAG) framework using a memory-driven multi-agent architecture to enhance knowledge retrieval and generation in large-scale datasets.
 
-- **Ontology-Guided Graph Construction**: Implements ontology-aware graph construction to dynamically build and refine knowledge graphs, improving contextual relevance in RAG pipelines.
+- **Graph & Ontology Construction**: Dynamically constructs knowledge graphs and ontologies from unstructured data, enabling structured reasoning and retrieval for downstream tasks.
 
-- **Python-Based Implementation**: Provides an open-source Python repository with modular components for agent-memory integration, graph construction, and retrieval-augmented generation, optimized for scalability and adaptability.
+- **Python Implementation**: Provides a Python-based open-source toolkit optimized for scalability, integrating agent-memory mechanisms with graph-based retrieval for improved LLM performance.
 
 ## Why It Matters
 
@@ -42,11 +43,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: XMUDeepLIT
-- Stars: 208
+- Stars: 209
 - Forks: 39
 - Language: Python
 - Topics: agent-memory, graph-construction, graphrag, multi-agent, ontology, ontology-construction, rag
-- Last Updated: 2026-09-01T03:11:03Z
+- Last Updated: 2026-09-01T19:53:18Z
 - License: MIT
 - Archived: No
 - Created At: 2026-02-02T03:16:55Z

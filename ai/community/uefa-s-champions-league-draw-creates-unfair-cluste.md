@@ -14,13 +14,14 @@ collected_at: '2026-09-02T00:59:01.556879+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:uefa-s-champions-league-draw-creates-unfair-cluste
 first_seen: '2026-09-02T00:59:01.556879+05:30'
 last_seen: '2026-09-02T00:59:01.556879+05:30'
 last_checked: '2026-09-02T00:59:01.556879+05:30'
 health_score: 100
 ---
+
 
 # UEFA's Champions League draw creates unfair clusters; a Cayley graph fixes it
 

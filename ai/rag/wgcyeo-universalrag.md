@@ -4,12 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/wgcyeo/UniversalRAG
-collected_at: '2026-09-02T01:01:48.515423+05:30'
+collected_at: '2026-09-02T04:14:18.871223+05:30'
 published_at: '2026-07-21T05:58:28Z'
 tags:
-- dataset
+- benchmark
 - github-repo
-- models
 - python
 - rag
 stars: 174
@@ -20,9 +19,9 @@ archived: false
 created_at: '2025-04-30T02:55:32Z'
 pushed_at: '2026-06-24T07:15:47Z'
 resource_id: github:wgcyeo/universalrag
-first_seen: '2026-09-02T01:01:48.515423+05:30'
-last_seen: '2026-09-02T01:01:48.515423+05:30'
-last_checked: '2026-09-02T01:01:48.515423+05:30'
+first_seen: '2026-09-02T04:14:18.871223+05:30'
+last_seen: '2026-09-02T04:14:18.871223+05:30'
+last_checked: '2026-09-02T04:14:18.871223+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal & Multi-Granularity RAG**: Introduces a framework enabling retrieval-augmented generation (RAG) across diverse data modalities (text, images, tables) and granularities (document, paragraph, sentence) without requiring modality-specific fine-tuning.
+- **Multimodal & Multi-Granularity RAG**: Introduces a unified framework for retrieval-augmented generation (RAG) that handles diverse data modalities (text, images, tables, etc.) and granularities (document, paragraph, sentence) via modality-specific encoders and granularity-aware retrievers.
 
-- **Unified Retrieval Mechanism**: Implements a modality-agnostic retriever using contrastive learning and cross-modal attention to dynamically select relevant information from heterogeneous corpora during generation.
+- **Modality-Agnostic Retrieval & Generation**: Implements a shared latent space for cross-modal retrieval and leverages modality-agnostic LLMs (e.g., fine-tuned on interleaved data) to generate coherent responses across heterogeneous inputs.
 
-- **Modular & Scalable Architecture**: Designed with plug-and-play components (retriever, generator, reranker) to support extensibility, optimized for large-scale multimodal datasets with efficient indexing and retrieval pipelines.
+- **Dynamic Adaptation & Benchmarking**: Features adaptive retrieval strategies (e.g., query reformulation, modality switching) and introduces a new benchmark (UniversalRAG-Bench) to evaluate performance on multimodal, multi-granular corpora.
 
 ## Why It Matters
 

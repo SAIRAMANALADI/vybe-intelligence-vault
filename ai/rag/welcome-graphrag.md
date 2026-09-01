@@ -4,21 +4,20 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://microsoft.github.io/graphrag/
-published_at: '2026-09-01T19:10:23.680263+05:30'
-collected_at: '2026-09-01T19:10:23.680276+05:30'
+published_at: '2026-09-02T04:17:09.172120+05:30'
+collected_at: '2026-09-02T04:17:09.172133+05:30'
 tags:
 - dataset
 - hackernews
 - models
 - openai
 - rag
-- reddit
 - web-crawled
 status: active
 resource_id: blog:welcome-graphrag
-first_seen: '2026-09-01T19:10:23.680276+05:30'
-last_seen: '2026-09-01T19:10:23.680276+05:30'
-last_checked: '2026-09-01T19:10:23.680276+05:30'
+first_seen: '2026-09-02T04:17:09.172133+05:30'
+last_seen: '2026-09-02T04:17:09.172133+05:30'
+last_checked: '2026-09-02T04:17:09.172133+05:30'
 health_score: 100
 ---
 
@@ -26,11 +25,11 @@ health_score: 100
 
 ## Summary
 
-- **Hierarchical Knowledge Graph Construction**: GraphRAG extracts entities, relationships, and claims from raw text, constructs a hierarchical graph using Leiden clustering, and generates community-level summaries to enable structured reasoning over private datasets.
+- **GraphRAG Architecture**: Structured hierarchical RAG framework that constructs a knowledge graph from raw text via entity/relationship extraction, hierarchical Leiden clustering, and community summarization for enhanced LLM reasoning on private datasets.
 
-- **Query Modes for Enhanced Retrieval**: Supports *Global Search* (holistic corpus reasoning via community summaries), *Local Search* (entity-centric reasoning via graph traversal), and *DRIFT Search* (context-aware entity reasoning with community metadata), outperforming baseline vector-based RAG in complex Q&A tasks.
+- **Query Modes**: Supports four query mechanisms—*Global Search* (holistic corpus analysis via community summaries), *Local Search* (entity-centric neighborhood traversal), *DRIFT Search* (community-augmented local search), and *Basic Search* (vector similarity fallback).
 
-- **Prompt Optimization & Versioning**: Requires prompt tuning via Microsoft’s guide for optimal performance and follows strict versioning with migration steps (e.g., `graphrag init --root`) to handle config updates between minor/major releases.
+- **Indexing Pipeline**: Processes input via TextUnit segmentation, entity/relationship extraction, graph construction, and bottom-up community summarization, with prompt tuning recommended for optimal performance.
 
 ## Why It Matters
 
@@ -40,7 +39,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-09-01T19:10:23.680263+05:30
+- Published: 2026-09-02T04:17:09.172120+05:30
 
 ## Related Tags
 
@@ -49,7 +48,6 @@ General public resource representing technology updates, guides, or tutorials.
 - models
 - openai
 - rag
-- reddit
 - web-crawled
 
 ## Source

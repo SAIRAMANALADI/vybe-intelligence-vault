@@ -13,9 +13,9 @@ Vector databases provide sub-millisecond similarity search across millions of em
 - [weaviate/Verba](https://github.com/weaviate/Verba) (benchmark - ESSENTIAL Tier)
 - [Pinecone · GitHub](https://github.com/pinecone-io) (framework - ESSENTIAL Tier)
 - [🧩 Integrations | Haystack](https://haystack.deepset.ai/integrations) (framework - ESSENTIAL Tier)
+- [dannyblaker/rag-tutorial](https://github.com/dannyblaker/rag-tutorial) (benchmark - ESSENTIAL Tier)
 - [decodingai-magazine/llm-twin-course](https://github.com/decodingai-magazine/llm-twin-course) (benchmark - ESSENTIAL Tier)
-- [VivekMalhan666/rag-beginner-guide](https://github.com/VivekMalhan666/rag-beginner-guide) (benchmark - ESSENTIAL Tier)
-- [Azure-Samples/chat-with-your-data-solution-accelerator](https://github.com/Azure-Samples/chat-with-your-data-solution-accelerator) (template - ESSENTIAL Tier)
+- [The-Vibe-Company/quivr](https://github.com/The-Vibe-Company/quivr) (framework - ESSENTIAL Tier)
 
 ## Best GitHub Repositories
 
@@ -26,7 +26,7 @@ https://github.com/lancedb/lancedb (LanceDB)
 - [bakrianoo/mini-rag](https://github.com/bakrianoo/mini-rag)
 - [weaviate/Verba](https://github.com/weaviate/Verba)
 - [Pinecone · GitHub](https://github.com/pinecone-io)
-- [decodingai-magazine/llm-twin-course](https://github.com/decodingai-magazine/llm-twin-course)
+- [dannyblaker/rag-tutorial](https://github.com/dannyblaker/rag-tutorial)
 
 ## Best Learning Resources
 
@@ -44,4 +44,4 @@ https://github.com/lancedb/lancedb (LanceDB)
 
 ---
 
-*Last updated: 2026-09-02 01:17 IST*
+*Last updated: 2026-09-02 04:29 IST*

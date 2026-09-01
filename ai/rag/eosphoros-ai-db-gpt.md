@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/eosphoros-ai/DB-GPT
-collected_at: '2026-09-02T01:01:28.565728+05:30'
+collected_at: '2026-09-02T04:13:58.871634+05:30'
 published_at: '2026-09-01T13:38:23Z'
 tags:
 - agents
@@ -13,7 +13,6 @@ tags:
 - openai
 - python
 - rag
-- workflows
 stars: 19840
 language: Python
 status: active
@@ -22,9 +21,9 @@ archived: false
 created_at: '2023-04-13T14:52:43Z'
 pushed_at: '2026-08-31T03:49:48Z'
 resource_id: github:eosphoros-ai/db-gpt
-first_seen: '2026-09-02T01:01:28.565728+05:30'
-last_seen: '2026-09-02T01:01:28.565728+05:30'
-last_checked: '2026-09-02T01:01:28.565728+05:30'
+first_seen: '2026-09-02T04:13:58.871634+05:30'
+last_seen: '2026-09-02T04:13:58.871634+05:30'
+last_checked: '2026-09-02T04:13:58.871634+05:30'
 health_score: 100
 ---
 
@@ -32,11 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Agentic AI Data Assistant**: Open-source framework enabling autonomous interaction with databases using LLMs (e.g., GPT-4, DeepSeek, Vicuna) for querying, analysis, and RAG-based workflows.
-
-- **Multi-Model & Private Deployment**: Supports integration with various LLMs (including proprietary APIs) and emphasizes local/private deployment for enhanced security and data control.
-
-- **Extensible Architecture**: Modular design with Python-based agents, BGI (Business Intelligence) tools, and hacktoberfest-compatible contributions for scalable data product development.
+- **Agentic AI Framework**: Open-source Python-based system integrating LLMs (DeepSeek, GPT-4, Vicuna) with **Retrieval-Augmented Generation (RAG)** for autonomous database interaction and data analysis.
+- **Security & Privacy Focus**: Supports **private deployment** with **BGI (Big Data Intelligence)** integration, emphasizing secure, on-premises data processing and hacktoberfest contributions.
+- **Modular Architecture**: Combines **agents**, **database connectors**, and **LLM fine-tuning** for scalable, next-gen AI-data products with active community maintenance (19.8k+ stars, 2.9k+ forks).
 
 ## Why It Matters
 

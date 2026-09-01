@@ -4,10 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pinecone-io/examples
-collected_at: '2026-09-02T01:00:43.496701+05:30'
+collected_at: '2026-09-02T04:13:13.931617+05:30'
 published_at: '2026-09-01T15:41:16Z'
 tags:
 - github-repo
+- hackernews
 - jupyter notebook
 - rag
 - workflows
@@ -17,11 +18,11 @@ status: active
 license: MIT
 archived: false
 created_at: '2021-03-09T19:42:10Z'
-pushed_at: '2026-09-01T16:18:38Z'
+pushed_at: '2026-09-01T22:02:24Z'
 resource_id: github:pinecone-io/examples
-first_seen: '2026-09-02T01:00:43.496701+05:30'
-last_seen: '2026-09-02T01:00:43.496701+05:30'
-last_checked: '2026-09-02T01:00:43.496701+05:30'
+first_seen: '2026-09-02T04:13:13.931617+05:30'
+last_seen: '2026-09-02T04:13:13.931617+05:30'
+last_checked: '2026-09-02T04:13:13.931617+05:30'
 health_score: 100
 ---
 
@@ -29,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- Repository of Jupyter Notebooks demonstrating Pinecone vector database applications, covering topics like RAG, LLM integration, semantic search, and vector search workflows in Python.
-- Includes 3,040 stars and 1,071 forks, indicating strong community adoption and collaborative development.
-- Last updated September 2026, ensuring relevance for modern AI and vector database use cases.
+- **Repository Overview**: Provides Jupyter Notebooks for hands-on experimentation with Pinecone vector databases, covering topics such as AI, LLM, RAG, semantic search, and vector search.
+- **Technical Stack**: Implemented in Python with Jupyter Notebooks, leveraging Pinecone’s vector database for scalable similarity search and retrieval-augmented generation (RAG) workflows.
+- **Metadata**: 3,040 stars, 1,071 forks, last updated on 2026-09-01, with active development in AI/ML and vector search applications.
 
 ## Why It Matters
 
@@ -48,7 +49,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - License: MIT
 - Archived: No
 - Created At: 2021-03-09T19:42:10Z
-- Pushed At: 2026-09-01T16:18:38Z
+- Pushed At: 2026-09-01T22:02:24Z
 
 ## Possible Use Cases
 

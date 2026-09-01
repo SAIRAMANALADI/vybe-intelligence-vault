@@ -1,70 +1,53 @@
 ---
-title: Dao-AILab/flash-attention
+title: flash-attention/hopper at main · Dao-AILab/flash-attention · GitHub
 category: ai/rag
-source_type: github
-source_name: GitHub Discovery
-source_url: https://github.com/Dao-AILab/flash-attention
-collected_at: '2026-08-09T08:10:39.413702+05:30'
-published_at: '2026-08-09T02:25:07Z'
+source_type: web
+source_name: Web Discovery
+source_url: https://github.com/Dao-AILab/flash-attention/tree/main/hopper
+published_at: '2026-09-02T04:20:37.137895+05:30'
+collected_at: '2026-09-02T04:20:37.137910+05:30'
 tags:
-- github-repo
-- python
+- benchmark
+- producthunt
 - rag
-stars: 24656
-language: Python
+- reddit
+- web-crawled
 status: active
-license: BSD-3-Clause
-archived: false
-created_at: '2022-05-19T21:22:06Z'
-pushed_at: '2026-08-09T00:21:44Z'
 resource_id: github:dao-ailab/flash-attention
-first_seen: '2026-08-09T08:10:39.413702+05:30'
-last_seen: '2026-08-09T08:10:39.413702+05:30'
-last_checked: '2026-08-09T08:10:39.413702+05:30'
+first_seen: '2026-09-02T04:20:37.137910+05:30'
+last_seen: '2026-09-02T04:20:37.137910+05:30'
+last_checked: '2026-09-02T04:20:37.137910+05:30'
 health_score: 100
 ---
 
-# Dao-AILab/flash-attention
+# flash-attention/hopper at main · Dao-AILab/flash-attention · GitHub
 
 ## Summary
 
-- **Exact Attention with Memory Efficiency**: Implements FlashAttention, an algorithm that computes exact attention with reduced memory reads/writes, improving speed and memory usage by up to 2-4x over standard attention mechanisms.
+- Optimized attention mechanism implementation leveraging Hopper architecture (SM90) with TMA (Tensor Memory Accelerator) and GMMA (Tensor Core MMA) for reduced memory bandwidth usage and improved compute efficiency.
 
-- **Block-Sparse Attention Optimization**: Utilizes block-sparse computation to minimize memory access overhead, leveraging tiling and recomputation to achieve near-optimal memory bandwidth utilization.
+- Supports forward and backward pass kernels (`flash_fwd_kernel_sm90.h`, `flash_bwd_kernel_sm90.h`) with dynamic sequence length handling via `seqlen.h` and paged KV cache (`paged_kv.h`) for efficient inference.
 
-- **Hardware-Aware Implementation**: Optimized for modern GPUs (e.g., NVIDIA A100/H100) with CUDA kernels, supporting variable sequence lengths and fused kernel operations for end-to-end efficiency.
+- Includes FP8 precision support (`benchmark_flash_attention_fp8.py`) and multi-head attention (MHA) variants with grouped-query attention (GQA) via `pack_gqa.h`, with Python/C++ APIs (`flash_attn_interface.py`, `flash_api.cpp`) for seamless integration.
 
 ## Why It Matters
 
-Explain why this repository is useful for advanced web development, 3D frontend, animations, UI systems, or creative development.
+General public resource representing technology updates, guides, or tutorials.
 
-## Repository Details
+## Details
 
-- Owner: Dao-AILab
-- Stars: 24656
-- Forks: 2971
-- Language: Python
-- Topics: None
-- Last Updated: 2026-08-09T02:25:07Z
-- License: BSD-3-Clause
-- Archived: No
-- Created At: 2022-05-19T21:22:06Z
-- Pushed At: 2026-08-09T00:21:44Z
+- Source: Web Discovery
+- Category: ai/rag
+- Published: 2026-09-02T04:20:37.137895+05:30
 
-## Possible Use Cases
+## Related Tags
 
-- Learn implementation patterns
-- Extract reusable components
-- Study architecture
-- Build similar project
-- Add to skill file references
-
-## Related Skills
-
-- Frontend Development
-- JavaScript
-- HTML/CSS
+- benchmark
+- producthunt
+- rag
+- reddit
+- web-crawled
 
 ## Source
 
-Original source: https://github.com/Dao-AILab/flash-attention
+Original source: https://github.com/Dao-AILab/flash-attention/tree/main/hopper

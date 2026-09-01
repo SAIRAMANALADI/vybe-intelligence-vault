@@ -4,10 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/bangoc123/retrieval-backend-with-rag
-collected_at: '2026-09-02T01:00:53.525043+05:30'
+collected_at: '2026-09-02T04:13:23.822516+05:30'
 published_at: '2026-08-22T07:32:26Z'
 tags:
+- benchmark
 - github-repo
+- meta-ai
+- models
 - python
 - rag
 stars: 267
@@ -17,9 +20,9 @@ archived: false
 created_at: '2024-06-13T03:43:42Z'
 pushed_at: '2025-10-03T03:29:43Z'
 resource_id: github:bangoc123/retrieval-backend-with-rag
-first_seen: '2026-09-02T01:00:53.525043+05:30'
-last_seen: '2026-09-02T01:00:53.525043+05:30'
-last_checked: '2026-09-02T01:00:53.525043+05:30'
+first_seen: '2026-09-02T04:13:23.822516+05:30'
+last_seen: '2026-09-02T04:13:23.822516+05:30'
+last_checked: '2026-09-02T04:13:23.822516+05:30'
 health_score: 100
 ---
 
@@ -27,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- Implements **Retrieval-Augmented Generation (RAG)** optimized for **Vietnamese language processing**, leveraging vector databases and embedding models tailored for Vietnamese text.
-- Demonstrates **best practices** in RAG pipeline design, including **chunking strategies**, **retrieval mechanisms**, and **prompt engineering** for Vietnamese context.
-- Provides a **Python-based backend** with integration examples for **LLMs** (e.g., ViT5, PhoBERT) and **vector stores** (e.g., FAISS, Weaviate) to enhance contextual retrieval and generation.
+- **Implementation**: Python-based Retrieval-Augmented Generation (RAG) system optimized for Vietnamese language processing, integrating vector search (e.g., FAISS/Weaviate) with LLMs for contextual retrieval.
+- **Architecture**: Modular pipeline with components for text preprocessing (Vietnamese tokenization/normalization), embedding generation (e.g., `vinai/phobert-base`), and retrieval-augmented generation using frameworks like LangChain or LlamaIndex.
+- **Deployment**: Scalable backend with FastAPI for serving embeddings and RAG endpoints, supporting Vietnamese-specific benchmarks (e.g., ViQuAD) and evaluation metrics (e.g., MRR, F1-score).
 
 ## Why It Matters
 

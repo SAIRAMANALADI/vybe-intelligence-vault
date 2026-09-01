@@ -10,22 +10,22 @@ Discovering modern AI productivity tools allows developers to streamline their d
 
 - [langchain-ai/langchain-skills](https://github.com/langchain-ai/langchain-skills) (framework - ESSENTIAL Tier)
 - [Mintlify · GitHub](https://github.com/mintlify) (template - ESSENTIAL Tier)
+- [fetchai/innovation-lab-examples](https://github.com/fetchai/innovation-lab-examples) (framework - ESSENTIAL Tier)
+- [mongodb-developer/GenAI-Showcase](https://github.com/mongodb-developer/GenAI-Showcase) (benchmark - ESSENTIAL Tier)
 - [Genkit - Open-source AI framework by Google in JavaScript, Go and Python](https://genkit.dev) (framework - USEFUL Tier)
 - [Nonuniformity Principle in Human-AI Coworking](https://arxiv.org/abs/2607.16530) (framework - USEFUL Tier)
 - [Multi-Agent Firewall Architecture for Privacy Protection of Sensitive Data in Interactions with Language Models](https://arxiv.org/abs/2607.08282) (framework - USEFUL Tier)
 - [Mining Architectural Quality Under Agentic AI Adoption: A Causal Study of Java Repositories](https://arxiv.org/abs/2606.13298) (framework - USEFUL Tier)
-- [On a joint simultaneous learning of relevant feature subsets and subspaces in regression-like problems](https://arxiv.org/abs/2607.28080) (framework - USEFUL Tier)
-- [Gender Differences in AI Literacy Workshop Outcomes and Deepfake Engagement](https://arxiv.org/abs/2606.14718) (framework - USEFUL Tier)
 
 ## Best GitHub Repositories
 
 https://github.com/steven-tey/charlie (Charlie Directory App)
 - [langchain-ai/langchain-skills](https://github.com/langchain-ai/langchain-skills)
 - [Mintlify · GitHub](https://github.com/mintlify)
+- [fetchai/innovation-lab-examples](https://github.com/fetchai/innovation-lab-examples)
+- [mongodb-developer/GenAI-Showcase](https://github.com/mongodb-developer/GenAI-Showcase)
 - [continuedev/continue](https://github.com/continuedev/continue)
-- [MuhammadUsmanGM/claude-code-best-practices](https://github.com/MuhammadUsmanGM/claude-code-best-practices)
 - [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx)
-- [alvinreal/awesome-opensource-ai](https://github.com/alvinreal/awesome-opensource-ai)
 
 ## Best Learning Resources
 
@@ -42,4 +42,4 @@ https://github.com/steven-tey/charlie (Charlie Directory App)
 
 ---
 
-*Last updated: 2026-09-02 01:17 IST*
+*Last updated: 2026-09-02 04:30 IST*

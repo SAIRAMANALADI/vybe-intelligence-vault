@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/gptme/gptme-agent-template
-collected_at: '2026-09-02T01:03:23.644531+05:30'
+collected_at: '2026-09-02T04:15:49.062415+05:30'
 published_at: '2026-08-31T17:02:57Z'
 tags:
 - agents
@@ -18,9 +18,9 @@ archived: false
 created_at: '2024-11-21T09:16:40Z'
 pushed_at: '2026-09-01T02:36:30Z'
 resource_id: github:gptme/gptme-agent-template
-first_seen: '2026-09-02T01:03:23.644531+05:30'
-last_seen: '2026-09-02T01:03:23.644531+05:30'
-last_checked: '2026-09-02T01:03:23.644531+05:30'
+first_seen: '2026-09-02T04:15:49.062415+05:30'
+last_seen: '2026-09-02T04:15:49.062415+05:30'
+last_checked: '2026-09-02T04:15:49.062415+05:30'
 health_score: 100
 ---
 
@@ -28,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Template Purpose**: Provides a structured workspace for creating persistent, autonomous agents capable of building, learning, socializing, and assisting users.
+- **Template Purpose**: Provides a structured workspace for creating persistent, autonomous agents using `gptme`, enabling capabilities like building, learning, socializing, and task assistance.
 - **Technical Stack**: Primarily implemented in **Shell**, facilitating agent orchestration and CLI-based interactions.
-- **Repository Metadata**: 50 stars, 28 forks, last updated **2026-08-31T17:02:57Z**.
+- **Metadata**: 50 stars, 28 forks, last updated **2026-08-31**; designed as a foundational template for agent development.
 
 ## Why It Matters
 

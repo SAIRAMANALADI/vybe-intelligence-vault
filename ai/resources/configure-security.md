@@ -4,17 +4,17 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://gohugo.io/configuration/security/
-published_at: '2026-09-01T11:01:39.098678+05:30'
-collected_at: '2026-09-01T11:01:39.098691+05:30'
+published_at: '2026-09-02T04:19:19.273358+05:30'
+collected_at: '2026-09-02T04:19:19.273372+05:30'
 tags:
 - frontend_ui
 - reddit
 - web-crawled
 status: active
 resource_id: blog:configure-security
-first_seen: '2026-09-01T11:01:39.098691+05:30'
-last_seen: '2026-09-01T11:01:39.098691+05:30'
-last_checked: '2026-09-01T11:01:39.098691+05:30'
+first_seen: '2026-09-02T04:19:19.273372+05:30'
+last_seen: '2026-09-02T04:19:19.273372+05:30'
+last_checked: '2026-09-02T04:19:19.273372+05:30'
 health_score: 100
 ---
 
@@ -22,11 +22,11 @@ health_score: 100
 
 ## Summary
 
-- **Default Security Policy**: Hugo enforces a restrictive default security policy via allowlists, blocking `os/exec`, remote operations, and other high-risk features unless explicitly permitted; builds fail with detailed errors if unauthorized operations are attempted.
+- Hugo's security policy uses allowlists to restrict operations like `os/exec`, remote communication, and file system access, with default restrictions enforced unless explicitly permitted.
 
-- **Configuration Structure**: Security settings are defined via regex-based allowlists for content types (`allowContent`), executables (`exec.allow`), environment variables (`exec.osEnv`, `funcs.getenv`), HTTP methods/URLs (`http.methods`, `http.urls`), and Node.js permissions (`node.permissions.*`), with negation rules (`!`) overriding allows.
+- Key security configurations include `allowContent` (denies HTML by default), `exec.allow` (whitelists executables like `sass`, `git`, `node`), and `http.urls` (restricts remote URL access with regex-based allow/deny rules).
 
-- **Environment Overrides**: Security policies can be dynamically modified via environment variables (e.g., `HUGO_SECURITY_HTTP_URLS=none` to block all remote URLs) or by setting allowlists to `none` for complete feature disablement.
+- Node.js permissions (v0.161.0+) control file system and resource access via flags like `--allow-fs-read`/`--allow-fs-write`, with granular paths and tool-specific restrictions (e.g., `tailwindcss` addons/child processes).
 
 ## Why It Matters
 
@@ -36,7 +36,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-09-01T11:01:39.098678+05:30
+- Published: 2026-09-02T04:19:19.273358+05:30
 
 ## Related Tags
 

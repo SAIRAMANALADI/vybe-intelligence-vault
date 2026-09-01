@@ -6,8 +6,8 @@ source_name: Web Discovery
 source_url: https://play.google.com/store/apps/details?id=com.medium.reader&referrer=utm_source%3DmobileNavBar&source=
 resource_id: blog:medium-read-write-stories-apps-on-google-play
 ---top_nav_layout_nav-----------------------------------------
-published_at: '2026-09-01T19:10:18.522818+05:30'
-collected_at: '2026-09-01T19:10:18.522831+05:30'
+published_at: '2026-09-02T04:17:04.396201+05:30'
+collected_at: '2026-09-02T04:17:04.396212+05:30'
 tags:
 - rag
 - reddit
@@ -15,9 +15,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:medium-read-write-stories-apps-on-google-play
-first_seen: '2026-09-01T19:10:18.522831+05:30'
-last_seen: '2026-09-01T19:10:18.522831+05:30'
-last_checked: '2026-09-01T19:10:18.522831+05:30'
+first_seen: '2026-09-02T04:17:04.396212+05:30'
+last_seen: '2026-09-02T04:17:04.396212+05:30'
+last_checked: '2026-09-02T04:17:04.396212+05:30'
 health_score: 100
 ---
 
@@ -25,11 +25,11 @@ health_score: 100
 
 ## Summary
 
-- **Platform Overview**: Medium is a subscription-based content platform offering ad-free, long-form stories from expert writers and independent voices, with features like personalized recommendations, audio playback, and cross-device synchronization.
+- **Platform Overview**: Medium is a subscription-based (4.99/month or 49.99/year) ad-free platform offering millions of long-form stories from expert writers, with features like highlighting, bookmarking, audio playback, and cross-device synchronization.
 
-- **Data Handling**: The app collects personal info, photos/videos, and other data types but encrypts data in transit and allows users to request deletion; no data is shared with third parties.
+- **Data Handling**: No third-party data sharing; collects personal info, photos/videos, and other data types, encrypted in transit, with user-requestable deletion per Google Play’s Data Safety guidelines.
 
-- **Subscription Model**: Medium offers a $4.99/month or $49.99/year membership for unlimited access, with auto-renewing payments managed via Google Play; publishing and monetization via the Partner Program are also supported.
+- **User Feedback**: High-rated (4.7 stars, 513K reviews) with praise for affordability and content quality, but criticized for persistent bugs (e.g., unmarked articles reappearing in Reading Lists) and limited free-tier functionality.
 
 ## Why It Matters
 
@@ -39,7 +39,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-09-01T19:10:18.522818+05:30
+- Published: 2026-09-02T04:17:04.396201+05:30
 
 ## Related Tags
 

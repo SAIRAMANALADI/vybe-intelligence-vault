@@ -4,15 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/datawhalechina/hello-agents
-collected_at: '2026-09-02T01:00:13.612596+05:30'
-published_at: '2026-09-01T19:19:44Z'
+collected_at: '2026-09-02T04:12:43.863598+05:30'
+published_at: '2026-09-01T21:58:58Z'
 tags:
 - agents
 - github-repo
 - hackernews
 - python
 - rag
-stars: 76084
+stars: 76092
 language: Python
 status: active
 license: NOASSERTION
@@ -20,9 +20,9 @@ archived: false
 created_at: '2025-09-07T09:50:24Z'
 pushed_at: '2026-08-18T06:51:35Z'
 resource_id: github:datawhalechina/hello-agents
-first_seen: '2026-09-02T01:00:13.612596+05:30'
-last_seen: '2026-09-02T01:00:13.612596+05:30'
-last_checked: '2026-09-02T01:00:13.612596+05:30'
+first_seen: '2026-09-02T04:12:43.863598+05:30'
+last_seen: '2026-09-02T04:12:43.863598+05:30'
+last_checked: '2026-09-02T04:12:43.863598+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Educational Repository**: Provides a comprehensive tutorial in Chinese titled *"从零开始构建智能体"* (Building Agents from Scratch), covering foundational principles and practical implementations of AI agents.
-- **Technical Scope**: Focuses on core agentic concepts including LLM integration, Retrieval-Augmented Generation (RAG), and agent architecture development using Python.
-- **Community & Updates**: Actively maintained with 76,084 stars and 9,458 forks, last updated on 2026-09-01, serving as a collaborative resource for agent-based AI development.
+- **Repository Overview**: A comprehensive Chinese tutorial repository (`datawhalechina/hello-agents`) focused on building intelligent agents from scratch, covering principles and practical implementations.
+
+- **Technical Scope**: Covers core topics including agent architectures, large language models (LLMs), retrieval-augmented generation (RAG), and hands-on Python-based implementations.
+
+- **Metadata**: 76,092 stars, 9,459 forks; last updated September 1, 2026; primarily Python-based with tutorial-style documentation.
 
 ## Why It Matters
 
@@ -41,11 +43,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: datawhalechina
-- Stars: 76084
-- Forks: 9458
+- Stars: 76092
+- Forks: 9459
 - Language: Python
 - Topics: agent, llm, rag, tutorial
-- Last Updated: 2026-09-01T19:19:44Z
+- Last Updated: 2026-09-01T21:58:58Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2025-09-07T09:50:24Z

@@ -4,9 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NVIDIA/workbench-example-hybrid-rag
-collected_at: '2026-09-02T01:00:43.472945+05:30'
+collected_at: '2026-09-02T04:13:13.856026+05:30'
 published_at: '2026-08-24T22:35:50Z'
 tags:
+- dataset
 - github-repo
 - python
 - rag
@@ -19,9 +20,9 @@ archived: false
 created_at: '2024-03-11T15:57:29Z'
 pushed_at: '2025-08-12T17:57:18Z'
 resource_id: github:nvidia/workbench-example-hybrid-rag
-first_seen: '2026-09-02T01:00:43.472945+05:30'
-last_seen: '2026-09-02T01:00:43.472945+05:30'
-last_checked: '2026-09-02T01:00:43.472945+05:30'
+first_seen: '2026-09-02T04:13:13.856026+05:30'
+last_seen: '2026-09-02T04:13:13.856026+05:30'
+last_checked: '2026-09-02T04:13:13.856026+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Hybrid RAG Implementation**: Demonstrates a hybrid retrieval-augmented generation (RAG) pipeline combining dense (vector) and sparse (keyword/BM25) retrieval methods for improved document retrieval accuracy.
+- **Hybrid RAG Pipeline**: Implements a Retrieval-Augmented Generation (RAG) system combining dense (vector) and sparse (keyword/BM25) retrieval methods for enhanced document search and response generation in Python.
 
-- **NVIDIA AI Workbench Integration**: Provides a reference implementation for deploying RAG workflows using NVIDIA's AI Workbench, leveraging GPU acceleration for efficient LLM inference and retrieval.
+- **NVIDIA AI Workbench Integration**: Demonstrates deployment and optimization of the RAG workflow using NVIDIA's AI Workbench, leveraging GPU acceleration for efficient LLM inference and retrieval.
 
-- **Python-Based Example**: Includes a Python-based reference project with modular components for document preprocessing, retrieval, and generation, optimized for NVIDIA GPUs.
+- **Modular Architecture**: Provides a structured example with configurable components (retriever, reranker, generator) for extensibility, supporting custom datasets and model integration.
 
 ## Why It Matters
 

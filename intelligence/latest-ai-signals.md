@@ -18,6 +18,7 @@ Update cycle: Refreshed every 3 hours.
 | 2026-07-01 | [mistralai/LeanstralSafeVerify](https://github.com/mistralai/LeanstralSafeVerify) | `ai-coding-agents/` | 70 |
 | 2026-06-26 | [crazyaiml/VAR](https://github.com/crazyaiml/VAR) | `ai-coding-agents/` | 70 |
 | 2026-06-25 | [h1papc11/healthcare-ai-agent-vault](https://github.com/h1papc11/healthcare-ai-agent-vault) | `ai-coding-agents/` | 70 |
+| 2026-06-16 | [Speechify-AI/cookbook](https://github.com/Speechify-AI/cookbook) | `ai-coding-agents/` | 70 |
 | 2026-06-15 | [run-llama/llama-parse-cli](https://github.com/run-llama/llama-parse-cli) | `rag-systems/` | 70 |
 | 2026-06-15 | [run-llama/llama-parse-java](https://github.com/run-llama/llama-parse-java) | `rag-systems/` | 70 |
 | 2026-06-15 | [run-llama/llama-parse-go](https://github.com/run-llama/llama-parse-go) | `automation-workflows/` | 70 |
@@ -35,6 +36,5 @@ Update cycle: Refreshed every 3 hours.
 | 2026-05-01 | [NotPBShaw/awesome-ai-governance](https://github.com/NotPBShaw/awesome-ai-governance) | `ai-coding-agents/` | 70 |
 | 2026-04-29 | [sirius-zuo/devops-skills](https://github.com/sirius-zuo/devops-skills) | `ai-coding-agents/` | 70 |
 | 2026-04-26 | [DenCabinetmaker/Rust-Rage](https://github.com/DenCabinetmaker/Rust-Rage) | `rag-systems/` | 70 |
-| 2026-04-23 | [crazyaiml/nl-2-sql-agent](https://github.com/crazyaiml/nl-2-sql-agent) | `rag-systems/` | 70 |
 
 More resources will appear as the harvester collects them.

@@ -4,15 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/adongwanai/AgentGuide
-collected_at: '2026-09-02T01:04:18.587553+05:30'
+collected_at: '2026-09-02T04:16:49.019862+05:30'
 published_at: '2026-09-01T19:08:23Z'
 tags:
 - agents
 - github-repo
 - hackernews
 - html
+- models
 - rag
-- workflows
 stars: 9077
 language: HTML
 status: active
@@ -20,9 +20,9 @@ archived: false
 created_at: '2025-11-03T10:46:38Z'
 pushed_at: '2026-08-25T04:23:33Z'
 resource_id: github:adongwanai/agentguide
-first_seen: '2026-09-02T01:04:18.587553+05:30'
-last_seen: '2026-09-02T01:04:18.587553+05:30'
-last_checked: '2026-09-02T01:04:18.587553+05:30'
+first_seen: '2026-09-02T04:16:49.019862+05:30'
+last_seen: '2026-09-02T04:16:49.019862+05:30'
+last_checked: '2026-09-02T04:16:49.019862+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive AI Agent Development Guide**: Covers LangGraph implementation, advanced RAG techniques, multi-agent systems, and CrewAI integration for building production-grade AI agents.
+- **Comprehensive AI Agent Development Guide**: Repository provides a detailed technical resource covering AI agent development, LangGraph implementation, advanced RAG (Retrieval-Augmented Generation), multi-agent systems, and reinforcement learning (RL) techniques.
 
-- **Interview & Career Resources**: Provides specialized content for transitioning into LLM roles, including algorithm engineering, interview prep, and curated problem sets for AI/ML positions.
+- **Interview & Career Preparation Framework**: Includes curated interview questions, job-hunting strategies, and algorithm engineering tutorials tailored for transitioning into large language model (LLM) roles, with a focus on SFT (Supervised Fine-Tuning) and GRPO (Group Relative Policy Optimization).
 
-- **Advanced Topics & Tooling**: Includes GRPO, GraphRAG, SFT, data synthesis, and reinforcement learning methodologies, with tutorials on optimizing agentic workflows.
+- **Technical Stack & Tools**: Covers practical implementations using LangChain, CrewAI, GraphRAG, and other frameworks, with resources on data synthesis, job-hunting methodologies, and algorithmic problem-solving for LLM engineering.
 
 ## Why It Matters
 

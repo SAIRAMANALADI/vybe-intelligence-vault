@@ -4,24 +4,25 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/infiniflow/ragflow
-collected_at: '2026-09-02T01:00:33.506228+05:30'
-published_at: '2026-09-01T19:27:48Z'
+collected_at: '2026-09-02T04:13:03.839964+05:30'
+published_at: '2026-09-01T22:21:05Z'
 tags:
 - agents
 - github-repo
 - go
 - rag
-stars: 89839
+- workflows
+stars: 89841
 language: Go
 status: active
 license: Apache-2.0
 archived: false
 created_at: '2023-12-12T06:13:13Z'
-pushed_at: '2026-09-01T13:58:29Z'
+pushed_at: '2026-09-01T22:12:17Z'
 resource_id: github:infiniflow/ragflow
-first_seen: '2026-09-02T01:00:33.506228+05:30'
-last_seen: '2026-09-02T01:00:33.506228+05:30'
-last_checked: '2026-09-02T01:00:33.506228+05:30'
+first_seen: '2026-09-02T04:13:03.839964+05:30'
+last_seen: '2026-09-02T04:13:03.839964+05:30'
+last_checked: '2026-09-02T04:13:03.839964+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Hybrid RAG-Engine**: Combines advanced Retrieval-Augmented Generation (RAG) with Agentic AI capabilities to enhance LLM context processing via a unified pipeline.
+- **Hybrid RAG-Agent Architecture**: RAGFlow integrates advanced Retrieval-Augmented Generation (RAG) with autonomous agent capabilities, enabling dynamic context retrieval and adaptive LLM interaction for enhanced reasoning and response generation.
 
-- **Go-Based Architecture**: Implemented in Go for high-performance context management, knowledge compilation, and retrieval optimization in production-grade RAG systems.
+- **Multi-Modal Context Engine**: Supports structured/unstructured data ingestion (e.g., PDFs, tables, images) with built-in preprocessing, chunking, and embedding pipelines optimized for low-latency retrieval in high-dimensional vector spaces.
 
-- **Agentic Context Layer**: Integrates agentic retrieval, search, and context engineering to dynamically refine LLM inputs, improving accuracy and adaptability in real-world applications.
+- **Agentic Workflows & Tool Integration**: Implements agentic loops for iterative query refinement, tool-use (e.g., APIs, code execution), and self-correction, with Go-based orchestration for scalability and real-time context management.
 
 ## Why It Matters
 
@@ -42,15 +43,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: infiniflow
-- Stars: 89839
-- Forks: 10591
+- Stars: 89841
+- Forks: 10593
 - Language: Go
 - Topics: agent-harness, agentic-ai, agentic-retrieval, agentic-search, ai, ai-agents, context-engine, context-engineering, context-management, harness-engineering, knowledge-compilation, llm-apps, rag, retrieval-augmented-generation
-- Last Updated: 2026-09-01T19:27:48Z
+- Last Updated: 2026-09-01T22:21:05Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2023-12-12T06:13:13Z
-- Pushed At: 2026-09-01T13:58:29Z
+- Pushed At: 2026-09-01T22:12:17Z
 
 ## Possible Use Cases
 

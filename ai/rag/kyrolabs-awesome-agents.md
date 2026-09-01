@@ -4,16 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/kyrolabs/awesome-agents
-collected_at: '2026-09-02T01:02:43.560534+05:30'
+collected_at: '2026-09-02T04:15:08.959797+05:30'
 published_at: '2026-09-01T18:13:12Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - paper
 - rag
 - unknown
-- workflows
 stars: 2792
 language: Unknown
 status: active
@@ -21,9 +19,9 @@ archived: false
 created_at: '2023-07-02T11:12:36Z'
 pushed_at: '2026-09-01T18:12:49Z'
 resource_id: github:kyrolabs/awesome-agents
-first_seen: '2026-09-02T01:02:43.560534+05:30'
-last_seen: '2026-09-02T01:02:43.560534+05:30'
-last_checked: '2026-09-02T01:02:43.560534+05:30'
+first_seen: '2026-09-02T04:15:08.959797+05:30'
+last_seen: '2026-09-02T04:15:08.959797+05:30'
+last_checked: '2026-09-02T04:15:08.959797+05:30'
 health_score: 100
 ---
 
@@ -31,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated Collection**: A structured, community-driven repository of AI agent frameworks, tools, libraries, and research papers.
-- **Multi-Domain Coverage**: Encompasses autonomous agents, multi-agent systems, agent-based modeling, and agentic workflows across domains like robotics, NLP, and reinforcement learning.
-- **Regularly Updated**: Maintained with recent contributions, ensuring inclusion of cutting-edge developments in AI agent technology.
+- **Curated Collection**: A comprehensive, community-driven repository of AI agent frameworks, tools, and resources, including libraries, platforms, and research papers.
+- **Multi-Domain Coverage**: Encompasses agents for general-purpose AI, autonomous systems, multi-agent collaboration, and specialized domains (e.g., robotics, finance, healthcare).
+- **Active Maintenance**: Last updated in September 2026, ensuring inclusion of recent advancements and tools in the rapidly evolving AI agent ecosystem.
 
 ## Why It Matters
 

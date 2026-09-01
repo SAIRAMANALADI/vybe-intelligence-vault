@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/FlowiseAI/Flowise
-collected_at: '2026-09-02T01:03:18.661508+05:30'
+collected_at: '2026-09-02T04:15:48.985995+05:30'
 published_at: '2026-09-01T18:45:56Z'
 tags:
 - agents
@@ -12,7 +12,6 @@ tags:
 - github-repo
 - openai
 - rag
-- reddit
 - scripts
 - typescript
 - workflows
@@ -24,9 +23,9 @@ archived: true
 created_at: '2023-03-31T12:23:09Z'
 pushed_at: '2026-08-13T12:38:19Z'
 resource_id: github:flowiseai/flowise
-first_seen: '2026-09-02T01:03:18.661508+05:30'
-last_seen: '2026-09-02T01:03:18.661508+05:30'
-last_checked: '2026-09-02T01:03:18.661508+05:30'
+first_seen: '2026-09-02T04:15:48.985995+05:30'
+last_seen: '2026-09-02T04:15:48.985995+05:30'
+last_checked: '2026-09-02T04:15:48.985995+05:30'
 health_score: 100
 ---
 
@@ -36,9 +35,9 @@ health_score: 100
 
 - **Visual AI Agent Builder**: Open-source, low/no-code platform in TypeScript/React for constructing AI agents and workflows, leveraging LangChain and large language models (LLMs) like OpenAI.
 
-- **Multi-Agent & RAG Support**: Enables multi-agent systems and Retrieval-Augmented Generation (RAG) pipelines with modular components for chatbots, automation, and agentic workflows.
+- **Multi-Agent & Workflow Automation**: Supports agentic AI, multi-agent systems, and RAG (Retrieval-Augmented Generation) with visual drag-and-drop interface for workflow automation.
 
-- **Self-Hosted & Extensible**: Deployable via Docker/Node.js, with customizable integrations for JavaScript/TypeScript ecosystems, and active community-driven updates (last commit: 2026-09-01).
+- **Extensible & Modern Stack**: Built on Node.js with TypeScript, integrates with JavaScript ecosystems, and provides modular components for custom AI agent development.
 
 ## Why It Matters
 

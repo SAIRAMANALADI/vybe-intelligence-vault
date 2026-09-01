@@ -4,17 +4,16 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/mongodb-developer/GenAI-Showcase
-collected_at: '2026-09-02T01:02:28.595454+05:30'
-published_at: '2026-09-01T18:37:17Z'
+collected_at: '2026-09-02T04:14:53.967662+05:30'
+published_at: '2026-09-01T22:25:54Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - jupyter notebook
 - rag
 - reddit
 - workflows
-stars: 4263
+stars: 4262
 language: Jupyter Notebook
 status: active
 license: MIT
@@ -22,9 +21,9 @@ archived: false
 created_at: '2024-01-30T14:20:36Z'
 pushed_at: '2026-08-21T16:42:58Z'
 resource_id: github:mongodb-developer/genai-showcase
-first_seen: '2026-09-02T01:02:28.595454+05:30'
-last_seen: '2026-09-02T01:02:28.595454+05:30'
-last_checked: '2026-09-02T01:02:28.595454+05:30'
+first_seen: '2026-09-02T04:14:53.967662+05:30'
+last_seen: '2026-09-02T04:14:53.967662+05:30'
+last_checked: '2026-09-02T04:14:53.967662+05:30'
 health_score: 100
 ---
 
@@ -32,9 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive GenAI Examples**: Repository provides extensive implementations of Retrieval-Augmented Generation (RAG), AI agents, and industry-specific use cases using MongoDB Atlas and Python.
-- **Technical Stack**: Primarily utilizes Jupyter Notebooks with Python, integrating MongoDB Atlas, LLMs, and vector search for generative AI workflows.
-- **Industry & Agent Focus**: Showcases specialized applications for AI agents and domain-specific solutions, updated as of September 2026.
+- **Comprehensive RAG & AI Agent Examples**: Repository provides extensive Jupyter Notebook-based implementations of Retrieval-Augmented Generation (RAG) and AI agent architectures, demonstrating integration with MongoDB Atlas for vector search and document storage.
+
+- **Industry-Specific Use Cases**: Includes sample applications tailored for domain-specific generative AI applications, showcasing MongoDB’s capabilities in handling unstructured data for AI workflows.
+
+- **Python-Centric Tooling**: Focuses on Python-based implementations, leveraging MongoDB’s Python driver (`pymongo`) and Atlas Vector Search for scalable, production-ready generative AI pipelines.
 
 ## Why It Matters
 
@@ -43,11 +44,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: mongodb-developer
-- Stars: 4263
+- Stars: 4262
 - Forks: 746
 - Language: Jupyter Notebook
 - Topics: agents, artificial-intelligence, atlas, generative-ai, jupyter-notebook, llms, mongodb, python, rag
-- Last Updated: 2026-09-01T18:37:17Z
+- Last Updated: 2026-09-01T22:25:54Z
 - License: MIT
 - Archived: No
 - Created At: 2024-01-30T14:20:36Z

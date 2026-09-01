@@ -4,12 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/onyx-dot-app/EnterpriseRAG-Bench
-collected_at: '2026-09-02T01:01:18.510875+05:30'
+collected_at: '2026-09-02T04:13:43.879841+05:30'
 published_at: '2026-09-01T14:02:29Z'
 tags:
 - benchmark
 - dataset
 - github-repo
+- hackernews
 - rag
 - unknown
 stars: 539
@@ -20,9 +21,9 @@ archived: false
 created_at: '2026-02-19T02:48:25Z'
 pushed_at: '2026-05-08T02:57:41Z'
 resource_id: github:onyx-dot-app/enterpriserag-bench
-first_seen: '2026-09-02T01:01:18.510875+05:30'
-last_seen: '2026-09-02T01:01:18.510875+05:30'
-last_checked: '2026-09-02T01:01:18.510875+05:30'
+first_seen: '2026-09-02T04:13:43.879841+05:30'
+last_seen: '2026-09-02T04:13:43.879841+05:30'
+last_checked: '2026-09-02T04:13:43.879841+05:30'
 health_score: 100
 ---
 
@@ -30,11 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Provides a benchmarking framework and synthetic dataset for evaluating Retrieval-Augmented Generation (RAG) systems on enterprise internal documents, enabling standardized assessment of LLM performance in domain-specific contexts.
-
-- **Dataset Composition**: Includes synthetic data generation for enterprise knowledge bases, covering tasks like semantic search, question-answering, and information retrieval across diverse document types (e.g., reports, policies, emails).
-
-- **Evaluation Metrics**: Supports metrics for RAG evaluation (e.g., retrieval precision, answer correctness, latency) with Python-based tooling for automated testing and comparison of LLM pipelines.
+- **Purpose**: Provides a dataset and benchmark framework for evaluating Retrieval-Augmented Generation (RAG) systems on proprietary company documents, enabling standardized assessment of enterprise RAG performance.
+- **Features**: Includes synthetic data generation, semantic search evaluation, and LLM-based QA tasks tailored for enterprise knowledge bases and internal document retrieval.
+- **Technical Scope**: Supports Python-based RAG evaluation pipelines, covering metrics like retrieval accuracy, answer correctness, and generative AI performance in enterprise contexts.
 
 ## Why It Matters
 

@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pguso/ai-agents-from-scratch
-collected_at: '2026-09-02T01:02:03.503964+05:30'
+collected_at: '2026-09-02T04:14:33.864727+05:30'
 published_at: '2026-09-01T13:17:48Z'
 tags:
 - agents
@@ -23,9 +23,9 @@ archived: false
 created_at: '2025-10-23T19:39:04Z'
 pushed_at: '2026-07-24T15:40:39Z'
 resource_id: github:pguso/ai-agents-from-scratch
-first_seen: '2026-09-02T01:02:03.503964+05:30'
-last_seen: '2026-09-02T01:02:03.503964+05:30'
-last_checked: '2026-09-02T01:02:03.503964+05:30'
+first_seen: '2026-09-02T04:14:33.864727+05:30'
+last_seen: '2026-09-02T04:14:33.864727+05:30'
+last_checked: '2026-09-02T04:14:33.864727+05:30'
 health_score: 100
 ---
 
@@ -33,11 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Educational Repository**: Provides a hands-on tutorial to build AI agents from scratch using local LLMs, emphasizing transparency and understanding of core concepts like function calling, memory, and ReAct patterns.
+- **Educational Repository**: Provides a hands-on tutorial to build AI agents from scratch using local LLMs, emphasizing transparency by avoiding black-box models and enabling deep understanding of core concepts like function calling, memory management, and ReAct (Reasoning and Acting) patterns.
 
-- **Technical Stack**: Implements agents in JavaScript with `node-llama-cpp` for local LLM integration, supporting React-based agent architectures and custom function-calling workflows.
+- **Technical Stack**: Implements agents in JavaScript with `node-llama-cpp` for local LLM integration, supporting React-based agent architectures and Node.js environments for practical, executable demonstrations.
 
-- **Repository Metrics**: 4,565 stars, 674 forks, last updated September 1, 2026, focusing on AI agent development with topics including `ai-agents`, `function-calling`, and `llm-agent`.
+- **Key Focus Areas**: Teaches agent development through function-calling mechanics, memory systems, and ReAct workflows, with a structured approach to demystify AI agent internals for developers.
 
 ## Why It Matters
 

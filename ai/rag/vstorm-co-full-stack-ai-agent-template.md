@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/vstorm-co/full-stack-ai-agent-template
-collected_at: '2026-09-02T01:00:23.438151+05:30'
+collected_at: '2026-09-02T04:12:53.829221+05:30'
 published_at: '2026-09-01T09:19:10Z'
 tags:
 - agents
@@ -20,9 +20,9 @@ archived: false
 created_at: '2025-12-19T12:23:15Z'
 pushed_at: '2026-08-29T13:54:33Z'
 resource_id: github:vstorm-co/full-stack-ai-agent-template
-first_seen: '2026-09-02T01:00:23.438151+05:30'
-last_seen: '2026-09-02T01:00:23.438151+05:30'
-last_checked: '2026-09-02T01:00:23.438151+05:30'
+first_seen: '2026-09-02T04:12:53.829221+05:30'
+last_seen: '2026-09-02T04:12:53.829221+05:30'
+last_checked: '2026-09-02T04:12:53.829221+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Tech Stack**: Full-stack template combining FastAPI (Python) backend with Next.js (TypeScript/React) frontend, featuring PostgreSQL for data persistence and Docker for containerization.
+- **Full-stack AI Agent Template**: Pre-configured starter kit with FastAPI (backend) + Next.js (frontend), featuring AI Agents, RAG, real-time streaming, authentication, and 20+ integrations (e.g., CrewAI, LangChain, LangGraph, Pydantic-AI).
 
-- **AI Capabilities**: Pre-integrated with LangChain, LangGraph, CrewAI, and Pydantic-AI for agent orchestration, RAG pipelines, real-time streaming via WebSocket, and support for 20+ LLM integrations.
+- **Tech Stack**: Python (FastAPI, LangChain, LangGraph, CrewAI, Pydantic), PostgreSQL (database), Next.js/React (frontend), TypeScript, Docker (containerization), WebSocket (real-time comms).
 
-- **Features**: Built-in authentication, modular agent architecture, Pydantic data validation, and pre-configured integrations for rapid deployment of production-grade AI applications.
+- **Key Features**: Built-in RAG pipeline, modular agent architecture, Pydantic validation, 1862+ GitHub stars, last updated Sep 2026, supports PostgreSQL, Dockerized deployment.
 
 ## Why It Matters
 

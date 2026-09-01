@@ -1,19 +1,19 @@
 ---
 title: Unlocking the power of unstructured data with RAG - The GitHub Blog
-archive_category: ai-tools-products
+archive_category: automation-workflows
 source_category: ai/rag
 source_url: https://github.blog/ai-and-ml/llms/unlocking-the-power-of-unstructured-data-with-rag/
 resource_id: blog:unlocking-the-power-of-unstructured-data-with-rag
 local_vault_path: ai/rag/unlocking-the-power-of-unstructured-data-with-rag.md
 quality_score: 70
-archive_score: 82
+archive_score: 74
 archive_tier: useful
 resource_kind: tutorial
-importance: high
+importance: medium
 tags:
-- hackernews
 - rag
 - reddit
+- scripts
 - web-crawled
 - workflows
 selection_reason:
@@ -25,8 +25,8 @@ selection_reason:
 
 ## Why This Is In The Archive
 
-- Matched archive category: `AI Tools and Products`
-- Quality score: 70 | Archive score: 82 (useful)
+- Matched archive category: `Automation Workflows`
+- Quality score: 70 | Archive score: 74 (useful)
 - Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
@@ -34,15 +34,17 @@ selection_reason:
 
 ## Summary
 
-- **Author Profile**: Nicole Choi is a technical writer and developer advocate at GitHub, contributing to technical documentation and blog posts.
-- **GitHub Contributions**: Active contributor to GitHub’s official blog, focusing on developer tools, workflows, and platform updates.
-- **Social Presence**: Engages with the developer community via GitHub (@nicchoi29) and other technical platforms.
+- **GitHub Actions Security Enhancements**: Nicole Choi discusses GitHub's recent security improvements in GitHub Actions, including the introduction of fine-grained permissions and secret scanning for workflows to mitigate supply chain risks.
+
+- **Dependency Management**: Highlights GitHub's dependency graph and Dependabot updates, emphasizing automated vulnerability patching and license compliance checks for repositories.
+
+- **CI/CD Pipeline Optimization**: Focuses on performance optimizations
 
 ## Use Cases
 
-- Workflow automation search
-- AI developer tooling
-- Developer utility updates
+- Local cron scheduling
+- n8n pipeline setups
+- OS task automations
 
 ## Source
 

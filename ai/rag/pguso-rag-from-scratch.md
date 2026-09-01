@@ -4,16 +4,16 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pguso/rag-from-scratch
-collected_at: '2026-09-02T01:00:18.479781+05:30'
+collected_at: '2026-09-02T04:12:48.822981+05:30'
 published_at: '2026-09-01T15:17:22Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - javascript
 - meta-ai
 - models
 - rag
+- workflows
 stars: 1616
 language: JavaScript
 status: active
@@ -22,9 +22,9 @@ archived: false
 created_at: '2025-10-27T16:19:58Z'
 pushed_at: '2026-03-11T11:44:33Z'
 resource_id: github:pguso/rag-from-scratch
-first_seen: '2026-09-02T01:00:18.479781+05:30'
-last_seen: '2026-09-02T01:00:18.479781+05:30'
-last_checked: '2026-09-02T01:00:18.479781+05:30'
+first_seen: '2026-09-02T04:12:48.822981+05:30'
+last_seen: '2026-09-02T04:12:48.822981+05:30'
+last_checked: '2026-09-02T04:12:48.822981+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Educational RAG Implementation**: Provides a step-by-step JavaScript-based tutorial to build a Retrieval-Augmented Generation (RAG) system from scratch using local LLMs (via `node-llama-cpp`), eliminating black-box dependencies to enhance understanding of embeddings, vector search, retrieval, and context-augmented generation.
+- **Educational RAG Implementation**: Demonstrates Retrieval-Augmented Generation (RAG) pipeline from scratch using **JavaScript/Node.js**, leveraging `node-llama-cpp` for local LLM inference without proprietary black boxes.
 
-- **Technical Stack**: Utilizes Node.js with `node-llama-cpp` for local LLM inference, emphasizing modularity for embeddings, vector databases, and retrieval pipelines to construct a functional RAG chatbot.
+- **Core Components**: Implements embeddings generation, vector search (likely via similarity metrics like cosine), retrieval-augmented context integration, and context-augmented generation for chatbot applications.
 
-- **Repository Focus**: Designed as an educational resource covering RAG pipelines, AI agents, and practical implementation of retrieval mechanisms, last updated in September 2026 with 1,616 stars and 193 forks.
+- **Local-First Architecture**: Focuses on **offline/self-hosted** workflows using lightweight, local LLMs to avoid cloud dependency, emphasizing transparency and educational value in AI agent design.
 
 ## Why It Matters
 

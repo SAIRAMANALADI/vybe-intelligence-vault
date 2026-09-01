@@ -4,11 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/KnowledgeXLab/LeanRAG
-collected_at: '2026-09-02T01:01:43.530387+05:30'
+collected_at: '2026-09-02T04:14:13.914992+05:30'
 published_at: '2026-09-01T09:55:02Z'
 tags:
+- benchmark
 - github-repo
-- hackernews
 - python
 - rag
 stars: 258
@@ -18,9 +18,9 @@ archived: false
 created_at: '2025-05-19T09:31:30Z'
 pushed_at: '2026-07-07T06:10:59Z'
 resource_id: github:knowledgexlab/leanrag
-first_seen: '2026-09-02T01:01:43.530387+05:30'
-last_seen: '2026-09-02T01:01:43.530387+05:30'
-last_checked: '2026-09-02T01:01:43.530387+05:30'
+first_seen: '2026-09-02T04:14:13.914992+05:30'
+last_seen: '2026-09-02T04:14:13.914992+05:30'
+last_checked: '2026-09-02T04:14:13.914992+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Semantic Aggregation Mechanism**: Implements a knowledge-graph-based approach to aggregate and refine retrieved information using semantic relationships, enhancing contextual relevance in generation tasks.
+- **Semantic Aggregation & Hierarchical Retrieval**: Implements a knowledge-graph-based RAG framework with multi-level retrieval (semantic clustering + hierarchical traversal) to enhance contextual relevance and reduce noise in generated outputs.
 
-- **Hierarchical Retrieval Strategy**: Utilizes a multi-layered retrieval system to progressively narrow down relevant data from the knowledge graph, optimizing both precision and recall.
+- **Efficiency Optimizations**: Utilizes lightweight graph pruning and dynamic query routing to minimize computational overhead while preserving retrieval accuracy, targeting AAAI 2026 benchmarks.
 
-- **Efficiency Optimization**: Designed for low-latency inference with minimal computational overhead, leveraging lightweight graph traversal and aggregation techniques for scalable performance.
+- **Python Implementation**: Provides a modular, open-source toolkit with graph-augmented retrieval pipelines, designed for integration with LLMs to improve factual grounding and interpretability.
 
 ## Why It Matters
 

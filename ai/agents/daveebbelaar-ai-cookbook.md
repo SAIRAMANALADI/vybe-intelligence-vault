@@ -4,16 +4,17 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/daveebbelaar/ai-cookbook
-collected_at: '2026-09-02T01:02:03.619912+05:30'
-published_at: '2026-09-01T15:37:34Z'
+collected_at: '2026-09-02T04:14:33.942645+05:30'
+published_at: '2026-09-01T20:55:44Z'
 tags:
 - agents
 - anthropic
 - github-repo
+- hackernews
 - openai
 - python
 - reddit
-stars: 4413
+stars: 4414
 language: Python
 status: active
 license: MIT
@@ -21,9 +22,9 @@ archived: false
 created_at: '2025-01-30T15:14:29Z'
 pushed_at: '2026-07-09T07:55:18Z'
 resource_id: github:daveebbelaar/ai-cookbook
-first_seen: '2026-09-02T01:02:03.619912+05:30'
-last_seen: '2026-09-02T01:02:03.619912+05:30'
-last_checked: '2026-09-02T01:02:03.619912+05:30'
+first_seen: '2026-09-02T04:14:33.942645+05:30'
+last_seen: '2026-09-02T04:14:33.942645+05:30'
+last_checked: '2026-09-02T04:14:33.942645+05:30'
 health_score: 100
 ---
 
@@ -31,11 +32,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: GitHub repository `daveebbelaar/ai-cookbook` provides practical examples and tutorials for building AI systems, primarily in Python, with a focus on agents, LLMs, and integration with services like Anthropic and OpenAI.
-
-- **Metadata**: 4,413 stars, 1,563 forks, last updated on 2026-09-01; categorized under AI, Python, and related topics.
-
-- **Purpose**: Aims to assist developers in implementing AI solutions through structured code examples and educational content.
+- **Repository Overview**: GitHub repository (`daveebbelaar/ai-cookbook`) providing Python-based examples and tutorials for building AI systems, with 4,414 stars and 1,562 forks.
+- **Technical Focus**: Covers AI agents, LLMs (OpenAI, Anthropic), and Python implementations for AI system development.
+- **Last Updated**: Repository last updated on **2026-09-01T20:55:44Z**.
 
 ## Why It Matters
 
@@ -44,11 +43,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: daveebbelaar
-- Stars: 4413
-- Forks: 1563
+- Stars: 4414
+- Forks: 1562
 - Language: Python
 - Topics: agents, ai, anthropic, llm, openai, python
-- Last Updated: 2026-09-01T15:37:34Z
+- Last Updated: 2026-09-01T20:55:44Z
 - License: MIT
 - Archived: No
 - Created At: 2025-01-30T15:14:29Z

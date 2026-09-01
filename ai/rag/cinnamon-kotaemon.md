@@ -4,10 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Cinnamon/kotaemon
-collected_at: '2026-09-02T01:00:33.455344+05:30'
+collected_at: '2026-09-02T04:13:03.882359+05:30'
 published_at: '2026-09-01T14:36:55Z'
 tags:
 - github-repo
+- meta-ai
+- models
 - python
 - rag
 stars: 25726
@@ -18,9 +20,9 @@ archived: false
 created_at: '2024-03-25T08:16:42Z'
 pushed_at: '2026-07-14T16:53:59Z'
 resource_id: github:cinnamon/kotaemon
-first_seen: '2026-09-02T01:00:33.455344+05:30'
-last_seen: '2026-09-02T01:00:33.455344+05:30'
-last_checked: '2026-09-02T01:00:33.455344+05:30'
+first_seen: '2026-09-02T04:13:03.882359+05:30'
+last_seen: '2026-09-02T04:13:03.882359+05:30'
+last_checked: '2026-09-02T04:13:03.882359+05:30'
 health_score: 100
 ---
 
@@ -28,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG-based Architecture**: Implements Retrieval-Augmented Generation (RAG) to enable document-grounded conversational responses by dynamically fetching and synthesizing information from user-provided documents.
+- **RAG-based Architecture**: Implements Retrieval-Augmented Generation (RAG) to enable document-grounded chat interactions with LLMs, dynamically fetching relevant context from uploaded documents.
 
-- **Modular Python Framework**: Built in Python with extensible components for document ingestion, embedding, retrieval, and LLM integration, supporting customization via configurable pipelines.
+- **Modular Python Framework**: Built in Python with extensible components for document ingestion, vector storage (e.g., FAISS/Chroma), and LLM integration (e.g., LangChain-compatible backends).
 
-- **Open-Source Deployment**: Provides a self-hostable, open-source solution with active community development (25.7k+ stars, 2.1k+ forks) and recent updates (as of 2026-09-01).
+- **Open-Source Deployment**: Provides a self-hostable, MIT-licensed solution with support for local/private LLM inference (e.g., via Ollama) and cloud-based alternatives (e.g., vLLM).
 
 ## Why It Matters
 

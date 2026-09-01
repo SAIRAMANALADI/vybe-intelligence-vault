@@ -8,17 +8,19 @@ local_vault_path: ai/rag/top-rag-open-source-projects-2026-trendshift.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: framework
 importance: medium
 tags:
 - agents
+- producthunt
 - rag
+- reddit
 - scripts
 - web-crawled
 - workflows
 selection_reason:
 - Strong keyword match
-- Valuable developer reference
+- Useful for project building
 ---
 
 # Top RAG open-source projects (2026) | Trendshift
@@ -27,18 +29,18 @@ selection_reason:
 
 - Matched archive category: `AI Coding Agents`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: tutorial
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **Open-connector**: Open-source gateway enabling AI agent interoperability via standardized connectors, with 150K+ monthly visitors.
+- **Open-connector**: Open-source gateway enabling standardized interoperability between AI agents and external systems via modular connectors, facilitating real-time data exchange and API integration.
 
-- **Trending AI repositories**: Top daily topics include AI agents (50.3k stars), AI skills (17k stars), and AI coding assistants (14.8k stars).
+- **NEURAL_MESH**: GitHub repository implementing a neural network mesh architecture for distributed, parallelized inference across edge and cloud environments, optimizing latency-sensitive AI workloads.
 
-- **Live mentions**: Recent high-engagement repos include `bastani-inc/atomic`, `kebo-ai/kebo`, and `dkackman/diffusers-workflow`.
+- **Trending Topics**: GitHub daily trending topics highlight AI agent frameworks (56.4k sta
 
 ## Use Cases
 

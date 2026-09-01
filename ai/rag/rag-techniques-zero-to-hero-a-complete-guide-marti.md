@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://martinuke0.github.io/posts/2025-12-20-rag-techniques-zero-to-hero-a-complete-guide/
-published_at: '2026-09-02T01:00:09.271360+05:30'
-collected_at: '2026-09-02T01:00:09.271374+05:30'
+published_at: '2026-09-02T04:12:39.152764+05:30'
+collected_at: '2026-09-02T04:12:39.152777+05:30'
 tags:
 - agents
 - benchmark
@@ -21,9 +21,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:rag-techniques-zero-to-hero-a-complete-guide-marti
-first_seen: '2026-09-02T01:00:09.271374+05:30'
-last_seen: '2026-09-02T01:00:09.271374+05:30'
-last_checked: '2026-09-02T01:00:09.271374+05:30'
+first_seen: '2026-09-02T04:12:39.152777+05:30'
+last_seen: '2026-09-02T04:12:39.152777+05:30'
+last_checked: '2026-09-02T04:12:39.152777+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,17 @@ health_score: 100
 
 ## Summary
 
-- **Core RAG Pipeline**: Combines a retriever (vector/lexical), vector store/index, and LLM generator; optional rerankers, query rewriters, and orchestration layers enhance precision and efficiency.
+- **RAG Architecture**: Combines a retriever (vector/lexical search) with a generator (LLM) to dynamically fetch and condition responses on external knowledge, improving factuality and reducing hallucinations compared to parametric-only models.
 
-- **Chunking & Embeddings**: Chunking strategies (fixed-size, semantic, structure-aware) impact retrieval quality; domain-specific embedding fine-tuning and hybrid search (BM25 + vector) improve recall and precision.
+- **Key Technical Components**:
+  - **Chunking Strategies**: Fixed-size, semantic, or structure-aware segmentation with overlap to balance coherence and retrieval granularity.
+  - **Hybrid Retrieval**: Combines BM25 (lexical) and vector search (ANN indexes like HNSW) with score normalization for improved precision/recall.
+  - **Reranking & Query Rewriting**: Two-stage retrieval using cross-encoders for precision, and LLM-based query expansion/canonicalization to handle ambiguity.
 
-- **Multi-Stage Retrieval & Context Management**: Two-stage retrieval (first-stage ANN + second-stage cross-encoder reranker) boosts accuracy; context distillation, autocut, and source attribution reduce hallucinations and optimize token usage.
+- **Advanced Optimization**:
+  - **Multi-Hop & Iterative Retrieval**: Decomposes complex queries via sub-queries or graph traversal (e.g., GraphRAG) for structured reasoning.
+  - **Context Distillation**: Condenses retrieved chunks into concise evidence using LLMs to reduce noise and token budget.
+  - **Fine-Tuning**: Retrieval-aware training (e.g., RAG-style end-to-end tuning) and domain-specific embedding fine-tuning to align with in-domain data.
 
 ## Why It Matters
 
@@ -45,7 +51,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-09-02T01:00:09.271360+05:30
+- Published: 2026-09-02T04:12:39.152764+05:30
 
 ## Related Tags
 

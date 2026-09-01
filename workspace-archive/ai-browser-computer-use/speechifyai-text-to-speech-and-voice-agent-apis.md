@@ -8,13 +8,13 @@ local_vault_path: ai/agents/speechifyai-text-to-speech-and-voice-agent-apis.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
-resource_kind: framework
+resource_kind: tutorial
 importance: medium
 tags:
 - agents
 - web-crawled
 selection_reason:
-- Useful for project building
+- Valuable developer reference
 ---
 
 # SpeechifyAI: Text to Speech and Voice Agent APIs
@@ -23,15 +23,15 @@ selection_reason:
 
 - Matched archive category: `AI Browser and Computer Use`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: framework
+- Resource kind: tutorial
 - Selection reasons:
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- **Zero-shot voice cloning**: Enables reusable voice synthesis from a short, consented reference clip using Simba 3.0, preserving speaker identity across new scripts without retraining.
-- **Self-serve cloning**: Facilitates on-demand voice cloning via `simba-3.0`, producing consistent speaker output from new text inputs while maintaining original vocal characteristics.
-- **Consent-first framework**: Implements a reusable voice ID system ensuring ethical compliance by requiring explicit consent
+- **Zero-shot voice cloning**: Enables creation of a reusable voice model from a short, consented reference audio clip using Simba 3.0, preserving speaker identity across new scripts.
+- **Self-serve cloning**: Allows users to generate voice clones independently via `simba-3.0`, ensuring consistent speaker output without retraining.
+- **Consent-first approach**: Implements a reusable voice ID system with explicit consent, ensuring ethical and compliant voice cloning.
 
 ## Use Cases
 

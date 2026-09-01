@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/didilili/ai-agents-from-zero
-collected_at: '2026-09-02T01:02:03.523827+05:30'
+collected_at: '2026-09-02T04:14:33.903140+05:30'
 published_at: '2026-09-01T17:01:54Z'
 tags:
 - agents
@@ -12,6 +12,7 @@ tags:
 - models
 - python
 - rag
+- workflows
 stars: 4253
 language: Python
 status: active
@@ -20,9 +21,9 @@ archived: false
 created_at: '2026-01-29T02:49:11Z'
 pushed_at: '2026-06-23T16:29:23Z'
 resource_id: github:didilili/ai-agents-from-zero
-first_seen: '2026-09-02T01:02:03.523827+05:30'
-last_seen: '2026-09-02T01:02:03.523827+05:30'
-last_checked: '2026-09-02T01:02:03.523827+05:30'
+first_seen: '2026-09-02T04:14:33.903140+05:30'
+last_seen: '2026-09-02T04:14:33.903140+05:30'
+last_checked: '2026-09-02T04:14:33.903140+05:30'
 health_score: 100
 ---
 
@@ -30,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive 2026 AI Agent Guide**: Covers LangChain, LangGraph, Coze, Dify, MCP, LLM, RAG, and prompt engineering, with a structured learning path from fundamentals to enterprise deployment and fine-tuning.
+- **Comprehensive 2026 AI Agent Guide**: Covers LangChain, LangGraph, Coze, Dify, MCP, LLM, RAG, and prompt engineering, with a structured learning path from basics to enterprise-level deployment and fine-tuning.
 
-- **Hands-on Projects & Interview Prep**: Includes real-world projects, enterprise-level deployment strategies, and a curated interview question bank aligned with AI Agent Development Engineer roles.
+- **Hands-on Projects & Interview Prep**: Includes real-world projects, a curated interview question bank, and end-to-end workflows (development → deployment → production) for AI Agent roles.
 
-- **Multi-Framework & Tool Integration**: Integrates skills, LLM APIs, RAG pipelines, and agent frameworks (e.g., LangChain, LangGraph) with tools like Cursor and DeepAgents for end-to-end AI agent development.
+- **Enterprise-Ready Toolchain**: Integrates skills, RAG pipelines, LLM optimization, and frameworks (LangChain/LangGraph) with enterprise deployment strategies and model fine-tuning.
 
 ## Why It Matters
 

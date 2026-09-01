@@ -4,16 +4,16 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://gohugo.io/functions/crypto/hash/
-published_at: '2026-08-11T01:01:09.498073+05:30'
-collected_at: '2026-08-11T01:01:09.498095+05:30'
+published_at: '2026-09-02T04:19:14.242586+05:30'
+collected_at: '2026-09-02T04:19:14.242597+05:30'
 tags:
 - reddit
 - web-crawled
 status: active
 resource_id: blog:crypto-hash
-first_seen: '2026-08-11T01:01:09.498095+05:30'
-last_seen: '2026-08-11T01:01:09.498095+05:30'
-last_checked: '2026-08-11T01:01:09.498095+05:30'
+first_seen: '2026-09-02T04:19:14.242597+05:30'
+last_seen: '2026-09-02T04:19:14.242597+05:30'
+last_checked: '2026-09-02T04:19:14.242597+05:30'
 health_score: 100
 ---
 
@@ -21,11 +21,9 @@ health_score: 100
 
 ## Summary
 
-- **Functionality**: The `crypto.Hash` function computes a cryptographic hash of the input string using specified algorithms (`md5`, `sha1`, `sha256`, `sha384`, `sha512`), defaulting to `sha256` if omitted, and returns the checksum as a hexadecimal string.
-
-- **Syntax**: Supports two invocation styles: `crypto.Hash "ALGORITHM" "INPUT"` or via pipeline (`"INPUT" | crypto.Hash "ALGORITHM"`), with algorithm flexibility for Subresource Integrity (SRI) hash construction.
-
-- **Use Case**: Enables SRI hash generation by combining with `encoding.HexDecode` and `encoding.Base64Encode` (e.g., `printf "%s-%s" $algo ("Hello world" | crypto.Hash $algo | encoding.HexDecode | encoding.Base64Encode)`).
+- **Hashing Algorithm Support**: The `crypto.Hash` function supports `md5`, `sha1`, `sha256` (default), `sha384`, and `sha512` algorithms for generating checksums.
+- **Output Format**: Returns a hexadecimal string representation of the hash; defaults to `sha256` if no algorithm is specified.
+- **SRI Integration**: Can be combined with `encoding.HexDecode` and `encoding.Base64Encode` to construct Subresource Integrity (SRI) hashes for fingerprinted resources.
 
 ## Why It Matters
 
@@ -35,7 +33,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-08-11T01:01:09.498073+05:30
+- Published: 2026-09-02T04:19:14.242586+05:30
 
 ## Related Tags
 

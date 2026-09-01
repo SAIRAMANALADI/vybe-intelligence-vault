@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://dev.to/gautamvhavle/building-production-rag-systems-from-zero-to-hero-2f1i
-published_at: '2026-09-01T19:05:59.080551+05:30'
-collected_at: '2026-09-01T19:05:59.080565+05:30'
+published_at: '2026-09-02T04:12:40.968445+05:30'
+collected_at: '2026-09-02T04:12:40.968460+05:30'
 tags:
 - agents
 - anthropic
@@ -25,9 +25,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:building-rag-systems-from-zero-to-hero-dev-communi
-first_seen: '2026-09-01T19:05:59.080565+05:30'
-last_seen: '2026-09-01T19:05:59.080565+05:30'
-last_checked: '2026-09-01T19:05:59.080565+05:30'
+first_seen: '2026-09-02T04:12:40.968460+05:30'
+last_seen: '2026-09-02T04:12:40.968460+05:30'
+last_checked: '2026-09-02T04:12:40.968460+05:30'
 health_score: 100
 ---
 
@@ -35,11 +35,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Architecture**: A three-phase pipeline consisting of (1) **ingestion** (document chunking, embedding generation via models like `all-MiniLM-L6-v2`, and storage in vector databases such as FAISS), (2) **retrieval** (semantic search using vector similarity or hybrid BM25 + dense retrieval), and (3) **generation** (prompting LLMs with retrieved context to produce grounded answers while optimizing token usage).
+- **RAG Architecture**: Three-phase pipeline—(1) **Ingestion**: documents chunked, embedded (e.g., `all-MiniLM-L6-v2`), and stored in vector DB (FAISS/Weaviate); (2) **Retrieval**: user query embedded and matched via vector similarity (cosine/L2) to top-K chunks; (3) **Generation**: LLM (e.g., GPT-3.5) conditioned on retrieved context to produce grounded answers, optimizing token usage and eliminating hallucinations.
 
-- **Chunking Strategies**: Critical for performance, chunking methods include fixed-size (e.g., 512 tokens with 15% overlap), semantic (recursive splitting at natural boundaries), and hybrid approaches; metadata (e.g., section headers, timestamps) enhances filtering and precision.
+- **Chunking Strategies**: Fixed-size (e.g., 512 tokens with 15% overlap) for simplicity; semantic/recursive splitting (LangChain) for structured docs; hybrid approaches combining section headers and metadata (e.g., `RecursiveCharacterTextSplitter` with `chunk_overlap=200`) to preserve context boundaries and enable filtering.
 
-- **Retrieval Optimization**: Dense embeddings (e.g., OpenAI `text-embedding-3-large`) capture semantic meaning but are computationally intensive; sparse retrieval (BM25/TF-IDF) excels at keyword matching; hybrid retrieval combines both for improved accuracy, while reranking further refines top-*k* results to mitigate noise and improve answer relevance.
+- **Retrieval Optimization**: Dense embeddings (OpenAI `text-embedding-3-large` or BAAI `bge-large-en-v1.5`) for semantic similarity; sparse BM25 for keyword precision; hybrid retrieval (weighted fusion of dense/sparse scores) for production systems; post-retrieval reranking (e.g., cross-encoders) to refine top-K context before LLM generation.
 
 ## Why It Matters
 
@@ -49,7 +49,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-09-01T19:05:59.080551+05:30
+- Published: 2026-09-02T04:12:40.968445+05:30
 
 ## Related Tags
 

@@ -13,13 +13,14 @@ collected_at: '2026-09-02T00:59:03.210587+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:dwarf-fortress-creator-says-the-industry-s-in-sham
 first_seen: '2026-09-02T00:59:03.210587+05:30'
 last_seen: '2026-09-02T00:59:03.210587+05:30'
 last_checked: '2026-09-02T00:59:03.210587+05:30'
 health_score: 100
 ---
+
 
 # Dwarf Fortress' creator says the industry's in shambles over AI
 

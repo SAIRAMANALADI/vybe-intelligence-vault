@@ -4,10 +4,11 @@ category: ai/resources
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/nerfies/nerfies.github.io
-collected_at: '2026-09-02T01:04:28.671060+05:30'
+collected_at: '2026-09-02T04:17:04.019087+05:30'
 published_at: '2026-09-01T05:59:23Z'
 tags:
 - github-repo
+- hackernews
 - javascript
 stars: 4350
 language: JavaScript
@@ -16,9 +17,9 @@ archived: false
 created_at: '2020-11-24T09:35:45Z'
 pushed_at: '2024-06-21T11:47:54Z'
 resource_id: github:nerfies/nerfies.github.io
-first_seen: '2026-09-02T01:04:28.671060+05:30'
-last_seen: '2026-09-02T01:04:28.671060+05:30'
-last_checked: '2026-09-02T01:04:28.671060+05:30'
+first_seen: '2026-09-02T04:17:04.019087+05:30'
+last_seen: '2026-09-02T04:17:04.019087+05:30'
+last_checked: '2026-09-02T04:17:04.019087+05:30'
 health_score: 100
 ---
 
@@ -26,9 +27,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository**: Static website for Nerfies project, hosted via GitHub Pages (`nerfies.github.io`).
-- **Metrics**: 4,350 stars, 1,938 forks, last updated 2026-09-01.
-- **Tech Stack**: JavaScript-based static site (no backend or additional topics specified).
+- **Repository Overview**: GitHub repository for Nerfies, a JavaScript-based project with 4,350 stars and 1,938 forks, last updated on September 1, 2026.
+- **Technical Stack**: Primary language is JavaScript, with no additional topics or dependencies specified.
+- **Accessibility**: Static site hosted at `nerfies.github.io`, likely serving documentation or a project showcase.
 
 ## Why It Matters
 

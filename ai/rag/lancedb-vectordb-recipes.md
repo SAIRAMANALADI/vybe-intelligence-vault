@@ -4,12 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/lancedb/vectordb-recipes
-collected_at: '2026-09-02T01:00:23.481513+05:30'
+collected_at: '2026-09-02T04:12:48.879752+05:30'
 published_at: '2026-08-30T09:54:01Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - jupyter notebook
 - meta-ai
 - models
@@ -24,9 +23,9 @@ archived: false
 created_at: '2023-06-25T06:10:35Z'
 pushed_at: '2026-04-24T11:29:16Z'
 resource_id: github:lancedb/vectordb-recipes
-first_seen: '2026-09-02T01:00:23.481513+05:30'
-last_seen: '2026-09-02T01:00:23.481513+05:30'
-last_checked: '2026-09-02T01:00:23.481513+05:30'
+first_seen: '2026-09-02T04:12:48.879752+05:30'
+last_seen: '2026-09-02T04:12:48.879752+05:30'
+last_checked: '2026-09-02T04:12:48.879752+05:30'
 health_score: 100
 ---
 
@@ -34,11 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal AI & RAG Implementations**: Repository provides Jupyter Notebook-based examples and tutorials for building multimodal AI systems, Retrieval-Augmented Generation (RAG), and autonomous agents using vector search, LLMs, and embeddings.
+- **Multimodal AI & RAG Implementations**: Repository provides Jupyter Notebook-based examples for Retrieval-Augmented Generation (RAG) and multimodal AI systems leveraging vector search, LLMs (e.g., GPT-4 Vision), and embeddings.
 
-- **Tooling Integration**: Demonstrates workflows with key frameworks including LangChain, LlamaIndex, OpenAI (GPT-4 Vision), and LanceDB for vector storage, fine-tuning, and deep learning applications.
+- **Tooling Integration**: Demonstrates workflows with LangChain, LlamaIndex, and LanceDB for vector database operations, fine-tuning, and agent-based AI applications.
 
-- **Technical Focus Areas**: Covers advanced topics such as embedding generation, vector database optimization, multimodal data processing, and agent orchestration with a focus on scalable AI pipelines.
+- **Open-Source Contributions**: Focuses on practical tutorials for OpenAI models, deep learning, and machine learning pipelines, last updated in August 2026.
 
 ## Why It Matters
 

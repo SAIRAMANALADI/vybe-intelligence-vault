@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Voxtral Collection**: A curated set of Mistral AI's audio models hosted on Hugging Face, comprising 4 distinct models.
-- **Updated**: The collection was last updated on April 14.
-- **Repository**: Available at [Hugging Face](https://huggingface.co/collections/mistralai/voxtral) under Mistral AI's official account.
+- **Voxtral Collection**: Official Mistral AI repository hosting audio models on Hugging Face, featuring 4 distinct models.
+- **Updated**: Last revision dated **April 14**, indicating recent maintenance or additions.
+- **Repository Link**: Accessible via [Hugging Face](https://huggingface.co/collections/mistralai/voxtral) under Mistral AI's curated collections.
 
 ## Use Cases
 

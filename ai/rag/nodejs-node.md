@@ -1,68 +1,49 @@
 ---
-title: nodejs/node
+title: node/SECURITY.md at main · nodejs/node · GitHub
 category: ai/rag
-source_type: github
-source_name: GitHub Discovery
-source_url: https://github.com/nodejs/node
-collected_at: '2026-08-10T00:47:11.112384+05:30'
-published_at: '2026-08-09T19:11:48Z'
+source_type: web
+source_name: Web Discovery
+source_url: https://github.com/nodejs/node/blob/main/SECURITY.md
+published_at: '2026-09-02T04:24:32.466728+05:30'
+collected_at: '2026-09-02T04:24:32.466741+05:30'
 tags:
-- github-repo
-- javascript
+- hackernews
 - rag
-stars: 118845
-language: JavaScript
+- web-crawled
 status: active
-license: NOASSERTION
-archived: false
-created_at: '2014-11-26T19:57:11Z'
-pushed_at: '2026-08-09T19:11:40Z'
 resource_id: github:nodejs/node
-first_seen: '2026-08-10T00:47:11.112384+05:30'
-last_seen: '2026-08-10T00:47:11.112384+05:30'
-last_checked: '2026-08-10T00:47:11.112384+05:30'
+first_seen: '2026-09-02T04:24:32.466741+05:30'
+last_seen: '2026-09-02T04:24:32.466741+05:30'
+last_checked: '2026-09-02T04:24:32.466741+05:30'
 health_score: 100
 ---
 
-# nodejs/node
+# node/SECURITY.md at main · nodejs/node · GitHub
 
 ## Summary
 
-- **Runtime Environment**: Node.js is a cross-platform JavaScript runtime built on Chrome's V8 JavaScript engine, enabling server-side execution of JavaScript code.
-- **Multi-OS Support**: Compatible with Linux, macOS, and Windows, leveraging platform-specific optimizations for performance and compatibility.
-- **License & Ecosystem**: MIT-licensed, with a large ecosystem (118k+ stars, 36k+ forks) supporting modules, tools, and integrations for scalable backend development.
+- **Reporting Process**: Security bugs in Node.js must be reported via [HackerOne](https://hackerone.com/nodejs) with acknowledgment within 5 days and detailed response within 10 days; escalation to `security@lists.openjsf.org` is possible if no response is received within 6 business days or 14 days post-acknowledgment.
+
+- **Disclosure & Validation**: Security reports undergo triage, validation across supported versions, and fix preparation; CVEs are requested, and fixes are embargoed until public disclosure (typically 72 hours post-CVE issuance) via security mailing list, repository push, and blog post within 6 hours.
+
+- **Vulnerability Criteria**: Valid vulnerabilities must exploit untrusted input (e.g., network data, unvalidated APIs) to impact confidentiality, integrity, or availability; DoS vulnerabilities require asymmetric resource consumption and deterministic exploitation under normal usage. Experimental features (compile-time/runtime flags) and Tier 3 platforms are excluded unless impacting stable features.
 
 ## Why It Matters
 
-Explain why this repository is useful for advanced web development, 3D frontend, animations, UI systems, or creative development.
+General public resource representing technology updates, guides, or tutorials.
 
-## Repository Details
+## Details
 
-- Owner: nodejs
-- Stars: 118845
-- Forks: 36424
-- Language: JavaScript
-- Topics: javascript, js, linux, macos, mit, node, nodejs, runtime, windows
-- Last Updated: 2026-08-09T19:11:48Z
-- License: NOASSERTION
-- Archived: No
-- Created At: 2014-11-26T19:57:11Z
-- Pushed At: 2026-08-09T19:11:40Z
+- Source: Web Discovery
+- Category: ai/rag
+- Published: 2026-09-02T04:24:32.466728+05:30
 
-## Possible Use Cases
+## Related Tags
 
-- Learn implementation patterns
-- Extract reusable components
-- Study architecture
-- Build similar project
-- Add to skill file references
-
-## Related Skills
-
-- Frontend Development
-- JavaScript
-- HTML/CSS
+- hackernews
+- rag
+- web-crawled
 
 ## Source
 
-Original source: https://github.com/nodejs/node
+Original source: https://github.com/nodejs/node/blob/main/SECURITY.md

@@ -4,8 +4,8 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/features/ai/github-app
-published_at: '2026-09-01T11:03:31.871562+05:30'
-collected_at: '2026-09-01T11:03:31.871574+05:30'
+published_at: '2026-09-02T04:22:36.485252+05:30'
+collected_at: '2026-09-02T04:22:36.485266+05:30'
 tags:
 - agents
 - anthropic
@@ -15,9 +15,9 @@ tags:
 - workflows
 status: active
 resource_id: github:features/ai
-first_seen: '2026-09-01T11:03:31.871574+05:30'
-last_seen: '2026-09-01T11:03:31.871574+05:30'
-last_checked: '2026-09-01T11:03:31.871574+05:30'
+first_seen: '2026-09-02T04:22:36.485266+05:30'
+last_seen: '2026-09-02T04:22:36.485266+05:30'
+last_checked: '2026-09-02T04:22:36.485266+05:30'
 health_score: 100
 ---
 
@@ -25,11 +25,11 @@ health_score: 100
 
 ## Summary
 
-- **Native Agent-Driven Development**: GitHub Copilot app provides a desktop experience for agent-driven workflows, integrating directly with GitHub issues, PRs, and prompts, supporting macOS, Windows, and Linux across all Copilot plans.
+- **Native Agent-Driven Development**: GitHub Copilot app provides a desktop experience for AI-driven development, integrating directly with GitHub issues, PRs, and prompts, supporting macOS, Windows, and Linux across all Copilot plans.
 
-- **Isolated Workspaces & Automated Validation**: Sessions operate in isolated workspaces with built-in validation (diffs, in-app browser previews, terminal checks, and PR merges), while automated workflows (e.g., scheduled issue triage) can be configured via skills and prompts.
+- **Multi-Session Workflows & Automation**: Supports parallel workflows with isolated sessions per task, built-in validation (diffs, terminal checks, PR merges), and automated repeatable workflows via scheduled tasks (e.g., daily issue triage).
 
-- **Extensible Agent Framework**: Supports native GitHub context, custom skills/plugins (e.g., Impeccable design toolkit), and external MCP servers for seamless tool integration, with pricing tiers ranging from Free ($0) to Max ($100/month) offering varying compute credits and model access.
+- **Extensible AI with Custom Tools**: Enables native GitHub context integration, custom skill deployment (syncing across sessions), and external data connectivity via MCP servers (local/HTTP), with pricing tiers ranging from Free ($0) to Max ($100/month) offering varying AI model access and usage credits.
 
 ## Why It Matters
 
@@ -39,7 +39,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-09-01T11:03:31.871562+05:30
+- Published: 2026-09-02T04:22:36.485252+05:30
 
 ## Related Tags
 

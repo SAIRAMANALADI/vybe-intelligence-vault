@@ -4,15 +4,16 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/gabrielchua/RAGxplorer
-collected_at: '2026-09-02T01:00:38.481193+05:30'
-published_at: '2026-08-18T02:31:39Z'
+collected_at: '2026-09-02T04:13:08.824314+05:30'
+published_at: '2026-09-01T22:16:09Z'
 tags:
-- benchmark
 - github-repo
+- hackernews
 - jupyter notebook
 - models
 - rag
-stars: 1220
+- workflows
+stars: 1221
 language: Jupyter Notebook
 status: active
 license: MIT
@@ -20,9 +21,9 @@ archived: false
 created_at: '2024-01-11T15:31:36Z'
 pushed_at: '2025-01-03T15:10:06Z'
 resource_id: github:gabrielchua/ragxplorer
-first_seen: '2026-09-02T01:00:38.481193+05:30'
-last_seen: '2026-09-02T01:00:38.481193+05:30'
-last_checked: '2026-09-02T01:00:38.481193+05:30'
+first_seen: '2026-09-02T04:13:08.824314+05:30'
+last_seen: '2026-09-02T04:13:08.824314+05:30'
+last_checked: '2026-09-02T04:13:08.824314+05:30'
 health_score: 100
 ---
 
@@ -30,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Interactive RAG Visualization Tool**: Open-source Jupyter Notebook-based application (`RAGxplorer`) for real-time visualization and analysis of Retrieval-Augmented Generation (RAG) pipelines, enabling debugging and performance evaluation.
-- **Streamlit-Powered UI**: Integrates Streamlit for interactive web-based exploration of RAG components (retriever, LLM, context) with dynamic visualizations (e.g., retrieval heatmaps, latency breakdowns).
-- **Modular Python Framework**: Supports custom RAG configurations (e.g., vector stores, LLMs) via Python, with extensible visualization plugins for embedding projections, attention maps, and retrieval metrics.
+- **Purpose**: Open-source tool for interactive visualization of Retrieval-Augmented Generation (RAG) pipelines, enabling debugging and analysis via a Streamlit-based UI.
+- **Technical Stack**: Built in Python with Jupyter Notebooks, leveraging Streamlit for web-based interactivity and visualization of RAG components (e.g., retrieval, generation).
+- **Features**: Supports dynamic exploration of RAG workflows, including embedding models, vector stores, and LLM interactions, with real-time updates and modular design.
 
 ## Why It Matters
 
@@ -41,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: gabrielchua
-- Stars: 1220
+- Stars: 1221
 - Forks: 112
 - Language: Jupyter Notebook
 - Topics: interactive, llm, python, rag, streamlit, visualization
-- Last Updated: 2026-08-18T02:31:39Z
+- Last Updated: 2026-09-01T22:16:09Z
 - License: MIT
 - Archived: No
 - Created At: 2024-01-11T15:31:36Z

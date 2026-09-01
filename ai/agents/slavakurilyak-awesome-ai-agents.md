@@ -4,16 +4,15 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/slavakurilyak/awesome-ai-agents
-collected_at: '2026-09-02T01:02:43.562065+05:30'
-published_at: '2026-09-01T10:18:29Z'
+collected_at: '2026-09-02T04:15:13.903033+05:30'
+published_at: '2026-09-01T20:47:45Z'
 tags:
 - agents
 - github-repo
 - hackernews
 - paper
 - python
-- workflows
-stars: 2194
+stars: 2193
 language: Python
 status: active
 license: MIT
@@ -21,9 +20,9 @@ archived: false
 created_at: '2024-01-15T12:48:42Z'
 pushed_at: '2025-09-09T22:33:26Z'
 resource_id: github:slavakurilyak/awesome-ai-agents
-first_seen: '2026-09-02T01:02:43.562065+05:30'
-last_seen: '2026-09-02T01:02:43.562065+05:30'
-last_checked: '2026-09-02T01:02:43.562065+05:30'
+first_seen: '2026-09-02T04:15:13.903033+05:30'
+last_seen: '2026-09-02T04:15:13.903033+05:30'
+last_checked: '2026-09-02T04:15:13.903033+05:30'
 health_score: 100
 ---
 
@@ -31,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated Collection**: Repository hosting a comprehensive list of 300+ resources focused on agentic AI, including frameworks, tools, research papers, and applications.
-- **Technical Scope**: Primarily Python-based, covering topics such as autonomous agents, multi-agent systems, agent orchestration, and agentic workflows.
-- **Community & Maintenance**: Actively maintained with 2,194 stars and 536 forks, last updated September 2026, indicating strong community engagement and continuous updates.
+- **Curated Resource**: Repository containing 300+ technical resources on AI agents, including frameworks, libraries, research papers, and tools primarily in Python.
+- **Community Metrics**: 2,193 stars and 536 forks, indicating significant community engagement and adoption.
+- **Last Updated**: September 1, 2026, ensuring relatively recent and relevant content.
 
 ## Why It Matters
 
@@ -42,11 +41,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: slavakurilyak
-- Stars: 2194
+- Stars: 2193
 - Forks: 536
 - Language: Python
 - Topics: agent, agentic, agents
-- Last Updated: 2026-09-01T10:18:29Z
+- Last Updated: 2026-09-01T20:47:45Z
 - License: MIT
 - Archived: No
 - Created At: 2024-01-15T12:48:42Z

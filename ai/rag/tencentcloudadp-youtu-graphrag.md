@@ -4,13 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TencentCloudADP/youtu-graphrag
-collected_at: '2026-09-02T01:01:43.523452+05:30'
+collected_at: '2026-09-02T04:14:13.887768+05:30'
 published_at: '2026-09-01T02:41:47Z'
 tags:
 - agents
+- benchmark
 - github-repo
 - python
 - rag
+- workflows
 stars: 1257
 language: Python
 status: active
@@ -19,9 +21,9 @@ archived: false
 created_at: '2025-09-01T02:52:13Z'
 pushed_at: '2026-02-26T12:57:55Z'
 resource_id: github:tencentcloudadp/youtu-graphrag
-first_seen: '2026-09-02T01:01:43.523452+05:30'
-last_seen: '2026-09-02T01:01:43.523452+05:30'
-last_checked: '2026-09-02T01:01:43.523452+05:30'
+first_seen: '2026-09-02T04:14:13.887768+05:30'
+last_seen: '2026-09-02T04:14:13.887768+05:30'
+last_checked: '2026-09-02T04:14:13.887768+05:30'
 health_score: 100
 ---
 
@@ -29,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Vertically Unified Agents Framework**: Introduces a multi-agent system where specialized agents (e.g., retrieval, reasoning, planning) collaborate hierarchically to decompose and solve complex queries using graph-structured knowledge.
+- **Vertically Unified Multi-Agent Framework**: Implements a hierarchical agent system (Planner, Executor, Reasoner) for complex reasoning tasks, integrating GraphRAG with LLM-based agents to decompose and solve multi-hop queries.
 
-- **Graph Retrieval-Augmented Reasoning (GraphRAG)**: Integrates graph neural networks (GNNs) with large language models (LLMs) to dynamically retrieve and reason over structured knowledge graphs, enhancing factual accuracy and contextual understanding.
+- **Graph-Centric Retrieval-Augmented Generation**: Leverages knowledge graphs for structured retrieval, enabling efficient subgraph extraction and dynamic reasoning over large-scale, heterogeneous data.
 
-- **Modular Python Implementation**: Provides an extensible Python-based pipeline with components for graph construction, agent orchestration, and reasoning, optimized for scalability and integration with existing LLM/RAG systems.
+- **Optimized for Complex Reasoning**: Achieves state-of-the-art performance on ICLR 2026 benchmarks by combining graph-based retrieval with agentic workflows, improving accuracy and interpretability in multi-step QA tasks.
 
 ## Why It Matters
 

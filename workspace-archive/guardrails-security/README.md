@@ -24,9 +24,9 @@ https://github.com/neuri-ai/llm-guard (LLM Guard)
 - [maunappl8/openai-agents-ts-kit](https://github.com/maunappl8/openai-agents-ts-kit)
 - [CyberSunil/LLMVault](https://github.com/CyberSunil/LLMVault)
 - [msoedov/agentic_security](https://github.com/msoedov/agentic_security)
+- [TatarinBlack/ai-runtime-security-sandbox](https://github.com/TatarinBlack/ai-runtime-security-sandbox)
 - [scadastrangelove/awesome-ai-security-tools](https://github.com/scadastrangelove/awesome-ai-security-tools)
 - [Leonxlnx/agentic-ai-prompt-research](https://github.com/Leonxlnx/agentic-ai-prompt-research)
-- [HeadyZhang/agent-audit](https://github.com/HeadyZhang/agent-audit)
 
 ## Best Learning Resources
 
@@ -44,4 +44,4 @@ https://github.com/neuri-ai/llm-guard (LLM Guard)
 
 ---
 
-*Last updated: 2026-09-02 01:17 IST*
+*Last updated: 2026-09-02 04:29 IST*
