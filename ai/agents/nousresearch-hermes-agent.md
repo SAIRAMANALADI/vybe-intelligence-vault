@@ -4,26 +4,25 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NousResearch/hermes-agent
-collected_at: '2026-09-01T19:09:02.286198+05:30'
-published_at: '2026-09-01T13:38:29Z'
+collected_at: '2026-09-02T01:03:13.628765+05:30'
+published_at: '2026-09-01T19:32:19Z'
 tags:
 - agents
 - anthropic
 - github-repo
 - openai
 - python
-- workflows
-stars: 239315
+stars: 239458
 language: Python
 status: active
 license: MIT
 archived: false
 created_at: '2025-07-22T22:22:28Z'
-pushed_at: '2026-09-01T10:57:20Z'
+pushed_at: '2026-09-01T19:29:17Z'
 resource_id: github:nousresearch/hermes-agent
-first_seen: '2026-09-01T19:09:02.286198+05:30'
-last_seen: '2026-09-01T19:09:02.286198+05:30'
-last_checked: '2026-09-01T19:09:02.286198+05:30'
+first_seen: '2026-09-02T01:03:13.628765+05:30'
+last_seen: '2026-09-02T01:03:13.628765+05:30'
+last_checked: '2026-09-02T01:03:13.628765+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Model Agent Framework**: Hermes-Agent is a Python-based AI agent framework supporting integration with multiple LLMs (e.g., Anthropic, OpenAI, Codex) and specialized tools like `claude-code` for dynamic, scalable agentic workflows.
-
-- **Self-Improving Architecture**: Implements a "grows with you" paradigm via adaptive learning mechanisms, enabling agents to refine skills, expand toolsets, and optimize performance based on interaction history and feedback loops.
-
-- **High-Throughput Repository**: Hosted on GitHub with 239K+ stars and 48K+ forks, indicating rapid adoption; last updated September 2026, reflecting active development in agentic AI and tooling ecosystems.
+- **Hermes-Agent**: A Python-based AI agent framework designed for dynamic scalability and adaptability in multi-model environments (e.g., Anthropic, OpenAI, ChatGPT, Codex).
+- **Core Features**: Supports autonomous task execution, tool integration (e.g., `claude-code`), and multi-agent collaboration with LLM-driven decision-making.
+- **Repository Stats**: 239K+ stars, 48K+ forks; last updated September 2026 with active development in AI-agent tooling.
 
 ## Why It Matters
 
@@ -44,15 +41,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: NousResearch
-- Stars: 239315
-- Forks: 48855
+- Stars: 239458
+- Forks: 48903
 - Language: Python
 - Topics: ai, ai-agent, ai-agents, anthropic, chatgpt, claude, claude-code, codex, hermes, hermes-agent, llm, nous-research, openai
-- Last Updated: 2026-09-01T13:38:29Z
+- Last Updated: 2026-09-01T19:32:19Z
 - License: MIT
 - Archived: No
 - Created At: 2025-07-22T22:22:28Z
-- Pushed At: 2026-09-01T10:57:20Z
+- Pushed At: 2026-09-01T19:29:17Z
 
 ## Possible Use Cases
 

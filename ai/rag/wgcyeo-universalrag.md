@@ -4,10 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/wgcyeo/UniversalRAG
-collected_at: '2026-09-01T19:07:37.247209+05:30'
+collected_at: '2026-09-02T01:01:48.515423+05:30'
 published_at: '2026-07-21T05:58:28Z'
 tags:
+- dataset
 - github-repo
+- models
 - python
 - rag
 stars: 174
@@ -18,9 +20,9 @@ archived: false
 created_at: '2025-04-30T02:55:32Z'
 pushed_at: '2026-06-24T07:15:47Z'
 resource_id: github:wgcyeo/universalrag
-first_seen: '2026-09-01T19:07:37.247209+05:30'
-last_seen: '2026-09-01T19:07:37.247209+05:30'
-last_checked: '2026-09-01T19:07:37.247209+05:30'
+first_seen: '2026-09-02T01:01:48.515423+05:30'
+last_seen: '2026-09-02T01:01:48.515423+05:30'
+last_checked: '2026-09-02T01:01:48.515423+05:30'
 health_score: 100
 ---
 
@@ -28,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal RAG Framework**: Introduces a retrieval-augmented generation (RAG) system capable of handling diverse data modalities (e.g., text, images, tables) and granularities (e.g., documents, paragraphs, entities) within a unified architecture.
+- **Multimodal & Multi-Granularity RAG**: Introduces a framework enabling retrieval-augmented generation (RAG) across diverse data modalities (text, images, tables) and granularities (document, paragraph, sentence) without requiring modality-specific fine-tuning.
 
-- **ACL 2026 Oral Presentation**: Highlighted as an oral presentation at ACL 2026, indicating significant advancements in cross-modal retrieval and generation for large language models (LLMs).
+- **Unified Retrieval Mechanism**: Implements a modality-agnostic retriever using contrastive learning and cross-modal attention to dynamically select relevant information from heterogeneous corpora during generation.
 
-- **Modular Python Implementation**: Provides an open-source Python-based toolkit with modular components for scalable multimodal retrieval and generation, supporting integration with existing LLM pipelines.
+- **Modular & Scalable Architecture**: Designed with plug-and-play components (retriever, generator, reranker) to support extensibility, optimized for large-scale multimodal datasets with efficient indexing and retrieval pipelines.
 
 ## Why It Matters
 

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/hllqkb/Spring-AI-Ailibaba-Best-Practices
-collected_at: '2026-09-01T19:06:47.219281+05:30'
+collected_at: '2026-09-02T01:01:03.423246+05:30'
 published_at: '2026-09-01T09:14:45Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2025-04-17T11:50:47Z'
 pushed_at: '2025-09-07T10:50:31Z'
 resource_id: github:hllqkb/spring-ai-ailibaba-best-practices
-first_seen: '2026-09-01T19:06:47.219281+05:30'
-last_seen: '2026-09-01T19:06:47.219281+05:30'
-last_checked: '2026-09-01T19:06:47.219281+05:30'
+first_seen: '2026-09-02T01:01:03.423246+05:30'
+last_seen: '2026-09-02T01:01:03.423246+05:30'
+last_checked: '2026-09-02T01:01:03.423246+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-modal AI Integration**: Implements SSE streaming, agent-based workflows, and function calling for real-time AI interactions, with support for image generation/understanding via RAG pipelines.
-- **Knowledge Graph & Vector DB**: Utilizes knowledge graphs for structured data and vector databases (e.g., embedding storage) for semantic search and retrieval-augmented generation (RAG).
-- **Java-Based Architecture**: Built on Spring AI with Alibaba Cloud integrations, featuring historical message handling, embedding models, and modular components for extensibility.
+- **Implements multiple AI integration patterns** using Spring AI with Alibaba Cloud services, including SSE streaming, Agent-based workflows, Knowledge Graph RAG, Function Calling, and historical message management.
+
+- **Features multimodal capabilities** with image generation, image understanding, and embedding/vector database integration for advanced RAG (Retrieval-Augmented Generation) workflows.
+
+- **Leverages vector databases** (e.g., Milvus, Weaviate) for efficient semantic search and employs embedding models (e.g., BERT, Sentence-BERT) for knowledge retrieval and processing.
 
 ## Why It Matters
 

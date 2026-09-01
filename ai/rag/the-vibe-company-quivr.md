@@ -1,11 +1,11 @@
 ---
-title: The-Vibe-Company/Quivr
+title: The-Vibe-Company/quivr
 category: ai/rag
 source_type: github
 source_name: GitHub Discovery
-source_url: https://github.com/The-Vibe-Company/Quivr
-collected_at: '2026-09-01T19:07:07.211849+05:30'
-published_at: '2026-09-01T13:32:03Z'
+source_url: https://github.com/The-Vibe-Company/quivr
+collected_at: '2026-09-02T01:01:23.540403+05:30'
+published_at: '2026-09-01T18:50:35Z'
 tags:
 - frontend_ui
 - github-repo
@@ -14,7 +14,7 @@ tags:
 - openai
 - python
 - rag
-stars: 39440
+stars: 39445
 language: Python
 status: active
 license: NOASSERTION
@@ -22,19 +22,21 @@ archived: false
 created_at: '2023-05-12T23:53:30Z'
 pushed_at: '2026-08-31T18:02:45Z'
 resource_id: github:the-vibe-company/quivr
-first_seen: '2026-09-01T19:07:07.211849+05:30'
-last_seen: '2026-09-01T19:07:07.211849+05:30'
-last_checked: '2026-09-01T19:07:07.211849+05:30'
+first_seen: '2026-09-02T01:01:23.540403+05:30'
+last_seen: '2026-09-02T01:01:23.540403+05:30'
+last_checked: '2026-09-02T01:01:23.540403+05:30'
 health_score: 100
 ---
 
-# The-Vibe-Company/Quivr
+# The-Vibe-Company/quivr
 
 ## Summary
 
-*   Opinionated RAG framework facilitating streamlined GenAI integration, abstracting underlying complexities for application developers.
-*   Offers multi-LLM (e.g., GPT4, Groq, Llama) and multi-vectorstore (e.g., PGVector, Faiss) compatibility, supporting diverse data ingestion.
-*   Python-based, featuring Dockerized deployment, PostgreSQL integration, and a React/TypeScript frontend for full-stack GenAI application development.
+- **Modular RAG Framework**: Quivr is an opinionated Retrieval-Augmented Generation (RAG) framework designed for seamless GenAI integration into applications, supporting customization for diverse use cases without deep RAG-specific development overhead.
+
+- **Multi-Backend Compatibility**: Supports any LLM (e.g., GPT4, Groq, Llama) and vector stores (e.g., PGVector, Faiss), enabling flexible deployment across different AI models and storage backends while accommodating various file types.
+
+- **Full-Stack Integration**: Provides a Python-based backend with Docker support, React/TypeScript frontend, and API-driven architecture, ensuring compatibility with existing products and enabling privacy/security-focused deployments.
 
 ## Why It Matters
 
@@ -43,11 +45,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: The-Vibe-Company
-- Stars: 39440
+- Stars: 39445
 - Forks: 3726
 - Language: Python
 - Topics: ai, api, chatbot, chatgpt, database, docker, framework, frontend, groq, html, javascript, llm, openai, postgresql, privacy, rag, react, security, typescript, vector
-- Last Updated: 2026-09-01T13:32:03Z
+- Last Updated: 2026-09-01T18:50:35Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2023-05-12T23:53:30Z
@@ -69,4 +71,4 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 ## Source
 
-Original source: https://github.com/The-Vibe-Company/Quivr
+Original source: https://github.com/The-Vibe-Company/quivr

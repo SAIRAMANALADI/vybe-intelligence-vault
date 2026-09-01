@@ -4,11 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TencentCloudADP/youtu-graphrag
-collected_at: '2026-09-01T19:07:32.231385+05:30'
+collected_at: '2026-09-02T01:01:43.523452+05:30'
 published_at: '2026-09-01T02:41:47Z'
 tags:
 - agents
-- dataset
 - github-repo
 - python
 - rag
@@ -20,9 +19,9 @@ archived: false
 created_at: '2025-09-01T02:52:13Z'
 pushed_at: '2026-02-26T12:57:55Z'
 resource_id: github:tencentcloudadp/youtu-graphrag
-first_seen: '2026-09-01T19:07:32.231385+05:30'
-last_seen: '2026-09-01T19:07:32.231385+05:30'
-last_checked: '2026-09-01T19:07:32.231385+05:30'
+first_seen: '2026-09-02T01:01:43.523452+05:30'
+last_seen: '2026-09-02T01:01:43.523452+05:30'
+last_checked: '2026-09-02T01:01:43.523452+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Vertically Unified Agents**: Introduces a multi-agent framework where specialized agents (e.g., retrieval, reasoning, verification) collaborate hierarchically for complex reasoning tasks, leveraging graph structures for contextual augmentation.
+- **Vertically Unified Agents Framework**: Introduces a multi-agent system where specialized agents (e.g., retrieval, reasoning, planning) collaborate hierarchically to decompose and solve complex queries using graph-structured knowledge.
 
-- **Graph Retrieval-Augmented Reasoning**: Integrates graph-based retrieval with LLMs to enhance factual accuracy and logical consistency, dynamically constructing and traversing knowledge graphs for dynamic context generation.
+- **Graph Retrieval-Augmented Reasoning (GraphRAG)**: Integrates graph neural networks (GNNs) with large language models (LLMs) to dynamically retrieve and reason over structured knowledge graphs, enhancing factual accuracy and contextual understanding.
 
-- **ICLR 2026 Contribution**: Proposes a novel architecture optimizing end-to-end performance in multi-step reasoning, with empirical validation on large-scale datasets demonstrating superior accuracy and efficiency over traditional RAG baselines.
+- **Modular Python Implementation**: Provides an extensible Python-based pipeline with components for graph construction, agent orchestration, and reasoning, optimized for scalability and integration with existing LLM/RAG systems.
 
 ## Why It Matters
 

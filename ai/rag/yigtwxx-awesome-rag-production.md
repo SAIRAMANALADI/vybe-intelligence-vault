@@ -4,14 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Yigtwxx/awesome-rag-production
-collected_at: '2026-09-01T19:06:47.246768+05:30'
+collected_at: '2026-09-02T01:00:58.425423+05:30'
 published_at: '2026-09-01T09:41:56Z'
 tags:
 - github-repo
 - hackernews
 - python
 - rag
-- workflows
 stars: 213
 language: Python
 status: active
@@ -20,9 +19,9 @@ archived: false
 created_at: '2025-12-19T08:13:33Z'
 pushed_at: '2026-08-26T16:40:40Z'
 resource_id: github:yigtwxx/awesome-rag-production
-first_seen: '2026-09-01T19:06:47.246768+05:30'
-last_seen: '2026-09-01T19:06:47.246768+05:30'
-last_checked: '2026-09-01T19:06:47.246768+05:30'
+first_seen: '2026-09-02T01:00:58.425423+05:30'
+last_seen: '2026-09-02T01:00:58.425423+05:30'
+last_checked: '2026-09-02T01:00:58.425423+05:30'
 health_score: 100
 ---
 
@@ -30,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Curated Resources**: Repository provides a vetted collection of tools, frameworks, and best practices tailored for scalable, production-grade RAG systems, emphasizing deployment-ready solutions.
-- **Technical Scope**: Focuses on Python-based implementations, covering embeddings, vector databases, LLM integration (LangChain), and MLOps/LLMops workflows for RAG pipelines.
-- **Community & Updates**: Maintained with 213 stars and 55 forks, last updated in 2026, ensuring relevance for cutting-edge AI engineering and generative AI applications.
+- **Curated Resource**: Repository providing a vetted collection of production-grade tools, frameworks, and best practices for building scalable Retrieval-Augmented Generation (RAG) systems, emphasizing deployment-ready solutions.
+
+- **Technical Scope**: Covers critical components such as embeddings, vector databases, LangChain, LLMOps, and MLOps, with a focus on Python-based implementations for large language models (LLMs).
+
+- **Operational Focus**: Includes curated lists of battle-tested solutions for AI engineering, generative AI, and retrieval systems, last updated in September 2026.
 
 ## Why It Matters
 

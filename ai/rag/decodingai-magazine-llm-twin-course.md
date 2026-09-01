@@ -4,13 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/decodingai-magazine/llm-twin-course
-collected_at: '2026-09-01T19:06:47.242537+05:30'
+collected_at: '2026-09-02T01:00:58.521918+05:30'
 published_at: '2026-09-01T09:03:44Z'
 tags:
 - github-repo
 - python
 - rag
-- scripts
+- workflows
 stars: 4387
 language: Python
 status: active
@@ -19,9 +19,9 @@ archived: false
 created_at: '2024-03-08T09:21:28Z'
 pushed_at: '2026-04-20T10:53:45Z'
 resource_id: github:decodingai-magazine/llm-twin-course
-first_seen: '2026-09-01T19:06:47.242537+05:30'
-last_seen: '2026-09-01T19:06:47.242537+05:30'
-last_checked: '2026-09-01T19:06:47.242537+05:30'
+first_seen: '2026-09-02T01:00:58.521918+05:30'
+last_seen: '2026-09-02T01:00:58.521918+05:30'
+last_checked: '2026-09-02T01:00:58.521918+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **End-to-End LLM & RAG System**: Course provides hands-on guidance to build production-ready LLM and Retrieval-Augmented Generation (RAG) systems using LLMOps best practices, including source code and 12 structured lessons.
-- **Tech Stack Integration**: Utilizes Python-based tools (e.g., Bytewax, Qdrant, Pulumi) and cloud infrastructure (AWS) with MLOps frameworks (Comet-ML, Qwak) for scalable deployment and monitoring.
-- **Infrastructure & Automation**: Implements Infrastructure-as-Code (IaC) via Pulumi and Docker for reproducible environments, covering ML system design, vector databases, and CI/CD pipelines.
+- **End-to-end LLM & RAG system**: Course provides hands-on guidance to build production-ready LLM and Retrieval-Augmented Generation (RAG) systems using LLMOps best practices, including source code and 12 structured lessons.
+
+- **Tech stack integration**: Implements AWS, Bytewax, Comet-ML, Docker, Pulumi, Qdrant, Qwak, and Superlinked for infrastructure-as-code, ML system design, and MLOps workflows.
+
+- **MLOps & LLMOps focus**: Covers advanced topics like scalable ML infrastructure, real-time data pipelines, and deployment strategies for generative AI systems, updated as of September 2026.
 
 ## Why It Matters
 

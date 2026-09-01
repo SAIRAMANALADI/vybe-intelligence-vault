@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/mongodb-developer/GenAI-Showcase
-collected_at: '2026-09-01T19:08:12.350878+05:30'
-published_at: '2026-08-31T13:25:50Z'
+collected_at: '2026-09-02T01:02:28.595454+05:30'
+published_at: '2026-09-01T18:37:17Z'
 tags:
 - agents
 - github-repo
@@ -14,7 +14,7 @@ tags:
 - rag
 - reddit
 - workflows
-stars: 4262
+stars: 4263
 language: Jupyter Notebook
 status: active
 license: MIT
@@ -22,9 +22,9 @@ archived: false
 created_at: '2024-01-30T14:20:36Z'
 pushed_at: '2026-08-21T16:42:58Z'
 resource_id: github:mongodb-developer/genai-showcase
-first_seen: '2026-09-01T19:08:12.350878+05:30'
-last_seen: '2026-09-01T19:08:12.350878+05:30'
-last_checked: '2026-09-01T19:08:12.350878+05:30'
+first_seen: '2026-09-02T01:02:28.595454+05:30'
+last_seen: '2026-09-02T01:02:28.595454+05:30'
+last_checked: '2026-09-02T01:02:28.595454+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,9 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive GenAI Examples**: Repository showcasing MongoDB's Generative AI applications, including RAG pipelines, AI agents, and industry-specific use cases, implemented in Jupyter Notebooks with Python.
-
-- **Technical Stack**: Leverages MongoDB Atlas for vector search, integrates LLMs, and demonstrates end-to-end workflows for AI-driven data processing and retrieval.
-
-- **Educational Resource**: Provides 4262+ community examples with modular notebooks, covering topics like agents, RAG optimization, and real-world AI deployment strategies.
+- **Comprehensive GenAI Examples**: Repository provides extensive implementations of Retrieval-Augmented Generation (RAG), AI agents, and industry-specific use cases using MongoDB Atlas and Python.
+- **Technical Stack**: Primarily utilizes Jupyter Notebooks with Python, integrating MongoDB Atlas, LLMs, and vector search for generative AI workflows.
+- **Industry & Agent Focus**: Showcases specialized applications for AI agents and domain-specific solutions, updated as of September 2026.
 
 ## Why It Matters
 
@@ -45,11 +43,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: mongodb-developer
-- Stars: 4262
+- Stars: 4263
 - Forks: 746
 - Language: Jupyter Notebook
 - Topics: agents, artificial-intelligence, atlas, generative-ai, jupyter-notebook, llms, mongodb, python, rag
-- Last Updated: 2026-08-31T13:25:50Z
+- Last Updated: 2026-09-01T18:37:17Z
 - License: MIT
 - Archived: No
 - Created At: 2024-01-30T14:20:36Z

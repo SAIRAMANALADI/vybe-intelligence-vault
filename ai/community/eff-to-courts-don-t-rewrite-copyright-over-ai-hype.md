@@ -13,13 +13,14 @@ collected_at: '2026-09-01T19:04:23.545950+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:eff-to-courts-don-t-rewrite-copyright-over-ai-hype
 first_seen: '2026-09-01T19:04:23.545950+05:30'
 last_seen: '2026-09-01T19:04:23.545950+05:30'
 last_checked: '2026-09-01T19:04:23.545950+05:30'
 health_score: 100
 ---
+
 
 # EFF to Courts: Don't Rewrite Copyright over AI Hype
 

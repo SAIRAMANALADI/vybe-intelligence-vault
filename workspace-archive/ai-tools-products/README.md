@@ -22,10 +22,10 @@ Discovering modern AI productivity tools allows developers to streamline their d
 https://github.com/steven-tey/charlie (Charlie Directory App)
 - [langchain-ai/langchain-skills](https://github.com/langchain-ai/langchain-skills)
 - [Mintlify · GitHub](https://github.com/mintlify)
+- [continuedev/continue](https://github.com/continuedev/continue)
+- [MuhammadUsmanGM/claude-code-best-practices](https://github.com/MuhammadUsmanGM/claude-code-best-practices)
 - [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx)
-- [transitive-bullshit/agentic](https://github.com/transitive-bullshit/agentic)
-- [ARUNAGIRINATHAN-K/awesome-ai-agents-2026](https://github.com/ARUNAGIRINATHAN-K/awesome-ai-agents-2026)
-- [docs/content/index.md at main · github/docs · GitHub](https://github.com/github/docs/blob/main/content/index.md)
+- [alvinreal/awesome-opensource-ai](https://github.com/alvinreal/awesome-opensource-ai)
 
 ## Best Learning Resources
 
@@ -42,4 +42,4 @@ https://github.com/steven-tey/charlie (Charlie Directory App)
 
 ---
 
-*Last updated: 2026-09-01 19:22 IST*
+*Last updated: 2026-09-02 01:17 IST*

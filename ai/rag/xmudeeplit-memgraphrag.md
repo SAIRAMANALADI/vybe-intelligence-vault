@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/XMUDeepLIT/MemGraphRAG
-collected_at: '2026-09-01T19:07:32.270611+05:30'
+collected_at: '2026-09-02T01:01:43.536645+05:30'
 published_at: '2026-09-01T03:11:03Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2026-02-02T03:16:55Z'
 pushed_at: '2026-06-20T23:54:03Z'
 resource_id: github:xmudeeplit/memgraphrag
-first_seen: '2026-09-01T19:07:32.270611+05:30'
-last_seen: '2026-09-01T19:07:32.270611+05:30'
-last_checked: '2026-09-01T19:07:32.270611+05:30'
+first_seen: '2026-09-02T01:01:43.536645+05:30'
+last_seen: '2026-09-02T01:01:43.536645+05:30'
+last_checked: '2026-09-02T01:01:43.536645+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Memory-based Multi-Agent System**: Introduces a novel framework leveraging memory mechanisms for multi-agent collaboration in graph-based Retrieval-Augmented Generation (RAG), enabling dynamic knowledge integration and reasoning.
+- **Multi-Agent Framework**: Introduces a memory-based multi-agent system for Graph Retrieval-Augmented Generation (GraphRAG), leveraging distributed agent memory for enhanced graph construction and retrieval.
 
-- **Graph Construction & Ontology Integration**: Implements an ontology-driven approach for graph construction, facilitating structured knowledge representation and retrieval within the RAG pipeline.
+- **Ontology-Guided Graph Construction**: Implements ontology-aware graph construction to dynamically build and refine knowledge graphs, improving contextual relevance in RAG pipelines.
 
-- **Python Implementation**: Provides an open-source Python-based implementation optimized for scalability and adaptability in graph-based RAG applications.
+- **Python-Based Implementation**: Provides an open-source Python repository with modular components for agent-memory integration, graph construction, and retrieval-augmented generation, optimized for scalability and adaptability.
 
 ## Why It Matters
 

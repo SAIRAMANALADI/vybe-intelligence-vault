@@ -4,24 +4,23 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/earendil-works/pi
-collected_at: '2026-09-01T19:09:07.375637+05:30'
-published_at: '2026-09-01T13:38:29Z'
+collected_at: '2026-09-02T01:03:18.646478+05:30'
+published_at: '2026-09-01T19:32:22Z'
 tags:
 - agents
 - github-repo
 - typescript
-- workflows
-stars: 100346
+stars: 100459
 language: TypeScript
 status: active
 license: MIT
 archived: false
 created_at: '2025-08-09T14:03:50Z'
-pushed_at: '2026-09-01T13:18:31Z'
+pushed_at: '2026-09-01T16:16:36Z'
 resource_id: github:earendil-works/pi
-first_seen: '2026-09-01T19:09:07.375637+05:30'
-last_seen: '2026-09-01T19:09:07.375637+05:30'
-last_checked: '2026-09-01T19:09:07.375637+05:30'
+first_seen: '2026-09-02T01:03:18.646478+05:30'
+last_seen: '2026-09-02T01:03:18.646478+05:30'
+last_checked: '2026-09-02T01:03:18.646478+05:30'
 health_score: 100
 ---
 
@@ -29,11 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Unified LLM API**: Provides a standardized interface for interacting with multiple large language models (LLMs) via a single API, simplifying integration and abstraction.
-
-- **Agent Loop & TUI**: Implements an agentic loop for autonomous task execution with a terminal user interface (TUI) for real-time interaction and control.
-
-- **Coding Agent CLI**: Includes a command-line interface (CLI) for deploying and managing AI-powered coding agents, enabling automated code generation and debugging workflows.
+- **Unified LLM API**: Provides a standardized interface for interacting with various large language models (LLMs) within a TypeScript-based toolkit.
+- **Agent Loop & TUI**: Implements an autonomous agent loop with a terminal user interface (TUI) for real-time interaction and control.
+- **Coding Agent CLI**: Includes a command-line interface (CLI) for executing coding tasks autonomously via AI-driven agents.
 
 ## Why It Matters
 
@@ -42,15 +39,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: earendil-works
-- Stars: 100346
-- Forks: 12469
+- Stars: 100459
+- Forks: 12479
 - Language: TypeScript
 - Topics: None
-- Last Updated: 2026-09-01T13:38:29Z
+- Last Updated: 2026-09-01T19:32:22Z
 - License: MIT
 - Archived: No
 - Created At: 2025-08-09T14:03:50Z
-- Pushed At: 2026-09-01T13:18:31Z
+- Pushed At: 2026-09-01T16:16:36Z
 
 ## Possible Use Cases
 

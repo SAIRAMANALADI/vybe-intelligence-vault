@@ -4,24 +4,25 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/huangjia2019/ai-agents
-collected_at: '2026-09-01T10:56:48.830853+05:30'
-published_at: '2026-08-29T00:05:06Z'
+collected_at: '2026-09-02T01:02:23.544588+05:30'
+published_at: '2026-09-01T12:54:34Z'
 tags:
 - agents
 - github-repo
 - jupyter notebook
 - models
 - openai
-stars: 519
+- workflows
+stars: 520
 language: Jupyter Notebook
 status: active
 archived: false
 created_at: '2024-05-10T10:40:28Z'
 pushed_at: '2025-11-05T04:12:34Z'
 resource_id: github:huangjia2019/ai-agents
-first_seen: '2026-09-01T10:56:48.830853+05:30'
-last_seen: '2026-09-01T10:56:48.830853+05:30'
-last_checked: '2026-09-01T10:56:48.830853+05:30'
+first_seen: '2026-09-02T01:02:23.544588+05:30'
+last_seen: '2026-09-02T01:02:23.544588+05:30'
+last_checked: '2026-09-02T01:02:23.544588+05:30'
 health_score: 100
 ---
 
@@ -29,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Repository provides introductory examples for constructing LLM-based AI agents, serving as a beginner-friendly guide to LLM development.
-- **Content**: Includes basic implementations in Jupyter Notebooks, with references to external resources (e.g., OpenAI Cookbook, LangChain Examples) for deeper exploration.
-- **Metadata**: 519 stars, 132 forks, last updated 2026-08-29; focuses on AI, NLP, and agent-based systems using Jupyter Notebooks.
+- **Purpose**: Repository provides introductory examples for building LLM-based AI agents, serving as a beginner's guide to LLM development with foundational concepts and simple implementations.
+
+- **Content**: Includes Jupyter Notebook examples covering basic agent development workflows, with emphasis on simplicity and introductory learning rather than exhaustive implementation.
+
+- **Context**: Positioned as a preliminary resource (aligned with the Chinese book *大模型应用开发 动手做AI Agent*), directing users to more advanced resources like OpenAI Cookbook and LangChain Examples for deeper exploration.
 
 ## Why It Matters
 
@@ -40,11 +43,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: huangjia2019
-- Stars: 519
+- Stars: 520
 - Forks: 132
 - Language: Jupyter Notebook
 - Topics: agent, ai, llm, nlp
-- Last Updated: 2026-08-29T00:05:06Z
+- Last Updated: 2026-09-01T12:54:34Z
 - Archived: No
 - Created At: 2024-05-10T10:40:28Z
 - Pushed At: 2025-11-05T04:12:34Z

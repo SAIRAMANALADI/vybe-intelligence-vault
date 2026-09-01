@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/coleam00/ottomator-agents
-collected_at: '2026-09-01T19:08:07.256388+05:30'
+collected_at: '2026-09-02T01:02:23.520570+05:30'
 published_at: '2026-09-01T12:47:09Z'
 tags:
 - agents
@@ -18,9 +18,9 @@ archived: false
 created_at: '2024-12-02T00:47:45Z'
 pushed_at: '2025-11-09T21:46:48Z'
 resource_id: github:coleam00/ottomator-agents
-first_seen: '2026-09-01T19:08:07.256388+05:30'
-last_seen: '2026-09-01T19:08:07.256388+05:30'
-last_checked: '2026-09-01T19:08:07.256388+05:30'
+first_seen: '2026-09-02T01:02:23.520570+05:30'
+last_seen: '2026-09-02T01:02:23.520570+05:30'
+last_checked: '2026-09-02T01:02:23.520570+05:30'
 health_score: 100
 ---
 
@@ -28,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: Open-source collection of AI agents hosted on the oTTomator Live Agent Studio platform, implemented in Python.
-- **Metrics**: 5,752 stars, 1,953 forks, last updated on 2026-09-01.
-- **Access**: Available at [GitHub repository](https://github.com/coleam00/ottomator-agents).
+- **Repository Overview**: Open-source collection of AI agents deployed on the oTTomator Live Agent Studio platform, written in Python.
+- **Metrics**: 5,752 stars, 1,953 forks, last updated September 1, 2026.
+- **Access**: Available at [GitHub](https://github.com/coleam00/ottomator-agents).
 
 ## Why It Matters
 

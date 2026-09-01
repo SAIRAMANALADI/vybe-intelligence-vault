@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ConardLi/garden-skills
-collected_at: '2026-09-01T19:06:27.154240+05:30'
-published_at: '2026-09-01T13:14:08Z'
+collected_at: '2026-09-02T01:00:38.418970+05:30'
+published_at: '2026-09-01T19:22:05Z'
 tags:
 - agents
 - anthropic
@@ -13,7 +13,7 @@ tags:
 - github-repo
 - hackernews
 - rag
-stars: 11974
+stars: 12000
 language: CSS
 status: active
 license: MIT
@@ -21,9 +21,9 @@ archived: false
 created_at: '2026-04-21T11:56:17Z'
 pushed_at: '2026-07-12T14:36:31Z'
 resource_id: github:conardli/garden-skills
-first_seen: '2026-09-01T19:06:27.154240+05:30'
-last_seen: '2026-09-01T19:06:27.154240+05:30'
-last_checked: '2026-09-01T19:06:27.154240+05:30'
+first_seen: '2026-09-02T01:00:38.418970+05:30'
+last_seen: '2026-09-02T01:00:38.418970+05:30'
+last_checked: '2026-09-02T01:00:38.418970+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: Open-source collection (`garden-skills`) by ConardLi, covering web design, knowledge retrieval, image generation, and other technical skills.
-- **Technical Stack**: Primarily implemented in CSS, with integrations for AI agents, RAG (Retrieval-Augmented Generation), and tools like GPT-Image-2 and Claude.
-- **Metadata**: 11,974 stars, 1,467 forks, last updated on 2026-09-01, and categorized under topics like `agent`, `rag`, and `web-design`.
+- **Repository Overview**: Open-source collection curated by ConardLi, encompassing web design, knowledge retrieval, image generation, and other technical skills, with 12K stars and 1.47K forks.
+- **Technical Stack**: Primarily implemented in CSS, with integration of AI agents (e.g., Claude) and tools like `gpt-image-2` for image generation and RAG (Retrieval-Augmented Generation) for knowledge retrieval.
+- **Last Updated**: September 1, 2026, reflecting ongoing maintenance and updates to the repository.
 
 ## Why It Matters
 
@@ -42,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: ConardLi
-- Stars: 11974
-- Forks: 1467
+- Stars: 12000
+- Forks: 1470
 - Language: CSS
 - Topics: agent, claude, gpt-image-2, rag, skills, web-design
-- Last Updated: 2026-09-01T13:14:08Z
+- Last Updated: 2026-09-01T19:22:05Z
 - License: MIT
 - Archived: No
 - Created At: 2026-04-21T11:56:17Z

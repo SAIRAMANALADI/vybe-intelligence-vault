@@ -4,12 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pixegami/langchain-rag-tutorial
-collected_at: '2026-09-01T19:06:02.186676+05:30'
-published_at: '2026-09-01T03:41:26Z'
+collected_at: '2026-09-02T01:00:13.481830+05:30'
+published_at: '2026-09-01T14:27:07Z'
 tags:
 - github-repo
 - python
 - rag
+- workflows
 stars: 990
 language: Python
 status: active
@@ -17,9 +18,9 @@ archived: false
 created_at: '2023-11-13T09:14:54Z'
 pushed_at: '2024-07-31T23:46:44Z'
 resource_id: github:pixegami/langchain-rag-tutorial
-first_seen: '2026-09-01T19:06:02.186676+05:30'
-last_seen: '2026-09-01T19:06:02.186676+05:30'
-last_checked: '2026-09-01T19:06:02.186676+05:30'
+first_seen: '2026-09-02T01:00:13.481830+05:30'
+last_seen: '2026-09-02T01:00:13.481830+05:30'
+last_checked: '2026-09-02T01:00:13.481830+05:30'
 health_score: 100
 ---
 
@@ -27,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **LangChain RAG Implementation**: Demonstrates a basic Retrieval-Augmented Generation (RAG) pipeline using LangChain, integrating document retrieval with language model generation.
-- **Python-Based**: Entirely written in Python, leveraging LangChain’s modular framework for LLM applications.
-- **GitHub Repository**: Hosted on GitHub with 990 stars and 520 forks, last updated on 2026-09-01.
+- Implements a **Retrieval-Augmented Generation (RAG)** pipeline using **LangChain** in Python, combining document retrieval with LLM-based generation.
+- Demonstrates **vector storage** (likely via FAISS or Chroma) for efficient document indexing and similarity search.
+- Includes **end-to-end workflow**: document ingestion → embedding → retrieval → prompt augmentation → LLM inference.
 
 ## Why It Matters
 
@@ -42,7 +43,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - Forks: 520
 - Language: Python
 - Topics: None
-- Last Updated: 2026-09-01T03:41:26Z
+- Last Updated: 2026-09-01T14:27:07Z
 - Archived: No
 - Created At: 2023-11-13T09:14:54Z
 - Pushed At: 2024-07-31T23:46:44Z

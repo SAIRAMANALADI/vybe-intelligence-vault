@@ -4,10 +4,9 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/bangoc123/retrieval-backend-with-rag
-collected_at: '2026-09-01T19:06:42.170329+05:30'
+collected_at: '2026-09-02T01:00:53.525043+05:30'
 published_at: '2026-08-22T07:32:26Z'
 tags:
-- benchmark
 - github-repo
 - python
 - rag
@@ -18,9 +17,9 @@ archived: false
 created_at: '2024-06-13T03:43:42Z'
 pushed_at: '2025-10-03T03:29:43Z'
 resource_id: github:bangoc123/retrieval-backend-with-rag
-first_seen: '2026-09-01T19:06:42.170329+05:30'
-last_seen: '2026-09-01T19:06:42.170329+05:30'
-last_checked: '2026-09-01T19:06:42.170329+05:30'
+first_seen: '2026-09-02T01:00:53.525043+05:30'
+last_seen: '2026-09-02T01:00:53.525043+05:30'
+last_checked: '2026-09-02T01:00:53.525043+05:30'
 health_score: 100
 ---
 
@@ -28,11 +27,9 @@ health_score: 100
 
 ## Summary
 
-- **Vietnamese RAG Implementation**: Repository provides a retrieval-augmented generation (RAG) backend optimized for Vietnamese language processing, leveraging vector databases and embedding models tailored for Vietnamese text.
-
-- **Modular Python Architecture**: Built with Python, the project includes components for document retrieval, embedding generation (e.g., using `sentence-transformers` or `vinai/phobert`), and integration with LLM APIs (e.g., Hugging Face Transformers).
-
-- **Best Practices & Benchmarking**: Implements Vietnamese-specific preprocessing (e.g., Vietnamese tokenization, stopword removal), retrieval strategies (e.g., BM25, FAISS for vector search), and evaluation metrics for RAG pipelines.
+- Implements **Retrieval-Augmented Generation (RAG)** optimized for **Vietnamese language processing**, leveraging vector databases and embedding models tailored for Vietnamese text.
+- Demonstrates **best practices** in RAG pipeline design, including **chunking strategies**, **retrieval mechanisms**, and **prompt engineering** for Vietnamese context.
+- Provides a **Python-based backend** with integration examples for **LLMs** (e.g., ViT5, PhoBERT) and **vector stores** (e.g., FAISS, Weaviate) to enhance contextual retrieval and generation.
 
 ## Why It Matters
 

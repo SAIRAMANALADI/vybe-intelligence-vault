@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.trulens.org
-published_at: '2026-08-10T19:23:54.882483+05:30'
-collected_at: '2026-08-10T19:23:54.882496+05:30'
+published_at: '2026-09-02T01:04:37.241475+05:30'
+collected_at: '2026-09-02T01:04:37.241486+05:30'
 tags:
 - agents
 - anthropic
@@ -22,9 +22,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:trulens-evals-and-tracing-for-ai-agents
-first_seen: '2026-08-10T19:23:54.882496+05:30'
-last_seen: '2026-08-10T19:23:54.882496+05:30'
-last_checked: '2026-08-10T19:23:54.882496+05:30'
+first_seen: '2026-09-02T01:04:37.241486+05:30'
+last_seen: '2026-09-02T01:04:37.241486+05:30'
+last_checked: '2026-09-02T01:04:37.241486+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **OpenTelemetry-native tracing**: Captures per-span latency, inputs/outputs, token/cost metrics across agent steps (retrieval, tool use, generation) for root-cause analysis of failures.
+- **OpenTelemetry-native tracing**: Captures per-step latency, inputs, outputs, tokens, and cost for agent actions (e.g., retrieval, tool use) with nested span visualization for root-cause analysis of failures.
 
-- **Domain-adaptive evaluation**: Provides state-of-the-art judges (e.g., 95% error detection on TRAIL/GAIA) with customizable rubrics, few-shot examples, and scale adjustments for domain-specific alignment.
+- **Benchmark-leading judges**: Achieves 95% error detection (TRAIL/GAIA) and 0.93 F1 groundedness (LLM-AggreFact), outperforming proprietary models and other tools in standardized evaluations.
 
-- **Unified observability pipeline**: Supports live tracing and batch evaluation over datasets, integrating with frameworks (LangChain, LangGraph, LlamaIndex) and outputting metrics to leaderboards for version comparison and quality/cost optimization.
+- **Customizable metrics & A/B testing**: Supports domain-specific rubrics, few-shot examples, and dynamic score ranges (e.g., 0–3 scale) with built-in A/B testing for optimizing agent performance vs. cost.
 
 ## Why It Matters
 
@@ -46,7 +46,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-10T19:23:54.882483+05:30
+- Published: 2026-09-02T01:04:37.241475+05:30
 
 ## Related Tags
 

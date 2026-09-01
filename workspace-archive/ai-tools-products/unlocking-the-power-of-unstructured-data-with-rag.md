@@ -1,19 +1,19 @@
 ---
 title: Unlocking the power of unstructured data with RAG - The GitHub Blog
-archive_category: automation-workflows
+archive_category: ai-tools-products
 source_category: ai/rag
 source_url: https://github.blog/ai-and-ml/llms/unlocking-the-power-of-unstructured-data-with-rag/
 resource_id: blog:unlocking-the-power-of-unstructured-data-with-rag
 local_vault_path: ai/rag/unlocking-the-power-of-unstructured-data-with-rag.md
 quality_score: 70
-archive_score: 74
+archive_score: 82
 archive_tier: useful
 resource_kind: tutorial
-importance: medium
+importance: high
 tags:
+- hackernews
 - rag
 - reddit
-- scripts
 - web-crawled
 - workflows
 selection_reason:
@@ -25,8 +25,8 @@ selection_reason:
 
 ## Why This Is In The Archive
 
-- Matched archive category: `Automation Workflows`
-- Quality score: 70 | Archive score: 74 (useful)
+- Matched archive category: `AI Tools and Products`
+- Quality score: 70 | Archive score: 82 (useful)
 - Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
@@ -34,17 +34,15 @@ selection_reason:
 
 ## Summary
 
-- **GitHub Actions Security Enhancements**: Nicole Choi's work focuses on improving security in GitHub Actions, including vulnerability detection in workflows and hardening CI/CD pipelines against supply chain attacks.
-
-- **Open Source Supply Chain Security**: Contributes to tools and methodologies for securing open-source dependencies, such as dependency review and automated vulnerability scanning in GitHub repositories.
-
-- **Automated Security Policies**: Develops and advocates for enforcement
+- **Author Profile**: Nicole Choi is a technical writer and developer advocate at GitHub, contributing to technical documentation and blog posts.
+- **GitHub Contributions**: Active contributor to GitHub’s official blog, focusing on developer tools, workflows, and platform updates.
+- **Social Presence**: Engages with the developer community via GitHub (@nicchoi29) and other technical platforms.
 
 ## Use Cases
 
-- Local cron scheduling
-- n8n pipeline setups
-- OS task automations
+- Workflow automation search
+- AI developer tooling
+- Developer utility updates
 
 ## Source
 

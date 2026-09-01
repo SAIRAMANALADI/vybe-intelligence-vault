@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - youtube
-status: active
+status: inactive
 resource_id: youtube:OOMx2BHHWtE
 first_seen: '2026-09-01T03:03:11.992845+05:30'
 last_seen: '2026-09-01T19:04:24.548925+05:30'
 last_checked: '2026-09-01T19:04:24.548925+05:30'
 health_score: 100
 ---
+
 
 # Terence Tao explains 6 essential mathematical concepts [video]
 

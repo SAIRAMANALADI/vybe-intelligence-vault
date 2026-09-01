@@ -4,9 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/gabrielchua/RAGxplorer
-collected_at: '2026-09-01T19:06:27.210930+05:30'
+collected_at: '2026-09-02T01:00:38.481193+05:30'
 published_at: '2026-08-18T02:31:39Z'
 tags:
+- benchmark
 - github-repo
 - jupyter notebook
 - models
@@ -19,9 +20,9 @@ archived: false
 created_at: '2024-01-11T15:31:36Z'
 pushed_at: '2025-01-03T15:10:06Z'
 resource_id: github:gabrielchua/ragxplorer
-first_seen: '2026-09-01T19:06:27.210930+05:30'
-last_seen: '2026-09-01T19:06:27.210930+05:30'
-last_checked: '2026-09-01T19:06:27.210930+05:30'
+first_seen: '2026-09-02T01:00:38.481193+05:30'
+last_seen: '2026-09-02T01:00:38.481193+05:30'
+last_checked: '2026-09-02T01:00:38.481193+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Interactive RAG Visualization Tool**: Open-source Jupyter Notebook-based application (`RAGxplorer`) for visualizing Retrieval-Augmented Generation (RAG) pipelines, enabling interactive exploration of LLM retrieval and generation processes.
-
-- **Streamlit-Powered UI**: Integrates Streamlit for a user-friendly interface, allowing real-time visualization of RAG components (e.g., retrieval mechanisms, context integration, and response generation).
-
-- **Python-Based & Modular**: Built in Python with modular design for extensibility, supporting custom RAG pipelines and visualization of metrics like retrieval latency, relevance scoring, and token usage.
+- **Interactive RAG Visualization Tool**: Open-source Jupyter Notebook-based application (`RAGxplorer`) for real-time visualization and analysis of Retrieval-Augmented Generation (RAG) pipelines, enabling debugging and performance evaluation.
+- **Streamlit-Powered UI**: Integrates Streamlit for interactive web-based exploration of RAG components (retriever, LLM, context) with dynamic visualizations (e.g., retrieval heatmaps, latency breakdowns).
+- **Modular Python Framework**: Supports custom RAG configurations (e.g., vector stores, LLMs) via Python, with extensible visualization plugins for embedding projections, attention maps, and retrieval metrics.
 
 ## Why It Matters
 

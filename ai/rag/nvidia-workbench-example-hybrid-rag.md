@@ -4,14 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NVIDIA/workbench-example-hybrid-rag
-collected_at: '2026-09-01T19:06:32.212437+05:30'
+collected_at: '2026-09-02T01:00:43.472945+05:30'
 published_at: '2026-08-24T22:35:50Z'
 tags:
 - github-repo
-- meta-ai
-- models
 - python
 - rag
+- workflows
 stars: 373
 language: Python
 status: active
@@ -20,9 +19,9 @@ archived: false
 created_at: '2024-03-11T15:57:29Z'
 pushed_at: '2025-08-12T17:57:18Z'
 resource_id: github:nvidia/workbench-example-hybrid-rag
-first_seen: '2026-09-01T19:06:32.212437+05:30'
-last_seen: '2026-09-01T19:06:32.212437+05:30'
-last_checked: '2026-09-01T19:06:32.212437+05:30'
+first_seen: '2026-09-02T01:00:43.472945+05:30'
+last_seen: '2026-09-02T01:00:43.472945+05:30'
+last_checked: '2026-09-02T01:00:43.472945+05:30'
 health_score: 100
 ---
 
@@ -30,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Hybrid RAG Implementation**: Demonstrates a hybrid retrieval-augmented generation (RAG) pipeline combining vector search (FAISS/ANN) with keyword-based retrieval for enhanced document grounding.
-- **NVIDIA AI Workbench Integration**: Showcases deployment of the RAG system using NVIDIA’s AI Workbench, leveraging GPU acceleration (e.g., TensorRT, CUDA) for optimized inference.
-- **Python-Based Stack**: Utilizes Python with libraries like LangChain, LlamaIndex, or Haystack for modular RAG components, including document chunking, embedding (e.g., NV-Embed), and LLM inference (e.g., Llama 3/NVIDIA NeMo).
+- **Hybrid RAG Implementation**: Demonstrates a hybrid retrieval-augmented generation (RAG) pipeline combining dense (vector) and sparse (keyword/BM25) retrieval methods for improved document retrieval accuracy.
+
+- **NVIDIA AI Workbench Integration**: Provides a reference implementation for deploying RAG workflows using NVIDIA's AI Workbench, leveraging GPU acceleration for efficient LLM inference and retrieval.
+
+- **Python-Based Example**: Includes a Python-based reference project with modular components for document preprocessing, retrieval, and generation, optimized for NVIDIA GPUs.
 
 ## Why It Matters
 
@@ -42,7 +43,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: NVIDIA
 - Stars: 373
-- Forks: 1007
+- Forks: 1008
 - Language: Python
 - Topics: None
 - Last Updated: 2026-08-24T22:35:50Z

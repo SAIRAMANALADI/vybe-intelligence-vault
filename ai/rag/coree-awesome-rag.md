@@ -4,10 +4,9 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/coree/awesome-rag
-collected_at: '2026-09-01T19:06:57.170753+05:30'
+collected_at: '2026-09-02T01:01:08.536242+05:30'
 published_at: '2026-08-09T00:02:58Z'
 tags:
-- dataset
 - github-repo
 - hackernews
 - paper
@@ -21,9 +20,9 @@ archived: false
 created_at: '2024-02-10T12:01:04Z'
 pushed_at: '2025-12-01T08:45:44Z'
 resource_id: github:coree/awesome-rag
-first_seen: '2026-09-01T19:06:57.170753+05:30'
-last_seen: '2026-09-01T19:06:57.170753+05:30'
-last_checked: '2026-09-01T19:06:57.170753+05:30'
+first_seen: '2026-09-02T01:01:08.536242+05:30'
+last_seen: '2026-09-02T01:01:08.536242+05:30'
+last_checked: '2026-09-02T01:01:08.536242+05:30'
 health_score: 100
 ---
 
@@ -31,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated RAG Resources**: A comprehensive collection of tools, frameworks, datasets, and research papers focused on retrieval-augmented generation (RAG) for large language models (LLMs).
-- **Technical Scope**: Covers embeddings, retrieval systems, LLM integration, and RAG-specific architectures, with emphasis on optimizing retrieval and generation pipelines.
-- **Maintenance**: Last updated in August 2026, ensuring relevance for current RAG advancements and community-driven contributions.
+- **Curated RAG Resources**: Comprehensive list of retrieval-augmented generation (RAG) techniques, frameworks, and tools for large language models (LLMs), including embeddings, retrieval systems, and model architectures.
+- **Multi-Topic Coverage**: Encompasses foundational RAG concepts, advanced retrieval mechanisms, and integration strategies for LLMs, with links to research papers, libraries, and practical implementations.
+- **Active Maintenance**: Last updated in August 2026, ensuring inclusion of recent advancements in RAG, retrieval systems, and LLM optimization techniques.
 
 ## Why It Matters
 

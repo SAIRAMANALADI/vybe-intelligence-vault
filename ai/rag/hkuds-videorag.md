@@ -4,10 +4,9 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/HKUDS/VideoRAG
-collected_at: '2026-09-01T19:07:27.254502+05:30'
+collected_at: '2026-09-02T01:01:38.517314+05:30'
 published_at: '2026-09-01T09:54:53Z'
 tags:
-- dataset
 - github-repo
 - hackernews
 - python
@@ -21,9 +20,9 @@ archived: false
 created_at: '2025-02-03T03:59:11Z'
 pushed_at: '2026-03-18T08:33:07Z'
 resource_id: github:hkuds/videorag
-first_seen: '2026-09-01T19:07:27.254502+05:30'
-last_seen: '2026-09-01T19:07:27.254502+05:30'
-last_checked: '2026-09-01T19:07:27.254502+05:30'
+first_seen: '2026-09-02T01:01:38.517314+05:30'
+last_seen: '2026-09-02T01:01:38.517314+05:30'
+last_checked: '2026-09-02T01:01:38.517314+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **VideoRAG Framework**: Introduces a Retrieval-Augmented Generation (RAG) system tailored for long-video understanding, enabling LLMs to process and interact with video content via multi-modal inputs (e.g., frames, audio, metadata).
+- **VideoRAG Framework**: Introduces a Retrieval-Augmented Generation (RAG) system for long-video understanding, enabling LLMs to "chat with videos" via multi-modal processing and dynamic retrieval of video segments.
 
-- **Technical Architecture**: Leverages Python-based multi-modal LLMs to segment, index, and retrieve video segments dynamically, optimizing for temporal coherence and semantic relevance in responses.
+- **Technical Stack**: Implemented in Python, leveraging Large Language Models (LLMs) and multi-modal techniques to handle long-form video content with efficient retrieval mechanisms.
 
-- **KDD'2026 Contribution**: Proposes novel retrieval mechanisms for scalable video Q&A, addressing challenges in long-context video comprehension and real-time interaction with large video datasets.
+- **Key Features**: Supports long-video understanding, multi-modal LLM integration, and dynamic retrieval for real-time video-based Q&A or summarization.
 
 ## Why It Matters
 

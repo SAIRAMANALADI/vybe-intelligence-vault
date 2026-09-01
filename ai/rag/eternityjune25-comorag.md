@@ -4,9 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/EternityJune25/ComoRAG
-collected_at: '2026-09-01T19:07:32.246973+05:30'
+collected_at: '2026-09-02T01:01:43.491096+05:30'
 published_at: '2026-08-21T23:01:56Z'
 tags:
+- benchmark
 - github-repo
 - python
 - rag
@@ -18,9 +19,9 @@ archived: false
 created_at: '2025-08-18T09:12:16Z'
 pushed_at: '2025-08-28T14:34:38Z'
 resource_id: github:eternityjune25/comorag
-first_seen: '2026-09-01T19:07:32.246973+05:30'
-last_seen: '2026-09-01T19:07:32.246973+05:30'
-last_checked: '2026-09-01T19:07:32.246973+05:30'
+first_seen: '2026-09-02T01:01:43.491096+05:30'
+last_seen: '2026-09-02T01:01:43.491096+05:30'
+last_checked: '2026-09-02T01:01:43.491096+05:30'
 health_score: 100
 ---
 
@@ -28,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Cognitive Architecture**: Introduces a memory-organized Retrieval-Augmented Generation (RAG) framework inspired by human cognitive processes, enabling stateful long narrative reasoning with structured memory retention.
+- **Cognitive Architecture Integration**: Introduces a memory-organized RAG framework inspired by human cognitive processes, enabling stateful long narrative reasoning with structured memory retrieval and hierarchical organization.
 
-- **Stateful Reasoning**: Implements dynamic memory updates and retrieval mechanisms to maintain contextual coherence across extended dialogues or narratives, leveraging hierarchical memory organization.
+- **Stateful Long-Form Reasoning**: Implements dynamic memory updates and retrieval mechanisms to maintain context coherence across extended dialogues or narratives, enhancing multi-turn reasoning capabilities.
 
-- **AAAI 2026 Contribution**: Proposes a novel RAG paradigm optimized for complex, multi-turn reasoning tasks, validated through poster presentation at AAAI 2026.
+- **AAAI 2026 Poster Submission**: Presented as a novel approach to RAG systems, emphasizing memory-driven reasoning with empirical validation on long-form narrative benchmarks.
 
 ## Why It Matters
 

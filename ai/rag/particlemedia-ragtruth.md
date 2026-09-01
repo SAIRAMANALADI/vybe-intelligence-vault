@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ParticleMedia/RAGTruth
-collected_at: '2026-09-01T19:05:47.283258+05:30'
+collected_at: '2026-09-02T00:59:58.522914+05:30'
 published_at: '2026-08-29T11:00:59Z'
 tags:
 - benchmark
@@ -21,9 +21,9 @@ archived: false
 created_at: '2023-12-26T05:41:01Z'
 pushed_at: '2024-12-02T21:28:34Z'
 resource_id: github:particlemedia/ragtruth
-first_seen: '2026-09-01T19:05:47.283258+05:30'
-last_seen: '2026-09-01T19:05:47.283258+05:30'
-last_checked: '2026-09-01T19:05:47.283258+05:30'
+first_seen: '2026-09-02T00:59:58.522914+05:30'
+last_seen: '2026-09-02T00:59:58.522914+05:30'
+last_checked: '2026-09-02T00:59:58.522914+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Dataset Purpose**: Introduces *RAGTruth*, a hallucination corpus designed to evaluate and improve the trustworthiness of Retrieval-Augmented Generation (RAG) models by identifying and quantifying hallucinations in generated outputs.
-
-- **Technical Composition**: Provides a structured dataset with annotated hallucinations, enabling fine-grained analysis of RAG model failures across retrieval and generation stages in Python-based implementations.
-
-- **Benchmark Utility**: Serves as a benchmarking tool for developing trustworthy RAG systems, with version control tracking (last updated 2026-08-29) and open-source accessibility via GitHub.
+- **Dataset Purpose**: Introduces *RAGTruth*, a hallucination corpus designed to evaluate and improve the trustworthiness of Retrieval-Augmented Generation (RAG) models by identifying and categorizing hallucinations in generated outputs.
+- **Technical Composition**: Contains Python-based tools for generating, annotating, and benchmarking hallucination datasets, leveraging retrieval-augmented pipelines to simulate real-world inaccuracies.
+- **Evaluation Focus**: Provides metrics and methodologies for assessing hallucination rates in RAG systems, enabling developers to refine model reliability and factual consistency.
 
 ## Why It Matters
 

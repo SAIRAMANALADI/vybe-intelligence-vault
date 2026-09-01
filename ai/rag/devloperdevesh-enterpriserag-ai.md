@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/devloperdevesh/EnterpriseRAG-AI
-collected_at: '2026-09-01T19:07:12.199950+05:30'
+collected_at: '2026-09-02T01:01:28.494889+05:30'
 published_at: '2026-08-25T05:09:47Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2026-01-02T09:29:28Z'
 pushed_at: '2026-08-25T05:08:51Z'
 resource_id: github:devloperdevesh/enterpriserag-ai
-first_seen: '2026-09-01T19:07:12.199950+05:30'
-last_seen: '2026-09-01T19:07:12.199950+05:30'
-last_checked: '2026-09-01T19:07:12.199950+05:30'
+first_seen: '2026-09-02T01:01:28.494889+05:30'
+last_seen: '2026-09-02T01:01:28.494889+05:30'
+last_checked: '2026-09-02T01:01:28.494889+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-*   Utilizes eBPF for Linux-native, kernel-level security and governance mesh enforcement across AI agent workloads.
-*   Architected for cloud-native, distributed GenAI RAG systems, targeting enterprise AI infrastructure.
-*   Provides observability and production-grade operational capabilities for AI agent deployments.
+- **Linux-Native & eBPF Integration**: Leverages eBPF for low-overhead, kernel-level observability and security enforcement in AI agent workloads, ensuring real-time monitoring and governance without significant performance overhead.
+
+- **Distributed RAG Architecture**: Implements a cloud-native, distributed Retrieval-Augmented Generation (RAG) mesh optimized for enterprise-scale AI workloads, enabling scalable, fault-tolerant retrieval and generation pipelines.
+
+- **Security & Governance Mesh**: Provides a unified framework for enforcing security policies, access controls, and governance across AI agents, integrating with existing enterprise infrastructure while maintaining compliance and auditability.
 
 ## Why It Matters
 

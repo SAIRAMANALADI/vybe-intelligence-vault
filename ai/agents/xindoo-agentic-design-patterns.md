@@ -4,23 +4,23 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/xindoo/agentic-design-patterns
-collected_at: '2026-09-01T19:09:37.282655+05:30'
-published_at: '2026-09-01T10:51:09Z'
+collected_at: '2026-09-02T01:03:48.604999+05:30'
+published_at: '2026-09-01T15:35:01Z'
 tags:
 - agents
 - github-repo
 - hackernews
 - html
-stars: 7900
+stars: 7901
 language: HTML
 status: active
 archived: false
 created_at: '2025-09-30T03:58:49Z'
 pushed_at: '2026-08-30T15:44:32Z'
 resource_id: github:xindoo/agentic-design-patterns
-first_seen: '2026-09-01T19:09:37.282655+05:30'
-last_seen: '2026-09-01T19:09:37.282655+05:30'
-last_checked: '2026-09-01T19:09:37.282655+05:30'
+first_seen: '2026-09-02T01:03:48.604999+05:30'
+last_seen: '2026-09-02T01:03:48.604999+05:30'
+last_checked: '2026-09-02T01:03:48.604999+05:30'
 health_score: 100
 ---
 
@@ -28,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: Chinese-optimized version of Google's *Agentic Design Patterns* book, featuring continuously updated content, online reading, and downloadable PDF/EPUB formats.
-- **Metrics**: 7,900 stars, 1,138 forks, last updated 2026-09-01.
-- **Technical Details**: Hosted in HTML format, no additional topics specified.
+- **Repository**: Chinese-optimized version of Google's *Agentic Design Patterns* book, providing online reading, PDF, and EPUB downloads.
+- **Technical Details**: Hosted as an HTML-based repository with 7,901 stars and 1,138 forks, last updated on 2026-09-01.
+- **Purpose**: Focuses on agentic design patterns, emphasizing scalable and modular AI agent architectures.
 
 ## Why It Matters
 
@@ -39,11 +39,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: xindoo
-- Stars: 7900
+- Stars: 7901
 - Forks: 1138
 - Language: HTML
 - Topics: None
-- Last Updated: 2026-09-01T10:51:09Z
+- Last Updated: 2026-09-01T15:35:01Z
 - Archived: No
 - Created At: 2025-09-30T03:58:49Z
 - Pushed At: 2026-08-30T15:44:32Z

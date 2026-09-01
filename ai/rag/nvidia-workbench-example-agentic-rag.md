@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NVIDIA/workbench-example-agentic-rag
-collected_at: '2026-09-01T19:06:32.213779+05:30'
+collected_at: '2026-09-02T01:00:43.484502+05:30'
 published_at: '2026-08-19T08:34:59Z'
 tags:
 - agents
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-08-14T17:08:04Z'
 pushed_at: '2026-06-11T22:51:59Z'
 resource_id: github:nvidia/workbench-example-agentic-rag
-first_seen: '2026-09-01T19:06:32.213779+05:30'
-last_seen: '2026-09-01T19:06:32.213779+05:30'
-last_checked: '2026-09-01T19:06:32.213779+05:30'
+first_seen: '2026-09-02T01:00:43.484502+05:30'
+last_seen: '2026-09-02T01:00:43.484502+05:30'
+last_checked: '2026-09-02T01:00:43.484502+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Demonstrates an Agentic Retrieval Augmented Generation (RAG) pipeline using NVIDIA AI Workbench.
-- **Implementation**: Developed as a Jupyter Notebook, leveraging modular agentic workflows for dynamic retrieval and generation.
-- **Metadata**: Last updated August 19, 2026; 166 stars, 234 forks.
+- Demonstrates an **Agentic RAG** pipeline using NVIDIA AI Workbench, integrating retrieval and generative AI agents.
+- Implemented in a **Jupyter Notebook**, showcasing modular workflows for dynamic data retrieval and response generation.
+- Leverages NVIDIA’s ecosystem (e.g., GPU acceleration) for scalable, low-latency agentic interactions.
 
 ## Why It Matters
 
@@ -42,7 +42,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: NVIDIA
 - Stars: 166
-- Forks: 234
+- Forks: 233
 - Language: Jupyter Notebook
 - Topics: None
 - Last Updated: 2026-08-19T08:34:59Z

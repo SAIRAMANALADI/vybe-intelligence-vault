@@ -13,13 +13,14 @@ collected_at: '2026-09-01T19:04:26.835417+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:smartphone-led-detects-hidden-cameras-with-ai
 first_seen: '2026-09-01T03:03:11.873494+05:30'
 last_seen: '2026-09-01T19:04:26.835417+05:30'
 last_checked: '2026-09-01T19:04:26.835417+05:30'
 health_score: 100
 ---
+
 
 # Smartphone LED detects hidden cameras with AI
 
