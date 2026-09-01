@@ -4,23 +4,24 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/mvanhorn/clawdbot-skill-manus
-collected_at: '2026-08-10T03:27:05.625457+05:30'
-published_at: '2026-07-27T07:13:14Z'
+collected_at: '2026-09-01T19:09:12.274967+05:30'
+published_at: '2026-08-19T18:51:50Z'
 tags:
 - agents
 - github-repo
 - scripts
 - shell
-stars: 26
+- workflows
+stars: 27
 language: Shell
 status: active
 archived: false
 created_at: '2026-01-22T01:48:25Z'
 pushed_at: '2026-03-16T05:09:31Z'
 resource_id: github:mvanhorn/clawdbot-skill-manus
-first_seen: '2026-08-10T03:27:05.625457+05:30'
-last_seen: '2026-08-10T03:27:05.625457+05:30'
-last_checked: '2026-08-10T03:27:05.625457+05:30'
+first_seen: '2026-09-01T19:09:12.274967+05:30'
+last_seen: '2026-09-01T19:09:12.274967+05:30'
+last_checked: '2026-09-01T19:09:12.274967+05:30'
 health_score: 100
 ---
 
@@ -28,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Task Delegation Framework**: OpenClaw skill enabling autonomous delegation of complex tasks (e.g., web research, report generation, code building, data scraping) to Manus AI via structured task templates and monitoring systems.
+- **Task Delegation Framework**: OpenClaw skill enabling delegation of complex tasks (web research, report generation, code building, data scraping) to Manus AI via structured templates and autonomous execution.
 
-- **Cost & Performance Tracking**: Implements real-time cost tracking and performance metrics for AI-driven task execution, ensuring transparency and optimization of resource usage.
+- **Monitoring & Cost Tracking**: Integrated system for real-time task monitoring, progress tracking, and cost management of AI agent operations.
 
-- **Shell-Based Automation**: Built as a Shell-based skill for ClawHub, integrating with Manus AI to extend functionality for AI-agent orchestration, web browsing, and autonomous task execution.
+- **Shell-Based Automation**: Implemented in Shell for CLI-driven interaction with Manus AI, supporting OpenClaw integration for extensible AI agent workflows.
 
 ## Why It Matters
 
@@ -41,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: mvanhorn
-- Stars: 26
+- Stars: 27
 - Forks: 14
 - Language: Shell
 - Topics: agent, ai-agent, ai-skill, automation, autonomous, clawhub, manus, openclaw, reports, research, scraping, task-delegation, web-browsing
-- Last Updated: 2026-07-27T07:13:14Z
+- Last Updated: 2026-08-19T18:51:50Z
 - Archived: No
 - Created At: 2026-01-22T01:48:25Z
 - Pushed At: 2026-03-16T05:09:31Z

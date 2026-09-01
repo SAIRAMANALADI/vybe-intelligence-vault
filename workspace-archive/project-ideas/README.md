@@ -8,7 +8,6 @@ Hands-on projects are the only way to build real competency in agent orchestrati
 
 ## Top Matched Resources
 
-- [vstorm-co/full-stack-ai-agent-template](https://github.com/vstorm-co/full-stack-ai-agent-template) (template - ESSENTIAL Tier)
 - [AutoMine Solution for AV2 2026 Scenario Mining Challenge](https://arxiv.org/abs/2606.11874) (prompt - USEFUL Tier)
 - [Can AI Agents Synthesize Scientific Conclusions?](https://arxiv.org/abs/2606.11337) (benchmark - USEFUL Tier)
 - [Are LLMs Bad at Moral Reasoning?](https://arxiv.org/abs/2606.11635) (dataset - USEFUL Tier)
@@ -16,12 +15,13 @@ Hands-on projects are the only way to build real competency in agent orchestrati
 - [A New Perspective on Precision and Recall for Generative Models](https://arxiv.org/abs/2511.02414) (framework - USEFUL Tier)
 - [Modeling Complex Behaviors: Multi-Personality Composition and Dynamic Switching in Vision-Language Models](https://arxiv.org/abs/2606.11074) (framework - USEFUL Tier)
 - [MA-DLE: Speech-based Automatic Depression Level Estimation via Memory Augmentation](https://arxiv.org/abs/2606.11197) (dataset - USEFUL Tier)
+- [From Awareness to Action: Understanding and Overcoming the Research-Practice Gap in Algorithmic Fairness for Public Health](https://arxiv.org/abs/2606.11214) (framework - USEFUL Tier)
 
 ## Best GitHub Repositories
 
-- [vstorm-co/full-stack-ai-agent-template](https://github.com/vstorm-co/full-stack-ai-agent-template)
 - [Tencent/AI-Infra-Guard](https://github.com/tencent/ai-infra-guard)
-- [vin67/crewai_docker](https://github.com/vin67/crewai_docker)
+- [masumi-network/crewai-masumi-quickstart-template](https://github.com/masumi-network/crewai-masumi-quickstart-template)
+- [ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects)
 - [scotthavird/crewai-template](https://github.com/scotthavird/crewai-template)
 - [alvinreal/awesome-opensource-ai](https://github.com/alvinreal/awesome-opensource-ai)
 
@@ -39,4 +39,4 @@ Hands-on projects are the only way to build real competency in agent orchestrati
 
 ---
 
-*Last updated: 2026-09-01 11:12 IST*
+*Last updated: 2026-09-01 19:22 IST*

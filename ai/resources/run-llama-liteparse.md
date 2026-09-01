@@ -4,24 +4,24 @@ category: ai/resources
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/run-llama/liteparse
-collected_at: '2026-08-10T21:52:30.090986+05:30'
-published_at: '2026-08-10T16:15:03Z'
+collected_at: '2026-09-01T19:13:56.524075+05:30'
+published_at: '2026-09-01T13:29:33Z'
 tags:
 - github-repo
 - meta-ai
 - models
 - rust
-stars: 12016
+stars: 12214
 language: Rust
 status: active
 license: Apache-2.0
 archived: false
 created_at: '2026-02-09T22:16:30Z'
-pushed_at: '2026-08-10T08:25:49Z'
+pushed_at: '2026-09-01T01:24:55Z'
 resource_id: github:run-llama/liteparse
-first_seen: '2026-08-10T21:52:30.090986+05:30'
-last_seen: '2026-08-10T21:52:30.090986+05:30'
-last_checked: '2026-08-10T21:52:30.090986+05:30'
+first_seen: '2026-09-01T19:13:56.524075+05:30'
+last_seen: '2026-09-01T19:13:56.524075+05:30'
+last_checked: '2026-09-01T19:13:56.524075+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Rust-based document parser**: Optimized for speed and efficiency, designed for fast document processing, OCR, and text extraction from PDFs and other formats.
-- **OCR and text extraction**: Supports document OCR, recognition, and structured text extraction, enabling accurate parsing of scanned or unstructured documents.
-- **Open-source and lightweight**: Provides an open-source solution with minimal overhead, suitable for integration into larger document processing pipelines.
+- **High-performance Rust-based parser**: Optimized for speed and efficiency in document processing, supporting OCR, PDF parsing, and text extraction with minimal overhead.
+
+- **Modular architecture**: Designed for extensibility, enabling integration with OCR engines, layout analysis, and structured data extraction pipelines.
+
+- **Open-source & actively maintained**: Released under a permissive license, with frequent updates (last commit: 2026-09-01) and a growing community (12,214 stars, 849 forks).
 
 ## Why It Matters
 
@@ -40,15 +42,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: run-llama
-- Stars: 12016
-- Forks: 824
+- Stars: 12214
+- Forks: 849
 - Language: Rust
 - Topics: document-ocr, document-processing, ocr, ocr-recognition, pdf, pdf-parser, text-extraction
-- Last Updated: 2026-08-10T16:15:03Z
+- Last Updated: 2026-09-01T13:29:33Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2026-02-09T22:16:30Z
-- Pushed At: 2026-08-10T08:25:49Z
+- Pushed At: 2026-09-01T01:24:55Z
 
 ## Possible Use Cases
 

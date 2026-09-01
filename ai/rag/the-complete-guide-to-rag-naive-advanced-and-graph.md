@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.mrlatte.net/en/research/2026/04/27/rag-complete-guide/
-published_at: '2026-09-01T10:54:36.254922+05:30'
-collected_at: '2026-09-01T10:54:36.254935+05:30'
+published_at: '2026-09-01T19:05:58.921180+05:30'
+collected_at: '2026-09-01T19:05:58.921193+05:30'
 tags:
 - agents
 - anthropic
@@ -29,9 +29,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:the-complete-guide-to-rag-naive-advanced-and-graph
-first_seen: '2026-09-01T10:54:36.254935+05:30'
-last_seen: '2026-09-01T10:54:36.254935+05:30'
-last_checked: '2026-09-01T10:54:36.254935+05:30'
+first_seen: '2026-09-01T19:05:58.921193+05:30'
+last_seen: '2026-09-01T19:05:58.921193+05:30'
+last_checked: '2026-09-01T19:05:58.921193+05:30'
 health_score: 100
 ---
 
@@ -39,7 +39,11 @@ health_score: 100
 
 ## Summary
 
-*   RAG systems have evolved through Naive (chunk-embedding similarity), Advanced (pre
+- **RAG Evolution**: Covers four generations—Naive (basic retrieval + generation), Advanced (hybrid retrieval, reranking, query transformation), Modular (routing, looping, tool integration), and Graph RAG (entity-relation graph-based retrieval)—with trade-offs in complexity, accuracy, and scalability.
+
+- **Core RAG Mechanics**: Retrieval-Augmented Generation (RAG) augments LLM responses by fetching relevant documents from an external knowledge base (vector/graph DB) before generation, addressing issues like hallucinations, stale knowledge, and private data limitations.
+
+- **Implementation Stack**: Utilizes frameworks like LangChain/LCEL for modular pipelines, vector DBs (Chroma, Qdrant) for similarity search, and techniques (BM25, HyDE, RRF) for hybrid retrieval, with evaluation metrics and production checklists for deployment.
 
 ## Why It Matters
 
@@ -49,7 +53,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-09-01T10:54:36.254922+05:30
+- Published: 2026-09-01T19:05:58.921180+05:30
 
 ## Related Tags
 

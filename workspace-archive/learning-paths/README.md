@@ -21,7 +21,7 @@ Structured roadmaps guide developers through the rapidly shifting landscape of A
 
 https://github.com/kamranahmedse/developer-roadmap (Developer Roadmap)
 - [github/roadmap](https://github.com/github/roadmap)
-- [BrandPeng/Langchain1.0-Langgraph1.0-Learning](https://github.com/BrandPeng/Langchain1.0-Langgraph1.0-Learning)
+- [WenyuChiou/awesome-agentic-ai-zh](https://github.com/WenyuChiou/awesome-agentic-ai-zh)
 - [Resources to help you build, secure, and scale with GitHub · GitHub](https://resources.github.com)
 - [Collections · GitHub](https://github.com/collections)
 - [Postman Inc. · GitHub](https://github.com/postmanlabs)
@@ -41,4 +41,4 @@ https://github.com/kamranahmedse/developer-roadmap (Developer Roadmap)
 
 ---
 
-*Last updated: 2026-09-01 11:12 IST*
+*Last updated: 2026-09-01 19:22 IST*

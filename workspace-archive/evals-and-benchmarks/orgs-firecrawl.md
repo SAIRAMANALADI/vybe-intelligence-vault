@@ -39,11 +39,11 @@ selection_reason:
 
 ## Summary
 
-- **Firecrawl**: TypeScript-based web scraping and interaction API with 165k stars, supporting Markdown conversion, AI integration, and batch processing for large-scale data extraction.
+- **Firecrawl**: TypeScript-based web scraping and interaction API supporting Markdown conversion, AI integration, and large-scale data extraction with 175k+ stars.
 
-- **PDF Inspector**: Rust-based high-performance library for PDF classification (scanned vs. text-based) and text extraction, with Node.js/Python bindings and 14k stars.
+- **AnyDoc**: Rust-based document conversion tool converting Word, PDF, PPT, and other formats to Markdown with Node.js/Python bindings, licensed under MIT.
 
-- **AnyDoc**: Rust-powered document conversion tool (supports Word, PDF, EPUB, etc.) to clean Markdown, featuring Node.js/Python bindings and
+- **PDF Inspector**: High-performance Rust library for PDF text extraction, classification (scanned vs. text-based), and intelligent routing with Node.js/Python support.
 
 ## Use Cases
 

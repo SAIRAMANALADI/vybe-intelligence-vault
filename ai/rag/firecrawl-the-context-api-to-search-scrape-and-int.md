@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://firecrawl.dev/blog
-published_at: '2026-08-11T01:00:13.234420+05:30'
-collected_at: '2026-08-11T01:00:13.234440+05:30'
+published_at: '2026-09-01T19:14:13.035546+05:30'
+collected_at: '2026-09-01T19:14:13.035559+05:30'
 tags:
 - agents
 - anthropic
@@ -17,6 +17,7 @@ tags:
 - meta-ai
 - models
 - openai
+- paper
 - producthunt
 - rag
 - scripts
@@ -25,9 +26,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:firecrawl-the-context-api-to-search-scrape-and-int
-first_seen: '2026-08-11T01:00:13.234440+05:30'
-last_seen: '2026-08-11T01:00:13.234440+05:30'
-last_checked: '2026-08-11T01:00:13.234440+05:30'
+first_seen: '2026-09-01T19:14:13.035559+05:30'
+last_seen: '2026-09-01T19:14:13.035559+05:30'
+last_checked: '2026-09-01T19:14:13.035559+05:30'
 health_score: 100
 ---
 
@@ -35,9 +36,11 @@ health_score: 100
 
 ## Summary
 
-- **Enhanced Search Accuracy**: Firecrawl's `/search` now uses a custom relevance model achieving **94.7% accuracy on SimpleQA** while reducing token usage by **10x** compared to full-page processing.
-- **Document Parsing Libraries**: Introduced **AnyDoc** (14 formats) and **pdf-inspector** (PDFs) as open-source Rust libraries, powering `/parse` and `/scrape` for clean markdown conversion.
-- **Web Monitoring Expansion**: `/monitor` now supports **web-scale monitoring**, tracking the entire web for real-time, AI-filtered alerts on relevant changes.
+- **Firecrawl Developer Index**: A specialized index providing 70M+ artifacts (READMEs, docs, issues, PRs) refreshed continuously (daily for most sources) to supply coding agents with up-to-date repository context for code generation and debugging.
+
+- **Firecrawl Research Index (Life Sciences)**: A free, specialized index covering 41M+ life sciences papers with high recall and citation fidelity, optimized for scientific research workflows requiring precise academic data retrieval.
+
+- **Firecrawl’s /search v2**: Implements a custom relevance model achieving 94.7% accuracy on SimpleQA while reducing token usage by 10x compared to full-page processing, enabling efficient, high-precision web search for AI agents.
 
 ## Why It Matters
 
@@ -47,7 +50,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-11T01:00:13.234420+05:30
+- Published: 2026-09-01T19:14:13.035546+05:30
 
 ## Related Tags
 
@@ -60,6 +63,7 @@ General public resource representing technology updates, guides, or tutorials.
 - meta-ai
 - models
 - openai
+- paper
 - producthunt
 - rag
 - scripts

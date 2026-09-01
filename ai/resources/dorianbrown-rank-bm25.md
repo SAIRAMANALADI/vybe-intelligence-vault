@@ -4,12 +4,13 @@ category: ai/resources
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/dorianbrown/rank_bm25
-collected_at: '2026-08-04T22:41:17.941400+05:30'
-published_at: '2026-08-02T12:09:56Z'
+collected_at: '2026-09-01T19:10:22.307802+05:30'
+published_at: '2026-08-31T12:52:13Z'
 tags:
 - github-repo
+- models
 - python
-stars: 1369
+stars: 1382
 language: Python
 status: active
 license: Apache-2.0
@@ -17,9 +18,9 @@ archived: false
 created_at: '2019-01-20T23:26:01Z'
 pushed_at: '2026-05-02T22:17:06Z'
 resource_id: github:dorianbrown/rank_bm25
-first_seen: '2026-08-04T22:41:17.941400+05:30'
-last_seen: '2026-08-04T22:41:17.941400+05:30'
-last_checked: '2026-08-04T22:41:17.941400+05:30'
+first_seen: '2026-09-01T19:10:22.307802+05:30'
+last_seen: '2026-09-01T19:10:22.307802+05:30'
+last_checked: '2026-09-01T19:10:22.307802+05:30'
 health_score: 100
 ---
 
@@ -27,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Implementation**: Provides Python implementations of BM25 and its variants (e.g., BM25+, BM25L, BM25T) for ranking and information retrieval tasks.
-- **Efficiency**: Optimized for performance with support for sparse matrices and efficient scoring using NumPy.
-- **Compatibility**: Designed for integration with standard IR pipelines, supporting both scikit-learn-style APIs and custom document-term matrix inputs.
+- Implements Okapi BM25 and its variants (e.g., BM25+, BM25L, BM25T) in Python for efficient document ranking in information retrieval systems.
+- Optimized for large-scale text processing with support for sparse matrices and parallelized operations via NumPy and SciPy.
+- Provides a lightweight, dependency-minimal API with customizable parameters (e.g., `k1`, `b`, `epsilon`) for fine-tuning retrieval performance.
 
 ## Why It Matters
 
@@ -38,11 +39,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: dorianbrown
-- Stars: 1369
-- Forks: 109
+- Stars: 1382
+- Forks: 108
 - Language: Python
 - Topics: algorithm, bm25, information-retrieval, ranking
-- Last Updated: 2026-08-02T12:09:56Z
+- Last Updated: 2026-08-31T12:52:13Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2019-01-20T23:26:01Z

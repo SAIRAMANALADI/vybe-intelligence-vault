@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/yzfly/awesome-voice-agents
-collected_at: '2026-09-01T10:56:58.785814+05:30'
+collected_at: '2026-09-01T19:08:22.233988+05:30'
 published_at: '2026-08-30T02:23:06Z'
 tags:
 - agents
@@ -18,9 +18,9 @@ archived: false
 created_at: '2025-11-03T02:20:30Z'
 pushed_at: '2026-08-30T02:23:02Z'
 resource_id: github:yzfly/awesome-voice-agents
-first_seen: '2026-09-01T10:56:58.785814+05:30'
-last_seen: '2026-09-01T10:56:58.785814+05:30'
-last_checked: '2026-09-01T10:56:58.785814+05:30'
+first_seen: '2026-09-01T19:08:22.233988+05:30'
+last_seen: '2026-09-01T19:08:22.233988+05:30'
+last_checked: '2026-09-01T19:08:22.233988+05:30'
 health_score: 100
 ---
 
@@ -28,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated list** of voice AI agent frameworks, tools, and best practices, covering **STT, TTS, VAD, voice cloning, conversion, recognition, and synthesis**.
-- **Topics** include **realtime-chat, voice assistants, and voice agents**, with resources for integration and optimization.
-- **Last updated** on **2026-08-30**, with **49 stars and 30 forks** on GitHub.
+- **Curated Resource**: A GitHub repository (`yzfly/awesome-voice-agents`) listing frameworks, tools, and best practices for voice AI agents, covering STT, TTS, VAD, voice cloning, conversion, recognition, and synthesis.
+- **Metadata**: 49 stars, 31 forks, last updated on 2026-08-30; topics include `agents`, `realtime-chat`, and voice-related subfields.
+- **Scope**: Focuses on real-time voice agent development, including voice activity detection (VAD) and assistant/agent-specific resources.
 
 ## Why It Matters
 
@@ -40,7 +40,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: yzfly
 - Stars: 49
-- Forks: 30
+- Forks: 31
 - Language: Unknown
 - Topics: agents, realtime-chat, stt, tts, vad, voice-activity-detection, voice-agents, voice-assistant, voice-cloning, voice-conversion, voice-recognition, voice-synthesis
 - Last Updated: 2026-08-30T02:23:06Z

@@ -4,16 +4,16 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/gohugoio/hugo/releases/tag/v0.165.0
-published_at: '2026-09-01T11:00:20.776920+05:30'
-collected_at: '2026-09-01T11:00:20.776930+05:30'
+published_at: '2026-09-01T19:13:56.947846+05:30'
+collected_at: '2026-09-01T19:13:56.947860+05:30'
 tags:
 - frontend_ui
 - web-crawled
 status: active
 resource_id: github:gohugoio/hugo
-first_seen: '2026-09-01T11:00:20.776930+05:30'
-last_seen: '2026-09-01T11:00:20.776930+05:30'
-last_checked: '2026-09-01T11:00:20.776930+05:30'
+first_seen: '2026-09-01T19:13:56.947860+05:30'
+last_seen: '2026-09-01T19:13:56.947860+05:30'
+last_checked: '2026-09-01T19:13:56.947860+05:30'
 health_score: 100
 ---
 
@@ -21,11 +21,11 @@ health_score: 100
 
 ## Summary
 
-- **New `css.ChromaStyles` template function** enables generation of Chroma-based CSS stylesheets with light/dark mode support via `dict` parameters (`targetPath`, `style`, `mode`), replacing manual theme management.
+- **New CSS/JS Features**: Added `css.ChromaStyles` template function for generating Chroma CSS stylesheets (light/dark modes) and introduced `importContext` option for `css.Build`, `js.Build`, `css.Sass`, and `css.PostCSS` to resolve resources in `@import` statements.
 
-- **`importContext` option** introduced for `css.Build`, `js.Build`, `css.Sass`, and `css.PostCSS`, allowing resource resolvability in CSS `@import` statements (e.g., dynamically generated stylesheets).
+- **Bug Fixes**: Resolved resource transformation chaining after content access, fixed static file detection/server errors for deleted files, and patched MacOS atomic save panic.
 
-- **Bug fixes** include resource transformation chaining restoration, static file detection for deleted files, MacOS atomic save panic resolution, and Asciidoctor TOC parsing correction.
+- **Dependency Updates**: Upgraded multiple dependencies including Go 1.26.5, `github.com/bep/imagemeta` v1.0.0, `esbuild` v0.28.2, and `goldmark` v1.8.5.
 
 ## Why It Matters
 
@@ -35,7 +35,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-09-01T11:00:20.776920+05:30
+- Published: 2026-09-01T19:13:56.947846+05:30
 
 ## Related Tags
 

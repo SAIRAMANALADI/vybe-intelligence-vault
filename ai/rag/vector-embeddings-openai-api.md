@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://platform.openai.com/docs/guides/embeddings
-published_at: '2026-09-01T10:59:02.426075+05:30'
-collected_at: '2026-09-01T10:59:02.426084+05:30'
+published_at: '2026-09-01T19:10:23.012797+05:30'
+collected_at: '2026-09-01T19:10:23.012811+05:30'
 tags:
 - benchmark
 - dataset
@@ -17,9 +17,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:vector-embeddings-openai-api
-first_seen: '2026-09-01T10:59:02.426084+05:30'
-last_seen: '2026-09-01T10:59:02.426084+05:30'
-last_checked: '2026-09-01T10:59:02.426084+05:30'
+first_seen: '2026-09-01T19:10:23.012811+05:30'
+last_seen: '2026-09-01T19:10:23.012811+05:30'
+last_checked: '2026-09-01T19:10:23.012811+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **Model Specifications**: `text-embedding-3-small` (1536-dim, ~62.5k pages/$) and `text-embedding-3-large` (3072-dim, ~9.6k pages/$) offer improved multilingual performance, lower costs, and dynamic dimensionality reduction via the `dimensions` parameter (e.g., 256-dim embeddings retain concept-representing properties while outperforming fixed 1536-dim `ada-002` embeddings).
+- **New Embedding Models**: `text-embedding-3-small` (1536-dim, 62.5k pages/$) and `text-embedding-3-large` (3072-dim, 9.6k pages/$) offer lower costs, improved multilingual performance, and adjustable dimensions via API parameter for cost-performance trade-offs.
 
-- **API Integration**: Embeddings are generated via a REST API call to `/v1/embeddings` with input text and model selection; responses include a 1536/3072-dim float vector (default) or reduced-dimension vector (if `dimensions` parameter is specified), billed per input token (~800 tokens/page).
+- **Embedding Mechanics**: Text strings are converted to floating-point vectors (default 1536/3072 dims) where cosine distance measures semantic relatedness; models support dynamic dimension reduction (e.g., to 256) while preserving conceptual integrity via normalization.
 
-- **Use Cases & Post-Processing**: Embeddings enable semantic search, clustering, classification, and anomaly detection; dimensionality can be manually reduced/normalized (L2 norm) post-generation for compatibility with constrained vector databases (e.g., truncating to 1024-dim).
+- **API Integration**: Embeddings are retrieved via POST requests to `/v1/embeddings` with token-based pricing; responses include vectors and metadata, enabling downstream tasks like search, clustering, or classification in vector databases.
 
 ## Why It Matters
 
@@ -41,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-09-01T10:59:02.426075+05:30
+- Published: 2026-09-01T19:10:23.012797+05:30
 
 ## Related Tags
 

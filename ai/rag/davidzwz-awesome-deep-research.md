@@ -4,14 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DavidZWZ/Awesome-Deep-Research
-collected_at: '2026-09-01T10:56:13.829342+05:30'
-published_at: '2026-08-26T17:15:16Z'
+collected_at: '2026-09-01T19:07:37.244332+05:30'
+published_at: '2026-09-01T08:03:30Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - rag
 - unknown
-stars: 855
+stars: 856
 language: Unknown
 status: active
 license: MIT
@@ -19,9 +20,9 @@ archived: false
 created_at: '2025-06-06T01:54:55Z'
 pushed_at: '2026-07-23T04:27:32Z'
 resource_id: github:davidzwz/awesome-deep-research
-first_seen: '2026-09-01T10:56:13.829342+05:30'
-last_seen: '2026-09-01T10:56:13.829342+05:30'
-last_checked: '2026-09-01T10:56:13.829342+05:30'
+first_seen: '2026-09-01T19:07:37.244332+05:30'
+last_seen: '2026-09-01T19:07:37.244332+05:30'
+last_checked: '2026-09-01T19:07:37.244332+05:30'
 health_score: 100
 ---
 
@@ -29,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated Resource Hub**: Aggregates cutting-edge research on agentic deep research systems, including agentic RAG, reasoning agents, and search agents, with a focus on LLM-driven methodologies.
-- **ACL 2026 KnowFM Integration**: Aligns with ACL 2026’s KnowFM initiative, emphasizing knowledge-focused multi-agent frameworks for deep research tasks.
-- **High-Activity Repository**: Maintains 855+ stars and 73 forks, reflecting active community engagement and rapid updates (last commit: 2026-08-26).
+- **Curated Collection**: Aggregates cutting-edge resources on agentic deep research, focusing on autonomous LLM-driven reasoning, search, and retrieval-augmented generation (RAG) systems.
+- **ACL 2026 KnowFM Alignment**: Aligns with ACL 2026’s Knowledge Foundation Model (KnowFM) initiative, emphasizing structured knowledge acquisition and reasoning in LLMs.
+- **Technical Scope**: Covers agentic RAG, multi-agent reasoning frameworks, and advanced search-agent architectures for scalable deep research applications.
 
 ## Why It Matters
 
@@ -40,11 +41,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: DavidZWZ
-- Stars: 855
+- Stars: 856
 - Forks: 73
 - Language: Unknown
 - Topics: agentic-ai, agentic-rag, deep-research, deep-research-agent, large-language-models, llms, rag, reasoning, reasoning-agent, search-agent
-- Last Updated: 2026-08-26T17:15:16Z
+- Last Updated: 2026-09-01T08:03:30Z
 - License: MIT
 - Archived: No
 - Created At: 2025-06-06T01:54:55Z

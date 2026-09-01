@@ -4,14 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Polymarket/agents
-collected_at: '2026-08-10T21:50:57.066210+05:30'
-published_at: '2026-08-09T20:54:50Z'
+collected_at: '2026-09-01T19:09:22.377696+05:30'
+published_at: '2026-09-01T05:24:14Z'
 tags:
 - agents
 - github-repo
 - python
 - rag
-stars: 3764
+stars: 3781
 language: Python
 status: active
 license: MIT
@@ -19,9 +19,9 @@ archived: true
 created_at: '2024-07-03T22:44:18Z'
 pushed_at: '2024-11-05T15:40:29Z'
 resource_id: github:polymarket/agents
-first_seen: '2026-08-10T21:50:57.066210+05:30'
-last_seen: '2026-08-10T21:50:57.066210+05:30'
-last_checked: '2026-08-10T21:50:57.066210+05:30'
+first_seen: '2026-09-01T19:09:22.377696+05:30'
+last_seen: '2026-09-01T19:09:22.377696+05:30'
+last_checked: '2026-09-01T19:09:22.377696+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Autonomous Trading Framework**: Python-based repository enabling AI agents to execute trades autonomously on Polymarket, a prediction market platform.
-
-- **Modular Architecture**: Supports extensible agent designs with configurable strategies, risk management, and market interaction modules.
-
-- **Real-Time Market Integration**: Leverages Polymarket’s API for live order execution, price feeds, and event-driven trade execution.
+- **Autonomous Trading Framework**: Python-based repository enabling AI-driven autonomous trading on Polymarket, leveraging market-making and prediction strategies.
+- **Modular Architecture**: Supports extensible agent-based design for real-time market interaction, order execution, and risk management.
+- **Open-Source Toolkit**: Provides reusable components for liquidity provision, arbitrage detection, and adaptive strategy optimization in prediction markets.
 
 ## Why It Matters
 
@@ -42,11 +40,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: Polymarket
-- Stars: 3764
-- Forks: 826
+- Stars: 3781
+- Forks: 825
 - Language: Python
 - Topics: None
-- Last Updated: 2026-08-09T20:54:50Z
+- Last Updated: 2026-09-01T05:24:14Z
 - License: MIT
 - Archived: Yes
 - Created At: 2024-07-03T22:44:18Z

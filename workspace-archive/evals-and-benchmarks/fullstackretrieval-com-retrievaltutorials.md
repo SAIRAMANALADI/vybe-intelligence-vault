@@ -32,11 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Repository**: [RetrievalTutorials](https://github.com/FullStackRetrieval-com/RetrievalTutorials) is a GitHub repository under the organization [FullStackRetrieval-com](https://github.com/FullStackRetrieval-com), containing 236 forks and 1.5k stars.
+- **Repository**: GitHub repository `RetrievalTutorials` by `FullStackRetrieval-com` contains 236 forks and 1.5k stars, with 6 open issues and 2 pull requests.
 
-- **Content**: The repository includes a Jupyter Notebook (`5_Levels_Of_Text_Splitting.ipynb`) in the `tutorials/LevelsOfTextSplitting` directory, with 2901 lines of code and a file size of 330 KB.
+- **Notebook**: `5_Levels_Of_Text_Splitting.ipynb` is a 2901-line Jupyter notebook (330 KB) located in `/tutorials/LevelsOfTextSplitting`.
 
-- **Purpose**: The notebook focuses on text spl
+- **Content Focus**: The notebook appears to cover advanced text splitting techniques, as inferred from its directory and filename under the `LevelsOfTextSplitting` category.
 
 ## Use Cases
 

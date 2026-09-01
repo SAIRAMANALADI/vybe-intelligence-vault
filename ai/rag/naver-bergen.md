@@ -4,15 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/naver/bergen
-collected_at: '2026-09-01T10:55:38.835344+05:30'
-published_at: '2026-08-27T01:40:46Z'
+collected_at: '2026-09-01T19:07:02.204868+05:30'
+published_at: '2026-09-01T09:33:54Z'
 tags:
 - benchmark
 - github-repo
 - jupyter notebook
 - rag
 - reddit
-stars: 280
+stars: 281
 language: Jupyter Notebook
 status: active
 license: NOASSERTION
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-05-09T14:13:44Z'
 pushed_at: '2026-07-14T11:04:39Z'
 resource_id: github:naver/bergen
-first_seen: '2026-09-01T10:55:38.835344+05:30'
-last_seen: '2026-09-01T10:55:38.835344+05:30'
-last_checked: '2026-09-01T10:55:38.835344+05:30'
+first_seen: '2026-09-01T19:07:02.204868+05:30'
+last_seen: '2026-09-01T19:07:02.204868+05:30'
+last_checked: '2026-09-01T19:07:02.204868+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Bergen is a benchmarking library specifically designed for evaluating Retrieval-Augmented Generation (RAG) systems, focusing on retrieval and generation performance metrics.
-
-- **Implementation**: Written in Jupyter Notebook, it integrates with LLMs (Large Language Models) to assess augmentation and generation capabilities in RAG pipelines.
-
-- **Features**: Supports modular evaluation of retrieval and generation components, enabling comparative analysis of RAG system performance across different configurations.
+- **Purpose**: Bergen is a benchmarking library designed for evaluating **Retrieval-Augmented Generation (RAG)** systems, focusing on retrieval and generation performance.
+- **Implementation**: Written in **Jupyter Notebook**, it provides structured evaluation metrics and tools for assessing augmentation, retrieval, and LLM-based generation pipelines.
+- **Scope**: Supports benchmarking across key RAG components, including **retrieval quality**, **context augmentation**, and **generative output evaluation** for LLMs.
 
 ## Why It Matters
 
@@ -43,11 +41,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: naver
-- Stars: 280
+- Stars: 281
 - Forks: 33
 - Language: Jupyter Notebook
 - Topics: augmentation, generation, llms, rag, retrieval
-- Last Updated: 2026-08-27T01:40:46Z
+- Last Updated: 2026-09-01T09:33:54Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2024-05-09T14:13:44Z

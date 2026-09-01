@@ -4,25 +4,25 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/crewAIInc/crewAI
-collected_at: '2026-08-11T00:58:49.280927+05:30'
-published_at: '2026-08-10T18:43:35Z'
+collected_at: '2026-09-01T19:10:02.387723+05:30'
+published_at: '2026-09-01T13:29:42Z'
 tags:
 - agents
 - github-repo
 - python
 - rag
 - workflows
-stars: 56904
+stars: 57941
 language: Python
 status: active
 license: MIT
 archived: false
 created_at: '2023-10-27T03:26:59Z'
-pushed_at: '2026-08-10T10:23:28Z'
+pushed_at: '2026-09-01T10:07:53Z'
 resource_id: github:crewaiinc/crewai
-first_seen: '2026-08-11T00:58:49.280927+05:30'
-last_seen: '2026-08-11T00:58:49.280927+05:30'
-last_checked: '2026-08-11T00:58:49.280927+05:30'
+first_seen: '2026-09-01T19:10:02.387723+05:30'
+last_seen: '2026-09-01T19:10:02.387723+05:30'
+last_checked: '2026-09-01T19:10:02.387723+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Role-based Agent Orchestration**: CrewAI enables autonomous AI agents to collaborate via role-playing, assigning specialized functions (e.g., researcher, writer) to optimize task execution through structured workflows.
+- **Orchestration Framework**: CrewAI enables role-playing, autonomous AI agents to collaborate via a structured orchestration system, facilitating seamless task execution in multi-agent environments.
 
-- **Python-Based Framework**: Built in Python, leveraging modular design for extensibility, with dependencies on modern AI/ML libraries (e.g., LangChain, transformers) for LLM integration and agent management.
+- **Python-Based Architecture**: Built in Python, the framework leverages modular design to integrate with LLMs and supports role-specific agent configurations for dynamic workflows.
 
-- **Collaborative Intelligence**: Agents dynamically delegate sub-tasks, share context, and resolve dependencies in real-time, scaling from simple workflows to complex multi-agent systems (e.g., project planning, research synthesis).
+- **Collaborative Intelligence**: Agents operate with defined roles, goals, and tools, optimizing task decomposition and parallel execution for complex problem-solving.
 
 ## Why It Matters
 
@@ -43,15 +43,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: crewAIInc
-- Stars: 56904
-- Forks: 8117
+- Stars: 57941
+- Forks: 8303
 - Language: Python
 - Topics: agents, ai, ai-agents, aiagentframework, llms
-- Last Updated: 2026-08-10T18:43:35Z
+- Last Updated: 2026-09-01T13:29:42Z
 - License: MIT
 - Archived: No
 - Created At: 2023-10-27T03:26:59Z
-- Pushed At: 2026-08-10T10:23:28Z
+- Pushed At: 2026-09-01T10:07:53Z
 
 ## Possible Use Cases
 

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/lancedb/vectordb-recipes
-collected_at: '2026-09-01T10:54:43.746026+05:30'
+collected_at: '2026-09-01T19:06:07.260086+05:30'
 published_at: '2026-08-30T09:54:01Z'
 tags:
 - agents
@@ -23,9 +23,9 @@ archived: false
 created_at: '2023-06-25T06:10:35Z'
 pushed_at: '2026-04-24T11:29:16Z'
 resource_id: github:lancedb/vectordb-recipes
-first_seen: '2026-09-01T10:54:43.746026+05:30'
-last_seen: '2026-09-01T10:54:43.746026+05:30'
-last_checked: '2026-09-01T10:54:43.746026+05:30'
+first_seen: '2026-09-01T19:06:07.260086+05:30'
+last_seen: '2026-09-01T19:06:07.260086+05:30'
+last_checked: '2026-09-01T19:06:07.260086+05:30'
 health_score: 100
 ---
 
@@ -33,11 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal AI & RAG Implementations**: Repository provides Jupyter Notebook examples for integrating vector search with LLMs (e.g., GPT-4-Vision, Llama-Index, LangChain) to build multimodal AI systems and Retrieval-Augmented Generation (RAG) pipelines.
+- **Multimodal AI & RAG Implementations**: Repository provides Jupyter Notebook-based examples and tutorials for building multimodal AI systems, Retrieval-Augmented Generation (RAG), and agent-based workflows using vector search, embeddings, and LLMs (e.g., GPT-4-Vision, LlamaIndex, LangChain).
 
-- **Vector Database-Centric Workflows**: Demonstrates end-to-end workflows leveraging LanceDB as the vector database for efficient storage, retrieval, and fine-tuning of embeddings in AI/ML applications.
+- **Vector Database Integration**: Focuses on practical applications of LanceDB (a vector database) for efficient storage, retrieval, and fine-tuning of embeddings in AI pipelines, including multimodal and agentic use cases.
 
-- **Tooling & Integration**: Includes tutorials for combining OpenAI APIs, deep learning models, and agent frameworks to create scalable, production-ready AI systems with vector search capabilities.
+- **Tooling & Frameworks**: Demonstrates integration with OpenAI APIs, LangChain, and LlamaIndex for end-to-end AI workflows, covering topics like fine-tuning, vector search optimization, and multimodal data processing.
 
 ## Why It Matters
 

@@ -2,8 +2,8 @@
 title: 'Medium: Read & Write Stories - Apps on Google Play'
 archive_category: rag-systems
 source_category: ai/rag
-source_url: https://play.google.com/store/apps/details?id=com.medium.reader&referrer=utm_source%3DmobileNavBar&source=---publication_layout_nav----------------------------------------
-resource_id: blog:medium-read-write-stories-apps-on-google-play-7cf0a2d3
+source_url: https://play.google.com/store/apps/details?id=com.medium.reader&referrer=utm_source%3DmobileNavBar&source=---top_nav_layout_nav-----------------------------------------
+resource_id: blog:medium-read-write-stories-apps-on-google-play-f2efc450
 local_vault_path: ai/rag/medium-apps-on-google-play.md
 quality_score: 70
 archive_score: 72
@@ -33,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Platform Overview**: Medium is a subscription-based content platform offering ad-free, long-form stories from expert writers and independent voices, with cross-device synchronization and audio playback support.
+- **Platform Overview**: Medium is a subscription-based content platform offering ad-free, long-form stories from expert writers and independent voices, with features like personalized recommendations, audio playback, and cross-device synchronization.
 
-- **Data Handling & Privacy**: App collects personal info, photos/videos, and other data types but encrypts data in transit; users can request data deletion; no third-party data sharing.
+- **Data Handling**: The app collects personal info, photos/videos, and other data types but encrypts data in transit and allows users to request deletion; no data is shared with third parties.
 
-- **Subscription Model**: $4.99/month or $49.99/year for unlimited access; auto-renewing via Goo
+- **Subscription Model**: Medium offers a $4.99/mont
 
 ## Use Cases
 
@@ -47,7 +47,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://play.google.com/store/apps/details?id=com.medium.reader&referrer=utm_source%3DmobileNavBar&source=---publication_layout_nav----------------------------------------
+Original source URL: https://play.google.com/store/apps/details?id=com.medium.reader&referrer=utm_source%3DmobileNavBar&source=---top_nav_layout_nav-----------------------------------------
 
 ## Local Vault File
 

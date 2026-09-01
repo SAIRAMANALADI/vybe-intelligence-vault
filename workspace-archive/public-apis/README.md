@@ -13,16 +13,15 @@ Public developer APIs supply external context and utilities for LLM tools.
 - [WordPress Developer Resources | Developer.WordPress.org](https://developer.wordpress.org) (framework - USEFUL Tier)
 - [BuddyPress Developer Resources | Your best buddies ever to help you code.](https://developer.buddypress.org) (tutorial - USEFUL Tier)
 - [ollama/ollama-python](https://github.com/ollama/ollama-python) (framework - USEFUL Tier)
-- [The-Vibe-Company/Quivr](https://github.com/The-Vibe-Company/Quivr) (framework - USEFUL Tier)
 - [Welcome to Unstructured! - Unstructured](https://docs.unstructured.io) (tutorial - USEFUL Tier)
 - [Structured outputs | Gemini API | Google AI for Developers](https://ai.google.dev/gemini-api/docs/structured-output) (framework - USEFUL Tier)
+- [Shared Selective Persistent Memory for Agentic LLM Systems](https://arxiv.org/abs/2607.09493) (mcp-server - USEFUL Tier)
 
 ## Best GitHub Repositories
 
 https://github.com/public-apis/public-apis (Public APIs)
 - [OpenAI · GitHub](https://github.com/openai)
 - [ollama/ollama-python](https://github.com/ollama/ollama-python)
-- [The-Vibe-Company/Quivr](https://github.com/The-Vibe-Company/Quivr)
 
 ## Best Learning Resources
 
@@ -40,4 +39,4 @@ https://github.com/public-apis/public-apis (Public APIs)
 
 ---
 
-*Last updated: 2026-09-01 11:11 IST*
+*Last updated: 2026-09-01 19:22 IST*

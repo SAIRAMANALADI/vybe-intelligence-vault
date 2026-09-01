@@ -4,23 +4,23 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/xindoo/agentic-design-patterns
-collected_at: '2026-09-01T10:58:14.078716+05:30'
-published_at: '2026-09-01T02:58:21Z'
+collected_at: '2026-09-01T19:09:37.282655+05:30'
+published_at: '2026-09-01T10:51:09Z'
 tags:
 - agents
 - github-repo
 - hackernews
 - html
-stars: 7899
+stars: 7900
 language: HTML
 status: active
 archived: false
 created_at: '2025-09-30T03:58:49Z'
 pushed_at: '2026-08-30T15:44:32Z'
 resource_id: github:xindoo/agentic-design-patterns
-first_seen: '2026-09-01T10:58:14.078716+05:30'
-last_seen: '2026-09-01T10:58:14.078716+05:30'
-last_checked: '2026-09-01T10:58:14.078716+05:30'
+first_seen: '2026-09-01T19:09:37.282655+05:30'
+last_seen: '2026-09-01T19:09:37.282655+05:30'
+last_checked: '2026-09-01T19:09:37.282655+05:30'
 health_score: 100
 ---
 
@@ -28,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: Chinese-optimized version of Google's *Agentic Design Patterns* book, featuring continuously updated content with online reading, PDF, and EPUB download options.
-- **Metadata**: 7,899 stars, 1,136 forks; primarily HTML-based, last updated on 2026-09-01.
-- **Accessibility**: Provides direct links to online and offline (PDF/Epub) versions for technical reference.
+- **Repository Overview**: Chinese-optimized version of Google's *Agentic Design Patterns* book, featuring continuously updated content, online reading, and downloadable PDF/EPUB formats.
+- **Metrics**: 7,900 stars, 1,138 forks, last updated 2026-09-01.
+- **Technical Details**: Hosted in HTML format, no additional topics specified.
 
 ## Why It Matters
 
@@ -39,11 +39,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: xindoo
-- Stars: 7899
-- Forks: 1136
+- Stars: 7900
+- Forks: 1138
 - Language: HTML
 - Topics: None
-- Last Updated: 2026-09-01T02:58:21Z
+- Last Updated: 2026-09-01T10:51:09Z
 - Archived: No
 - Created At: 2025-09-30T03:58:49Z
 - Pushed At: 2026-08-30T15:44:32Z

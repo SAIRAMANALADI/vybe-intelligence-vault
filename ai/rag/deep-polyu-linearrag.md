@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DEEP-PolyU/LinearRAG
-collected_at: '2026-09-01T10:56:03.840376+05:30'
+collected_at: '2026-09-01T19:07:27.246479+05:30'
 published_at: '2026-08-30T14:51:28Z'
 tags:
 - github-repo
@@ -18,9 +18,9 @@ archived: false
 created_at: '2025-10-27T02:16:18Z'
 pushed_at: '2026-07-05T00:55:44Z'
 resource_id: github:deep-polyu/linearrag
-first_seen: '2026-09-01T10:56:03.840376+05:30'
-last_seen: '2026-09-01T10:56:03.840376+05:30'
-last_checked: '2026-09-01T10:56:03.840376+05:30'
+first_seen: '2026-09-01T19:07:27.246479+05:30'
+last_seen: '2026-09-01T19:07:27.246479+05:30'
+last_checked: '2026-09-01T19:07:27.246479+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Linear Graph RAG Framework**: Introduces a linear graph-based retrieval mechanism for RAG, optimizing large-scale corpus indexing and retrieval efficiency by leveraging linear graph structures to reduce computational overhead while maintaining retrieval accuracy.
-
-- **Scalability & Performance**: Demonstrates linear-time complexity for both retrieval and generation phases, enabling scalable RAG on massive corpora (e.g., >10M documents) with minimal latency degradation compared to traditional graph-based RAG methods.
-
-- **Hybrid Retrieval-Augmentation**: Combines linear graph traversal with LLM-based generation, where retrieved linear subgraphs are dynamically integrated into prompts to enhance contextual relevance and factual grounding without requiring full graph traversals.
+- **Linear Graph Retrieval Augmented Generation (LinearRAG)**: Introduces a linear graph-based RAG framework for large-scale corpora, optimizing retrieval and generation efficiency via linear graph traversal and hierarchical indexing.
+- **ICLR 2026 Contribution**: Proposes a novel method to reduce computational overhead in RAG systems by leveraging linear graph structures, enabling scalable retrieval-augmented generation for LLMs.
+- **Implementation**: Python-based repository with 537 stars and 67 forks, featuring hierarchical graph indexing and linear traversal algorithms for efficient document retrieval and generation.
 
 ## Why It Matters
 

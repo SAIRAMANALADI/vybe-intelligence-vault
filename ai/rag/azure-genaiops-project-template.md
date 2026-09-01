@@ -4,13 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Azure/GenAIOps-project-template
-collected_at: '2026-09-01T10:54:53.799479+05:30'
+collected_at: '2026-09-01T19:06:17.224211+05:30'
 published_at: '2026-08-25T13:36:08Z'
 tags:
 - bicep
 - github-repo
+- openai
 - rag
-- scripts
+- workflows
 stars: 46
 language: Bicep
 status: active
@@ -19,9 +20,9 @@ archived: true
 created_at: '2024-08-28T15:40:26Z'
 pushed_at: '2026-08-20T13:21:20Z'
 resource_id: github:azure/genaiops-project-template
-first_seen: '2026-09-01T10:54:53.799479+05:30'
-last_seen: '2026-09-01T10:54:53.799479+05:30'
-last_checked: '2026-09-01T10:54:53.799479+05:30'
+first_seen: '2026-09-01T19:06:17.224211+05:30'
+last_seen: '2026-09-01T19:06:17.224211+05:30'
+last_checked: '2026-09-01T19:06:17.224211+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Bicep-based IaC template** for deploying a **Generative AI Ops (GenAIOps) RAG (Retrieval-Augmented Generation) pipeline** on Azure, enabling infrastructure-as-code (IaC) automation for AI workloads.
+- **Purpose**: Provides a structured Bicep-based template for deploying **Generative AI Ops (GenAIOps) RAG (Retrieval-Augmented Generation) pipelines** on Azure, emphasizing operationalization of GenAI workloads.
 
-- **Repository structure** includes modular Bicep templates for provisioning Azure resources (e.g., AI services, storage, networking) required for a **production-grade RAG system**, with CI/CD integration support.
+- **Key Components**: Includes infrastructure-as-code (IaC) definitions for Azure resources (e.g., **Azure AI Search, Azure OpenAI, Azure Container Apps**) to enable scalable RAG workflows with monitoring and CI/CD integration.
 
-- **Last updated** in **August 2026**, reflecting recent Azure service updates, though the repository has **low activity** (46 stars, 57 forks) and lacks explicit documentation or topic tags.
+- **Deployment Target**: Designed for **Azure cloud environments**, leveraging Bicep for declarative resource provisioning and alignment with Microsoft’s GenAIOps best practices.
 
 ## Why It Matters
 

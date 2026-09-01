@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/mongodb-developer/GenAI-Showcase
-collected_at: '2026-09-01T10:56:48.822115+05:30'
+collected_at: '2026-09-01T19:08:12.350878+05:30'
 published_at: '2026-08-31T13:25:50Z'
 tags:
 - agents
@@ -13,6 +13,7 @@ tags:
 - jupyter notebook
 - rag
 - reddit
+- workflows
 stars: 4262
 language: Jupyter Notebook
 status: active
@@ -21,9 +22,9 @@ archived: false
 created_at: '2024-01-30T14:20:36Z'
 pushed_at: '2026-08-21T16:42:58Z'
 resource_id: github:mongodb-developer/genai-showcase
-first_seen: '2026-09-01T10:56:48.822115+05:30'
-last_seen: '2026-09-01T10:56:48.822115+05:30'
-last_checked: '2026-09-01T10:56:48.822115+05:30'
+first_seen: '2026-09-01T19:08:12.350878+05:30'
+last_seen: '2026-09-01T19:08:12.350878+05:30'
+last_checked: '2026-09-01T19:08:12.350878+05:30'
 health_score: 100
 ---
 
@@ -31,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive GenAI Examples**: Repository contains extensive Jupyter Notebook-based implementations of Retrieval-Augmented Generation (RAG), AI agents, and industry-specific GenAI use cases, leveraging MongoDB's ecosystem (e.g., Atlas).
+- **Comprehensive GenAI Examples**: Repository showcasing MongoDB's Generative AI applications, including RAG pipelines, AI agents, and industry-specific use cases, implemented in Jupyter Notebooks with Python.
 
-- **Technical Stack**: Primarily Python-based, integrating Large Language Models (LLMs), MongoDB Atlas for vector search, and tools for building autonomous AI agents.
+- **Technical Stack**: Leverages MongoDB Atlas for vector search, integrates LLMs, and demonstrates end-to-end workflows for AI-driven data processing and retrieval.
 
-- **Industry Focus**: Demonstrates GenAI applications across sectors, with modular examples for rapid prototyping and deployment in production environments.
+- **Educational Resource**: Provides 4262+ community examples with modular notebooks, covering topics like agents, RAG optimization, and real-world AI deployment strategies.
 
 ## Why It Matters
 

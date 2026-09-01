@@ -4,9 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/bangoc123/retrieval-backend-with-rag
-collected_at: '2026-09-01T10:55:18.688733+05:30'
+collected_at: '2026-09-01T19:06:42.170329+05:30'
 published_at: '2026-08-22T07:32:26Z'
 tags:
+- benchmark
 - github-repo
 - python
 - rag
@@ -17,9 +18,9 @@ archived: false
 created_at: '2024-06-13T03:43:42Z'
 pushed_at: '2025-10-03T03:29:43Z'
 resource_id: github:bangoc123/retrieval-backend-with-rag
-first_seen: '2026-09-01T10:55:18.688733+05:30'
-last_seen: '2026-09-01T10:55:18.688733+05:30'
-last_checked: '2026-09-01T10:55:18.688733+05:30'
+first_seen: '2026-09-01T19:06:42.170329+05:30'
+last_seen: '2026-09-01T19:06:42.170329+05:30'
+last_checked: '2026-09-01T19:06:42.170329+05:30'
 health_score: 100
 ---
 
@@ -27,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Implementation**: Python-based Retrieval-Augmented Generation (RAG) system optimized for Vietnamese text processing, leveraging vector embeddings and similarity search for contextual retrieval.
+- **Vietnamese RAG Implementation**: Repository provides a retrieval-augmented generation (RAG) backend optimized for Vietnamese language processing, leveraging vector databases and embedding models tailored for Vietnamese text.
 
-- **Architecture**: Integrates a retrieval pipeline with a generative model, using FAISS (Facebook AI Similarity Search) for efficient nearest-neighbor search in Vietnamese embeddings.
+- **Modular Python Architecture**: Built with Python, the project includes components for document retrieval, embedding generation (e.g., using `sentence-transformers` or `vinai/phobert`), and integration with LLM APIs (e.g., Hugging Face Transformers).
 
-- **Key Features**: Includes preprocessing for Vietnamese text (tokenization, normalization), hybrid retrieval (dense + sparse), and a modular design for customizable pipelines.
+- **Best Practices & Benchmarking**: Implements Vietnamese-specific preprocessing (e.g., Vietnamese tokenization, stopword removal), retrieval strategies (e.g., BM25, FAISS for vector search), and evaluation metrics for RAG pipelines.
 
 ## Why It Matters
 

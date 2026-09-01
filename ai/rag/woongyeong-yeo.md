@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://wgcyeo.github.io
-published_at: '2026-08-07T08:54:34.582481+05:30'
-collected_at: '2026-08-07T08:54:34.582490+05:30'
+published_at: '2026-09-01T19:15:06.605264+05:30'
+collected_at: '2026-09-01T19:15:06.605275+05:30'
 tags:
 - agents
 - benchmark
@@ -16,9 +16,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:woongyeong-yeo
-first_seen: '2026-08-07T08:54:34.582490+05:30'
-last_seen: '2026-08-07T08:54:34.582490+05:30'
-last_checked: '2026-08-07T08:54:34.582490+05:30'
+first_seen: '2026-09-01T19:15:06.605275+05:30'
+last_seen: '2026-09-01T19:15:06.605275+05:30'
+last_checked: '2026-09-01T19:15:06.605275+05:30'
 health_score: 100
 ---
 
@@ -26,13 +26,13 @@ health_score: 100
 
 ## Summary
 
-- **Research Focus**: Developing LLMs leveraging large-scale, diverse real-world knowledge for autonomous discovery and reasoning beyond existing human knowledge boundaries.
+- **Research Focus**: Develops LLMs leveraging large-scale, diverse real-world knowledge for autonomous discovery and reasoning, emphasizing universal retrieval across heterogeneous/multimodal sources, structured memory systems, and self-evolution via feedback.
 - **Key Contributions**:
-  - **UniversalRAG**: Enables retrieval-augmented generation (RAG) across heterogeneous modalities and granularities (ACL 2026, Oral).
+  - **UniversalRAG**: Retrieval-augmented generation over corpora of diverse modalities/granularities (ACL 2026, Oral).
   - **WorldMM**: Dynamic multimodal memory agent for long video reasoning (CVPR 2026, Highlight).
-- **Methodologies**:
-  - Self-distillation for contextual integrity and long-horizon agent learning (arXiv 2026).
-  - Structured memory systems and self-evolution via feedback mechanisms.
+- **Notable Works**:
+  - **HINT-SD**: Targeted hindsight self-distillation for long-horizon agents (EMNLP 2026 Findings).
+  - **SelfCI**: Complementary self-distillation for contextual integrity in LLMs (arXiv 2026).
 
 ## Why It Matters
 
@@ -42,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-07T08:54:34.582481+05:30
+- Published: 2026-09-01T19:15:06.605264+05:30
 
 ## Related Tags
 

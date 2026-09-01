@@ -4,13 +4,14 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/The-Swarm-Corporation/Multi-Agent-Template-App
-collected_at: '2026-08-23T14:29:01.724332+05:30'
-published_at: '2026-08-06T17:33:29Z'
+collected_at: '2026-09-01T19:09:57.372305+05:30'
+published_at: '2026-08-27T13:22:02Z'
 tags:
 - agents
 - github-repo
 - shell
-stars: 47
+- workflows
+stars: 46
 language: Shell
 status: active
 license: MIT
@@ -18,9 +19,9 @@ archived: false
 created_at: '2024-06-06T03:06:47Z'
 pushed_at: '2025-12-08T06:12:42Z'
 resource_id: github:the-swarm-corporation/multi-agent-template-app
-first_seen: '2026-08-23T14:29:01.724332+05:30'
-last_seen: '2026-08-23T14:29:01.724332+05:30'
-last_checked: '2026-08-23T14:29:01.724332+05:30'
+first_seen: '2026-09-01T19:09:57.372305+05:30'
+last_seen: '2026-09-01T19:09:57.372305+05:30'
+last_checked: '2026-09-01T19:09:57.372305+05:30'
 health_score: 100
 ---
 
@@ -28,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-*   Provides a high-performance, reliable template for rapid multi-agent application development.
-*   Integrates leading agentic frameworks (AutoGen, CrewAI, Swarms) with LLM backends (LangChain, HuggingFace Transformers) and agentops for operational visibility.
-*   Shell-scripted foundation designed for streamlined setup, testing, and deployment of complex multi-agent systems.
+*   Offers a high-performance, reliable template for multi-agent application development, emphasizing rapid setup.
+*   Integrates prominent AI/ML frameworks such as Autogen, CrewAI, LangChain, HuggingFace, and Transformers for LLM-based agentic workflows.
+*   Implemented in Shell, facilitating simplified deployment and testing of multi-agent systems.
 
 ## Why It Matters
 
@@ -39,11 +40,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: The-Swarm-Corporation
-- Stars: 47
+- Stars: 46
 - Forks: 20
 - Language: Shell
 - Topics: agent-framework, agentic, agentops, agents, autogen, crewai, huggingface, langchain, llms, models, multi-agent, swarms, testing, transformers, transformers-models
-- Last Updated: 2026-08-06T17:33:29Z
+- Last Updated: 2026-08-27T13:22:02Z
 - License: MIT
 - Archived: No
 - Created At: 2024-06-06T03:06:47Z

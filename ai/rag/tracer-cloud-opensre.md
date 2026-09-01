@@ -4,26 +4,25 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Tracer-Cloud/opensre
-collected_at: '2026-08-10T16:15:11.257303+05:30'
-published_at: '2026-08-10T10:17:40Z'
+collected_at: '2026-09-01T19:08:07.272745+05:30'
+published_at: '2026-09-01T13:12:26Z'
 tags:
 - agents
 - github-repo
 - python
 - rag
-- scripts
 - workflows
-stars: 10306
+stars: 10987
 language: Python
 status: active
 license: Apache-2.0
 archived: false
 created_at: '2026-01-13T00:04:47Z'
-pushed_at: '2026-08-10T09:28:49Z'
+pushed_at: '2026-09-01T13:37:00Z'
 resource_id: github:tracer-cloud/opensre
-first_seen: '2026-08-10T16:15:11.257303+05:30'
-last_seen: '2026-08-10T16:15:11.257303+05:30'
-last_checked: '2026-08-10T16:15:11.257303+05:30'
+first_seen: '2026-09-01T19:08:07.272745+05:30'
+last_seen: '2026-09-01T19:08:07.272745+05:30'
+last_checked: '2026-09-01T19:08:07.272745+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **AI-Powered SRE Toolkit**: Open-source framework (`opensre`) enabling autonomous Site Reliability Engineering (SRE) agents with AI-driven incident management, root-cause analysis (RCA), and remediation workflows.
+- **AI-Powered SRE Toolkit**: Open-source Python framework (`opensre`) enabling autonomous Site Reliability Engineering (SRE) agents with AI-driven observability, incident management, and root-cause analysis (RCA) integration for platforms like Datadog, Grafana, and Slack.
 
-- **Multi-Platform Integration**: Supports observability tools like **Datadog**, **Grafana**, and **Slack**, facilitating alerting, incident response, and collaboration within existing SRE pipelines.
+- **Multi-Platform Observability & Remediation**: Supports real-time alerting, incident triage, and automated remediation workflows across observability tools (Datadog, Grafana) with Slack integration for team coordination and escalation.
 
-- **Python-Based Automation**: Leverages Python for extensible agent development, focusing on AI-SRE automation, remediation scripts, and integration with observability ecosystems for proactive reliability.
+- **Extensible AI Agent Architecture**: Modular design allows customization of AI SRE agents for dynamic environments, leveraging RCA and remediation policies to reduce mean time to resolution (MTTR) in cloud-native systems.
 
 ## Why It Matters
 
@@ -44,15 +43,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: Tracer-Cloud
-- Stars: 10306
-- Forks: 1463
+- Stars: 10987
+- Forks: 1603
 - Language: Python
 - Topics: ai-sre, alerting, datadog, grafana, incident-management, observability, remediation, root-cause-analysis, site-reliability-engineering, slack, sre
-- Last Updated: 2026-08-10T10:17:40Z
+- Last Updated: 2026-09-01T13:12:26Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2026-01-13T00:04:47Z
-- Pushed At: 2026-08-10T09:28:49Z
+- Pushed At: 2026-09-01T13:37:00Z
 
 ## Possible Use Cases
 

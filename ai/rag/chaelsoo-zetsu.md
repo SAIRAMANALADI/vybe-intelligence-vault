@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Chaelsoo/Zetsu
-collected_at: '2026-09-01T10:55:53.778124+05:30'
+collected_at: '2026-09-01T19:07:17.180472+05:30'
 published_at: '2026-08-31T14:25:03Z'
 tags:
 - github-repo
@@ -18,9 +18,9 @@ archived: false
 created_at: '2026-07-13T01:44:01Z'
 pushed_at: '2026-08-11T16:24:07Z'
 resource_id: github:chaelsoo/zetsu
-first_seen: '2026-09-01T10:55:53.778124+05:30'
-last_seen: '2026-09-01T10:55:53.778124+05:30'
-last_checked: '2026-09-01T10:55:53.778124+05:30'
+first_seen: '2026-09-01T19:07:17.180472+05:30'
+last_seen: '2026-09-01T19:07:17.180472+05:30'
+last_checked: '2026-09-01T19:07:17.180472+05:30'
 health_score: 100
 ---
 
@@ -28,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: A personal Retrieval-Augmented Generation (RAG) system tailored for offensive security knowledge management and retrieval.
-- **Technical Stack**: Implemented in Python, leveraging RAG architecture for efficient knowledge querying and augmentation.
-- **Repository Activity**: Last updated on 2026-08-31, with 177 stars and 10 forks, indicating limited but active community engagement.
+- **Purpose**: Personal Retrieval-Augmented Generation (RAG) system tailored for offensive security knowledge aggregation and query resolution.
+- **Technical Stack**: Implemented in Python, leveraging RAG architecture for dynamic knowledge retrieval and response generation.
+- **Metadata**: 177 stars, 10 forks; last updated on 2026-08-31.
 
 ## Why It Matters
 

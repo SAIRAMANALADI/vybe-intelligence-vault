@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/freddy-schuetz/n8n-claw
-collected_at: '2026-09-01T10:57:48.883482+05:30'
+collected_at: '2026-09-01T19:09:12.261129+05:30'
 published_at: '2026-08-31T11:02:26Z'
 tags:
 - agents
@@ -21,9 +21,9 @@ archived: false
 created_at: '2026-02-28T18:13:35Z'
 pushed_at: '2026-08-28T10:59:37Z'
 resource_id: github:freddy-schuetz/n8n-claw
-first_seen: '2026-09-01T10:57:48.883482+05:30'
-last_seen: '2026-09-01T10:57:48.883482+05:30'
-last_checked: '2026-09-01T10:57:48.883482+05:30'
+first_seen: '2026-09-01T19:09:12.261129+05:30'
+last_seen: '2026-09-01T19:09:12.261129+05:30'
+last_checked: '2026-09-01T19:09:12.261129+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Architecture**: OpenClaw-inspired autonomous AI agent framework implemented entirely in n8n, leveraging adaptive RAG-powered memory, MCP templates for Skills, and Expert Agents with delegated sub-agents for hierarchical task execution.
+- **Architecture**: OpenClaw-inspired autonomous AI agent framework implemented entirely in n8n, leveraging Adaptive RAG for dynamic memory, MCP templates for Skills, and Expert Agents with delegated sub-agents for hierarchical task delegation.
 
-- **Capabilities**: Supports proactive task management, media understanding, and self-hosted deployment via a single setup script; integrates with Supabase for storage and SearXNG for search engine functionality.
+- **Capabilities**: Integrates media understanding, proactive task management, and self-hosted deployment via a single setup script; supports Supabase for persistent storage and SearXNG for search engine functionality.
 
-- **Technical Stack**: Shell-based repository with dependencies on Crawl4AI for scraping, MCP for skill templates, and n8n for workflow orchestration, targeting AI agent development and automation.
+- **Technical Stack**: Shell-based repository with dependencies on `crawl4ai` for scraping, MCP for model context protocol integration, and n8n for workflow automation; designed for extensibility with AI agent frameworks.
 
 ## Why It Matters
 

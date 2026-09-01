@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/alexfazio/crewAI-quickstart
-collected_at: '2026-09-01T10:58:43.888172+05:30'
+collected_at: '2026-09-01T19:10:07.353991+05:30'
 published_at: '2026-08-20T11:22:17Z'
 tags:
 - agents
@@ -21,9 +21,9 @@ archived: false
 created_at: '2024-04-23T16:55:59Z'
 pushed_at: '2024-09-25T16:24:38Z'
 resource_id: github:alexfazio/crewai-quickstart
-first_seen: '2026-09-01T10:58:43.888172+05:30'
-last_seen: '2026-09-01T10:58:43.888172+05:30'
-last_checked: '2026-09-01T10:58:43.888172+05:30'
+first_seen: '2026-09-01T19:10:07.353991+05:30'
+last_seen: '2026-09-01T19:10:07.353991+05:30'
+last_checked: '2026-09-01T19:10:07.353991+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: A GitHub repository (`alexfazio/crewAI-quickstart`) containing Jupyter Notebooks, cookbooks, and recipes demonstrating CrewAI's agentic workflows and tools.
-- **Technical Focus**: Showcases practical implementations of CrewAI's multi-agent systems, including task automation, collaboration, and workflow optimization.
-- **Metadata**: 422 stars, 75 forks, last updated 2026-08-20, tagged for `agents`, `cookbook`, and `crewai`.
+- **Repository Contents**: Curated collection of Jupyter Notebooks, cookbooks, and recipes demonstrating CrewAI's agentic workflows and tools.
+- **Technical Focus**: Showcases practical implementations of multi-agent systems, task automation, and AI-driven workflows.
+- **Metadata**: 422 stars, 75 forks, last updated 2026-08-20, primarily in Jupyter Notebook format.
 
 ## Why It Matters
 

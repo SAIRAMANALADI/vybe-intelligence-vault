@@ -4,13 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NVIDIA/workbench-example-hybrid-rag
-collected_at: '2026-09-01T10:55:08.822364+05:30'
+collected_at: '2026-09-01T19:06:32.212437+05:30'
 published_at: '2026-08-24T22:35:50Z'
 tags:
 - github-repo
+- meta-ai
+- models
 - python
 - rag
-- workflows
 stars: 373
 language: Python
 status: active
@@ -19,9 +20,9 @@ archived: false
 created_at: '2024-03-11T15:57:29Z'
 pushed_at: '2025-08-12T17:57:18Z'
 resource_id: github:nvidia/workbench-example-hybrid-rag
-first_seen: '2026-09-01T10:55:08.822364+05:30'
-last_seen: '2026-09-01T10:55:08.822364+05:30'
-last_checked: '2026-09-01T10:55:08.822364+05:30'
+first_seen: '2026-09-01T19:06:32.212437+05:30'
+last_seen: '2026-09-01T19:06:32.212437+05:30'
+last_checked: '2026-09-01T19:06:32.212437+05:30'
 health_score: 100
 ---
 
@@ -29,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Demonstrates a hybrid Retrieval-Augmented Generation (RAG) pipeline using NVIDIA AI Workbench, combining vector and keyword-based retrieval for enhanced LLM context.
-- **Implementation**: Python-based project leveraging NVIDIA's AI Workbench framework for scalable RAG workflows, integrating retrieval mechanisms with generative models.
-- **Updates**: Last modified on **2026-08-24**, with **373 stars** and **1,007 forks**, indicating active community engagement.
+- **Hybrid RAG Implementation**: Demonstrates a hybrid retrieval-augmented generation (RAG) pipeline combining vector search (FAISS/ANN) with keyword-based retrieval for enhanced document grounding.
+- **NVIDIA AI Workbench Integration**: Showcases deployment of the RAG system using NVIDIA’s AI Workbench, leveraging GPU acceleration (e.g., TensorRT, CUDA) for optimized inference.
+- **Python-Based Stack**: Utilizes Python with libraries like LangChain, LlamaIndex, or Haystack for modular RAG components, including document chunking, embedding (e.g., NV-Embed), and LLM inference (e.g., Llama 3/NVIDIA NeMo).
 
 ## Why It Matters
 

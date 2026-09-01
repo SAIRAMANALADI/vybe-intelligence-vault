@@ -8,6 +8,7 @@ Well-crafted system and user prompts are the primary mechanism for directing LLM
 
 ## Top Matched Resources
 
+- [KruxAI/ragbuilder](https://github.com/KruxAI/ragbuilder) (prompt - ESSENTIAL Tier)
 - [Dissociative Identity: Language Model Agents Lack Grounding for Reputation Mechanisms](https://arxiv.org/abs/2605.30169) (framework - USEFUL Tier)
 - [Protein Design with Agent Rosetta: A Case Study for Specialized Scientific Agents](https://arxiv.org/abs/2603.15952) (framework - USEFUL Tier)
 - [Agentic Calibration of Grey-Box Simulation Models: An LLM-Driven Alternative](https://arxiv.org/abs/2607.18308) (prompt - USEFUL Tier)
@@ -15,15 +16,14 @@ Well-crafted system and user prompts are the primary mechanism for directing LLM
 - [Visual prompt engineering for video models](https://arxiv.org/abs/2607.25537) (framework - USEFUL Tier)
 - [ConnectED: A Curriculum-Aligned AI System for Vietnamese Instructional Lesson Planning and Student Learning](https://arxiv.org/abs/2607.28647) (template - USEFUL Tier)
 - [FinProBench: Evaluating Financial AI Agents with Role-Grounded Rubrics Derived from Professional Deliverables](https://arxiv.org/abs/2608.04077) (prompt - USEFUL Tier)
-- [Generative AI | Build AI-powered apps with speed, security, and scalability | Firebase](https://firebase.google.com/products/generative-ai) (template - USEFUL Tier)
 
 ## Best GitHub Repositories
 
 https://github.com/danielmiessler/fabric (Fabric)
 https://github.com/f/awesome-chatgpt-prompts (Awesome Prompts)
-- [Leonxlnx/agentic-ai-prompt-research](https://github.com/Leonxlnx/agentic-ai-prompt-research)
+- [KruxAI/ragbuilder](https://github.com/KruxAI/ragbuilder)
 - [langfuse/langfuse](https://github.com/langfuse/langfuse)
-- [github/awesome-copilot](https://github.com/github/awesome-copilot)
+- [Leonxlnx/agentic-ai-prompt-research](https://github.com/Leonxlnx/agentic-ai-prompt-research)
 - [jaypanchal18/production-ai-agents-and-llm-platform](https://github.com/jaypanchal18/production-ai-agents-and-llm-platform)
 - [Code-and-Sorts/awesome-copilot-agents](https://github.com/Code-and-Sorts/awesome-copilot-agents)
 - [stanfordnlp/dsp](https://github.com/stanfordnlp/dsp)
@@ -44,4 +44,4 @@ https://github.com/f/awesome-chatgpt-prompts (Awesome Prompts)
 
 ---
 
-*Last updated: 2026-09-01 11:11 IST*
+*Last updated: 2026-09-01 19:22 IST*

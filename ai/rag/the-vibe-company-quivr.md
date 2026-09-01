@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/The-Vibe-Company/Quivr
-collected_at: '2026-09-01T10:55:43.825020+05:30'
-published_at: '2026-09-01T05:23:37Z'
+collected_at: '2026-09-01T19:07:07.211849+05:30'
+published_at: '2026-09-01T13:32:03Z'
 tags:
 - frontend_ui
 - github-repo
@@ -14,8 +14,7 @@ tags:
 - openai
 - python
 - rag
-- workflows
-stars: 39437
+stars: 39440
 language: Python
 status: active
 license: NOASSERTION
@@ -23,9 +22,9 @@ archived: false
 created_at: '2023-05-12T23:53:30Z'
 pushed_at: '2026-08-31T18:02:45Z'
 resource_id: github:the-vibe-company/quivr
-first_seen: '2026-09-01T10:55:43.825020+05:30'
-last_seen: '2026-09-01T10:55:43.825020+05:30'
-last_checked: '2026-09-01T10:55:43.825020+05:30'
+first_seen: '2026-09-01T19:07:07.211849+05:30'
+last_seen: '2026-09-01T19:07:07.211849+05:30'
+last_checked: '2026-09-01T19:07:07.211849+05:30'
 health_score: 100
 ---
 
@@ -33,11 +32,9 @@ health_score: 100
 
 ## Summary
 
-- **Modular RAG Framework**: Quivr is an opinionated Retrieval-Augmented Generation (RAG) framework designed for seamless GenAI integration into applications, abstracting RAG complexities while enabling customization for LLMs (GPT4, Groq, Llama), vector stores (PGVector, Faiss), and file inputs.
-
-- **Multi-Platform Compatibility**: Supports any LLM backend (e.g., OpenAI, Groq) and vector database (PGVector, Faiss), with Dockerized deployment, REST API, and frontend (React/TypeScript) for flexible integration into existing products.
-
-- **Privacy & Security Focus**: Prioritizes data privacy with PostgreSQL support, secure file handling, and customizable workflows, ensuring compliance while enabling scalable GenAI applications.
+*   Opinionated RAG framework facilitating streamlined GenAI integration, abstracting underlying complexities for application developers.
+*   Offers multi-LLM (e.g., GPT4, Groq, Llama) and multi-vectorstore (e.g., PGVector, Faiss) compatibility, supporting diverse data ingestion.
+*   Python-based, featuring Dockerized deployment, PostgreSQL integration, and a React/TypeScript frontend for full-stack GenAI application development.
 
 ## Why It Matters
 
@@ -46,11 +43,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: The-Vibe-Company
-- Stars: 39437
-- Forks: 3727
+- Stars: 39440
+- Forks: 3726
 - Language: Python
 - Topics: ai, api, chatbot, chatgpt, database, docker, framework, frontend, groq, html, javascript, llm, openai, postgresql, privacy, rag, react, security, typescript, vector
-- Last Updated: 2026-09-01T05:23:37Z
+- Last Updated: 2026-09-01T13:32:03Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2023-05-12T23:53:30Z

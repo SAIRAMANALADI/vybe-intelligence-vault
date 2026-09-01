@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/IAAR-Shanghai/CRUD_RAG
-collected_at: '2026-09-01T10:55:43.811224+05:30'
+collected_at: '2026-09-01T19:07:07.249923+05:30'
 published_at: '2026-08-29T16:13:07Z'
 tags:
 - benchmark
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-01-26T08:37:25Z'
 pushed_at: '2025-05-20T08:38:28Z'
 resource_id: github:iaar-shanghai/crud_rag
-first_seen: '2026-09-01T10:55:43.811224+05:30'
-last_seen: '2026-09-01T10:55:43.811224+05:30'
-last_checked: '2026-09-01T10:55:43.811224+05:30'
+first_seen: '2026-09-01T19:07:07.249923+05:30'
+last_seen: '2026-09-01T19:07:07.249923+05:30'
+last_checked: '2026-09-01T19:07:07.249923+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Benchmark Design**: CRUD-RAG introduces a comprehensive Chinese benchmark for evaluating Retrieval-Augmented Generation (RAG) systems, focusing on Large Language Models (LLMs) with metrics for retrieval quality, generation accuracy, and cross-domain robustness.
-
-- **Evaluation Framework**: The benchmark includes diverse Chinese datasets spanning multiple domains (e.g., legal, medical, technical) to assess RAG performance under real-world conditions, with standardized APIs for consistent testing.
-
-- **Open-Source Toolkit**: Provides a Python-based toolkit for benchmarking, including retrieval models, generation pipelines, and evaluation scripts, facilitating reproducibility and community-driven improvements.
+- **Benchmark Design**: Introduces CRUD-RAG, a Chinese-language benchmark for evaluating Retrieval-Augmented Generation (RAG) systems, covering **Create**, **Read**, **Update**, and **Delete** operations to assess comprehensive LLM capabilities.
+- **Evaluation Framework**: Provides a standardized test suite with **10,000+ queries** across diverse domains (e.g., legal, medical, technical) to measure retrieval accuracy, generation quality, and robustness in Chinese contexts.
+- **Open-Source Toolkit**: Releases a Python-based toolkit with **pre-trained models**, datasets, and evaluation scripts to facilitate reproducible RAG research and benchmarking in Chinese LLMs.
 
 ## Why It Matters
 

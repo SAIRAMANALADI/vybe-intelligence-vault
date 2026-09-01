@@ -4,24 +4,24 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/hllqkb/Spring-AI-Ailibaba-Best-Practices
-collected_at: '2026-09-01T10:55:23.682934+05:30'
-published_at: '2026-08-28T06:09:22Z'
+collected_at: '2026-09-01T19:06:47.219281+05:30'
+published_at: '2026-09-01T09:14:45Z'
 tags:
 - agents
 - github-repo
 - java
 - rag
 - workflows
-stars: 38
+stars: 39
 language: Java
 status: active
 archived: false
 created_at: '2025-04-17T11:50:47Z'
 pushed_at: '2025-09-07T10:50:31Z'
 resource_id: github:hllqkb/spring-ai-ailibaba-best-practices
-first_seen: '2026-09-01T10:55:23.682934+05:30'
-last_seen: '2026-09-01T10:55:23.682934+05:30'
-last_checked: '2026-09-01T10:55:23.682934+05:30'
+first_seen: '2026-09-01T19:06:47.219281+05:30'
+last_seen: '2026-09-01T19:06:47.219281+05:30'
+last_checked: '2026-09-01T19:06:47.219281+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Implements RAG with Vector Database**: Utilizes embedding models and vector databases for efficient retrieval-augmented generation (RAG) in AI Q&A systems.
-- **Supports SSE Streaming & Agent Workflows**: Enables Server-Sent Events (SSE) for real-time responses and integrates AI agents with function calls for dynamic interactions.
-- **Multi-Modal Capabilities**: Includes image generation, image understanding, and historical message handling for comprehensive AI-driven workflows.
+- **Multi-modal AI Integration**: Implements SSE streaming, agent-based workflows, and function calling for real-time AI interactions, with support for image generation/understanding via RAG pipelines.
+- **Knowledge Graph & Vector DB**: Utilizes knowledge graphs for structured data and vector databases (e.g., embedding storage) for semantic search and retrieval-augmented generation (RAG).
+- **Java-Based Architecture**: Built on Spring AI with Alibaba Cloud integrations, featuring historical message handling, embedding models, and modular components for extensibility.
 
 ## Why It Matters
 
@@ -40,11 +40,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: hllqkb
-- Stars: 38
+- Stars: 39
 - Forks: 10
 - Language: Java
 - Topics: None
-- Last Updated: 2026-08-28T06:09:22Z
+- Last Updated: 2026-09-01T09:14:45Z
 - Archived: No
 - Created At: 2025-04-17T11:50:47Z
 - Pushed At: 2025-09-07T10:50:31Z

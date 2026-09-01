@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/adongwanai/AgentGuide
-collected_at: '2026-09-01T10:58:43.912967+05:30'
-published_at: '2026-09-01T04:41:40Z'
+collected_at: '2026-09-01T19:10:07.315083+05:30'
+published_at: '2026-09-01T13:22:47Z'
 tags:
 - agents
 - github-repo
@@ -13,16 +13,16 @@ tags:
 - html
 - models
 - rag
-stars: 9030
+stars: 9068
 language: HTML
 status: active
 archived: false
 created_at: '2025-11-03T10:46:38Z'
 pushed_at: '2026-08-25T04:23:33Z'
 resource_id: github:adongwanai/agentguide
-first_seen: '2026-09-01T10:58:43.912967+05:30'
-last_seen: '2026-09-01T10:58:43.912967+05:30'
-last_checked: '2026-09-01T10:58:43.912967+05:30'
+first_seen: '2026-09-01T19:10:07.315083+05:30'
+last_seen: '2026-09-01T19:10:07.315083+05:30'
+last_checked: '2026-09-01T19:10:07.315083+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive AI Agent Development Guide**: Covers LangGraph implementation, advanced RAG (Retrieval-Augmented Generation), multi-agent systems, and reinforcement learning (GRPO) with practical tutorials and SFT (Supervised Fine-Tuning) techniques.
+- **Resource Overview**: A comprehensive guide (in HTML) for AI agent development, covering LangGraph, advanced RAG, multi-agent systems, and reinforcement learning (GRPO), with practical tutorials and interview preparation for transitioning into LLM roles.
 
-- **Career Transition & Interview Resources**: Provides specialized content for transitioning into AI roles, including algorithm engineering, LLM (Large Language Model) interviews, and a curated interview question database.
+- **Key Topics**: Includes CrewAI, GraphRAG, LangChain, SFT (Supervised Fine-Tuning), data synthesis, and algorithm engineering, with a focus on job-hunting resources and technical interview questions for AI/ML roles.
 
-- **Open-Source Repository**: Hosted on GitHub with 9,030 stars and 881 forks, featuring HTML-based documentation and resources on CrewAI, GraphRAG, and data synthesis for AI agent development. Last updated September 2026.
+- **Metrics & Updates**: Repository has 9,068 stars, 886 forks, and was last updated on 2026-09-01, indicating active maintenance and community engagement.
 
 ## Why It Matters
 
@@ -43,11 +43,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: adongwanai
-- Stars: 9030
-- Forks: 881
+- Stars: 9068
+- Forks: 886
 - Language: HTML
 - Topics: agenticrag, ai-agent, crewai, graphrag, grpo, interview, job-hunting, langchain, llm, multi-agent, rag, sft, tutorial
-- Last Updated: 2026-09-01T04:41:40Z
+- Last Updated: 2026-09-01T13:22:47Z
 - Archived: No
 - Created At: 2025-11-03T10:46:38Z
 - Pushed At: 2026-08-25T04:23:33Z

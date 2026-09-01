@@ -4,15 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/raga-ai-hub/raga-llm-hub
-collected_at: '2026-09-01T10:55:53.820010+05:30'
-published_at: '2026-06-11T18:44:18Z'
+collected_at: '2026-09-01T19:07:17.283488+05:30'
+published_at: '2026-09-01T09:34:51Z'
 tags:
 - benchmark
 - github-repo
 - python
 - rag
-- workflows
-stars: 114
+stars: 115
 language: Python
 status: active
 license: NOASSERTION
@@ -20,9 +19,9 @@ archived: false
 created_at: '2024-03-02T18:32:13Z'
 pushed_at: '2024-09-09T10:53:31Z'
 resource_id: github:raga-ai-hub/raga-llm-hub
-first_seen: '2026-09-01T10:55:53.820010+05:30'
-last_seen: '2026-09-01T10:55:53.820010+05:30'
-last_checked: '2026-09-01T10:55:53.820010+05:30'
+first_seen: '2026-09-01T19:07:17.283488+05:30'
+last_seen: '2026-09-01T19:07:17.283488+05:30'
+last_checked: '2026-09-01T19:07:17.283488+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **LLM Evaluation & Guardrails Framework**: Python-based toolkit for assessing LLM performance, implementing guardrails, and enforcing security policies in generative AI workflows.
-
-- **Modular Architecture**: Supports custom evaluation metrics, safety checks, and compliance controls via extensible Python modules for LLMops pipelines.
-
-- **Security & Compliance Focus**: Integrates security best practices (e.g., input/output sanitization, bias detection) and auditability for enterprise-grade LLM deployments.
+*   Python-based framework for LLM evaluation, guardrails, and security.
+*   Enables comprehensive LLM performance assessment and operational monitoring for MLOps.
+*   Implements robust mechanisms for LLM safety, security, and responsible AI deployment.
 
 ## Why It Matters
 
@@ -43,11 +40,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: raga-ai-hub
-- Stars: 114
+- Stars: 115
 - Forks: 14
 - Language: Python
 - Topics: guardrails, llm-evaluation, llm-security, llmops
-- Last Updated: 2026-06-11T18:44:18Z
+- Last Updated: 2026-09-01T09:34:51Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2024-03-02T18:32:13Z

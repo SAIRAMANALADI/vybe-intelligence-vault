@@ -4,16 +4,17 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/uber/ADR
-collected_at: '2026-09-01T10:57:18.836255+05:30'
-published_at: '2026-09-01T03:43:21Z'
+collected_at: '2026-09-01T19:08:42.374646+05:30'
+published_at: '2026-09-01T12:04:40Z'
 tags:
 - agents
 - anthropic
 - benchmark
 - github-repo
+- hackernews
 - python
 - reddit
-stars: 1520
+stars: 1522
 language: Python
 status: active
 license: Apache-2.0
@@ -21,9 +22,9 @@ archived: false
 created_at: '2026-04-19T18:01:42Z'
 pushed_at: '2026-08-30T20:07:15Z'
 resource_id: github:uber/adr
-first_seen: '2026-09-01T10:57:18.836255+05:30'
-last_seen: '2026-09-01T10:57:18.836255+05:30'
-last_checked: '2026-09-01T10:57:18.836255+05:30'
+first_seen: '2026-09-01T19:08:42.374646+05:30'
+last_seen: '2026-09-01T19:08:42.374646+05:30'
+last_checked: '2026-09-01T19:08:42.374646+05:30'
 health_score: 100
 ---
 
@@ -31,9 +32,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Uber's ADR (Agent Detection & Response) framework secures enterprise AI agents via observability, security benchmarking, and threat detection mechanisms.
-- **Deployment & Compatibility**: Designed for production use at Uber; supports Python-based AI agents, including LLM frameworks like Claude, Codex, and MCP.
-- **Security Features**: Detects prompt injection, benchmarking vulnerabilities, and integrates threat detection for AI agent ecosystems.
+- **Purpose**: ADR (Agent Defense Runtime) secures enterprise AI agents via observability, security benchmarking, and threat detection, deployed at Uber.
+- **Technical Stack**: Python-based, supports MCP (Model Context Protocol), integrates with LLM agents (Claude, Codex, Cursor) and detects prompt injection/threats.
+- **Features**: Security benchmarking, threat detection, and observability for AI agents, with active development (last updated 2026-09-01).
 
 ## Why It Matters
 
@@ -42,11 +43,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: uber
-- Stars: 1520
-- Forks: 138
+- Stars: 1522
+- Forks: 139
 - Language: Python
 - Topics: agent-security, ai-agents, ai-security, benchmark, claude, claude-code, codex, cursor, llm-security, mcp, model-context-protocol, prompt-injection, threat-detection
-- Last Updated: 2026-09-01T03:43:21Z
+- Last Updated: 2026-09-01T12:04:40Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2026-04-19T18:01:42Z

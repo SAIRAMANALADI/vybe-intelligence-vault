@@ -3,9 +3,9 @@ title: GitHub Status
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://githubstatus.com/
-published_at: '2026-09-01T11:04:58.716337+05:30'
-collected_at: '2026-09-01T11:04:58.716346+05:30'
+source_url: https://www.githubstatus.com/
+published_at: '2026-09-01T19:14:53.253237+05:30'
+collected_at: '2026-09-01T19:14:53.253252+05:30'
 tags:
 - agents
 - anthropic
@@ -19,9 +19,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:github-status
-first_seen: '2026-09-01T11:04:58.716346+05:30'
-last_seen: '2026-09-01T11:04:58.716346+05:30'
-last_checked: '2026-09-01T11:04:58.716346+05:30'
+first_seen: '2026-09-01T19:14:53.253252+05:30'
+last_seen: '2026-09-01T19:14:53.253252+05:30'
+last_checked: '2026-09-01T19:14:53.253252+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **GitHub Status Page**: Provides real-time operational status for GitHub services (e.g., Git Operations, Actions, Copilot) with 90-day uptime metrics and incident history, including degradation/outage details and resolutions.
+- **GitHub Status Page**: Provides real-time operational status of GitHub services (e.g., Git Operations, Webhooks, API Requests) with historical uptime metrics and incident tracking across regions (US, EU, Australia, Japan).
 
-- **Incident Management**: Recent incidents include elevated Copilot AI model errors (Aug 31, 2026) due to upstream provider issues and GitHub Billing disruptions (Aug 26–27, 2026) caused by concentrated workloads, with root causes and mitigations documented.
+- **Notification Systems**: Supports multi-channel incident notifications via email, SMS (global phone codes), Slack, and webhooks for automated incident updates (create/update/resolve) and component status changes.
 
-- **Notification Channels**: Supports subscriptions via email, SMS (global numbers), Slack, and webhooks for incident updates, alongside historical data feeds (Atom/RSS) and regional status pages (AU/EU/JP/US).
+- **Recent Incidents**: Documented outages include elevated Copilot AI model errors (Aug 31, 2026) and GitHub Billing disruptions (Aug 26–27, 2026), with root causes tied to upstream provider issues and infrastructure load saturation.
 
 ## Why It Matters
 
@@ -43,7 +43,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-09-01T11:04:58.716337+05:30
+- Published: 2026-09-01T19:14:53.253237+05:30
 
 ## Related Tags
 
@@ -60,4 +60,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://githubstatus.com/
+Original source: https://www.githubstatus.com/

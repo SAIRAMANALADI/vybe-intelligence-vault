@@ -6,10 +6,10 @@ source_url: https://docs.llamaindex.ai/en/stable/?utm_source=github&utm_medium=o
 resource_id: blog:welcome-to-llamaindex-developer-documentation
 local_vault_path: ai/rag/welcome-to-llamaindex-developer-documentation.md
 quality_score: 70
-archive_score: 82
+archive_score: 72
 archive_tier: useful
 resource_kind: tutorial
-importance: high
+importance: medium
 tags:
 - meta-ai
 - models
@@ -25,7 +25,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 82 (useful)
+- Quality score: 70 | Archive score: 72 (useful)
 - Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Abstraction**: Simplifies complex systems by modeling classes/objects with essential attributes/methods, hiding implementation details.
-- **Encapsulation**: Bundles data and methods within a single unit (e.g., class) while restricting direct access to internal state via access modifiers.
-- **Polymorphism**: Enables objects of different classes to be treated as instances of a common superclass, facilitating dynamic method resolution (e.g., method overriding, interfaces).
+- **Abstraction**: Simplifying complex systems by modeling classes/objects to represent real-world entities, hiding unnecessary details.
+- **Encapsulation**: Bundling data (attributes) and methods (functions) within a class, restricting direct access to some components (data hiding).
+- **Polymorphism**: Enabling objects of different classes to be treated as objects of a common superclass, allowing method overriding and dynamic method resolution.
 
 ## Use Cases
 

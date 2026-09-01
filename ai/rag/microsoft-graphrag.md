@@ -4,26 +4,27 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/microsoft/graphrag
-collected_at: '2026-08-07T08:54:49.081773+05:30'
-published_at: '2026-08-07T03:07:20Z'
+collected_at: '2026-09-01T19:14:26.489833+05:30'
+published_at: '2026-09-01T13:33:08Z'
 tags:
+- dataset
 - github-repo
-- hackernews
 - models
 - openai
 - python
 - rag
-stars: 35305
+- workflows
+stars: 35772
 language: Python
 status: active
 license: MIT
 archived: false
 created_at: '2024-03-27T17:57:52Z'
-pushed_at: '2026-08-05T08:22:31Z'
+pushed_at: '2026-08-31T07:33:13Z'
 resource_id: github:microsoft/graphrag
-first_seen: '2026-08-07T08:54:49.081773+05:30'
-last_seen: '2026-08-07T08:54:49.081773+05:30'
-last_checked: '2026-08-07T08:54:49.081773+05:30'
+first_seen: '2026-09-01T19:14:26.489833+05:30'
+last_seen: '2026-09-01T19:14:26.489833+05:30'
+last_checked: '2026-09-01T19:14:26.489833+05:30'
 health_score: 100
 ---
 
@@ -31,9 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Modular Graph-Based RAG System**: Implements a graph-based Retrieval-Augmented Generation (RAG) pipeline in Python, leveraging LLMs (e.g., GPT-4) for structured knowledge extraction and retrieval.
-- **Entity & Relationship Extraction**: Uses LLM-driven techniques to construct knowledge graphs from unstructured text, enabling hierarchical entity resolution and community-based summarization.
-- **Scalable & Customizable**: Designed for modularity, supporting integration with various LLMs, graph databases, and retrieval strategies for domain-specific RAG applications.
+- **Modular Graph-Based RAG Framework**: Implements a graph-based Retrieval-Augmented Generation (RAG) system in Python, enabling structured knowledge extraction and reasoning over unstructured data via modular components.
+
+- **Multi-Stage Processing Pipeline**: Integrates hierarchical graph construction (entities, relationships, communities) with LLM-driven summarization and retrieval, optimizing context-aware generation for large-scale datasets.
+
+- **Scalable & Extensible Architecture**: Supports integration with LLMs (e.g., GPT-4) and graph databases, with parallelizable workflows for handling high-volume data while maintaining modularity for customization.
 
 ## Why It Matters
 
@@ -42,15 +45,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: microsoft
-- Stars: 35305
-- Forks: 3710
+- Stars: 35772
+- Forks: 3754
 - Language: Python
 - Topics: gpt, gpt-4, gpt4, graphrag, llm, llms, rag
-- Last Updated: 2026-08-07T03:07:20Z
+- Last Updated: 2026-09-01T13:33:08Z
 - License: MIT
 - Archived: No
 - Created At: 2024-03-27T17:57:52Z
-- Pushed At: 2026-08-05T08:22:31Z
+- Pushed At: 2026-08-31T07:33:13Z
 
 ## Possible Use Cases
 

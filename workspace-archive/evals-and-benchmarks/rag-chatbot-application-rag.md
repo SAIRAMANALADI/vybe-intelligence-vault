@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Architecture**: Implements a RAG chatbot using Mistral-7B-Instruct-v0.3 LLM with ChromaDB as the vector store for context-aware retrieval.
-- **Features**: Supports document uploads, conversational history, and user feedback for response improvement.
-- **Dependencies**: Requires `streamlit`, `huggingface_hub`, `langchain`, and `chromadb` for deployment and functionality.
+- **Architecture**: Implements a Retrieval-Augmented Generation (RAG) chatbot using Mistral-7B-Instruct-v0.3 LLM and ChromaDB for vector storage/retrieval.
+- **Key Features**: Context-aware responses via document retrieval, conversational history retention, and document management with user feedback integration.
+- **Dependencies**: Requires `streamlit`, `huggingface_hub`, `langchain`, and `chromadb`; Hugging Face token must be configured in Streamlit secrets.
 
 ## Use Cases
 

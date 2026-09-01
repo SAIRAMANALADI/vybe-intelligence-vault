@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/devloperdevesh/EnterpriseRAG-AI
-collected_at: '2026-09-01T10:55:48.763715+05:30'
+collected_at: '2026-09-01T19:07:12.199950+05:30'
 published_at: '2026-08-25T05:09:47Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2026-01-02T09:29:28Z'
 pushed_at: '2026-08-25T05:08:51Z'
 resource_id: github:devloperdevesh/enterpriserag-ai
-first_seen: '2026-09-01T10:55:48.763715+05:30'
-last_seen: '2026-09-01T10:55:48.763715+05:30'
-last_checked: '2026-09-01T10:55:48.763715+05:30'
+first_seen: '2026-09-01T19:07:12.199950+05:30'
+last_seen: '2026-09-01T19:07:12.199950+05:30'
+last_checked: '2026-09-01T19:07:12.199950+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Linux-Native, eBPF-Powered Architecture**: Implements a security and governance mesh for AI agent workloads using eBPF for runtime observability and enforcement, integrated natively with Linux kernel mechanisms for low-overhead monitoring and control.
-
-- **Enterprise-Grade RAG Pipeline**: Provides a distributed, cloud-native Retrieval-Augmented Generation (RAG) framework optimized for production environments, supporting scalability, multi-tenancy, and compliance requirements for GenAI workloads.
-
-- **Observability & Governance Focus**: Incorporates built-in telemetry, policy enforcement, and audit capabilities via eBPF-based instrumentation, enabling real-time security monitoring, workload isolation, and adherence to enterprise governance frameworks.
+*   Utilizes eBPF for Linux-native, kernel-level security and governance mesh enforcement across AI agent workloads.
+*   Architected for cloud-native, distributed GenAI RAG systems, targeting enterprise AI infrastructure.
+*   Provides observability and production-grade operational capabilities for AI agent deployments.
 
 ## Why It Matters
 

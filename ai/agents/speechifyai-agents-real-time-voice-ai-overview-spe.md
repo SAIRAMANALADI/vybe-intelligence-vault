@@ -4,8 +4,8 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.speechify.ai/voice-agents/guides/welcome
-published_at: '2026-09-01T11:01:25.541378+05:30'
-collected_at: '2026-09-01T11:01:25.541385+05:30'
+published_at: '2026-09-01T19:15:29.545825+05:30'
+collected_at: '2026-09-01T19:15:29.545836+05:30'
 tags:
 - agents
 - benchmark
@@ -14,9 +14,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:speechifyai-agents-real-time-voice-ai-overview-spe
-first_seen: '2026-09-01T11:01:25.541385+05:30'
-last_seen: '2026-09-01T11:01:25.541385+05:30'
-last_checked: '2026-09-01T11:01:25.541385+05:30'
+first_seen: '2026-09-01T19:15:29.545836+05:30'
+last_seen: '2026-09-01T19:15:29.545836+05:30'
+last_checked: '2026-09-01T19:15:29.545836+05:30'
 health_score: 100
 ---
 
@@ -24,11 +24,11 @@ health_score: 100
 
 ## Summary
 
-- **Realtime Voice Pipeline**: Agents use a low-latency realtime pipeline for speech-to-speech interactions, with audio input/output managed via `POST /v1/agents/{id}/conversations`, returning a short-lived token/URL for session connection.
+- **Agent Definition**: SpeechifyAI Agents are reusable configurations combining prompt, voice, tools, and evaluation criteria, enabling real-time voice interactions via web or phone with low-latency speech processing.
 
-- **Agent Components**: Agents are defined by reusable configurations including prompts, voices (from Speechify’s curated catalog), tools (backend calls, device execution, MCP servers, or built-ins like `end_call`), and post-call evaluations (LLM-graded criteria and structured data extraction).
+- **Core Features**: Supports curated natural voices (excluding cloned/personal), tool integration (backend, device execution, MCP servers, built-ins like `end_call`), transcript persistence with timestamps, and post-call LLM-graded evaluation.
 
-- **Use Cases & Workflow**: Suitable for inbound/outbound support, IVR replacement, and structured data collection; supports no-code console configuration with webhook-based lifecycle event monitoring and API-driven tool integration.
+- **Deployment & Workflow**: Initiated via `POST /v1/agents/{id}/conversations`, returning a session token/URL for real-time audio/transcript/tool flow; also configurable via no-code console for inbound/outbound support, IVR replacement, or follow-ups.
 
 ## Why It Matters
 
@@ -38,7 +38,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-09-01T11:01:25.541378+05:30
+- Published: 2026-09-01T19:15:29.545825+05:30
 
 ## Related Tags
 

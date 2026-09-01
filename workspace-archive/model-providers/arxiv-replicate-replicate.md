@@ -1,18 +1,19 @@
 ---
 title: arXiv + Replicate | Replicate
 archive_category: model-providers
-source_category: ai/resources
+source_category: ai/agents
 source_url: https://replicate.com/docs/arxiv/about
 resource_id: blog:arxiv-replicate-replicate
-local_vault_path: ai/resources/arxiv-replicate-replicate.md
+local_vault_path: ai/agents/arxiv-replicate-replicate.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
 resource_kind: tutorial
 importance: medium
 tags:
+- agents
+- anthropic
 - web-crawled
-- youtube
 selection_reason:
 - Strong keyword match
 - Valuable developer reference
@@ -31,9 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Google nano-banana-2**: Fast image generation model enabling conversational editing, multi-image fusion, and character consistency with 16.4M runs.
-- **Alibaba Happy Horse 1.0**: Text-to-video generation model supporting 720p/1080p resolutions, 3-15s durations, and five aspect ratios with 31.7K runs.
-- **Google Gemini-3.1-Flash-TTS**: High-speed, expressive TTS model offering 30 voices and 70+ language support with 434.3K runs.
+- **Claude Opus 4.7**: Anthropic's latest model featuring enhanced agentic coding, improved vision capabilities, and superior multi-step reasoning, with 373.6K runs on Replicate.
+
+- **P-Image-Ideogram**: Pruna AI's text-to-image model offering cost-effective generation at $0.003 per image, accumulating 321.8K runs.
+
+- **Nano Banana 2**: Google's rapid image generation model with conversational editing, multi-image fusion, and character consistency, achieving 18M runs.
 
 ## Use Cases
 
@@ -47,4 +50,4 @@ Original source URL: https://replicate.com/docs/arxiv/about
 
 ## Local Vault File
 
-Path: [arxiv-replicate-replicate.md](../../ai/resources/arxiv-replicate-replicate.md)
+Path: [arxiv-replicate-replicate.md](../../ai/agents/arxiv-replicate-replicate.md)

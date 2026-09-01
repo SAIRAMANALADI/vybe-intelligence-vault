@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NirDiamant/RAG_Techniques
-collected_at: '2026-09-01T10:54:38.725424+05:30'
-published_at: '2026-09-01T04:21:26Z'
+collected_at: '2026-09-01T19:06:02.133120+05:30'
+published_at: '2026-09-01T13:15:43Z'
 tags:
 - agents
 - github-repo
@@ -15,7 +15,7 @@ tags:
 - models
 - openai
 - rag
-stars: 29306
+stars: 29318
 language: Jupyter Notebook
 status: active
 license: NOASSERTION
@@ -23,9 +23,9 @@ archived: false
 created_at: '2024-07-13T16:08:36Z'
 pushed_at: '2026-08-29T08:59:28Z'
 resource_id: github:nirdiamant/rag_techniques
-first_seen: '2026-09-01T10:54:38.725424+05:30'
-last_seen: '2026-09-01T10:54:38.725424+05:30'
-last_checked: '2026-09-01T10:54:38.725424+05:30'
+first_seen: '2026-09-01T19:06:02.133120+05:30'
+last_seen: '2026-09-01T19:06:02.133120+05:30'
+last_checked: '2026-09-01T19:06:02.133120+05:30'
 health_score: 100
 ---
 
@@ -33,11 +33,9 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive RAG Techniques**: Repository provides advanced RAG methodologies with Jupyter Notebook tutorials covering agentic RAG, embeddings optimization, and semantic search integration.
-
-- **Multi-Framework Support**: Demonstrates implementations using LangChain, LlamaIndex, and OpenAI APIs for LLM integration, with vector database compatibility.
-
-- **Performance & Scalability**: Focuses on efficient retrieval-augmented generation, including hybrid search, metadata filtering, and large-scale vector database management.
+- **Repository Overview**: Hosts advanced RAG techniques with Jupyter Notebook tutorials, covering agentic RAG, embeddings, semantic search, and vector databases.
+- **Technical Stack**: Integrates LangChain, LlamaIndex, OpenAI APIs, and Python for LLM-based retrieval augmentation.
+- **Metrics**: 29.3K stars, 3.6K forks, last updated September 2026, with topics spanning NLP, generative AI, and vector search optimization.
 
 ## Why It Matters
 
@@ -46,11 +44,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: NirDiamant
-- Stars: 29306
-- Forks: 3582
+- Stars: 29318
+- Forks: 3585
 - Language: Jupyter Notebook
 - Topics: agentic-rag, ai, embeddings, generative-ai, gpt, langchain, llama-index, llm, llms, machine-learning, nlp, openai, python, rag, retrieval-augmented-generation, semantic-search, tutorials, vector-database
-- Last Updated: 2026-09-01T04:21:26Z
+- Last Updated: 2026-09-01T13:15:43Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2024-07-13T16:08:36Z
