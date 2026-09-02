@@ -1,59 +1,55 @@
 ---
-title: mifdlaldev/AI-Agent
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-02
-tech_stack:
-- Python
-- Markdown
-- Vite
-- Bun
-- Vercel
-quality_score: 6
+title: "zetryn-ai/ai-agent"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["Python", "LLM (Groq, Gemini, OpenRouter, Cerebras, Mistral, SambaNova, NVIDIA NIM)", "Pydantic", "Asyncio", "YAML", "PyPI", "Graph-based decision engine"]
+quality_score: 9
 rag_relevance: 7
-deployment_complexity: Medium
-tags:
-- AI agent workflows
-- self-organizing systems
-- knowledge management
-- automation scripts
-- historical reference
-source: https://github.com/mifdlaldev/AI-Agent
-stars: 0
-language: Python
-last_updated: '2026-08-05T13:58:42Z'
-discovered_at: '2026-08-05T14:07:02Z'
-evaluated_by: mistral-small-latest
+deployment_complexity: "Medium"
+tags: ["AI trading", "LLM orchestration", "blockchain intelligence", "declarative agents", "auditable decisions"]
+source: "https://github.com/zetryn-ai/ai-agent"
+stars: 4
+language: "HTML"
+last_updated: "2026-07-11T16:54:20Z"
+discovered_at: "2026-07-11T16:55:41Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-A historical reference repository containing 27 markdown workflows and 4 Python automation scripts designed to power a self-organizing AI agent for the Antigravity platform. It includes structured knowledge management, self-organization rituals, and planning toolkits for long-running agent operations.
+A Python framework for building AI-driven trading agents that convert raw Solana memecoin data into structured, auditable trading decisions. It provides a decision engine with eight reference agents, LLM orchestration, and a declarative graph-based architecture, while enforcing strict separation between decision-making and execution.
 
 ## Key Features
-- 27 structured markdown workflows for AI agent operations
-- 4 Python scripts for workspace health and failure analysis
-- Persistent knowledge base with Topics, Plans, Findings, and Knowledge entries
-- Self-organization rituals (session wake-up, self-audit, failure logging)
-- Planning toolbox including RACI matrices, risk registers, and charters
+- Eight reference AI agents for trading strategies (e.g., Scanner, Sniper, KOL Copy-Trade, Graduation Snipe)
+- Strict separation between decision-making (Zetryn) and execution (bot) to ensure security and auditability
+- Declarative graph-based architecture with YAML support for easy configuration
+- Built-in observability with structured logging, traces, and decision logs for postmortem analysis
+- Multi-provider LLM router with key rotation, rate limiting, and fallback mechanisms
 
 ## Why It Matters for RAG Builders
-It provides a historical blueprint for designing self-organizing AI agents with structured workflows and automation tooling, valuable for understanding agent architecture patterns.
+It provides a robust, auditable framework for AI-driven trading decisions, enabling developers to build and deploy autonomous agents with minimal risk of execution errors or security breaches.
 
 ## Tech Stack Deep Dive
 ### Python
 Automated review identified **Python** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Markdown
-Automated review identified **Markdown** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### LLM (Groq, Gemini, OpenRouter, Cerebras, Mistral, SambaNova, NVIDIA NIM)
+Automated review identified **LLM (Groq, Gemini, OpenRouter, Cerebras, Mistral, SambaNova, NVIDIA NIM)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Vite
-Automated review identified **Vite** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Pydantic
+Automated review identified **Pydantic** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Bun
-Automated review identified **Bun** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Asyncio
+Automated review identified **Asyncio** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Vercel
-Automated review identified **Vercel** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### YAML
+Automated review identified **YAML** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### PyPI
+Automated review identified **PyPI** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Graph-based decision engine
+Automated review identified **Graph-based decision engine** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 
