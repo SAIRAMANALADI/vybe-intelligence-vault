@@ -4,12 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pguso/rag-from-scratch
-collected_at: '2026-09-03T00:59:06.366770+05:30'
+collected_at: '2026-09-03T04:15:40.989315+05:30'
 published_at: '2026-09-01T15:17:22Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - javascript
 - meta-ai
 - models
@@ -22,9 +21,9 @@ archived: false
 created_at: '2025-10-27T16:19:58Z'
 pushed_at: '2026-03-11T11:44:33Z'
 resource_id: github:pguso/rag-from-scratch
-first_seen: '2026-09-03T00:59:06.366770+05:30'
-last_seen: '2026-09-03T00:59:06.366770+05:30'
-last_checked: '2026-09-03T00:59:06.366770+05:30'
+first_seen: '2026-09-03T04:15:40.989315+05:30'
+last_seen: '2026-09-03T04:15:40.989315+05:30'
+last_checked: '2026-09-03T04:15:40.989315+05:30'
 health_score: 100
 ---
 
@@ -32,9 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Implementation Focus**: Demonstrates Retrieval-Augmented Generation (RAG) pipeline using local LLMs (via `node-llama-cpp`) without external black-box services, emphasizing embeddings, vector search, retrieval, and context-augmented generation.
-- **Technical Stack**: Built in JavaScript/Node.js, leveraging local inference for privacy and control, with modular components for embeddings, vector storage, and retrieval.
-- **Educational Objective**: Provides a hands-on tutorial to deconstruct RAG mechanics, covering agents, chatbot integration, and end-to-end pipeline construction for practical understanding.
+- **Educational RAG Implementation**: Demonstrates Retrieval-Augmented Generation (RAG) pipeline from scratch using local LLMs (via `node-llama-cpp`) to eliminate black-box dependencies, focusing on embeddings, vector search, retrieval, and context-augmented generation.
+
+- **JavaScript-Based RAG Stack**: Built entirely in JavaScript/Node.js, leveraging `node-llama-cpp` for local LLM inference, with no external cloud APIs required.
+
+- **Open-Source Tutorial Repository**: Provides a hands-on, step-by-step guide for implementing RAG pipelines, including agents, chatbots, and vector search, with an active community (1.6k+ stars, 193 forks) and recent updates (2026-09-01).
 
 ## Why It Matters
 

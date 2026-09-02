@@ -4,12 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/opendataloader-project/opendataloader-pdf
-collected_at: '2026-09-03T00:59:21.356310+05:30'
+collected_at: '2026-09-03T04:15:56.054593+05:30'
 published_at: '2026-09-02T18:54:44Z'
 tags:
 - github-repo
 - java
 - rag
+- workflows
 stars: 28902
 language: Java
 status: active
@@ -18,9 +19,9 @@ archived: false
 created_at: '2025-05-13T05:48:02Z'
 pushed_at: '2026-09-01T06:03:00Z'
 resource_id: github:opendataloader-project/opendataloader-pdf
-first_seen: '2026-09-03T00:59:21.356310+05:30'
-last_seen: '2026-09-03T00:59:21.356310+05:30'
-last_checked: '2026-09-03T00:59:21.356310+05:30'
+first_seen: '2026-09-03T04:15:56.054593+05:30'
+last_seen: '2026-09-03T04:15:56.054593+05:30'
+last_checked: '2026-09-03T04:15:56.054593+05:30'
 health_score: 100
 ---
 
@@ -28,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Java-based PDF Parser**: Open-source tool designed to extract and convert PDF content into AI-ready formats (HTML, JSON, Markdown) with support for OCR, bounding-box detection, and tagged PDFs for accessibility compliance (PDF/UA, WCAG).
+- **Java-based PDF Parser**: Open-source tool designed for AI-ready data extraction from PDFs, supporting accessibility (a11y, PDF/UA) and automated conversion to structured formats (HTML, JSON, Markdown).
 
-- **Accessibility & AI Integration**: Automates PDF accessibility remediation, enabling structured data extraction for RAG pipelines, table parsing, and OCR recognition while maintaining document semantics for downstream AI applications.
+- **Advanced OCR & Layout Analysis**: Implements OCR recognition and bounding-box detection for unstructured PDFs, including table extraction and tagged PDF support for semantic parsing.
 
-- **Multi-Format Output**: Supports conversion to HTML, JSON, and Markdown, with features for bounding-box extraction, table detection, and OCR for scanned or non-textual PDFs.
+- **Multi-format Output & Integration**: Converts PDFs to AI-compatible formats (JSON, HTML) with optional OCR for scanned documents, facilitating RAG pipelines and document accessibility workflows.
 
 ## Why It Matters
 

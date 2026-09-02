@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://blog.cloudflare.com/cache-transcoding
 hn_url: https://news.ycombinator.com/item?id=49521909
-score: 17
+score: 50
 author: torutofu
-comments_count: 0
+comments_count: 19
 published_at: '2026-09-01T19:11:11+05:30'
-collected_at: '2026-09-03T00:58:04.779152+05:30'
+collected_at: '2026-09-03T04:14:43.794505+05:30'
 tags:
 - hackernews
 - rag
 status: active
 resource_id: hackernews:we-could-save-petabytes-of-cache-storage-with-zsta
 first_seen: '2026-09-03T00:58:04.779152+05:30'
-last_seen: '2026-09-03T00:58:04.779152+05:30'
-last_checked: '2026-09-03T00:58:04.779152+05:30'
+last_seen: '2026-09-03T04:14:43.794505+05:30'
+last_checked: '2026-09-03T04:14:43.794505+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by torutofu. Score: 17, Comments: 0.
+Hacker News story by torutofu. Score: 50, Comments: 19.
 Original Link: https://blog.cloudflare.com/cache-transcoding/
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: torutofu
-- Score: 17 Upvotes
-- Comments: 0 Discussions
+- Score: 50 Upvotes
+- Comments: 19 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49521909
 - Original Article: https://blog.cloudflare.com/cache-transcoding
 

@@ -4,12 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/lancedb/vectordb-recipes
-collected_at: '2026-09-03T00:59:06.288075+05:30'
+collected_at: '2026-09-03T04:15:41.075653+05:30'
 published_at: '2026-08-30T09:54:01Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - jupyter notebook
 - meta-ai
 - models
@@ -24,9 +23,9 @@ archived: false
 created_at: '2023-06-25T06:10:35Z'
 pushed_at: '2026-04-24T11:29:16Z'
 resource_id: github:lancedb/vectordb-recipes
-first_seen: '2026-09-03T00:59:06.288075+05:30'
-last_seen: '2026-09-03T00:59:06.288075+05:30'
-last_checked: '2026-09-03T00:59:06.288075+05:30'
+first_seen: '2026-09-03T04:15:41.075653+05:30'
+last_seen: '2026-09-03T04:15:41.075653+05:30'
+last_checked: '2026-09-03T04:15:41.075653+05:30'
 health_score: 100
 ---
 
@@ -34,11 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal AI & RAG Implementations**: Repository provides Jupyter Notebook-based examples and tutorials for building multimodal AI systems, Retrieval-Augmented Generation (RAG), and AI agents using vector search and Large Language Models (LLMs).
+- **Multimodal AI & RAG Implementations**: Repository provides Jupyter Notebook examples for integrating vector search with LLMs (e.g., GPT-4 Vision, LlamaIndex, LangChain) to build Retrieval-Augmented Generation (RAG) systems supporting multimodal inputs (text, images).
 
-- **Toolchain Integration**: Demonstrates workflows with key frameworks including LangChain, LlamaIndex, OpenAI (GPT-4 Vision), and LanceDB for embeddings, fine-tuning, and vector database operations.
+- **Vector Database Recipes**: Demonstrates practical use cases of LanceDB (a vector database) for efficient similarity search, fine-tuning embeddings, and deploying agents leveraging deep learning models.
 
-- **Technical Focus Areas**: Covers deep learning, machine learning, and multimodal AI techniques with practical implementations for embeddings, vector databases, and agent-based systems.
+- **Tooling & Frameworks**: Includes tutorials on combining OpenAI APIs, LangChain, and LlamaIndex with LanceDB for scalable multimodal AI pipelines, covering embeddings optimization and agent-based workflows.
 
 ## Why It Matters
 

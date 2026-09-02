@@ -4,14 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/freddy-schuetz/n8n-claw
-collected_at: '2026-09-03T01:02:06.471075+05:30'
+collected_at: '2026-09-03T04:18:41.129734+05:30'
 published_at: '2026-08-31T11:02:26Z'
 tags:
 - agents
 - github-repo
 - hackernews
 - rag
-- scripts
 - shell
 - workflows
 stars: 554
@@ -21,9 +20,9 @@ archived: false
 created_at: '2026-02-28T18:13:35Z'
 pushed_at: '2026-08-28T10:59:37Z'
 resource_id: github:freddy-schuetz/n8n-claw
-first_seen: '2026-09-03T01:02:06.471075+05:30'
-last_seen: '2026-09-03T01:02:06.471075+05:30'
-last_checked: '2026-09-03T01:02:06.471075+05:30'
+first_seen: '2026-09-03T04:18:41.129734+05:30'
+last_seen: '2026-09-03T04:18:41.129734+05:30'
+last_checked: '2026-09-03T04:18:41.129734+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Autonomous AI Agent Framework**: OpenClaw-inspired agent built entirely in n8n, featuring adaptive RAG-powered memory, MCP-based Skills, and Expert Agents with delegated sub-agents for proactive task management and media understanding.
+- **Architecture**: n8n-based autonomous AI agent framework inspired by OpenClaw, leveraging adaptive RAG-powered memory, MCP templates for Skills, and hierarchical Expert Agents with delegated sub-agents for task decomposition.
 
-- **Self-Hosted Deployment**: Single-setup script enables self-hosting with integrated components (e.g., Supabase for storage, SearXNG for search, Crawl4AI for scraping).
+- **Capabilities**: Integrates media understanding, proactive task management, and self-hosted deployment via a single setup script, with built-in support for Supabase, SearXNG, and Crawl4AI for data retrieval and processing.
 
-- **Technical Stack**: Shell-based implementation leveraging n8n workflows, MCP templates, and modular architecture for extensibility across AI agent frameworks.
+- **Technical Stack**: Primarily shell-based, with dependencies on n8n, MCP, and external tools (e.g., SearXNG, Supabase) for modular AI agent orchestration and execution.
 
 ## Why It Matters
 

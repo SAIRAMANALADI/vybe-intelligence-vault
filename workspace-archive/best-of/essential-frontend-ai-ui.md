@@ -13,14 +13,19 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `87` | **Path**: [`elevenlabs-github.md`](../../ai/rag/elevenlabs-github.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
-### [GoogleCloudPlatform/agent-starter-pack](https://github.com/GoogleCloudPlatform/agent-starter-pack)
-- **Category**: `ai/agents` | **Kind**: `TEMPLATE` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`googlecloudplatform-agent-starter-pack.md`](../../ai/agents/googlecloudplatform-agent-starter-pack.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
-
 ### [AlexPEClub/ai-coding-starter-kit](https://github.com/AlexPEClub/ai-coding-starter-kit)
 - **Category**: `ai/agents` | **Kind**: `TEMPLATE` | **Tier**: `ESSENTIAL`
 - **Score**: `87` | **Path**: [`alexpeclub-ai-coding-starter-kit.md`](../../ai/agents/alexpeclub-ai-coding-starter-kit.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
+
+### [wassim249/fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template)
+- **Category**: `ai/agents` | **Kind**: `TEMPLATE` | **Tier**: `ESSENTIAL`
+- **Score**: `87` | **Path**: [`wassim249-fastapi-langgraph-agent-production-ready-template.md`](../../ai/agents/wassim249-fastapi-langgraph-agent-production-ready-template.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
+
+### [GoogleCloudPlatform/agent-starter-pack](https://github.com/GoogleCloudPlatform/agent-starter-pack)
+- **Category**: `ai/agents` | **Kind**: `TEMPLATE` | **Tier**: `ESSENTIAL`
+- **Score**: `87` | **Path**: [`googlecloudplatform-agent-starter-pack.md`](../../ai/agents/googlecloudplatform-agent-starter-pack.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
 ### [Staircase AI](https://education.gainsight.com/page/staircase-ai)
@@ -33,6 +38,21 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `82` | **Path**: [`arxiv-2605-18770.md`](../../ai/rag/arxiv-2605-18770.md)
 - **Selection Reason**: Strong keyword match, Valuable developer reference
 
+### [MobilePA-Bench: Benchmarking Mobile Planner Agents on Complex Real-World Tasks](https://arxiv.org/abs/2608.23035)
+- **Category**: `ai/agents` | **Kind**: `BENCHMARK` | **Tier**: `USEFUL`
+- **Score**: `82` | **Path**: [`arxiv-2608-23035.md`](../../ai/agents/arxiv-2608-23035.md)
+- **Selection Reason**: Strong keyword match, Valuable developer reference
+
+### [ZoomV: Temporal Zoom-in for Efficient Long Video Understanding](https://arxiv.org/abs/2504.01407)
+- **Category**: `ai/agents` | **Kind**: `FRAMEWORK` | **Tier**: `USEFUL`
+- **Score**: `82` | **Path**: [`arxiv-2504-01407.md`](../../ai/agents/arxiv-2504-01407.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
+
+### [Claw-SWE-Bench: A Benchmark for Evaluating OpenClaw-style Agent Harnesses on Coding Tasks](https://arxiv.org/abs/2606.12344)
+- **Category**: `ai/agents` | **Kind**: `PROMPT` | **Tier**: `USEFUL`
+- **Score**: `82` | **Path**: [`arxiv-2606-12344.md`](../../ai/agents/arxiv-2606-12344.md)
+- **Selection Reason**: Strong keyword match, Valuable developer reference
+
 ### [Multi-Agent LLM Orchestration Achieves Deterministic, High-Quality Decision Support for Incident Response](https://arxiv.org/abs/2511.15755)
 - **Category**: `ai/agents` | **Kind**: `FRAMEWORK` | **Tier**: `USEFUL`
 - **Score**: `82` | **Path**: [`arxiv-2511-15755.md`](../../ai/agents/arxiv-2511-15755.md)
@@ -43,29 +63,9 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `82` | **Path**: [`arxiv-2608-30685.md`](../../ai/agents/arxiv-2608-30685.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
-### [MobilePA-Bench: Benchmarking Mobile Planner Agents on Complex Real-World Tasks](https://arxiv.org/abs/2608.23035)
-- **Category**: `ai/agents` | **Kind**: `BENCHMARK` | **Tier**: `USEFUL`
-- **Score**: `82` | **Path**: [`arxiv-2608-23035.md`](../../ai/agents/arxiv-2608-23035.md)
-- **Selection Reason**: Strong keyword match, Valuable developer reference
-
-### [Claw-SWE-Bench: A Benchmark for Evaluating OpenClaw-style Agent Harnesses on Coding Tasks](https://arxiv.org/abs/2606.12344)
-- **Category**: `ai/agents` | **Kind**: `PROMPT` | **Tier**: `USEFUL`
-- **Score**: `82` | **Path**: [`arxiv-2606-12344.md`](../../ai/agents/arxiv-2606-12344.md)
-- **Selection Reason**: Strong keyword match, Valuable developer reference
-
-### [ZoomV: Temporal Zoom-in for Efficient Long Video Understanding](https://arxiv.org/abs/2504.01407)
-- **Category**: `ai/agents` | **Kind**: `FRAMEWORK` | **Tier**: `USEFUL`
-- **Score**: `82` | **Path**: [`arxiv-2504-01407.md`](../../ai/agents/arxiv-2504-01407.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
-
 ### [Robust Biharmonic Skinning Using Geometric Fields](https://arxiv.org/abs/2406.00238)
 - **Category**: `ai/research` | **Kind**: `FRAMEWORK` | **Tier**: `USEFUL`
 - **Score**: `82` | **Path**: [`arxiv-2406-00238.md`](../../ai/research/arxiv-2406-00238.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
-
-### [Future Confidence Distillation in Large Language Models](https://arxiv.org/abs/2607.07626)
-- **Category**: `ai/research` | **Kind**: `FRAMEWORK` | **Tier**: `USEFUL`
-- **Score**: `82` | **Path**: [`arxiv-2607-07626.md`](../../ai/research/arxiv-2607-07626.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
 
@@ -88,4 +88,4 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 *Curated by Harvester Engine*
 
-*Last updated: 2026-09-03 01:06 IST*
+*Last updated: 2026-09-03 04:32 IST*

@@ -4,14 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ragnarokoffline/ragnarokoffline.github.io
-collected_at: '2026-09-03T00:58:56.289045+05:30'
+collected_at: '2026-09-03T04:15:30.998231+05:30'
 published_at: '2026-08-24T08:08:48Z'
 tags:
 - github-repo
 - hackernews
 - html
 - rag
-- scripts
 stars: 20
 language: HTML
 status: active
@@ -19,9 +18,9 @@ archived: false
 created_at: '2025-02-06T11:16:38Z'
 pushed_at: '2026-08-13T00:14:50Z'
 resource_id: github:ragnarokoffline/ragnarokoffline.github.io
-first_seen: '2026-09-03T00:58:56.289045+05:30'
-last_seen: '2026-09-03T00:58:56.289045+05:30'
-last_checked: '2026-09-03T00:58:56.289045+05:30'
+first_seen: '2026-09-03T04:15:30.998231+05:30'
+last_seen: '2026-09-03T04:15:30.998231+05:30'
+last_checked: '2026-09-03T04:15:30.998231+05:30'
 health_score: 100
 ---
 
@@ -29,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository**: Hosts the official website for *Ragnarok Offline Pre-Renewal Pack*, a modified version of *Ragnarok Online* using *OpenKore* and *rAthena* server emulation.
-- **Technical Stack**: Pure HTML-based frontend with no backend logic; integrates with *OpenKore* for client automation and *rAthena* for server-side emulation.
-- **Metadata**: 20 stars, 10 forks, last updated **2026-08-24**; categorized under *OpenKore*, *Ragnarok*, and *rAthena* for offline play.
+- **Repository**: Hosts the official webpage for *Ragnarok Offline Pre-Renewal Pack*, a modified version of *Ragnarok Online* using *OpenKore* and *rAthena* emulation.
+- **Technical Stack**: Static HTML site, likely serving as a documentation hub for offline client modifications and server integration.
+- **Last Update**: Repository was last synced on **2026-08-24**, indicating active maintenance for Pre-Renewal content.
 
 ## Why It Matters
 

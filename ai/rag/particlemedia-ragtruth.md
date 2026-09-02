@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ParticleMedia/RAGTruth
-collected_at: '2026-09-03T00:58:51.331175+05:30'
+collected_at: '2026-09-03T04:15:26.128994+05:30'
 published_at: '2026-08-29T11:00:59Z'
 tags:
 - benchmark
@@ -21,9 +21,9 @@ archived: false
 created_at: '2023-12-26T05:41:01Z'
 pushed_at: '2024-12-02T21:28:34Z'
 resource_id: github:particlemedia/ragtruth
-first_seen: '2026-09-03T00:58:51.331175+05:30'
-last_seen: '2026-09-03T00:58:51.331175+05:30'
-last_checked: '2026-09-03T00:58:51.331175+05:30'
+first_seen: '2026-09-03T04:15:26.128994+05:30'
+last_seen: '2026-09-03T04:15:26.128994+05:30'
+last_checked: '2026-09-03T04:15:26.128994+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Dataset Purpose**: Introduces *RAGTruth*, a hallucination corpus designed to evaluate and improve trustworthiness in Retrieval-Augmented Generation (RAG) language models by identifying and mitigating factual inaccuracies.
+- **Dataset Purpose**: Introduces *RAGTruth*, a hallucination corpus designed to evaluate and improve the trustworthiness of Retrieval-Augmented Generation (RAG) language models by identifying and mitigating hallucinations in generated outputs.
 
-- **Technical Scope**: Provides a Python-based framework for generating, annotating, and benchmarking hallucinations in RAG systems, enabling systematic assessment of model reliability.
+- **Technical Components**: Contains structured datasets (Python-based) with annotated instances of hallucinations, enabling fine-grained analysis of RAG model failures in real-world retrieval-augmented scenarios.
 
-- **Repository Details**: Last updated on 2026-08-29, with 269 stars and 35 forks, hosted on GitHub under the *ParticleMedia* organization.
+- **Evaluation Framework**: Provides benchmarks and tools for assessing hallucination rates, enabling researchers to compare model performance and develop mitigation strategies for trustworthy RAG systems.
 
 ## Why It Matters
 

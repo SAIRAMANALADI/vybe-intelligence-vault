@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/zai-org/Open-AutoGLM
-collected_at: '2026-09-03T01:01:56.410960+05:30'
+collected_at: '2026-09-03T04:18:31.134807+05:30'
 published_at: '2026-09-02T16:18:48Z'
 tags:
 - agents
@@ -12,7 +12,6 @@ tags:
 - python
 - rag
 - scripts
-- workflows
 stars: 26146
 language: Python
 status: active
@@ -21,9 +20,9 @@ archived: false
 created_at: '2025-12-08T09:23:44Z'
 pushed_at: '2026-03-06T08:38:39Z'
 resource_id: github:zai-org/open-autoglm
-first_seen: '2026-09-03T01:01:56.410960+05:30'
-last_seen: '2026-09-03T01:01:56.410960+05:30'
-last_checked: '2026-09-03T01:01:56.410960+05:30'
+first_seen: '2026-09-03T04:18:31.134807+05:30'
+last_seen: '2026-09-03T04:18:31.134807+05:30'
+last_checked: '2026-09-03T04:18:31.134807+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Open-AutoGLM Framework**: A Python-based open-source framework designed to create autonomous phone agent models, enabling AI-driven interactions with mobile devices via structured APIs and toolkits.
+- **Open-AutoGLM Framework**: A Python-based open-source framework designed to deploy autonomous phone agents capable of executing tasks via natural language commands, enabling hands-free device interaction.
 
-- **Agent Architecture**: Implements a modular agent system with pluggable components for perception, decision-making, and action execution, leveraging large language models (LLMs) for adaptive phone task automation.
+- **Agent Architecture**: Implements a modular agent system with tools for call handling, SMS processing, and UI automation, leveraging large language models (LLMs) for decision-making and task execution.
 
-- **Deployment & Scalability**: Supports cross-platform deployment (Android/iOS) with optimized inference pipelines, multi-modal input handling (text, voice, touch), and extensible plugin ecosystem for custom automation workflows.
+- **Scalability & Integration**: Supports extensibility via APIs and custom tool integrations, with active community contributions and frequent updates (last commit: 2026-09-02).
 
 ## Why It Matters
 

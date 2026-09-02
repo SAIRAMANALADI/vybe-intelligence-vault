@@ -13,13 +13,14 @@ collected_at: '2026-09-03T00:58:05.851736+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:the-race-to-engineer-new-knobs-for-the-human-brain
 first_seen: '2026-09-03T00:58:05.851736+05:30'
 last_seen: '2026-09-03T00:58:05.851736+05:30'
 last_checked: '2026-09-03T00:58:05.851736+05:30'
 health_score: 100
 ---
+
 
 # The race to engineer new knobs for the human brain
 

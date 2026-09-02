@@ -8,11 +8,6 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 ## Curated Top Resources
 
-### [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)
-- **Category**: `ai/agents` | **Kind**: `PRODUCT` | **Tier**: `ESSENTIAL`
-- **Score**: `95` | **Path**: [`addyosmani-agent-skills.md`](../../ai/agents/addyosmani-agent-skills.md)
-- **Selection Reason**: Strong keyword match, Active open-source repository
-
 ### [Mintlify · GitHub](https://github.com/mintlify)
 - **Category**: `ai/resources` | **Kind**: `TEMPLATE` | **Tier**: `ESSENTIAL`
 - **Score**: `91` | **Path**: [`mintlify-github.md`](../../ai/resources/mintlify-github.md)
@@ -28,6 +23,16 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `90` | **Path**: [`arxiv-2606-24429.md`](../../ai/agents/arxiv-2606-24429.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
+### [greensock/gsap-skills](https://github.com/greensock/gsap-skills)
+- **Category**: `ai/agents` | **Kind**: `TOOL` | **Tier**: `ESSENTIAL`
+- **Score**: `89` | **Path**: [`greensock-gsap-skills.md`](../../ai/agents/greensock-gsap-skills.md)
+- **Selection Reason**: Strong keyword match, Active open-source repository
+
+### [SonarSource/sonarqube-mcp-server](https://github.com/SonarSource/sonarqube-mcp-server)
+- **Category**: `ai/agents` | **Kind**: `MCP-SERVER` | **Tier**: `ESSENTIAL`
+- **Score**: `89` | **Path**: [`sonarsource-sonarqube-mcp-server.md`](../../ai/agents/sonarsource-sonarqube-mcp-server.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
+
 ### [golf-mcp/golf](https://github.com/golf-mcp/golf)
 - **Category**: `ai/agents` | **Kind**: `MCP-SERVER` | **Tier**: `ESSENTIAL`
 - **Score**: `89` | **Path**: [`golf-mcp-golf.md`](../../ai/agents/golf-mcp-golf.md)
@@ -38,34 +43,29 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `89` | **Path**: [`redhat-data-and-ai-template-mcp-server.md`](../../ai/agents/redhat-data-and-ai-template-mcp-server.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
-### [SonarSource/sonarqube-mcp-server](https://github.com/SonarSource/sonarqube-mcp-server)
-- **Category**: `ai/agents` | **Kind**: `MCP-SERVER` | **Tier**: `ESSENTIAL`
-- **Score**: `89` | **Path**: [`sonarsource-sonarqube-mcp-server.md`](../../ai/agents/sonarsource-sonarqube-mcp-server.md)
+### [ElevenLabs · GitHub](https://github.com/elevenlabs)
+- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
+- **Score**: `89` | **Path**: [`elevenlabs-github.md`](../../ai/rag/elevenlabs-github.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
-### [modelcontextprotocol/typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk)
-- **Category**: `ai/resources` | **Kind**: `MCP-SERVER` | **Tier**: `ESSENTIAL`
-- **Score**: `89` | **Path**: [`modelcontextprotocol-typescript-sdk.md`](../../ai/resources/modelcontextprotocol-typescript-sdk.md)
+### [SylphxAI/pdf-reader-mcp](https://github.com/SylphxAI/pdf-reader-mcp)
+- **Category**: `ai/rag` | **Kind**: `MCP-SERVER` | **Tier**: `ESSENTIAL`
+- **Score**: `89` | **Path**: [`sylphxai-pdf-reader-mcp.md`](../../ai/rag/sylphxai-pdf-reader-mcp.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
-### [jlbadano/ig-mcp](https://github.com/jlbadano/ig-mcp)
-- **Category**: `ai/resources` | **Kind**: `MCP-SERVER` | **Tier**: `ESSENTIAL`
-- **Score**: `89` | **Path**: [`jlbadano-ig-mcp.md`](../../ai/resources/jlbadano-ig-mcp.md)
+### [WagnerAgent/awesome-mcp-servers-devops](https://github.com/WagnerAgent/awesome-mcp-servers-devops)
+- **Category**: `ai/rag` | **Kind**: `MCP-SERVER` | **Tier**: `ESSENTIAL`
+- **Score**: `89` | **Path**: [`wagneragent-awesome-mcp-servers-devops.md`](../../ai/rag/wagneragent-awesome-mcp-servers-devops.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
-### [Mintlify · GitHub](https://github.com/mintlify)
-- **Category**: `ai/resources` | **Kind**: `TEMPLATE` | **Tier**: `ESSENTIAL`
-- **Score**: `89` | **Path**: [`mintlify-github.md`](../../ai/resources/mintlify-github.md)
+### [fetchai/innovation-lab-examples](https://github.com/fetchai/innovation-lab-examples)
+- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
+- **Score**: `89` | **Path**: [`fetchai-innovation-lab-examples.md`](../../ai/rag/fetchai-innovation-lab-examples.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
-### [github/github-mcp-server](https://github.com/github/github-mcp-server)
-- **Category**: `ai/resources` | **Kind**: `MCP-SERVER` | **Tier**: `ESSENTIAL`
-- **Score**: `89` | **Path**: [`github-github-mcp-server.md`](../../ai/resources/github-github-mcp-server.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
-
-### [modelcontextprotocol/python-sdk](https://github.com/modelcontextprotocol/python-sdk)
-- **Category**: `ai/resources` | **Kind**: `MCP-SERVER` | **Tier**: `ESSENTIAL`
-- **Score**: `89` | **Path**: [`modelcontextprotocol-python-sdk.md`](../../ai/resources/modelcontextprotocol-python-sdk.md)
+### [Denis2054/Context-Engineering-for-Multi-Agent-Systems](https://github.com/Denis2054/Context-Engineering-for-Multi-Agent-Systems)
+- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
+- **Score**: `89` | **Path**: [`denis2054-context-engineering-for-multi-agent-systems.md`](../../ai/rag/denis2054-context-engineering-for-multi-agent-systems.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
 
@@ -89,4 +89,4 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 *Curated by Harvester Engine*
 
-*Last updated: 2026-09-03 01:06 IST*
+*Last updated: 2026-09-03 04:32 IST*

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Polymarket/agents
-collected_at: '2026-09-03T01:02:21.513182+05:30'
+collected_at: '2026-09-03T04:18:56.166843+05:30'
 published_at: '2026-09-01T15:33:39Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: true
 created_at: '2024-07-03T22:44:18Z'
 pushed_at: '2024-11-05T15:40:29Z'
 resource_id: github:polymarket/agents
-first_seen: '2026-09-03T01:02:21.513182+05:30'
-last_seen: '2026-09-03T01:02:21.513182+05:30'
-last_checked: '2026-09-03T01:02:21.513182+05:30'
+first_seen: '2026-09-03T04:18:56.166843+05:30'
+last_seen: '2026-09-03T04:18:56.166843+05:30'
+last_checked: '2026-09-03T04:18:56.166843+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Autonomous Trading Framework**: Python-based repository enabling AI-driven autonomous trading on Polymarket, leveraging market-making and predictive modeling for profit optimization.
+- **Autonomous Trading Framework**: Python-based repository enabling AI-driven autonomous trading on Polymarket, leveraging market-making and predictive models for decentralized prediction market interactions.
 
-- **Modular Architecture**: Implements pluggable agent strategies, order execution logic, and risk management modules for adaptability across market conditions.
+- **Agent Architecture**: Implements modular agent systems with configurable strategies (e.g., liquidity provision, arbitrage) using Web3.py for blockchain interactions and real-time data feeds from Polymarket’s API.
 
-- **Real-Time Data Integration**: Utilizes Polymarket’s API for live market data, order placement, and position tracking with sub-second latency for high-frequency trading.
+- **Risk & Compliance Integration**: Incorporates transaction validation, slippage control, and gas optimization for Ethereum-based prediction market operations, with support for multi-agent coordination via shared state management.
 
 ## Why It Matters
 

@@ -8,13 +8,13 @@ Agent frameworks simplify state management, tool usage, and memory in multi-agen
 
 ## Top Matched Resources
 
-- [maunappl8/openai-agents-ts-kit](https://github.com/maunappl8/openai-agents-ts-kit) (template - ESSENTIAL Tier)
 - [NanGePlus/CrewAITest](https://github.com/NanGePlus/CrewAITest) (framework - ESSENTIAL Tier)
-- [google-gemini/gemini-fullstack-langgraph-quickstart](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart) (template - ESSENTIAL Tier)
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) (framework - ESSENTIAL Tier)
+- [maunappl8/openai-agents-ts-kit](https://github.com/maunappl8/openai-agents-ts-kit) (template - ESSENTIAL Tier)
 - [scotthavird/crewai-template](https://github.com/scotthavird/crewai-template) (template - ESSENTIAL Tier)
+- [google-gemini/gemini-fullstack-langgraph-quickstart](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart) (template - ESSENTIAL Tier)
 - [fetchai/innovation-lab-examples](https://github.com/fetchai/innovation-lab-examples) (framework - ESSENTIAL Tier)
-- [wassim249/fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template) (template - ESSENTIAL Tier)
+- [Sri-Krishna-V/awesome-adk-agents](https://github.com/Sri-Krishna-V/awesome-adk-agents) (template - ESSENTIAL Tier)
+- [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) (template - ESSENTIAL Tier)
 - [vin67/crewai_docker](https://github.com/vin67/crewai_docker) (template - ESSENTIAL Tier)
 
 ## Best GitHub Repositories
@@ -23,10 +23,10 @@ https://github.com/langchain-ai/langgraph (LangGraph)
 https://github.com/crewAIInc/crewAI (CrewAI)
 https://github.com/microsoft/autogen (AutoGen)
 https://github.com/pydantic/pydantic-ai (Pydantic AI)
-- [maunappl8/openai-agents-ts-kit](https://github.com/maunappl8/openai-agents-ts-kit)
 - [NanGePlus/CrewAITest](https://github.com/NanGePlus/CrewAITest)
+- [maunappl8/openai-agents-ts-kit](https://github.com/maunappl8/openai-agents-ts-kit)
+- [scotthavird/crewai-template](https://github.com/scotthavird/crewai-template)
 - [google-gemini/gemini-fullstack-langgraph-quickstart](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart)
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain)
 
 ## Best Learning Resources
 
@@ -44,4 +44,4 @@ https://github.com/pydantic/pydantic-ai (Pydantic AI)
 
 ---
 
-*Last updated: 2026-09-03 01:04 IST*
+*Last updated: 2026-09-03 04:31 IST*

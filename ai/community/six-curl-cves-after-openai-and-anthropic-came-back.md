@@ -15,13 +15,14 @@ tags:
 - anthropic
 - hackernews
 - openai
-status: active
+status: inactive
 resource_id: hackernews:six-curl-cves-after-openai-and-anthropic-came-back
 first_seen: '2026-09-03T00:58:06.774608+05:30'
 last_seen: '2026-09-03T00:58:06.774608+05:30'
 last_checked: '2026-09-03T00:58:06.774608+05:30'
 health_score: 100
 ---
+
 
 # Six curl CVEs after OpenAI and Anthropic came back with zero
 

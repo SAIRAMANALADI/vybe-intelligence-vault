@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/yzhao062/pyod
-collected_at: '2026-09-03T01:01:36.406988+05:30'
+collected_at: '2026-09-03T04:18:11.106727+05:30'
 published_at: '2026-09-02T06:47:24Z'
 tags:
 - agents
@@ -21,9 +21,9 @@ archived: false
 created_at: '2017-10-03T20:29:04Z'
 pushed_at: '2026-08-19T03:12:27Z'
 resource_id: github:yzhao062/pyod
-first_seen: '2026-09-03T01:01:36.406988+05:30'
-last_seen: '2026-09-03T01:01:36.406988+05:30'
-last_checked: '2026-09-03T01:01:36.406988+05:30'
+first_seen: '2026-09-03T04:18:11.106727+05:30'
+last_seen: '2026-09-03T04:18:11.106727+05:30'
+last_checked: '2026-09-03T04:18:11.106727+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive Anomaly Detection Library**: PyOD supports 60+ detectors for tabular, time series, graph, text, image, and audio data, with benchmark-backed ADEngine orchestration for automated model selection and evaluation.
+- **Comprehensive Anomaly Detection Library**: PyOD supports 60+ anomaly detection algorithms across diverse data modalities including tabular, time series, graph, text, image, and audio, with benchmark-backed orchestration via `ADEngine`.
 
-- **Agentic Workflow Integration**: Enables AI agents to autonomously execute anomaly detection tasks via an agentic workflow, leveraging foundation models for adaptive and multimodal analysis.
+- **Agentic Workflow & Multimodal Integration**: Implements an agentic workflow for AI agents and integrates multimodal anomaly detection, leveraging foundation models for tasks like fraud detection, NLP, and graph anomaly detection.
 
-- **Multimodal & Fraud Detection Focus**: Specialized in fraud detection, graph anomaly detection, and out-of-distribution (OOD) scenarios, with deep learning and unsupervised learning methods for novelty and outlier detection.
+- **Active Development & Community**: Last updated in 2026, the repository has 9,978 stars and 1,503 forks, reflecting strong community adoption and continuous enhancements in unsupervised learning, outlier detection, and deep learning-based methods.
 
 ## Why It Matters
 

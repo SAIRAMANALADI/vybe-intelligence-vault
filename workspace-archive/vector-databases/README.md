@@ -13,8 +13,8 @@ Vector databases provide sub-millisecond similarity search across millions of em
 - [weaviate/Verba](https://github.com/weaviate/Verba) (benchmark - ESSENTIAL Tier)
 - [Pinecone · GitHub](https://github.com/pinecone-io) (framework - ESSENTIAL Tier)
 - [🧩 Integrations | Haystack](https://haystack.deepset.ai/integrations) (framework - ESSENTIAL Tier)
-- [decodingai-magazine/llm-twin-course](https://github.com/decodingai-magazine/llm-twin-course) (tutorial - ESSENTIAL Tier)
 - [VivekMalhan666/rag-beginner-guide](https://github.com/VivekMalhan666/rag-beginner-guide) (benchmark - ESSENTIAL Tier)
+- [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app) (template - ESSENTIAL Tier)
 - [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) (framework - ESSENTIAL Tier)
 
 ## Best GitHub Repositories
@@ -26,7 +26,7 @@ https://github.com/lancedb/lancedb (LanceDB)
 - [neuml/txtai](https://github.com/neuml/txtai)
 - [weaviate/Verba](https://github.com/weaviate/Verba)
 - [Pinecone · GitHub](https://github.com/pinecone-io)
-- [decodingai-magazine/llm-twin-course](https://github.com/decodingai-magazine/llm-twin-course)
+- [VivekMalhan666/rag-beginner-guide](https://github.com/VivekMalhan666/rag-beginner-guide)
 
 ## Best Learning Resources
 
@@ -44,4 +44,4 @@ https://github.com/lancedb/lancedb (LanceDB)
 
 ---
 
-*Last updated: 2026-09-03 01:05 IST*
+*Last updated: 2026-09-03 04:32 IST*

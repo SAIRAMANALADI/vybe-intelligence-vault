@@ -13,13 +13,14 @@ collected_at: '2026-09-03T00:58:03.099821+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:paint-net-5-2-alpha-now-runs-on-linux
 first_seen: '2026-09-03T00:58:03.099821+05:30'
 last_seen: '2026-09-03T00:58:03.099821+05:30'
 last_checked: '2026-09-03T00:58:03.099821+05:30'
 health_score: 100
 ---
+
 
 # Paint.net 5.2 alpha now runs on Linux
 
