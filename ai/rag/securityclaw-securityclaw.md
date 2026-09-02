@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/SecurityClaw/SecurityClaw
-collected_at: '2026-09-02T04:13:53.867370+05:30'
+collected_at: '2026-09-02T10:18:40.265517+05:30'
 published_at: '2026-08-31T01:22:22Z'
 tags:
 - agents
@@ -12,6 +12,7 @@ tags:
 - python
 - rag
 - scripts
+- workflows
 stars: 269
 language: Python
 status: active
@@ -20,9 +21,9 @@ archived: false
 created_at: '2026-03-03T04:38:03Z'
 pushed_at: '2026-08-06T19:58:27Z'
 resource_id: github:securityclaw/securityclaw
-first_seen: '2026-09-02T04:13:53.867370+05:30'
-last_seen: '2026-09-02T04:13:53.867370+05:30'
-last_checked: '2026-09-02T04:13:53.867370+05:30'
+first_seen: '2026-09-02T10:18:40.265517+05:30'
+last_seen: '2026-09-02T10:18:40.265517+05:30'
+last_checked: '2026-09-02T10:18:40.265517+05:30'
 health_score: 100
 ---
 
@@ -30,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Modular SOC Agent**: Python-based autonomous SOC agent with skill-based architecture for real-time monitoring of OpenSearch/Elasticsearch data, enabling scalable threat detection and incident response automation.
+- **Modular SOC Agent**: Python-based autonomous SOC agent with skill-based architecture for real-time monitoring of OpenSearch/Elasticsearch logs, integrating retrieval-augmented generation (RAG) for behavioral memory and anomaly validation via LLMs.
 
-- **RAG-Enhanced Behavioral Memory**: Implements Retrieval-Augmented Generation (RAG) to build contextual behavioral memory from historical logs, improving anomaly validation and reducing false positives via LLM-driven analysis.
+- **RAG-Enhanced Anomaly Detection**: Constructs contextual behavioral memory from historical data to augment real-time threat detection, enabling adaptive validation of anomalies through LLM-driven analysis.
 
-- **LLM-Powered Anomaly Validation**: Integrates large language models (LLMs) to dynamically validate real-time anomalies, combining retrieval-based context with generative reasoning for adaptive cybersecurity threat detection.
+- **Automated Threat Hunting**: Executes autonomous threat detection and hunting workflows, leveraging OpenSearch/Elasticsearch integration for scalable, skill-based automation in security operations.
 
 ## Why It Matters
 

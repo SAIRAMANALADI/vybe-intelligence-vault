@@ -4,12 +4,14 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/MuhammadUsmanGM/claude-code-best-practices
-collected_at: '2026-09-02T04:15:08.945075+05:30'
+collected_at: '2026-09-02T10:19:55.321502+05:30'
 published_at: '2026-08-31T17:17:06Z'
 tags:
 - agents
 - anthropic
 - github-repo
+- hackernews
+- scripts
 - shell
 - workflows
 stars: 76
@@ -20,9 +22,9 @@ archived: false
 created_at: '2026-03-22T10:51:35Z'
 pushed_at: '2026-06-24T15:23:05Z'
 resource_id: github:muhammadusmangm/claude-code-best-practices
-first_seen: '2026-09-02T04:15:08.945075+05:30'
-last_seen: '2026-09-02T04:15:08.945075+05:30'
-last_checked: '2026-09-02T04:15:08.945075+05:30'
+first_seen: '2026-09-02T10:19:55.321502+05:30'
+last_seen: '2026-09-02T10:19:55.321502+05:30'
+last_checked: '2026-09-02T10:19:55.321502+05:30'
 health_score: 100
 ---
 
@@ -30,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Setup & Configuration**: Provides structured guidelines for initializing and configuring Claude Code, including environment setup, dependency management, and CLI tool integration for optimal performance.
+- **Comprehensive Best Practices Guide**: Repository provides structured guidelines for optimizing **Claude Code** usage, including setup, configuration (`CLAUDE.md` templates), and workflow automation for AI-driven development.
 
-- **Workflow & Multi-Agent Patterns**: Documents advanced workflows and multi-agent collaboration patterns, emphasizing task decomposition, inter-agent communication protocols, and synchronization mechanisms for complex AI-driven tasks.
+- **Multi-Agent & Cost Optimization Strategies**: Includes patterns for **multi-agent collaboration** and techniques to minimize computational costs while maximizing efficiency in LLM-based workflows.
 
-- **Cost Optimization & CLAUDE.md Templates**: Includes cost-saving strategies (e.g., token efficiency, caching) and reusable `CLAUDE.md` templates for project-specific instructions, ensuring reproducible and scalable AI agent interactions.
+- **CLI & MCP Integration**: Focuses on **shell-scripting** and **Model Context Protocol (MCP)** integration for seamless automation, with templates for scalable AI-assisted development environments.
 
 ## Why It Matters
 

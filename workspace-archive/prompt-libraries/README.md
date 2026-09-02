@@ -21,12 +21,12 @@ Well-crafted system and user prompts are the primary mechanism for directing LLM
 
 https://github.com/danielmiessler/fabric (Fabric)
 https://github.com/f/awesome-chatgpt-prompts (Awesome Prompts)
-- [langfuse/langfuse](https://github.com/langfuse/langfuse)
 - [Leonxlnx/agentic-ai-prompt-research](https://github.com/Leonxlnx/agentic-ai-prompt-research)
+- [langfuse/langfuse](https://github.com/langfuse/langfuse)
 - [github/awesome-copilot](https://github.com/github/awesome-copilot)
 - [jaypanchal18/production-ai-agents-and-llm-platform](https://github.com/jaypanchal18/production-ai-agents-and-llm-platform)
-- [Code-and-Sorts/awesome-copilot-agents](https://github.com/Code-and-Sorts/awesome-copilot-agents)
 - [stanfordnlp/dsp](https://github.com/stanfordnlp/dsp)
+- [explosion/spacy-llm](https://github.com/explosion/spacy-llm)
 
 ## Best Learning Resources
 
@@ -44,4 +44,4 @@ https://github.com/f/awesome-chatgpt-prompts (Awesome Prompts)
 
 ---
 
-*Last updated: 2026-09-02 04:30 IST*
+*Last updated: 2026-09-02 10:34 IST*

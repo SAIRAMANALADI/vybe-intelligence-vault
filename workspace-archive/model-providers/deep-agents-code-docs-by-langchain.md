@@ -35,11 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Multi-Provider LLM Integration**: `dcode` supports seamless switching between LLM providers/models while maintaining persistent memory for cross-session context retention.
+- **Multi-Provider LLM Integration**: Supports seamless switching between LLM providers/models while maintaining persistent memory for cross-session context retention.
 
-- **Modular Agent Architecture**: Features remote sandboxes, subagents for parallel task delegation, MCP tool integration, and customizable skills via `config.toml` or environment variables.
+- **Modular Agent Architecture**: Enables parallel task execution via subagents, remote sandboxed tool execution, and extensible skills through MCP tools and custom configurations.
 
-- **Controlled Execution & Observability**: Implements human-in-the-loop approval gates, context compaction for memory efficiency,
+- **Controlled Execution & Observability**: Implements human-in-the-loop approval for sensitive operations, context compaction for efficiency, and La
 
 ## Use Cases
 

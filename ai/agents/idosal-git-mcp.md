@@ -4,12 +4,13 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/idosal/git-mcp
-collected_at: '2026-09-02T04:14:28.848470+05:30'
+collected_at: '2026-09-02T10:19:15.259573+05:30'
 published_at: '2026-09-01T22:26:16Z'
 tags:
 - agents
 - anthropic
 - github-repo
+- hackernews
 - typescript
 stars: 8364
 language: TypeScript
@@ -19,9 +20,9 @@ archived: false
 created_at: '2025-03-29T00:44:19Z'
 pushed_at: '2026-05-08T14:21:24Z'
 resource_id: github:idosal/git-mcp
-first_seen: '2026-09-02T04:14:28.848470+05:30'
-last_seen: '2026-09-02T04:14:28.848470+05:30'
-last_checked: '2026-09-02T04:14:28.848470+05:30'
+first_seen: '2026-09-02T10:19:15.259573+05:30'
+last_seen: '2026-09-02T10:19:15.259573+05:30'
+last_checked: '2026-09-02T10:19:15.259573+05:30'
 health_score: 100
 ---
 
@@ -29,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Remote MCP Server for GitHub**: Provides a free, open-source TypeScript-based MCP server enabling remote interaction with any GitHub repository to mitigate AI code hallucinations.
-- **Agentic AI Integration**: Designed for seamless integration with agentic AI frameworks (Claude, Copilot, Cursor) to fetch, analyze, and validate repository data in real-time.
-- **Dynamic Repository Access**: Supports real-time updates and remote execution of Git commands via MCP protocol, ensuring accurate and context-aware AI agent interactions.
+- **Purpose**: GitMCP is a free, open-source remote MCP (Model Context Protocol) server designed to provide structured, real-time access to any GitHub repository, mitigating code hallucinations in AI agents.
+
+- **Technical Stack**: Implemented in TypeScript, GitMCP enables seamless integration with agentic AI tools (e.g., Claude, Copilot, Cursor) via the MCP framework for repository-level context.
+
+- **Functionality**: Acts as a bridge between AI agents and GitHub projects, allowing dynamic, read-only access to repository files, commits, and metadata without local cloning.
 
 ## Why It Matters
 

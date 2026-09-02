@@ -4,14 +4,12 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Code-and-Sorts/awesome-copilot-agents
-collected_at: '2026-09-02T04:14:23.910182+05:30'
+collected_at: '2026-09-02T10:19:10.306288+05:30'
 published_at: '2026-08-28T19:36:34Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - typescript
-- workflows
 stars: 562
 language: TypeScript
 status: active
@@ -20,9 +18,9 @@ archived: false
 created_at: '2025-04-19T17:37:01Z'
 pushed_at: '2026-04-29T06:42:59Z'
 resource_id: github:code-and-sorts/awesome-copilot-agents
-first_seen: '2026-09-02T04:14:23.910182+05:30'
-last_seen: '2026-09-02T04:14:23.910182+05:30'
-last_checked: '2026-09-02T04:14:23.910182+05:30'
+first_seen: '2026-09-02T10:19:10.306288+05:30'
+last_seen: '2026-09-02T10:19:10.306288+05:30'
+last_checked: '2026-09-02T10:19:10.306288+05:30'
 health_score: 100
 ---
 
@@ -30,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated Resource**: A GitHub repository hosting a structured collection of GitHub Copilot AI enhancement files, including instructions, prompts, skills, MCPs (Model Context Protocols), and agent markdown files optimized for AI agent interactions.
-- **Technical Scope**: Supports TypeScript-based custom agents, prompt engineering, and VS Code Copilot Chat integration, with a focus on agent skills (`agent-skills`) and AI-driven workflows.
-- **Metadata**: 562 stars, 91 forks, last updated 2026-08-28, covering topics like `copilot-instructions`, `prompt-engineering`, and `custom-agents` for advanced GitHub Copilot customization.
+- **Curated resource** for GitHub Copilot enhancement, featuring GitHub-specific instructions, prompts, skills, MCPs, and agent markdown files to optimize AI agent interactions.
+- **TypeScript-based repository** with structured contributions across `agent-skills`, `copilot-prompting`, and `custom-agents`, supporting VS Code Copilot Chat integration.
+- **Active maintenance** (last updated Aug 2026) with 562 stars and 91 forks, categorized under `awesome-list` and `prompt-engineering` for extensibility.
 
 ## Why It Matters
 

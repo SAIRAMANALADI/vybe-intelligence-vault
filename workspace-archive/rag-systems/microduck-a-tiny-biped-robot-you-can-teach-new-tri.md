@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Open-source 25 cm bipedal robot** with 15 motors, LiDAR, camera, and dual IMUs, priced at $399; pre-orders open August 27, 2026.
-- **Reinforcement learning pipeline** leveraging MuJoCo-based simulation for policy training, deployable via `robotctl` CLI; 7 pre-trained behaviors (e.g., walking, kicking) with full SDK and Apache-2.0 licensed stack on GitHub.
-- **Modular hardware/software ecosystem** including accessory packs (rollers, NFC tags), spare parts (motors, batteries), and community-dr
+- **Open-source 25 cm bipedal robot** with 15 motors, LiDAR, camera, and dual IMUs, priced at $399, featuring 7 pre-trained RL policies (e.g., walking, kicking) deployable via sim-to-real transfer.
+- **Modular training pipeline** leveraging MuJoCo-based simulation for policy development, with deployment via `robotctl` commands; policies and SDK are fully open-source (Apache-2.0) and retrainable on local hardware or Hugging Face Jobs.
+- **Expandable ecosystem** including accessory packs (rollers,
 
 ## Use Cases
 

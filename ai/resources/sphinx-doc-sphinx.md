@@ -4,24 +4,23 @@ category: ai/resources
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/sphinx-doc/sphinx
-collected_at: '2026-08-11T01:02:26.304597+05:30'
-published_at: '2026-08-10T13:37:29Z'
+collected_at: '2026-09-02T10:25:10.866931+05:30'
+published_at: '2026-09-01T14:11:11Z'
 tags:
 - github-repo
-- hackernews
 - python
 - workflows
-stars: 7971
+stars: 7998
 language: Python
 status: active
 license: NOASSERTION
 archived: false
 created_at: '2015-01-02T10:53:28Z'
-pushed_at: '2026-08-09T23:02:22Z'
+pushed_at: '2026-08-31T00:47:47Z'
 resource_id: github:sphinx-doc/sphinx
-first_seen: '2026-08-11T01:02:26.304597+05:30'
-last_seen: '2026-08-11T01:02:26.304597+05:30'
-last_checked: '2026-08-11T01:02:26.304597+05:30'
+first_seen: '2026-09-02T10:25:10.866931+05:30'
+last_seen: '2026-09-02T10:25:10.866931+05:30'
+last_checked: '2026-09-02T10:25:10.866931+05:30'
 health_score: 100
 ---
 
@@ -29,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Core Functionality**: Sphinx is a Python-based documentation generator that converts reStructuredText (RST) and Markdown into static HTML, PDF, and other formats, widely used for technical documentation.
+- **Core Functionality**: Sphinx is a Python-based documentation generator that supports both reStructuredText and Markdown for source files, enabling static site generation and comprehensive documentation builds.
 
-- **Extensibility**: Supports plugins and custom extensions (e.g., `sphinx.ext.*`) for advanced features like autodoc (API documentation), intersphinx (cross-referencing), and theming.
+- **Extensibility**: Features a plugin architecture for custom extensions, including support for themes, directives, and domains (e.g., Python, C/C++), facilitating tailored documentation workflows.
 
-- **Build System**: Uses a declarative configuration (`conf.py`) and `Makefile`-based workflow to automate documentation compilation, validation, and deployment.
+- **Integration & Tooling**: Supports cross-referencing, automatic API documentation (via `sphinx-apidoc`), and integration with CI/CD pipelines, with last update timestamp indicating active maintenance.
 
 ## Why It Matters
 
@@ -42,15 +41,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: sphinx-doc
-- Stars: 7971
-- Forks: 2514
+- Stars: 7998
+- Forks: 2550
 - Language: Python
 - Topics: docs, documentation, documentation-tool, markdown, python, restructuredtext, sphinx
-- Last Updated: 2026-08-10T13:37:29Z
+- Last Updated: 2026-09-01T14:11:11Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2015-01-02T10:53:28Z
-- Pushed At: 2026-08-09T23:02:22Z
+- Pushed At: 2026-08-31T00:47:47Z
 
 ## Possible Use Cases
 

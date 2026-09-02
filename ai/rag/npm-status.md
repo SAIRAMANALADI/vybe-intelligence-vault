@@ -4,16 +4,16 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://status.npmjs.com/
-published_at: '2026-09-02T04:24:33.678171+05:30'
-collected_at: '2026-09-02T04:24:33.678182+05:30'
+published_at: '2026-09-02T10:28:01.346846+05:30'
+collected_at: '2026-09-02T10:28:01.346863+05:30'
 tags:
 - rag
 - web-crawled
 status: active
 resource_id: blog:npm-status
-first_seen: '2026-09-02T04:24:33.678182+05:30'
-last_seen: '2026-09-02T04:24:33.678182+05:30'
-last_checked: '2026-09-02T04:24:33.678182+05:30'
+first_seen: '2026-09-02T10:28:01.346863+05:30'
+last_seen: '2026-09-02T10:28:01.346863+05:30'
+last_checked: '2026-09-02T10:28:01.346863+05:30'
 health_score: 100
 ---
 
@@ -21,9 +21,9 @@ health_score: 100
 
 ## Summary
 
-- **Operational Status**: npm services (www.npmjs.com, package installation/publishing/search, security audit, replication feed) reported 99.99–100% uptime over the last 90 days with no major incidents recorded in the provided timeline.
-- **Notification System**: Supports email and SMS alerts for incident creation/resolution via reCAPTCHA-protected forms, with OTP-based verification for subscriptions.
-- **Telemetry & Feeds**: Provides historical uptime data via Atom/RSS feeds and tracks real-time service status through a dedicated status page ([status.npmjs.com](https://status.npmjs.com)).
+- **Operational Status**: npm services (website, package installation, publishing, search, security audit, replication feed) reported 100% uptime over the past 90 days, with no major incidents recorded.
+- **Notification System**: Users can subscribe to email/SMS alerts for incident updates via reCAPTCHA-protected forms, with data handling governed by Atlassian/npm privacy policies.
+- **Monitoring Tools**: Historical uptime data is accessible via Atom/RSS feeds (`/history.atom`, `/history.rss`), and incident tracking is managed via Twitter (@npmstatus) and Atlassian Statuspage.
 
 ## Why It Matters
 
@@ -33,7 +33,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-09-02T04:24:33.678171+05:30
+- Published: 2026-09-02T10:28:01.346846+05:30
 
 ## Related Tags
 

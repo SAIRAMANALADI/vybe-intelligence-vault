@@ -4,9 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/DEEP-PolyU/LinearRAG
-collected_at: '2026-09-02T04:14:08.883984+05:30'
+collected_at: '2026-09-02T10:18:55.266785+05:30'
 published_at: '2026-08-30T14:51:28Z'
 tags:
+- dataset
 - github-repo
 - python
 - rag
@@ -18,9 +19,9 @@ archived: false
 created_at: '2025-10-27T02:16:18Z'
 pushed_at: '2026-07-05T00:55:44Z'
 resource_id: github:deep-polyu/linearrag
-first_seen: '2026-09-02T04:14:08.883984+05:30'
-last_seen: '2026-09-02T04:14:08.883984+05:30'
-last_checked: '2026-09-02T04:14:08.883984+05:30'
+first_seen: '2026-09-02T10:18:55.266785+05:30'
+last_seen: '2026-09-02T10:18:55.266785+05:30'
+last_checked: '2026-09-02T10:18:55.266785+05:30'
 health_score: 100
 ---
 
@@ -28,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Linear Graph RAG Architecture**: Proposes a linear-time graph-based retrieval mechanism for RAG, optimizing large-scale corpus processing by reducing retrieval complexity from O(n²) to O(n) via linear graph traversal and hierarchical indexing.
+- **Linear Graph Retrieval Augmented Generation (LinearRAG)**: Introduces a novel linear graph-based RAG framework for large-scale corpora, optimizing retrieval and generation efficiency for LLMs by leveraging linear graph structures to reduce computational overhead while maintaining contextual relevance.
 
-- **Efficient Retrieval Augmentation**: Integrates dynamic graph pruning and adaptive query routing to minimize computational overhead while maintaining retrieval accuracy, leveraging sparse attention and graph neural networks for scalable LLM augmentation.
+- **Scalability & Efficiency**: Proposes a linear-time graph construction and traversal mechanism, enabling scalable retrieval on massive datasets (e.g., billions of nodes) with sub-linear query complexity, addressing bottlenecks in traditional graph-based RAG systems.
 
-- **ICLR 2026 Contribution**: Introduces a novel linear-time graph construction pipeline (LinearRAG) that outperforms traditional dense retrieval methods in both latency and relevance, validated on large-scale corpora with empirical gains in end-to-end generation quality.
+- **ICLR 2026 Contribution**: Demonstrates state-of-the-art performance in retrieval-augmented generation tasks, outperforming existing graph-based RAG methods in both accuracy and latency, with empirical validation on large-scale corpora.
 
 ## Why It Matters
 

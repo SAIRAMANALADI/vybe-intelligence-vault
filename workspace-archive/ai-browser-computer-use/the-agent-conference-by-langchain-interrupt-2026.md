@@ -12,6 +12,7 @@ resource_kind: tutorial
 importance: medium
 tags:
 - agents
+- hackernews
 - web-crawled
 - youtube
 selection_reason:
@@ -30,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Event Overview**: LangChain's "Agent Conference" (Interrupt) scheduled for NYC (Sep 24, 2026) and London (Oct 13, 2026), targeting engineers and teams developing next-gen AI agents.
-- **Key Focus**: Brings together builders to discuss advancements in agent-based AI systems, with tickets available for purchase via [interrupt.langchain.com](https://interrupt.langchain.com/get-tickets).
-- **Platforms & Resources**: Includes video content (e.g., [LangChain Interrupt 26 v3c.mp4](https://pub-5cfb5
+- **Event Details**: Two conferences (NYC on Sep 24, 2026; London on Oct 13, 2026) hosted by LangChain, focusing on AI agent development and innovation.
+- **Target Audience**: Builders, engineers, and teams advancing AI agent technology, featuring networking and technical discussions.
+- **Registration**: Tickets available via [interrupt.langchain.com](https://interrupt.langchain.com/get-tickets), with additional resources on LinkedIn, X (Twitter), and YouTube.
 
 ## Use Cases
 

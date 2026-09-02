@@ -34,11 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Direct Engineering Support**: Haystack Enterprise Starter provides private email support and dedicated consultation hours from the Haystack team for troubleshooting and guidance.
-
-- **Production-Grade Deployment Tooling**: Includes curated pipeline templates (RAG, agentic workflows, multimodal apps) with Hayhooks/Open WebUI integration, plus Helm charts and best practices for secure Kubernetes deployments across cloud/on-prem.
-
-- **Early Access to Enterprise Features**: Offers pre-release ca
+- **Enterprise Support & Guidance**: Provides direct access to Haystack team via private email support and dedicated consultation hours for production-grade AI app development.
+- **Secure Deployment Tooling**: Includes Helm charts, Kubernetes deployment guides (AWS/Azure/GCP/on-prem), and best practices for secure, scalable Haystack pipelines.
+- **Early Features & Templates**: Offers curated pipeline templates (RAG, agentic workflows, multimodal) and early access to enterprise-grade features lik
 
 ## Use Cases
 

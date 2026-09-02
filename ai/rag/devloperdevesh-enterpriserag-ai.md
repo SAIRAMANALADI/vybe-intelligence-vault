@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/devloperdevesh/EnterpriseRAG-AI
-collected_at: '2026-09-02T04:13:53.826945+05:30'
+collected_at: '2026-09-02T10:18:40.236847+05:30'
 published_at: '2026-08-25T05:09:47Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2026-01-02T09:29:28Z'
 pushed_at: '2026-08-25T05:08:51Z'
 resource_id: github:devloperdevesh/enterpriserag-ai
-first_seen: '2026-09-02T04:13:53.826945+05:30'
-last_seen: '2026-09-02T04:13:53.826945+05:30'
-last_checked: '2026-09-02T04:13:53.826945+05:30'
+first_seen: '2026-09-02T10:18:40.236847+05:30'
+last_seen: '2026-09-02T10:18:40.236847+05:30'
+last_checked: '2026-09-02T10:18:40.236847+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Linux-Native & eBPF Integration**: Implements a security and governance mesh for AI agent workloads using eBPF for low-overhead, kernel-level observability and enforcement in Linux environments.
+- **Linux-Native & eBPF Integration**: Leverages eBPF for low-overhead, kernel-level security and observability in AI agent workloads, ensuring minimal performance overhead while enforcing governance policies.
 
-- **Enterprise-Grade RAG Pipeline**: Provides a production-ready Retrieval-Augmented Generation (RAG) framework optimized for distributed AI workloads, with built-in governance controls.
+- **Distributed RAG Mesh**: Implements a cloud-native, distributed Retrieval-Augmented Generation (RAG) framework optimized for enterprise-scale AI workloads with built-in security and compliance controls.
 
-- **Cloud-Native & Observability Focus**: Designed for cloud-native deployments with integrated observability tools, supporting scalability, security, and compliance in multi-agent AI systems.
+- **Observability & Governance**: Provides real-time monitoring, policy enforcement, and audit trails via eBPF-powered instrumentation, enabling secure and compliant AI agent operations in production environments.
 
 ## Why It Matters
 

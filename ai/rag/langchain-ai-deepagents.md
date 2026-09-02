@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/langchain-ai/deepagents/blob/main/libs/code/CHANGELOG.md
-published_at: '2026-09-02T01:11:52.992851+05:30'
-collected_at: '2026-09-02T01:11:52.992864+05:30'
+published_at: '2026-09-02T10:24:27.619559+05:30'
+collected_at: '2026-09-02T10:24:27.619576+05:30'
 tags:
 - agents
 - anthropic
@@ -19,9 +19,9 @@ tags:
 - youtube
 status: active
 resource_id: github:langchain-ai/deepagents
-first_seen: '2026-09-02T01:11:52.992864+05:30'
-last_seen: '2026-09-02T01:11:52.992864+05:30'
-last_checked: '2026-09-02T01:11:52.992864+05:30'
+first_seen: '2026-09-02T10:24:27.619576+05:30'
+last_seen: '2026-09-02T10:24:27.619576+05:30'
+last_checked: '2026-09-02T10:24:27.619576+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- Added Python extension support with discovery, configuration, runtime hosting, and UX inspection features ([#5631](https://github.com/langchain-ai/deepagents/issues/5631), [#5632](https://github.com/langchain-ai/deepagents/issues/5632), [#5633](https://github.com/langchain-ai/deepagents/issues/5633), [#5634](https://github.com/langchain-ai/deepagents/issues/5634))
-- Implemented retry middleware for transient model errors in model nodes and improved model/task reliability via stream recovery and stale work isolation ([#4569](https://github.com/langchain-ai/deepagents/issues/4569), [#5905](https://github.com/langchain-ai/deepagents/issues/5905), [#5909](https://github.com/langchain-ai/deepagents/issues/5909), [#5954](https://github.com/langchain-ai/deepagents/issues/5954))
-- Added `/summarization-model` command, trace metadata attribution for skill invocations, and managed config support from remote sources ([#5884](https://github.com/langchain-ai/deepagents/issues/5884), [#5932](https://github.com/langchain-ai/deepagents/issues/5932), [#5925](https://github.com/langchain-ai/deepagents/issues/5925), [#5776](https://github.com/langchain-ai/deepagents/issues/5776))
+- **Python Extension Support**: Added full Python extension lifecycle management (discovery, configuration, runtime hosting, trust/inspection UX) with MCP tool name capping for provider compatibility.
+- **Model & Task Reliability**: Implemented retry logic for interrupted model streams, stale pending work recovery before compaction, and isolated parallel task failures to improve robustness.
+- **Trace & Metadata Enhancements**: Introduced trace metadata attribution for skill invocations, editable trace metadata, and improved thread-isolated debug logging for better observability.
 
 ## Why It Matters
 
@@ -41,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-09-02T01:11:52.992851+05:30
+- Published: 2026-09-02T10:24:27.619559+05:30
 
 ## Related Tags
 

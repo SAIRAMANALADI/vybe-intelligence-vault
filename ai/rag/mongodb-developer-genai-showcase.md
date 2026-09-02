@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/mongodb-developer/GenAI-Showcase
-collected_at: '2026-09-02T04:14:53.967662+05:30'
+collected_at: '2026-09-02T10:19:40.315905+05:30'
 published_at: '2026-09-01T22:25:54Z'
 tags:
 - agents
@@ -21,9 +21,9 @@ archived: false
 created_at: '2024-01-30T14:20:36Z'
 pushed_at: '2026-08-21T16:42:58Z'
 resource_id: github:mongodb-developer/genai-showcase
-first_seen: '2026-09-02T04:14:53.967662+05:30'
-last_seen: '2026-09-02T04:14:53.967662+05:30'
-last_checked: '2026-09-02T04:14:53.967662+05:30'
+first_seen: '2026-09-02T10:19:40.315905+05:30'
+last_seen: '2026-09-02T10:19:40.315905+05:30'
+last_checked: '2026-09-02T10:19:40.315905+05:30'
 health_score: 100
 ---
 
@@ -33,9 +33,9 @@ health_score: 100
 
 - **Comprehensive RAG & AI Agent Examples**: Repository provides extensive Jupyter Notebook-based implementations of Retrieval-Augmented Generation (RAG) and AI agent architectures, demonstrating integration with MongoDB Atlas for vector search and document storage.
 
-- **Industry-Specific Use Cases**: Includes sample applications tailored for domain-specific generative AI applications, showcasing MongoDB’s capabilities in handling unstructured data for AI workflows.
+- **Industry-Specific Use Cases**: Includes sample applications tailored for domain-specific generative AI workflows, showcasing MongoDB’s role in enabling scalable, production-ready AI solutions.
 
-- **Python-Centric Tooling**: Focuses on Python-based implementations, leveraging MongoDB’s Python driver (`pymongo`) and Atlas Vector Search for scalable, production-ready generative AI pipelines.
+- **Python-Centric Framework**: Leverages Python for end-to-end AI pipelines, combining MongoDB’s document model, Atlas Vector Search, and LLMs to address real-world generative AI challenges.
 
 ## Why It Matters
 

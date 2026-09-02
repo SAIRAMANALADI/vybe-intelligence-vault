@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/facebookresearch/CRAG
-collected_at: '2026-09-02T04:13:43.870489+05:30'
+collected_at: '2026-09-02T10:18:30.263203+05:30'
 published_at: '2026-08-30T14:52:10Z'
 tags:
 - benchmark
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-03-08T00:05:15Z'
 pushed_at: '2025-06-14T20:40:14Z'
 resource_id: github:facebookresearch/crag
-first_seen: '2026-09-02T04:13:43.870489+05:30'
-last_seen: '2026-09-02T04:13:43.870489+05:30'
-last_checked: '2026-09-02T04:13:43.870489+05:30'
+first_seen: '2026-09-02T10:18:30.263203+05:30'
+last_seen: '2026-09-02T10:18:30.263203+05:30'
+last_checked: '2026-09-02T10:18:30.263203+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Benchmark Suite**: CRAG (Comprehensive RAG Benchmark) provides a standardized evaluation framework for Retrieval-Augmented Generation (RAG) systems, enabling systematic assessment of performance across diverse tasks and datasets.
-
-- **Modular Design**: Implemented in Jupyter Notebooks, CRAG supports extensibility with configurable pipelines for retrieval, augmentation, and generation, facilitating reproducible experiments and comparisons.
-
-- **Evaluation Metrics**: Includes multi-dimensional metrics (e.g., factuality, relevance, latency) to quantify RAG system capabilities, with automated scoring for benchmarking against state-of-the-art models.
+- **CRAG**: A comprehensive benchmark framework designed to evaluate Retrieval-Augmented Generation (RAG) systems, providing standardized metrics and datasets for assessing performance across diverse tasks.
+- **Implementation**: Developed in Jupyter Notebooks, enabling modular and reproducible experimentation with RAG pipelines, including retrieval, generation, and evaluation components.
+- **Scope**: Covers a wide range of RAG scenarios (e.g., open-domain QA, fact-checking) with curated datasets and evaluation protocols to facilitate fair comparisons between models.
 
 ## Why It Matters
 

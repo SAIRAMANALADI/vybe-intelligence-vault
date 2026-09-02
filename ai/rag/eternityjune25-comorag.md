@@ -4,10 +4,9 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/EternityJune25/ComoRAG
-collected_at: '2026-09-02T04:14:13.909946+05:30'
+collected_at: '2026-09-02T10:19:00.259604+05:30'
 published_at: '2026-08-21T23:01:56Z'
 tags:
-- benchmark
 - github-repo
 - python
 - rag
@@ -19,9 +18,9 @@ archived: false
 created_at: '2025-08-18T09:12:16Z'
 pushed_at: '2025-08-28T14:34:38Z'
 resource_id: github:eternityjune25/comorag
-first_seen: '2026-09-02T04:14:13.909946+05:30'
-last_seen: '2026-09-02T04:14:13.909946+05:30'
-last_checked: '2026-09-02T04:14:13.909946+05:30'
+first_seen: '2026-09-02T10:19:00.259604+05:30'
+last_seen: '2026-09-02T10:19:00.259604+05:30'
+last_checked: '2026-09-02T10:19:00.259604+05:30'
 health_score: 100
 ---
 
@@ -29,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Cognitive Architecture Integration**: Introduces a memory-organized RAG framework inspired by human cognitive processes, enabling stateful long narrative reasoning via structured memory hierarchies and retrieval mechanisms.
+- **Cognitive Architecture**: Introduces a memory-organized Retrieval-Augmented Generation (RAG) framework inspired by human cognitive processes, enabling stateful long narrative reasoning via structured memory hierarchies.
 
-- **Stateful Reasoning Pipeline**: Implements dynamic memory updates and retrieval strategies to maintain contextual coherence across extended dialogues or narratives, leveraging episodic and semantic memory modules.
+- **Stateful Reasoning**: Implements dynamic memory retrieval and integration mechanisms to maintain contextual coherence across extended dialogues or narratives, enhancing multi-turn reasoning capabilities.
 
-- **AAAI 2026 Poster Submission**: Proposes novel evaluation metrics and benchmarks for stateful reasoning, with open-source Python implementation for reproducibility and community adoption.
+- **AAAI 2026 Poster**: Presented as a cutting-edge contribution to AI reasoning, with a Python-based implementation available under the MIT License for reproducibility and further research.
 
 ## Why It Matters
 

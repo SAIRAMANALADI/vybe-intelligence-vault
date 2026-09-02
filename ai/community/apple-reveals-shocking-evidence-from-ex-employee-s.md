@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - openai
-status: active
+status: inactive
 resource_id: hackernews:apple-reveals-shocking-evidence-from-ex-employee-s
 first_seen: '2026-09-02T04:11:42.314270+05:30'
 last_seen: '2026-09-02T04:11:42.314270+05:30'
 last_checked: '2026-09-02T04:11:42.314270+05:30'
 health_score: 100
 ---
+
 
 # Apple reveals 'shocking evidence' from ex-employee's MacBook in OpenAI suit
 

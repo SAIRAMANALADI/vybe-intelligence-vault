@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - llm
-status: active
+status: inactive
 resource_id: hackernews:i-trained-a-small-transformer-in-1-5hrs-and-it-bea
 first_seen: '2026-09-02T00:59:01.766758+05:30'
 last_seen: '2026-09-02T04:11:41.836764+05:30'
 last_checked: '2026-09-02T04:11:41.836764+05:30'
 health_score: 100
 ---
+
 
 # I trained a small transformer in 1.5hrs and it beats many LLMs
 

@@ -9,12 +9,12 @@ Public developer APIs supply external context and utilities for LLM tools.
 ## Top Matched Resources
 
 - [OpenAI · GitHub](https://github.com/openai) (framework - ESSENTIAL Tier)
-- [SpeechifyAI Build Docs: TTS API Reference | SpeechifyAI API](https://docs.speechify.ai/tts/guides/welcome) (framework - USEFUL Tier)
+- [Framer: AI design agent](https://www.framer.com) (prompt - USEFUL Tier)
 - [Flama: a Python framework for development and deployment of production-ready APIs, machine learning, and LLM services](https://arxiv.org/abs/2608.18733) (mcp-server - USEFUL Tier)
 - [WordPress Developer Resources | Developer.WordPress.org](https://developer.wordpress.org) (framework - USEFUL Tier)
 - [BuddyPress Developer Resources | Your best buddies ever to help you code.](https://developer.buddypress.org) (tutorial - USEFUL Tier)
 - [ollama/ollama-python](https://github.com/ollama/ollama-python) (framework - USEFUL Tier)
-- [Polymarket/agents](https://github.com/Polymarket/agents) (framework - USEFUL Tier)
+- [supabase/supabase](https://github.com/supabase/supabase) (template - USEFUL Tier)
 - [Welcome to Unstructured! - Unstructured](https://docs.unstructured.io) (tutorial - USEFUL Tier)
 
 ## Best GitHub Repositories
@@ -22,7 +22,7 @@ Public developer APIs supply external context and utilities for LLM tools.
 https://github.com/public-apis/public-apis (Public APIs)
 - [OpenAI · GitHub](https://github.com/openai)
 - [ollama/ollama-python](https://github.com/ollama/ollama-python)
-- [Polymarket/agents](https://github.com/Polymarket/agents)
+- [supabase/supabase](https://github.com/supabase/supabase)
 
 ## Best Learning Resources
 
@@ -40,4 +40,4 @@ https://github.com/public-apis/public-apis (Public APIs)
 
 ---
 
-*Last updated: 2026-09-02 04:30 IST*
+*Last updated: 2026-09-02 10:34 IST*

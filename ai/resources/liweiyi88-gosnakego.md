@@ -4,7 +4,7 @@ category: ai/resources
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/liweiyi88/gosnakego
-collected_at: '2026-09-02T04:16:59.005809+05:30'
+collected_at: '2026-09-02T10:21:50.410236+05:30'
 published_at: '2026-08-24T03:06:58Z'
 tags:
 - github-repo
@@ -17,9 +17,9 @@ archived: false
 created_at: '2022-01-10T05:52:51Z'
 pushed_at: '2023-11-06T05:44:35Z'
 resource_id: github:liweiyi88/gosnakego
-first_seen: '2026-09-02T04:16:59.005809+05:30'
-last_seen: '2026-09-02T04:16:59.005809+05:30'
-last_checked: '2026-09-02T04:16:59.005809+05:30'
+first_seen: '2026-09-02T10:21:50.410236+05:30'
+last_seen: '2026-09-02T10:21:50.410236+05:30'
+last_checked: '2026-09-02T10:21:50.410236+05:30'
 health_score: 100
 ---
 
@@ -27,9 +27,9 @@ health_score: 100
 
 ## Summary
 
-- **Implementation**: A terminal-based snake game developed in Go, utilizing the `github.com/nsf/termbox-go` library for cross-platform terminal rendering and input handling.
-- **Game Logic**: Features core snake mechanics (movement, growth, collision detection) with a score system, and supports keyboard controls (WASD/arrow keys) for directional input.
-- **Dependencies**: Minimal dependencies (only `termbox-go`), with a simple build process (`go build` or `go run main.go`) and no external configuration files.
+- **Implementation**: A snake game developed in Go, utilizing the standard library for rendering and game logic.
+- **Features**: Basic snake mechanics (movement, growth, collision detection) with a terminal-based UI.
+- **Status**: Last updated in August 2026, with minimal community engagement (32 stars, 5 forks).
 
 ## Why It Matters
 

@@ -4,15 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/vercel-labs/coding-agent-template
-collected_at: '2026-09-02T04:14:43.962800+05:30'
-published_at: '2026-09-01T16:09:23Z'
+collected_at: '2026-09-02T10:19:30.291491+05:30'
+published_at: '2026-09-02T03:45:46Z'
 tags:
 - agents
 - github-repo
 - rag
 - typescript
 - workflows
-stars: 1773
+stars: 1774
 language: TypeScript
 status: active
 license: NOASSERTION
@@ -20,9 +20,9 @@ archived: false
 created_at: '2025-09-23T14:00:46Z'
 pushed_at: '2026-08-25T14:46:27Z'
 resource_id: github:vercel-labs/coding-agent-template
-first_seen: '2026-09-02T04:14:43.962800+05:30'
-last_seen: '2026-09-02T04:14:43.962800+05:30'
-last_checked: '2026-09-02T04:14:43.962800+05:30'
+first_seen: '2026-09-02T10:19:30.291491+05:30'
+last_seen: '2026-09-02T10:19:30.291491+05:30'
+last_checked: '2026-09-02T10:19:30.291491+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Multi-agent AI Coding Platform**: Leverages Vercel Sandbox and AI Gateway to enable distributed AI-driven coding workflows with autonomous agent collaboration.
-- **TypeScript-Based Architecture**: Implements a scalable, type-safe system for agent orchestration, task distribution, and inter-agent communication.
-- **Vercel Integration**: Utilizes Vercel’s serverless infrastructure for deployment, sandboxed execution environments, and AI Gateway for optimized LLM inference routing.
+- **Architecture**: Multi-agent AI coding platform leveraging Vercel Sandbox for isolated execution environments and AI Gateway for API orchestration.
+- **Tech Stack**: Built with TypeScript, integrating AI-driven agents for autonomous code generation, testing, and debugging workflows.
+- **Deployment**: Template-based setup for scalable, serverless execution with real-time agent collaboration via Vercel’s infrastructure.
 
 ## Why It Matters
 
@@ -41,11 +41,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: vercel-labs
-- Stars: 1773
+- Stars: 1774
 - Forks: 296
 - Language: TypeScript
 - Topics: None
-- Last Updated: 2026-09-01T16:09:23Z
+- Last Updated: 2026-09-02T03:45:46Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2025-09-23T14:00:46Z

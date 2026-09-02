@@ -5,11 +5,11 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://masteranza.github.io/weedout
 hn_url: https://news.ycombinator.com/item?id=49528895
-score: 18
+score: 88
 author: masteranza
-comments_count: 2
+comments_count: 27
 published_at: '2026-09-02T03:36:57+05:30'
-collected_at: '2026-09-02T04:11:40.176662+05:30'
+collected_at: '2026-09-02T10:14:06.246187+05:30'
 tags:
 - ai
 - hackernews
@@ -17,8 +17,8 @@ tags:
 status: active
 resource_id: hackernews:show-hn-weedout-safari-extension-that-hides-youtub
 first_seen: '2026-09-02T04:11:40.176662+05:30'
-last_seen: '2026-09-02T04:11:40.176662+05:30'
-last_checked: '2026-09-02T04:11:40.176662+05:30'
+last_seen: '2026-09-02T10:14:06.246187+05:30'
+last_checked: '2026-09-02T10:14:06.246187+05:30'
 health_score: 100
 ---
 
@@ -26,7 +26,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by masteranza. Score: 18, Comments: 2.
+Hacker News story by masteranza. Score: 88, Comments: 27.
 Original Link: https://masteranza.github.io/weedout/
 
 ## Why It Matters
@@ -36,8 +36,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: masteranza
-- Score: 18 Upvotes
-- Comments: 2 Discussions
+- Score: 88 Upvotes
+- Comments: 27 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49528895
 - Original Article: https://masteranza.github.io/weedout
 

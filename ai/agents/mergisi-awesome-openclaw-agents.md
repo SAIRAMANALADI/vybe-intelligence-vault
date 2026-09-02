@@ -4,13 +4,12 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/mergisi/awesome-openclaw-agents
-collected_at: '2026-09-02T04:14:43.913657+05:30'
+collected_at: '2026-09-02T10:19:30.261750+05:30'
 published_at: '2026-09-01T17:19:03Z'
 tags:
 - agents
 - anthropic
 - github-repo
-- hackernews
 - html
 - scripts
 stars: 3946
@@ -21,9 +20,9 @@ archived: false
 created_at: '2026-02-05T10:51:17Z'
 pushed_at: '2026-05-25T10:21:05Z'
 resource_id: github:mergisi/awesome-openclaw-agents
-first_seen: '2026-09-02T04:14:43.913657+05:30'
-last_seen: '2026-09-02T04:14:43.913657+05:30'
-last_checked: '2026-09-02T04:14:43.913657+05:30'
+first_seen: '2026-09-02T10:19:30.261750+05:30'
+last_seen: '2026-09-02T10:19:30.261750+05:30'
+last_checked: '2026-09-02T10:19:30.261750+05:30'
 health_score: 100
 ---
 
@@ -31,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository Content**: Hosts 162 production-ready AI agent templates for OpenClaw, utilizing SOUL.md configurations across 19 categories.
-- **Technical Scope**: Supports AI automation, multi-agent systems, and integration with tools like Docker, MCP, and Telegram bots.
-- **Community & Contributions**: Open-source project with 3,946 stars and 638 forks, accepting submissions for new agent templates.
+- **Repository**: `mergisi/awesome-openclaw-agents` hosts **162 production-ready AI agent templates** for OpenClaw, utilizing **SOUL.md configurations** across **19 categories**.
+- **Key Features**: Supports **multi-agent systems**, **no-code automation**, **MCP/Telegram integrations**, and **Docker deployment**, with topics spanning **Claude, CrewClaw, and LLM-based automation**.
+- **Community-Driven**: Open to **submissions** of new agent templates; last updated **2026-09-01**, with **3.9K+ stars** and **639 forks**.
 
 ## Why It Matters
 
@@ -43,7 +42,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: mergisi
 - Stars: 3946
-- Forks: 638
+- Forks: 639
 - Language: HTML
 - Topics: ai-agent-templates, ai-agents, ai-automation, anthropic, automation, awesome, awesome-list, claude, community-agents, crewclaw, docker, llm, mcp, multi-agent, no-code, openclaw, productivity, soul-md, submit-your-agent, telegram-bot
 - Last Updated: 2026-09-01T17:19:03Z

@@ -12,12 +12,14 @@ resource_kind: framework
 importance: medium
 tags:
 - agents
-- producthunt
+- meta-ai
+- models
 - rag
 - reddit
 - scripts
 - web-crawled
 - workflows
+- youtube
 selection_reason:
 - Strong keyword match
 - Useful for project building
@@ -36,11 +38,11 @@ selection_reason:
 
 ## Summary
 
-- **Open-connector**: Open-source gateway enabling standardized interoperability between AI agents and external systems via modular connectors, facilitating real-time data exchange and API integration.
+- **Open-connector**: Open-source gateway enabling interoperability between AI agents and external services via standardized connectors (GitHub: [oomol-lab/open-connector](https://github.com/oomol-lab/open-connector)).
 
-- **NEURAL_MESH**: GitHub repository implementing a neural network mesh architecture for distributed, parallelized inference across edge and cloud environments, optimizing latency-sensitive AI workloads.
+- **Trending AI repositories (Live Mentions)**: Highlighted projects include `leyen-me/170HX-Llama` (LLM fine-tuning), `THU-MAIC/OpenMAIC` (modular AI framework), and `OpenAPITools/openapi-generator` (API schema automation).
 
-- **Trending Topics**: GitHub daily trending topics highlight AI agent frameworks (56.4k sta
+- **Daily trending topics**: Top GitHub trending categ
 
 ## Use Cases
 

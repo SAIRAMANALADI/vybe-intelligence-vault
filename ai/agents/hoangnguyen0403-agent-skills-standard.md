@@ -4,14 +4,12 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/HoangNguyen0403/agent-skills-standard
-collected_at: '2026-09-02T04:15:08.932317+05:30'
+collected_at: '2026-09-02T10:19:55.274298+05:30'
 published_at: '2026-08-31T07:31:23Z'
 tags:
 - agents
 - frontend_ui
 - github-repo
-- hackernews
-- reddit
 - typescript
 stars: 549
 language: TypeScript
@@ -21,9 +19,9 @@ archived: false
 created_at: '2026-01-15T15:33:38Z'
 pushed_at: '2026-08-30T16:18:24Z'
 resource_id: github:hoangnguyen0403/agent-skills-standard
-first_seen: '2026-09-02T04:15:08.932317+05:30'
-last_seen: '2026-09-02T04:15:08.932317+05:30'
-last_checked: '2026-09-02T04:15:08.932317+05:30'
+first_seen: '2026-09-02T10:19:55.274298+05:30'
+last_seen: '2026-09-02T10:19:55.274298+05:30'
+last_checked: '2026-09-02T10:19:55.274298+05:30'
 health_score: 100
 ---
 
@@ -31,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: A curated TypeScript-based collection of **Agent Skills Standards** and **best practices** for programming languages (e.g., Go, Kotlin, Swift) and frameworks (e.g., React, Angular, Spring Boot, Laravel) to guide AI agents in adhering to optimal coding conventions.
-- **Scope & Topics**: Covers **20+ technologies** including mobile (Android/iOS with Flutter/Kotlin/Swift), web (React/Angular/Next.js), backend (Go, NestJS, Spring Boot, Laravel), and cross-platform tools (React Native).
-- **Purpose & Maintenance**: Designed to enforce **consistent agentic AI behavior** across frameworks; last updated **August 2026**, with **549 stars** and **158 forks** indicating active community adoption.
+- **Repository Overview**: A TypeScript-based collection of standardized agent skills and best practices for AI agents across multiple programming languages and frameworks (e.g., Android, Angular, Flutter, Go, Kotlin, Laravel, NestJS, Next.js, React, Spring Boot).
+
+- **Key Features**: Provides structured guidelines (e.g., Cursor Rules) to ensure AI agents adhere to coding standards and optimal practices in diverse tech stacks.
+
+- **Maintenance**: Last updated in August 2026, with 549 stars and 158 forks, indicating active community engagement.
 
 ## Why It Matters
 

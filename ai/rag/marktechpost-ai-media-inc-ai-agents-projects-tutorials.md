@@ -4,12 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials
-collected_at: '2026-09-02T04:14:28.897045+05:30'
+collected_at: '2026-09-02T10:19:15.281982+05:30'
 published_at: '2026-09-01T15:15:37Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - jupyter notebook
 - rag
 - workflows
@@ -20,9 +19,9 @@ archived: false
 created_at: '2025-05-15T09:00:54Z'
 pushed_at: '2026-08-24T20:18:54Z'
 resource_id: github:marktechpost-ai-media-inc/ai-agents-projects-tutorials
-first_seen: '2026-09-02T04:14:28.897045+05:30'
-last_seen: '2026-09-02T04:14:28.897045+05:30'
-last_checked: '2026-09-02T04:14:28.897045+05:30'
+first_seen: '2026-09-02T10:19:15.281982+05:30'
+last_seen: '2026-09-02T10:19:15.281982+05:30'
+last_checked: '2026-09-02T10:19:15.281982+05:30'
 health_score: 100
 ---
 
@@ -30,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-agent architectures**: Repository focuses on systems integrating multiple AI agents with specialized skills (e.g., planning, reasoning loops) for complex workflows.
-- **Agentic frameworks**: Contains Jupyter Notebooks demonstrating agentic AI development, including memory management, RAG (Retrieval-Augmented Generation), and modular agent interactions.
-- **Technical tutorials**: Provides hands-on projects for agentic coding, engineering, and workflow optimization, targeting advanced AI agent implementations.
+- **Multi-agent systems**: Repository focuses on frameworks and implementations for coordinating multiple AI agents, including communication protocols, role specialization, and conflict resolution mechanisms.
+
+- **Memory & reasoning loops**: Includes tutorials on integrating short-term/long-term memory (e.g., vector DBs, RAG) and iterative reasoning pipelines (e.g., chain-of-thought, self-reflection) for agentic workflows.
+
+- **Agentic development tools**: Provides Jupyter Notebook-based projects for agentic AI engineering, covering frameworks like LangChain, CrewAI, and AutoGen for building autonomous, task-specific agents.
 
 ## Why It Matters
 

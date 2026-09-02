@@ -4,10 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/streamlit/example-app-langchain-rag
-collected_at: '2026-09-02T04:13:18.908719+05:30'
+collected_at: '2026-09-02T10:18:05.231337+05:30'
 published_at: '2026-08-31T17:05:45Z'
 tags:
 - github-repo
+- openai
 - python
 - rag
 - workflows
@@ -19,9 +20,9 @@ archived: false
 created_at: '2024-03-01T22:26:37Z'
 pushed_at: '2024-08-12T19:19:14Z'
 resource_id: github:streamlit/example-app-langchain-rag
-first_seen: '2026-09-02T04:13:18.908719+05:30'
-last_seen: '2026-09-02T04:13:18.908719+05:30'
-last_checked: '2026-09-02T04:13:18.908719+05:30'
+first_seen: '2026-09-02T10:18:05.231337+05:30'
+last_seen: '2026-09-02T10:18:05.231337+05:30'
+last_checked: '2026-09-02T10:18:05.231337+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Hybrid Search Integration**: Demonstrates combining vector similarity search with traditional keyword-based retrieval in LangChain for enhanced document retrieval performance.
+- **Hybrid RAG Pipeline**: Implements a retrieval-augmented generation (RAG) system combining vector store retrieval (likely FAISS or similar) with hybrid search (dense + sparse retrieval) for improved document retrieval accuracy.
 
-- **RAG Pipeline**: Implements a Retrieval-Augmented Generation (RAG) workflow using a vector store (e.g., FAISS or Chroma) to fetch contextually relevant documents before passing them to an LLM for generation.
+- **LangChain Integration**: Utilizes LangChain for orchestrating the RAG workflow, including document loading, text splitting, embedding generation (e.g., with Hugging Face models), and LLM interaction (e.g., via OpenAI or local models).
 
-- **Streamlit UI**: Provides a web interface via Streamlit to interact with the RAG system, allowing users to input queries and view retrieved results alongside generated responses.
+- **Streamlit Frontend**: Deploys a Streamlit-based web interface to visualize and interact with the RAG system, enabling users to input queries and receive augmented responses with retrieved context.
 
 ## Why It Matters
 

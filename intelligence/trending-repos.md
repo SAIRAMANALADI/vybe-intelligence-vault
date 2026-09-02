@@ -22,7 +22,7 @@ Open-source codebases, libraries, and developer configurations indexed on GitHub
 | [mvanhorn/clawdbot-skill-manus](https://github.com/mvanhorn/clawdbot-skill-manus) | `ai-coding-agents/` | 70 |
 | [docksal/docksal](https://github.com/docksal/docksal) | `ai-coding-agents/` | 70 |
 | [codewithaarohi/OpenAI-Agents-SDK-](https://github.com/codewithaarohi/OpenAI-Agents-SDK-) | `ai-coding-agents/` | 70 |
-| [docs/content/index.md at main · github/docs · GitHub](https://github.com/github/docs/blob/main/content/index.md) | `ai-coding-agents/` | 70 |
+| [docs/content/github-cli/github-cli/github-cli-telemetry.md at main · github/docs · GitHub](https://github.com/github/docs/blob/main/content/github-cli/github-cli/github-cli-telemetry.md) | `ai-coding-agents/` | 70 |
 | [cisco-ai-defense/mcp-scanner](https://github.com/cisco-ai-defense/mcp-scanner) | `ai-coding-agents/` | 70 |
 | [EvanThomasLuke/Awesome-AI-Hacking-Agents](https://github.com/EvanThomasLuke/Awesome-AI-Hacking-Agents) | `ai-coding-agents/` | 70 |
 | [Flux159/mcp-chat](https://github.com/flux159/mcp-chat) | `ai-coding-agents/` | 70 |

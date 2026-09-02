@@ -4,15 +4,15 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/caramaschiHG/awesome-ai-agents-2026
-collected_at: '2026-09-02T04:15:13.942036+05:30'
-published_at: '2026-09-01T15:19:28Z'
+collected_at: '2026-09-02T10:20:00.305288+05:30'
+published_at: '2026-09-02T04:14:53Z'
 tags:
 - agents
 - github-repo
 - hackernews
 - openai
 - unknown
-stars: 1714
+stars: 1717
 language: Unknown
 status: active
 license: NOASSERTION
@@ -20,9 +20,9 @@ archived: false
 created_at: '2026-03-07T13:21:09Z'
 pushed_at: '2026-06-10T16:46:10Z'
 resource_id: github:caramaschihg/awesome-ai-agents-2026
-first_seen: '2026-09-02T04:15:13.942036+05:30'
-last_seen: '2026-09-02T04:15:13.942036+05:30'
-last_checked: '2026-09-02T04:15:13.942036+05:30'
+first_seen: '2026-09-02T10:20:00.305288+05:30'
+last_seen: '2026-09-02T10:20:00.305288+05:30'
+last_checked: '2026-09-02T10:20:00.305288+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated Repository**: A GitHub repository (`caramaschiHG/awesome-ai-agents-2026`) hosting a structured, monthly-updated list of **300+ AI agents, frameworks, and tools** spanning **20+ categories**, specifically focused on advancements and resources for **2026**.
-- **Technical Scope**: Encompasses **AI agents, LLM-based systems, machine learning tools**, and frameworks like **LangChain** and **ChatGPT**, with topics including **artificial intelligence** and **agentic architectures**.
-- **Metadata**: **1,714 stars**, **576 forks**, last updated **2026-09-01T15:19:28Z**, with no primary language specified but covering **cutting-edge AI agent technologies**.
+- **Curated Collection**: GitHub repository hosting 300+ AI agent frameworks, tools, and resources across 20+ categories, updated monthly.
+- **Technical Scope**: Covers AI agents, LLM frameworks (e.g., LangChain, ChatGPT), machine learning tools, and related topics for 2026.
+- **Metadata**: 1,717 stars, 579 forks, last updated 2026-09-02; language unspecified.
 
 ## Why It Matters
 
@@ -41,11 +41,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: caramaschiHG
-- Stars: 1714
-- Forks: 576
+- Stars: 1717
+- Forks: 579
 - Language: Unknown
 - Topics: 2026, ai-agents, artificial-intelligence, awesome-list, chatgpt, langchain, llm, machine-learning
-- Last Updated: 2026-09-01T15:19:28Z
+- Last Updated: 2026-09-02T04:14:53Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2026-03-07T13:21:09Z

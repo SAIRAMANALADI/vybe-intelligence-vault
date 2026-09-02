@@ -1,18 +1,17 @@
 ---
 title: arXiv + Replicate | Replicate
 archive_category: model-providers
-source_category: ai/agents
+source_category: ai/resources
 source_url: https://replicate.com/docs/arxiv/about
 resource_id: blog:arxiv-replicate-replicate
-local_vault_path: ai/agents/arxiv-replicate-replicate.md
+local_vault_path: ai/resources/arxiv-replicate-replicate.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
 resource_kind: tutorial
 importance: medium
 tags:
-- agents
-- anthropic
+- openai
 - web-crawled
 selection_reason:
 - Strong keyword match
@@ -32,11 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **Claude Opus 4.7**: Anthropic's latest model featuring enhanced agentic coding, improved vision capabilities, and superior multi-step reasoning, with 373.6K runs on Replicate.
-
-- **P-Image-Ideogram**: Pruna AI's text-to-image model offering cost-effective generation at $0.003 per image, accumulating 321.8K runs.
-
-- **Nano Banana 2**: Google's rapid image generation model with conversational editing, multi-image fusion, and character consistency, achieving 18M runs.
+- **OpenAI's gpt-image-2**: State-of-the-art diffusion-based image generation model excelling in text-to-image synthesis, instruction following, and detailed image editing with sharp text rendering.
+- **Google's nano-banana-2**: Fast diffusion model optimized for conversational image editing, multi-image fusion, and maintaining character consistency across edits.
+- **Krea's krea-2-medium**: Foundation model fine-tuned for expressive illustration, anime, and painterly styles, offering fast infere
 
 ## Use Cases
 
@@ -50,4 +47,4 @@ Original source URL: https://replicate.com/docs/arxiv/about
 
 ## Local Vault File
 
-Path: [arxiv-replicate-replicate.md](../../ai/agents/arxiv-replicate-replicate.md)
+Path: [arxiv-replicate-replicate.md](../../ai/resources/arxiv-replicate-replicate.md)

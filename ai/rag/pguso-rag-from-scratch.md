@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pguso/rag-from-scratch
-collected_at: '2026-09-02T04:12:48.822981+05:30'
+collected_at: '2026-09-02T10:17:35.178994+05:30'
 published_at: '2026-09-01T15:17:22Z'
 tags:
 - agents
@@ -22,9 +22,9 @@ archived: false
 created_at: '2025-10-27T16:19:58Z'
 pushed_at: '2026-03-11T11:44:33Z'
 resource_id: github:pguso/rag-from-scratch
-first_seen: '2026-09-02T04:12:48.822981+05:30'
-last_seen: '2026-09-02T04:12:48.822981+05:30'
-last_checked: '2026-09-02T04:12:48.822981+05:30'
+first_seen: '2026-09-02T10:17:35.178994+05:30'
+last_seen: '2026-09-02T10:17:35.178994+05:30'
+last_checked: '2026-09-02T10:17:35.178994+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Educational RAG Implementation**: Demonstrates Retrieval-Augmented Generation (RAG) pipeline from scratch using **JavaScript/Node.js**, leveraging `node-llama-cpp` for local LLM inference without proprietary black boxes.
+- **Educational RAG Pipeline**: Implements Retrieval-Augmented Generation (RAG) from scratch using JavaScript, focusing on local LLMs (via `node-llama-cpp`) to eliminate black-box dependencies and provide hands-on understanding of embeddings, vector search, retrieval, and context-augmented generation.
 
-- **Core Components**: Implements embeddings generation, vector search (likely via similarity metrics like cosine), retrieval-augmented context integration, and context-augmented generation for chatbot applications.
+- **Modular Architecture**: Demonstrates a complete RAG pipeline with components for document ingestion, embedding generation (e.g., using `sentence-transformers`), vector storage (e.g., FAISS or similar), retrieval (semantic search), and prompt augmentation for LLMs.
 
-- **Local-First Architecture**: Focuses on **offline/self-hosted** workflows using lightweight, local LLMs to avoid cloud dependency, emphasizing transparency and educational value in AI agent design.
+- **Agent-Based Integration**: Includes AI agent workflows (e.g., chatbots) leveraging RAG for dynamic context retrieval, with Node.js compatibility and tutorials for deployment, emphasizing transparency and customization in AI-driven applications.
 
 ## Why It Matters
 

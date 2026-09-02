@@ -4,15 +4,16 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/patchy631/ai-engineering-hub
-collected_at: '2026-09-02T04:12:43.807843+05:30'
-published_at: '2026-09-01T21:40:29Z'
+collected_at: '2026-09-02T10:17:30.163602+05:30'
+published_at: '2026-09-02T02:18:25Z'
 tags:
 - agents
 - github-repo
 - hackernews
 - jupyter notebook
 - rag
-stars: 37277
+- workflows
+stars: 37281
 language: Jupyter Notebook
 status: active
 license: MIT
@@ -20,9 +21,9 @@ archived: false
 created_at: '2024-10-21T10:43:24Z'
 pushed_at: '2026-08-26T21:04:16Z'
 resource_id: github:patchy631/ai-engineering-hub
-first_seen: '2026-09-02T04:12:43.807843+05:30'
-last_seen: '2026-09-02T04:12:43.807843+05:30'
-last_checked: '2026-09-02T04:12:43.807843+05:30'
+first_seen: '2026-09-02T10:17:30.163602+05:30'
+last_seen: '2026-09-02T10:17:30.163602+05:30'
+last_checked: '2026-09-02T10:17:30.163602+05:30'
 health_score: 100
 ---
 
@@ -30,9 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: Hosts advanced tutorials on Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and real-world AI agent applications, structured as Jupyter Notebooks.
-- **Technical Scope**: Covers AI engineering topics including agents, LLMs, machine learning, Model Context Protocol (MCP), and RAG with a focus on practical implementation.
-- **Metrics**: 37,277 stars, 6,152 forks, last updated September 1, 2026.
+- **Comprehensive LLM & RAG Tutorials**: Repository offers detailed, hands-on guides on Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG) techniques, including implementation in Jupyter Notebooks.
+
+- **AI Agent Applications**: Focuses on real-world deployments of AI agents, covering architectural patterns, workflows, and integration strategies for production-grade systems.
+
+- **MCP & Advanced Topics**: Includes resources on Model Context Protocol (MCP) and other cutting-edge AI engineering methodologies, with a structured approach to machine learning workflows.
 
 ## Why It Matters
 
@@ -41,11 +44,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: patchy631
-- Stars: 37277
+- Stars: 37281
 - Forks: 6152
 - Language: Jupyter Notebook
 - Topics: agents, ai, llms, machine-learning, mcp, rag
-- Last Updated: 2026-09-01T21:40:29Z
+- Last Updated: 2026-09-02T02:18:25Z
 - License: MIT
 - Archived: No
 - Created At: 2024-10-21T10:43:24Z

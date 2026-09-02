@@ -4,16 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/jamwithai/production-agentic-rag-course
-collected_at: '2026-09-02T04:13:58.840135+05:30'
-published_at: '2026-09-01T20:23:37Z'
+collected_at: '2026-09-02T10:18:45.216189+05:30'
+published_at: '2026-09-02T03:10:07Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - python
 - rag
-- workflows
-stars: 8556
+stars: 8558
 language: Python
 status: active
 license: MIT
@@ -21,9 +19,9 @@ archived: false
 created_at: '2025-08-06T19:52:50Z'
 pushed_at: '2026-06-05T07:23:49Z'
 resource_id: github:jamwithai/production-agentic-rag-course
-first_seen: '2026-09-02T04:13:58.840135+05:30'
-last_seen: '2026-09-02T04:13:58.840135+05:30'
-last_checked: '2026-09-02T04:13:58.840135+05:30'
+first_seen: '2026-09-02T10:18:45.216189+05:30'
+last_seen: '2026-09-02T10:18:45.216189+05:30'
+last_checked: '2026-09-02T10:18:45.216189+05:30'
 health_score: 100
 ---
 
@@ -31,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: A Python-based course repository focused on production-level Agentic Retrieval-Augmented Generation (RAG) systems, with 8,556 stars and 1,888 forks.
-- **Technical Scope**: Likely covers advanced RAG architectures, agentic workflows, and deployment strategies for scalable AI systems.
-- **Last Updated**: September 1, 2026, indicating recent or ongoing development.
+- **Repository Overview**: GitHub repository `jamwithai/production-agentic-rag-course` focused on production-grade agentic RAG (Retrieval-Augmented Generation) systems, written in Python.
+- **Metrics**: 8,558 stars, 1,889 forks, last updated on **2026-09-02**.
+- **Purpose**: Implied to provide structured guidance for deploying scalable, agent-based RAG pipelines in production environments.
 
 ## Why It Matters
 
@@ -42,11 +40,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: jamwithai
-- Stars: 8556
-- Forks: 1888
+- Stars: 8558
+- Forks: 1889
 - Language: Python
 - Topics: None
-- Last Updated: 2026-09-01T20:23:37Z
+- Last Updated: 2026-09-02T03:10:07Z
 - License: MIT
 - Archived: No
 - Created At: 2025-08-06T19:52:50Z

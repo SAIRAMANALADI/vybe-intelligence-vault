@@ -4,11 +4,13 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/shanraisshan/codex-cli-best-practice
-collected_at: '2026-09-02T04:15:03.929010+05:30'
+collected_at: '2026-09-02T10:19:50.295808+05:30'
 published_at: '2026-09-01T19:59:10Z'
 tags:
 - agents
+- benchmark
 - github-repo
+- hackernews
 - openai
 - python
 - scripts
@@ -21,9 +23,9 @@ archived: false
 created_at: '2026-02-27T07:37:49Z'
 pushed_at: '2026-06-04T18:46:09Z'
 resource_id: github:shanraisshan/codex-cli-best-practice
-first_seen: '2026-09-02T04:15:03.929010+05:30'
-last_seen: '2026-09-02T04:15:03.929010+05:30'
-last_checked: '2026-09-02T04:15:03.929010+05:30'
+first_seen: '2026-09-02T10:19:50.295808+05:30'
+last_seen: '2026-09-02T10:19:50.295808+05:30'
+last_checked: '2026-09-02T10:19:50.295808+05:30'
 health_score: 100
 ---
 
@@ -31,11 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Agentic Workflow Integration**: Repository demonstrates transition from *vibe coding* to *agentic engineering* using **Codex CLI**, emphasizing structured agentic workflows, hooks, and context engineering for AI-driven development.
+- **Agentic Workflow Integration**: Repository demonstrates transition from *vibe coding* to structured *agentic engineering* using OpenAI's Codex CLI, emphasizing modular hooks, context engineering, and skill-based automation for scalable AI agent development.
 
-- **Codex CLI Best Practices**: Provides a curated set of **Codex CLI commands**, skills, and agentic patterns (e.g., `codex-hooks`, `context-engineering`) to optimize AI agent interactions and task automation in Python-based workflows.
+- **CLI-Centric Development**: Provides a curated set of *codex-cli-commands* and *skills* for agent orchestration, including state management, tool integration, and dynamic context injection to optimize multi-agent workflows.
 
-- **Open-Source Toolkit**: A **Pakistan-based developer** project offering reusable templates, CLI skills, and engineering guidelines for OpenAI’s Codex, targeting scalable AI agent deployments and workflow automation.
+- **Best Practice Framework**: Offers a Pakistan-focused (pakistani-developer) technical guide for *agentic-coding* and *context-engineering*, with examples for hook-based extensibility, error handling, and performance benchmarking in AI-driven CLI environments.
 
 ## Why It Matters
 

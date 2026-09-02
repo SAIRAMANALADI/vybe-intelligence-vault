@@ -13,13 +13,14 @@ collected_at: '2026-09-02T04:11:42.811011+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:american-airlines-mechanic-azriel-al-blackman-has
 first_seen: '2026-09-01T19:04:23.330378+05:30'
 last_seen: '2026-09-02T04:11:42.811011+05:30'
 last_checked: '2026-09-02T04:11:42.811011+05:30'
 health_score: 100
 ---
+
 
 # American Airlines mechanic Azriel “Al” Blackman has died
 

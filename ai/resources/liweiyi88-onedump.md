@@ -4,12 +4,13 @@ category: ai/resources
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/liweiyi88/onedump
-collected_at: '2026-09-02T04:16:54.018098+05:30'
+collected_at: '2026-09-02T10:21:50.395431+05:30'
 published_at: '2026-09-01T14:27:31Z'
 tags:
 - github-repo
 - go
 - hackernews
+- workflows
 stars: 990
 language: Go
 status: active
@@ -18,9 +19,9 @@ archived: false
 created_at: '2022-09-24T12:56:28Z'
 pushed_at: '2026-07-25T02:53:13Z'
 resource_id: github:liweiyi88/onedump
-first_seen: '2026-09-02T04:16:54.018098+05:30'
-last_seen: '2026-09-02T04:16:54.018098+05:30'
-last_checked: '2026-09-02T04:16:54.018098+05:30'
+first_seen: '2026-09-02T10:21:50.395431+05:30'
+last_seen: '2026-09-02T10:21:50.395431+05:30'
+last_checked: '2026-09-02T10:21:50.395431+05:30'
 health_score: 100
 ---
 
@@ -28,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Unified Database Administration**: Go-based tool (`onedump`) for streamlined database backup, slow query log analysis, and file synchronization across heterogeneous database systems.
-- **Key Features**: Supports on-demand and scheduled backups, integrates slow query log extraction, and enables cross-platform file synchronization for database artifacts.
-- **Technical Stack**: Built in Go, optimized for performance and minimal overhead; actively maintained with last update in September 2026.
+- **Tool Overview**: `onedump` is a Go-based, open-source database administration utility designed for effortless database backup, slow query logging, and file synchronization tasks.
+- **Core Features**: Supports database dumping/backups, slow query analysis, and cross-system file synchronization with a focus on database administration (DBA) workflows.
+- **Technical Stack**: Written in Go, with active maintenance (last updated 2026-09-01) and a growing community (990 stars, 71 forks).
 
 ## Why It Matters
 

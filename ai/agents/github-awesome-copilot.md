@@ -4,25 +4,24 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/github/awesome-copilot
-collected_at: '2026-09-02T04:14:18.906595+05:30'
-published_at: '2026-09-01T21:44:56Z'
+collected_at: '2026-09-02T10:19:05.325976+05:30'
+published_at: '2026-09-02T04:34:20Z'
 tags:
 - agents
 - github-repo
 - hackernews
 - javascript
-- workflows
-stars: 38524
+stars: 38533
 language: JavaScript
 status: active
 license: MIT
 archived: false
 created_at: '2025-06-11T16:57:39Z'
-pushed_at: '2026-09-01T20:53:42Z'
+pushed_at: '2026-09-02T02:11:55Z'
 resource_id: github:github/awesome-copilot
-first_seen: '2026-09-02T04:14:18.906595+05:30'
-last_seen: '2026-09-02T04:14:18.906595+05:30'
-last_checked: '2026-09-02T04:14:18.906595+05:30'
+first_seen: '2026-09-02T10:19:05.325976+05:30'
+last_seen: '2026-09-02T10:19:05.325976+05:30'
+last_checked: '2026-09-02T10:19:05.325976+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Curated Resource Hub**: GitHub repository aggregating community-driven instructions, agents, skills, and configurations to optimize GitHub Copilot usage, covering prompt engineering, custom agents, and AI integration.
+- **Curated Resource Hub**: A community-driven GitHub repository (`github/awesome-copilot`) providing structured instructions, agents, skills, and configurations to optimize GitHub Copilot usage, including prompt engineering techniques and custom agent implementations.
 
-- **Technical Scope**: Focuses on JavaScript-based implementations, including agent-skills, custom-agents, and hacktoberfest contributions, with last update timestamped **2026-09-01T21:44:56Z**.
+- **Technical Scope**: Focuses on AI-driven development tools, covering topics like `agent-skills`, `custom-agents`, and `prompt-engineering`, with contributions actively maintained under the `hacktoberfest` initiative.
 
-- **Metrics**: High engagement with **38,524 stars** and **4,869 forks**, emphasizing its role as a central reference for advanced Copilot customization and AI-driven workflows.
+- **Metadata**: Highly starred (38,533) and forked (4,871) JavaScript-based repository, last updated on **2026-09-02**, serving as a centralized reference for enhancing Copilot's capabilities.
 
 ## Why It Matters
 
@@ -43,15 +42,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: github
-- Stars: 38524
-- Forks: 4869
+- Stars: 38533
+- Forks: 4871
 - Language: JavaScript
 - Topics: agent-skills, agents, ai, awesome, custom-agents, github-copilot, hacktoberfest, prompt-engineering
-- Last Updated: 2026-09-01T21:44:56Z
+- Last Updated: 2026-09-02T04:34:20Z
 - License: MIT
 - Archived: No
 - Created At: 2025-06-11T16:57:39Z
-- Pushed At: 2026-09-01T20:53:42Z
+- Pushed At: 2026-09-02T02:11:55Z
 
 ## Possible Use Cases
 

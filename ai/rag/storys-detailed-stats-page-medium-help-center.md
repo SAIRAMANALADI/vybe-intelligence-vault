@@ -4,16 +4,17 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://help.medium.com/hc/en-us/articles/34831991136151
-published_at: '2026-09-01T19:15:22.437529+05:30'
-collected_at: '2026-09-01T19:15:22.437540+05:30'
+published_at: '2026-09-02T10:24:41.398848+05:30'
+collected_at: '2026-09-02T10:24:41.398862+05:30'
 tags:
 - rag
+- reddit
 - web-crawled
 status: active
 resource_id: blog:storys-detailed-stats-page-medium-help-center
-first_seen: '2026-09-01T19:15:22.437540+05:30'
-last_seen: '2026-09-01T19:15:22.437540+05:30'
-last_checked: '2026-09-01T19:15:22.437540+05:30'
+first_seen: '2026-09-02T10:24:41.398862+05:30'
+last_seen: '2026-09-02T10:24:41.398862+05:30'
+last_checked: '2026-09-02T10:24:41.398862+05:30'
 health_score: 100
 ---
 
@@ -21,11 +22,11 @@ health_score: 100
 
 ## Summary
 
-- **Performance Metrics**: Lifetime stats include total presentations (suggested views), views (landing on the story), and reads (30+ second engagement), with hourly updates (daily for earnings). Monthly metrics track earnings, views, reads, and engagement (claps, highlights, responses, followers), with daily updates and a member read ratio for earnings adjustment.
+- **Lifetime Metrics**: Includes total presentations (Medium-suggested views), views (story landings), reads (30+ second engagements), and impact metrics like earnings (paywalled stories only), follower/subscription changes, updated hourly (daily for earnings).
 
-- **Traffic & Access Analysis**: Traffic sources section breaks down views from Medium’s distribution and top external sources (hourly updates). Paywalled stories include Friend link views (hourly updates), while Audience interests chart shows topic affinities of logged-in readers based on their Medium account data (daily updates, if sufficient data exists).
+- **Monthly Engagement**: Tracks earnings, views, reads, and engagement (claps, highlights, responses, new followers) per selected month, with yellow indicators showing metrics contributing to earnings; member read ratio (member reads ÷ member views) adjusts earnings to deter clickbait.
 
-- **Earnings & Impact Tracking**: Earnings are only accrued while a story is paywalled and updated daily. Follower and subscriber counts reflect post-read actions, with yellow-highlighted metrics in charts indicating potential earnings contributions.
+- **Traffic & Audience Analysis**: Provides hourly-updated traffic source breakdown (Medium distribution vs. external sources) and daily-updated audience interests (topic affinities of logged-in readers), which may be unavailable for non-account-holder traffic.
 
 ## Why It Matters
 
@@ -35,11 +36,12 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-09-01T19:15:22.437529+05:30
+- Published: 2026-09-02T10:24:41.398848+05:30
 
 ## Related Tags
 
 - rag
+- reddit
 - web-crawled
 
 ## Source

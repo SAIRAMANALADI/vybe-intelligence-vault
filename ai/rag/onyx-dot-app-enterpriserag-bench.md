@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/onyx-dot-app/EnterpriseRAG-Bench
-collected_at: '2026-09-02T04:13:43.879841+05:30'
+collected_at: '2026-09-02T10:18:30.275749+05:30'
 published_at: '2026-09-01T14:02:29Z'
 tags:
 - benchmark
@@ -21,9 +21,9 @@ archived: false
 created_at: '2026-02-19T02:48:25Z'
 pushed_at: '2026-05-08T02:57:41Z'
 resource_id: github:onyx-dot-app/enterpriserag-bench
-first_seen: '2026-09-02T04:13:43.879841+05:30'
-last_seen: '2026-09-02T04:13:43.879841+05:30'
-last_checked: '2026-09-02T04:13:43.879841+05:30'
+first_seen: '2026-09-02T10:18:30.275749+05:30'
+last_seen: '2026-09-02T10:18:30.275749+05:30'
+last_checked: '2026-09-02T10:18:30.275749+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Provides a dataset and benchmark framework for evaluating Retrieval-Augmented Generation (RAG) systems on proprietary company documents, enabling standardized assessment of enterprise RAG performance.
-- **Features**: Includes synthetic data generation, semantic search evaluation, and LLM-based QA tasks tailored for enterprise knowledge bases and internal document retrieval.
-- **Technical Scope**: Supports Python-based RAG evaluation pipelines, covering metrics like retrieval accuracy, answer correctness, and generative AI performance in enterprise contexts.
+- **Purpose**: Provides a benchmarking framework for Retrieval-Augmented Generation (RAG) systems tailored to company internal documents, enabling evaluation of enterprise-specific RAG performance.
+- **Dataset Features**: Includes synthetic and real-world enterprise data, covering diverse domains (e.g., legal, financial, technical) with structured Q&A pairs and retrieval tasks for assessing semantic search and knowledge base integration.
+- **Evaluation Metrics**: Supports standardized RAG evaluation metrics (e.g., retrieval precision/recall, answer correctness, latency) with Python-based tooling for reproducibility and comparative analysis across models.
 
 ## Why It Matters
 

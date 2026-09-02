@@ -4,10 +4,11 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/odsc2015/agentic-hackathon-template
-collected_at: '2026-09-02T04:16:08.979466+05:30'
+collected_at: '2026-09-02T10:20:55.353746+05:30'
 published_at: '2026-05-10T13:08:24Z'
 tags:
 - agents
+- benchmark
 - github-repo
 - unknown
 stars: 19
@@ -18,9 +19,9 @@ archived: false
 created_at: '2025-07-24T08:33:29Z'
 pushed_at: '2025-07-25T16:42:10Z'
 resource_id: github:odsc2015/agentic-hackathon-template
-first_seen: '2026-09-02T04:16:08.979466+05:30'
-last_seen: '2026-09-02T04:16:08.979466+05:30'
-last_checked: '2026-09-02T04:16:08.979466+05:30'
+first_seen: '2026-09-02T10:20:55.353746+05:30'
+last_seen: '2026-09-02T10:20:55.353746+05:30'
+last_checked: '2026-09-02T10:20:55.353746+05:30'
 health_score: 100
 ---
 
@@ -28,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Standardized Starter Repository**: Provides a preconfigured folder structure, environment specifications (e.g., `environment.yml` or `requirements.txt`), and documentation templates to ensure reproducibility for the Agentic AI App Hackathon.
+- **Standardized starter repository** for Agentic AI App Hackathon, offering preconfigured folder structure, environment specifications (`environment.yml`/Dockerfile), and submission-ready documentation templates.
 
-- **Optimized for Submission & Judging**: Includes placeholders for key components (e.g., `README.md`, `src/`, `tests/`) to streamline team submissions and facilitate automated judging processes.
+- **Reproducible setup** via environment spec (Conda/Poetry) ensuring dependency consistency across teams, with placeholders for customization (e.g., `README.md`, `requirements.txt`).
 
-- **Version Control & Metadata**: Tracks updates via Git (last commit: `2026-05-10T13:08:24Z`) with 19 stars and 193 forks, indicating community engagement despite unspecified primary language.
+- **Judging-optimized structure** includes predefined sections for model cards, evaluation metrics, and deployment scripts, enforcing submission uniformity for automated judging pipelines.
 
 ## Why It Matters
 

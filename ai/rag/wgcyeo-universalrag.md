@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/wgcyeo/UniversalRAG
-collected_at: '2026-09-02T04:14:18.871223+05:30'
+collected_at: '2026-09-02T10:19:05.294405+05:30'
 published_at: '2026-07-21T05:58:28Z'
 tags:
 - benchmark
@@ -19,9 +19,9 @@ archived: false
 created_at: '2025-04-30T02:55:32Z'
 pushed_at: '2026-06-24T07:15:47Z'
 resource_id: github:wgcyeo/universalrag
-first_seen: '2026-09-02T04:14:18.871223+05:30'
-last_seen: '2026-09-02T04:14:18.871223+05:30'
-last_checked: '2026-09-02T04:14:18.871223+05:30'
+first_seen: '2026-09-02T10:19:05.294405+05:30'
+last_seen: '2026-09-02T10:19:05.294405+05:30'
+last_checked: '2026-09-02T10:19:05.294405+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal & Multi-Granularity RAG**: Introduces a unified framework for retrieval-augmented generation (RAG) that handles diverse data modalities (text, images, tables, etc.) and granularities (document, paragraph, sentence) via modality-specific encoders and granularity-aware retrievers.
+- **Multimodal & Multi-Granularity RAG Framework**: UniversalRAG extends traditional RAG by enabling retrieval-augmented generation over diverse modalities (text, images, tables, etc.) and granularities (document, paragraph, sentence, or entity-level), leveraging modality-agnostic embeddings and hierarchical retrieval strategies.
 
-- **Modality-Agnostic Retrieval & Generation**: Implements a shared latent space for cross-modal retrieval and leverages modality-agnostic LLMs (e.g., fine-tuned on interleaved data) to generate coherent responses across heterogeneous inputs.
+- **Unified Retrieval Pipeline**: Implements a flexible retrieval system with modality-specific encoders (e.g., CLIP for images, BERT for text) and a shared retriever head, optimized via contrastive learning to align representations across modalities for joint retrieval.
 
-- **Dynamic Adaptation & Benchmarking**: Features adaptive retrieval strategies (e.g., query reformulation, modality switching) and introduces a new benchmark (UniversalRAG-Bench) to evaluate performance on multimodal, multi-granular corpora.
+- **Adaptive Generation & Evaluation**: Integrates a modality-aware generator (e.g., LLM with cross-attention for fused inputs) and introduces evaluation metrics for multimodal RAG, including modality-specific relevance and coherence scores.
 
 ## Why It Matters
 

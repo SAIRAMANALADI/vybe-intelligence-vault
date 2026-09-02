@@ -4,16 +4,16 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.jupyter.org
-published_at: '2026-08-11T01:02:26.634536+05:30'
-collected_at: '2026-08-11T01:02:26.634550+05:30'
+published_at: '2026-09-02T10:25:09.151843+05:30'
+collected_at: '2026-09-02T10:25:09.151859+05:30'
 tags:
 - reddit
 - web-crawled
 status: active
 resource_id: blog:project-jupyter-documentation-jupyter-documentatio
-first_seen: '2026-08-11T01:02:26.634550+05:30'
-last_seen: '2026-08-11T01:02:26.634550+05:30'
-last_checked: '2026-08-11T01:02:26.634550+05:30'
+first_seen: '2026-09-02T10:25:09.151859+05:30'
+last_seen: '2026-09-02T10:25:09.151859+05:30'
+last_checked: '2026-09-02T10:25:09.151859+05:30'
 health_score: 100
 ---
 
@@ -21,11 +21,11 @@ health_score: 100
 
 ## Summary
 
-- **Jupyter ecosystem**: A modular framework centered around interactive computing, primarily using computational notebooks (e.g., Jupyter Notebook, JupyterLab) that integrate code, visualizations, and narrative text in a single document.
+- **Jupyter ecosystem**: A modular framework centered on interactive computing via computational notebooks, supporting code execution, rich visualizations, and narrative documentation; key components include Jupyter Notebook, JupyterLab, and JupyterHub, with extensible kernels (e.g., IPython, IRkernel) and tools for notebook lifecycle management (e.g., `nbconvert`, `nbformat`).
 
-- **Sub-projects**: The ecosystem includes specialized tools such as `nbconvert` (conversion), `nbclient` (execution), `jupyter-client` (messaging protocol), and kernels (e.g., IPython, IRkernel, IJulia) for multi-language support.
+- **Sub-projects and interfaces**: The ecosystem spans multiple specialized sub-projects, including user interfaces (e.g., JupyterLite, Voilà), deployment tools (e.g., Docker Stacks, Kubernetes Spawners), and AI integrations (e.g., `jupyter-ai`); authentication and collaboration are handled via JupyterHub with pluggable authenticators (e.g., OAuth, LDAP) and spawners (e.g., Docker, Kubernetes).
 
-- **Deployment & Extensibility**: Supports scalable deployments via JupyterHub (with authenticators/spawners like Docker/Kubernetes) and allows customization through extensions, widgets (`ipywidgets`), and AI integrations (e.g., `jupyter-ai`).
+- **Standards and architecture**: Jupyter enforces structured notebook formats (`nbformat`) and messaging protocols (`jupyter-client`), with core components like `jupyter-server` and `jupyterlab-server` enabling server-client communication; the architecture supports custom extensions, multi-language kernels (e.g., Xeus for C++/Python), and widget ecosystems (`ipywidgets`).
 
 ## Why It Matters
 
@@ -35,7 +35,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-08-11T01:02:26.634536+05:30
+- Published: 2026-09-02T10:25:09.151843+05:30
 
 ## Related Tags
 

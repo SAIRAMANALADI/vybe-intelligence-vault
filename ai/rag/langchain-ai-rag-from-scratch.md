@@ -4,25 +4,24 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/langchain-ai/rag-from-scratch
-collected_at: '2026-09-02T01:00:08.465875+05:30'
-published_at: '2026-09-01T13:52:51Z'
+collected_at: '2026-09-02T10:17:25.187536+05:30'
+published_at: '2026-09-02T03:25:40Z'
 tags:
+- benchmark
 - github-repo
 - hackernews
 - jupyter notebook
-- openai
 - rag
-- workflows
-stars: 9229
+stars: 9230
 language: Jupyter Notebook
 status: active
 archived: false
 created_at: '2024-01-31T01:23:48Z'
 pushed_at: '2025-06-26T03:16:10Z'
 resource_id: github:langchain-ai/rag-from-scratch
-first_seen: '2026-09-02T01:00:08.465875+05:30'
-last_seen: '2026-09-02T01:00:08.465875+05:30'
-last_checked: '2026-09-02T01:00:08.465875+05:30'
+first_seen: '2026-09-02T10:17:25.187536+05:30'
+last_seen: '2026-09-02T10:17:25.187536+05:30'
+last_checked: '2026-09-02T10:17:25.187536+05:30'
 health_score: 100
 ---
 
@@ -30,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Repository**: `langchain-ai/rag-from-scratch` implements a **Retrieval-Augmented Generation (RAG)** pipeline from scratch using **Jupyter Notebooks**, demonstrating core RAG components (retriever, generator, and integration logic).
-- **Technical Stack**: Leverages **LangChain** (Python framework) for modular RAG workflows, with dependencies on vector databases (e.g., FAISS/Chroma) and LLM APIs (e.g., Hugging Face Transformers or OpenAI).
-- **Educational Focus**: Designed as a hands-on tutorial to illustrate **end-to-end RAG architecture**, including document ingestion, embedding generation, retrieval strategies, and prompt augmentation for LLMs.
+- **Implementation**: Provides a step-by-step guide to building Retrieval-Augmented Generation (RAG) systems from scratch using Jupyter Notebooks, emphasizing hands-on technical learning.
+
+- **Scalability Focus**: Demonstrates modular RAG architectures with customizable components (e.g., embedders, retrievers, LLMs) for experimentation and optimization.
+
+- **Educational Resource**: Targets developers and researchers seeking to understand RAG internals, with practical examples of vector databases, prompt engineering, and evaluation metrics.
 
 ## Why It Matters
 
@@ -41,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: langchain-ai
-- Stars: 9229
+- Stars: 9230
 - Forks: 2183
 - Language: Jupyter Notebook
 - Topics: None
-- Last Updated: 2026-09-01T13:52:51Z
+- Last Updated: 2026-09-02T03:25:40Z
 - Archived: No
 - Created At: 2024-01-31T01:23:48Z
 - Pushed At: 2025-06-26T03:16:10Z

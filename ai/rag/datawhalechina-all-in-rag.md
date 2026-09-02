@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/datawhalechina/all-in-rag
-collected_at: '2026-09-02T04:12:28.955833+05:30'
-published_at: '2026-09-01T17:15:24Z'
+collected_at: '2026-09-02T10:17:10.142782+05:30'
+published_at: '2026-09-02T03:54:58Z'
 tags:
 - github-repo
 - hackernews
@@ -14,16 +14,16 @@ tags:
 - python
 - rag
 - workflows
-stars: 10735
+stars: 10746
 language: Python
 status: active
 archived: false
 created_at: '2025-06-05T08:12:35Z'
 pushed_at: '2026-07-29T11:43:11Z'
 resource_id: github:datawhalechina/all-in-rag
-first_seen: '2026-09-02T04:12:28.955833+05:30'
-last_seen: '2026-09-02T04:12:28.955833+05:30'
-last_checked: '2026-09-02T04:12:28.955833+05:30'
+first_seen: '2026-09-02T10:17:10.142782+05:30'
+last_seen: '2026-09-02T10:17:10.142782+05:30'
+last_checked: '2026-09-02T10:17:10.142782+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive RAG Guide**: A full-stack technical manual for Retrieval-Augmented Generation (RAG) development, covering end-to-end implementation with Python, including embedding models, vector databases (Milvus), and multimodal workflows.
+- **Comprehensive RAG Stack Guide**: Repository provides a full-stack technical guide for Retrieval-Augmented Generation (RAG) applications, covering end-to-end development workflows with deep learning and LLM integration.
 
-- **Toolchain Integration**: Demonstrates integration with frameworks like LangChain and LlamaIndex, alongside LLM APIs (DeepSeek, Kimi-K2), and graph databases (Neo4j) for advanced retrieval and reasoning.
+- **Multi-Tool & Framework Support**: Implements RAG using Python with integrations for LangChain, LlamaIndex, Milvus (vector DB), Neo4j (graph DB), and multimodal embeddings, alongside models like DeepSeek and Kimi-K2.
 
-- **Multimodal & Scalable**: Supports multimodal RAG pipelines and scalable architectures, with last update timestamp indicating active maintenance and evolving best practices.
+- **Advanced Technical Depth**: Covers embedding optimization, multimodal RAG, and hybrid retrieval strategies, with last update timestamp indicating ongoing maintenance and updates.
 
 ## Why It Matters
 
@@ -44,11 +44,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: datawhalechina
-- Stars: 10735
-- Forks: 5313
+- Stars: 10746
+- Forks: 5316
 - Language: Python
 - Topics: ai, deepseek, embedding, kimi-k2, langchain, llama-index, llm, milvus, multimodal, neo4j, python, rag
-- Last Updated: 2026-09-01T17:15:24Z
+- Last Updated: 2026-09-02T03:54:58Z
 - Archived: No
 - Created At: 2025-06-05T08:12:35Z
 - Pushed At: 2026-07-29T11:43:11Z

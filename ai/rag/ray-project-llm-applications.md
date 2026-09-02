@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ray-project/llm-applications
-collected_at: '2026-09-02T04:14:08.908562+05:30'
+collected_at: '2026-09-02T10:18:55.262496+05:30'
 published_at: '2026-08-29T21:55:10Z'
 tags:
 - github-repo
@@ -22,9 +22,9 @@ archived: false
 created_at: '2023-08-16T04:41:26Z'
 pushed_at: '2026-08-15T00:14:04Z'
 resource_id: github:ray-project/llm-applications
-first_seen: '2026-09-02T04:14:08.908562+05:30'
-last_seen: '2026-09-02T04:14:08.908562+05:30'
-last_checked: '2026-09-02T04:14:08.908562+05:30'
+first_seen: '2026-09-02T10:18:55.262496+05:30'
+last_seen: '2026-09-02T10:18:55.262496+05:30'
+last_checked: '2026-09-02T10:18:55.262496+05:30'
 health_score: 100
 ---
 
@@ -32,9 +32,9 @@ health_score: 100
 
 ## Summary
 
-- **RAG-based LLM Production Guide**: Provides a structured approach to deploying Retrieval-Augmented Generation (RAG) models in production using Ray, covering integration with Llama2, OpenAI, and Anyscale.
-- **Fine-Tuning & Serving Framework**: Demonstrates end-to-end workflows for fine-tuning LLMs and serving them efficiently with Ray’s distributed computing capabilities.
-- **Jupyter Notebook Implementation**: Includes hands-on notebooks for practical deployment, leveraging Ray’s ecosystem for scalable ML pipelines and real-world LLM application development.
+- **RAG Pipeline Integration**: Demonstrates production-grade Retrieval-Augmented Generation (RAG) workflows using Ray for distributed serving, with examples leveraging Llama2, OpenAI, and Anyscale models.
+- **Fine-Tuning & Optimization**: Includes notebooks for fine-tuning LLMs and optimizing inference performance via Ray’s distributed compute framework.
+- **End-to-End Deployment**: Provides templates for deploying scalable LLM applications, covering retrieval, generation, and serving components in a unified pipeline.
 
 ## Why It Matters
 

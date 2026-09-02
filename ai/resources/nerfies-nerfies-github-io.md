@@ -4,22 +4,22 @@ category: ai/resources
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/nerfies/nerfies.github.io
-collected_at: '2026-09-02T04:17:04.019087+05:30'
-published_at: '2026-09-01T05:59:23Z'
+collected_at: '2026-09-02T10:21:45.398243+05:30'
+published_at: '2026-09-02T04:14:17Z'
 tags:
 - github-repo
 - hackernews
 - javascript
-stars: 4350
+stars: 4352
 language: JavaScript
 status: active
 archived: false
 created_at: '2020-11-24T09:35:45Z'
 pushed_at: '2024-06-21T11:47:54Z'
 resource_id: github:nerfies/nerfies.github.io
-first_seen: '2026-09-02T04:17:04.019087+05:30'
-last_seen: '2026-09-02T04:17:04.019087+05:30'
-last_checked: '2026-09-02T04:17:04.019087+05:30'
+first_seen: '2026-09-02T10:21:45.398243+05:30'
+last_seen: '2026-09-02T10:21:45.398243+05:30'
+last_checked: '2026-09-02T10:21:45.398243+05:30'
 health_score: 100
 ---
 
@@ -27,9 +27,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: GitHub repository for Nerfies, a JavaScript-based project with 4,350 stars and 1,938 forks, last updated on September 1, 2026.
-- **Technical Stack**: Primary language is JavaScript, with no additional topics or dependencies specified.
-- **Accessibility**: Static site hosted at `nerfies.github.io`, likely serving documentation or a project showcase.
+- **Repository Overview**: GitHub repository for Nerfies, a JavaScript-based project with 4,352 stars and 1,938 forks.
+- **Technical Stack**: Primarily developed in JavaScript, with no additional topics or frameworks specified.
+- **Last Update**: Repository last updated on September 2, 2026, at 04:14:17 UTC.
 
 ## Why It Matters
 
@@ -38,11 +38,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: nerfies
-- Stars: 4350
+- Stars: 4352
 - Forks: 1938
 - Language: JavaScript
 - Topics: None
-- Last Updated: 2026-09-01T05:59:23Z
+- Last Updated: 2026-09-02T04:14:17Z
 - Archived: No
 - Created At: 2020-11-24T09:35:45Z
 - Pushed At: 2024-06-21T11:47:54Z

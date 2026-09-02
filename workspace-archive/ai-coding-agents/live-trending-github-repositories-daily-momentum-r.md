@@ -8,18 +8,20 @@ local_vault_path: ai/agents/live-trending-github-repositories-daily-momentum-r.m
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: framework
+resource_kind: tutorial
 importance: medium
 tags:
 - agents
-- producthunt
-- reddit
+- hackernews
+- meta-ai
+- models
 - scripts
 - web-crawled
 - workflows
+- youtube
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Valuable developer reference
 ---
 
 # Live trending GitHub repositories — daily momentum ranking | Trendshift
@@ -28,18 +30,18 @@ selection_reason:
 
 - Matched archive category: `AI Coding Agents`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: framework
+- Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- **Open-Connector**: Open-source gateway enabling AI agent interoperability with 150K+ monthly visitors, facilitating standardized API integrations for agent ecosystems.
+- **open-connector**: Open-source gateway enabling AI agent interoperability via standardized connector protocols, with 150K+ monthly visitors.
 
-- **NEURAL_MESH**: GitHub repository by D0xedDevi0 featuring a neural mesh architecture for distributed AI model inference, optimized for low-latency cross-node communication.
+- **Live Mentions**: Real-time tracking of trending repositories (e.g., `xpr-account-trust-cli`, `leOS-Studio`) as they gain traction, sourced from X/Twitter posts.
 
-- **Trending Topics**: Daily GitHub trending topics dominated by AI agent frameworks (56.4k stars), AI skills libraries (19.1k stars), and AI coding as
+- **Daily Trending Topics**: GitHub repositories categorized by technical domains, led by `#AI agent` (10.9k stars), `#AI skills` (3.9k stars), and `#AI coding assistant` (3.5k stars).
 
 ## Use Cases
 

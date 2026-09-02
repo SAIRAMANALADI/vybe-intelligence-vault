@@ -4,13 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/freddy-schuetz/n8n-claw
-collected_at: '2026-09-02T04:15:53.975055+05:30'
+collected_at: '2026-09-02T10:20:40.373487+05:30'
 published_at: '2026-08-31T11:02:26Z'
 tags:
 - agents
 - github-repo
 - rag
-- scripts
 - shell
 - workflows
 stars: 554
@@ -20,9 +19,9 @@ archived: false
 created_at: '2026-02-28T18:13:35Z'
 pushed_at: '2026-08-28T10:59:37Z'
 resource_id: github:freddy-schuetz/n8n-claw
-first_seen: '2026-09-02T04:15:53.975055+05:30'
-last_seen: '2026-09-02T04:15:53.975055+05:30'
-last_checked: '2026-09-02T04:15:53.975055+05:30'
+first_seen: '2026-09-02T10:20:40.373487+05:30'
+last_seen: '2026-09-02T10:20:40.373487+05:30'
+last_checked: '2026-09-02T10:20:40.373487+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Architecture**: n8n-based autonomous AI agent framework inspired by OpenClaw, leveraging adaptive Retrieval-Augmented Generation (RAG) for dynamic memory management and Skills via Model Context Protocol (MCP) templates for modular functionality.
+- **Autonomous AI Agent Framework**: OpenClaw-inspired system built entirely in n8n, featuring adaptive RAG-powered memory, MCP-based Skills integration, and Expert Agents with delegated sub-agents for hierarchical task execution.
 
-- **Core Features**: Implements expert agent delegation with sub-agent support, proactive task orchestration, and media understanding capabilities; integrates Supabase for persistent storage and SearXNG for search functionality.
+- **Proactive Task Management & Media Understanding**: Supports autonomous task prioritization, media processing (via Crawl4AI), and self-hosted deployment via a single setup script.
 
-- **Deployment**: Self-hosted with a single setup script, combining Crawl4AI for web scraping, MCP for skill templates, and n8n for workflow automation, all orchestrated via Shell scripts.
+- **Tech Stack & Integrations**: Utilizes Supabase for storage, SearXNG for search, and includes pre-configured components for rapid deployment (Shell-based, last updated 2026-08-31).
 
 ## Why It Matters
 
