@@ -4,8 +4,8 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.speechify.ai/voice-agents/guides/welcome
-published_at: '2026-09-02T10:24:22.238233+05:30'
-collected_at: '2026-09-02T10:24:22.238247+05:30'
+published_at: '2026-09-02T18:30:05.789926+05:30'
+collected_at: '2026-09-02T18:30:05.789941+05:30'
 tags:
 - agents
 - benchmark
@@ -14,9 +14,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:speechifyai-agents-real-time-voice-ai-overview-spe
-first_seen: '2026-09-02T10:24:22.238247+05:30'
-last_seen: '2026-09-02T10:24:22.238247+05:30'
-last_checked: '2026-09-02T10:24:22.238247+05:30'
+first_seen: '2026-09-02T18:30:05.789941+05:30'
+last_seen: '2026-09-02T18:30:05.789941+05:30'
+last_checked: '2026-09-02T18:30:05.789941+05:30'
 health_score: 100
 ---
 
@@ -24,11 +24,11 @@ health_score: 100
 
 ## Summary
 
-- **Agent Architecture**: Speechify Agents enable real-time voice interactions via a reusable definition (prompt, voice, tools, evaluation criteria) with low-latency speech-to-speech pipelines, supporting inbound/outbound calls, IVR replacement, and tool integration (backend APIs, device execution, MCP servers, or built-ins like `end_call`).
+- **Agent Architecture**: Speechify Agents provide a real-time voice interaction system via the Speechify API, enabling bidirectional audio processing with low-latency pipelines for speech-to-speech agent responses, including tools like `end_call` and `transfer_to_number`.
 
-- **API Workflow**: Initiate sessions via `POST /v1/agents/{id}/conversations`, receiving a short-lived token/URL for browser/SDK connection; audio, transcripts, and tool traces are streamed over the session, with lifecycle events persisted post-call for LLM-graded evaluation and structured data extraction.
+- **Session Management**: Agents are triggered via `POST /v1/agents/{id}/conversations`, returning a short-lived token and URL for real-time session establishment; lifecycle events, transcripts, and evaluations are persisted post-conversation.
 
-- **Voice & Tooling**: Access curated Speechify voices (excluding cloned/personal voices) via `GET /v1/agents/voices`; tools include backend integration, device-side code execution, and built-in actions, with no-code console workflows available for rapid deployment.
+- **No-Code & Tool Integration**: Supports no-code agent configuration in the Speechify console, with extensible tools for backend integration, MCP server connections, and structured post-call evaluations (LLM-graded criteria and data extraction).
 
 ## Why It Matters
 
@@ -38,7 +38,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-09-02T10:24:22.238233+05:30
+- Published: 2026-09-02T18:30:05.789926+05:30
 
 ## Related Tags
 

@@ -4,13 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/bakrianoo/mini-rag
-collected_at: '2026-09-02T10:18:50.226323+05:30'
-published_at: '2026-08-31T19:36:57Z'
+collected_at: '2026-09-02T18:24:17.390032+05:30'
+published_at: '2026-09-02T07:34:50Z'
 tags:
 - github-repo
 - python
 - rag
-stars: 700
+stars: 701
 language: Python
 status: active
 license: Apache-2.0
@@ -18,9 +18,9 @@ archived: false
 created_at: '2024-02-27T13:39:48Z'
 pushed_at: '2025-08-15T05:41:12Z'
 resource_id: github:bakrianoo/mini-rag
-first_seen: '2026-09-02T10:18:50.226323+05:30'
-last_seen: '2026-09-02T10:18:50.226323+05:30'
-last_checked: '2026-09-02T10:18:50.226323+05:30'
+first_seen: '2026-09-02T18:24:17.390032+05:30'
+last_seen: '2026-09-02T18:24:17.390032+05:30'
+last_checked: '2026-09-02T18:24:17.390032+05:30'
 health_score: 100
 ---
 
@@ -29,10 +29,8 @@ health_score: 100
 ## Summary
 
 - **Educational RAG Pipeline**: Provides a step-by-step guide to building a production-ready Retrieval-Augmented Generation (RAG) application using Python, FastAPI, and Docker.
-
-- **Modular Architecture**: Implements a structured approach with components for document ingestion, vector storage (e.g., FAISS/Chroma), retrieval, and LLM integration.
-
-- **Deployment-Ready**: Includes Docker configuration for containerized deployment, FastAPI endpoints for API access, and GenAI integration for inference.
+- **Modular Architecture**: Implements a structured, containerized setup with FastAPI for backend services and Docker for deployment, emphasizing scalability and maintainability.
+- **GenAI Integration**: Demonstrates integration with generative AI models for document retrieval and response generation, optimized for educational and production environments.
 
 ## Why It Matters
 
@@ -41,11 +39,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: bakrianoo
-- Stars: 700
-- Forks: 317
+- Stars: 701
+- Forks: 316
 - Language: Python
 - Topics: docker, education, fastapi, genai, python, rag
-- Last Updated: 2026-08-31T19:36:57Z
+- Last Updated: 2026-09-02T07:34:50Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2024-02-27T13:39:48Z

@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/features
-published_at: '2026-08-10T21:53:51.616121+05:30'
-collected_at: '2026-08-10T21:53:51.616134+05:30'
+published_at: '2026-09-02T18:33:27.022780+05:30'
+collected_at: '2026-09-02T18:33:27.022793+05:30'
 tags:
 - rag
 - scripts
@@ -13,9 +13,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:github-features-github
-first_seen: '2026-08-10T21:53:51.616134+05:30'
-last_seen: '2026-08-10T21:53:51.616134+05:30'
-last_checked: '2026-08-10T21:53:51.616134+05:30'
+first_seen: '2026-09-02T18:33:27.022793+05:30'
+last_seen: '2026-09-02T18:33:27.022793+05:30'
+last_checked: '2026-09-02T18:33:27.022793+05:30'
 health_score: 100
 ---
 
@@ -23,11 +23,11 @@ health_score: 100
 
 ## Summary
 
-- **GitHub Copilot**: AI-powered code completion and generation within IDEs, providing whole-line or function-level suggestions in supported languages (JavaScript, TypeScript, Python, Java, etc.).
+- **AI-Powered Development**: GitHub Copilot provides inline code suggestions (whole lines/functions) and AI-driven code review (`Copilot Code Review`) to accelerate development and reduce manual review effort.
 
-- **GitHub Advanced Security (GHAS)**: Integrated suite for vulnerability detection (CodeQL, secret scanning), automated remediation (Copilot Autofix), and dependency management (Dependabot, dependency graph) with real-time alerting and CI/CD integration.
+- **Automated CI/CD & Security**: GitHub Actions enables workflow automation (build/test/deploy), while GitHub Advanced Security (GHAS) integrates code scanning (`CodeQL`), secret scanning, and AI-driven autofixes (`Copilot Autofix`) for vulnerability remediation.
 
-- **GitHub Actions & CI/CD**: Native workflow automation with YAML-based pipelines, self-hosted/cloud runners (Linux/macOS/Windows/ARM/GPU), and prebuilt templates for standardized deployment, testing, and security enforcement across repositories.
+- **Collaborative & Scalable Workflows**: Supports real-time collaboration via `Codespaces` (cloud dev environments), `Draft Pull Requests`, and `Protected Branches`, alongside project management tools (`GitHub Projects`) and dependency tracking (`Dependabot`, `Dependency Graph`).
 
 ## Why It Matters
 
@@ -37,7 +37,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-10T21:53:51.616121+05:30
+- Published: 2026-09-02T18:33:27.022780+05:30
 
 ## Related Tags
 

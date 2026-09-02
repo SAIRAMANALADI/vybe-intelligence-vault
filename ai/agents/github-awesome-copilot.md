@@ -4,14 +4,14 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/github/awesome-copilot
-collected_at: '2026-09-02T10:19:05.325976+05:30'
-published_at: '2026-09-02T04:34:20Z'
+collected_at: '2026-09-02T18:24:32.447914+05:30'
+published_at: '2026-09-02T12:41:52Z'
 tags:
 - agents
 - github-repo
 - hackernews
 - javascript
-stars: 38533
+stars: 38549
 language: JavaScript
 status: active
 license: MIT
@@ -19,9 +19,9 @@ archived: false
 created_at: '2025-06-11T16:57:39Z'
 pushed_at: '2026-09-02T02:11:55Z'
 resource_id: github:github/awesome-copilot
-first_seen: '2026-09-02T10:19:05.325976+05:30'
-last_seen: '2026-09-02T10:19:05.325976+05:30'
-last_checked: '2026-09-02T10:19:05.325976+05:30'
+first_seen: '2026-09-02T18:24:32.447914+05:30'
+last_seen: '2026-09-02T18:24:32.447914+05:30'
+last_checked: '2026-09-02T18:24:32.447914+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Curated Resource Hub**: A community-driven GitHub repository (`github/awesome-copilot`) providing structured instructions, agents, skills, and configurations to optimize GitHub Copilot usage, including prompt engineering techniques and custom agent implementations.
+- **Community-driven repository** providing curated resources (instructions, agents, skills, configurations) to optimize GitHub Copilot usage, including custom agents and prompt engineering techniques.
 
-- **Technical Scope**: Focuses on AI-driven development tools, covering topics like `agent-skills`, `custom-agents`, and `prompt-engineering`, with contributions actively maintained under the `hacktoberfest` initiative.
+- **Technical focus** on JavaScript-based implementations, with contributions spanning agent-skills, AI integration, and hacktoberfest-related enhancements.
 
-- **Metadata**: Highly starred (38,533) and forked (4,871) JavaScript-based repository, last updated on **2026-09-02**, serving as a centralized reference for enhancing Copilot's capabilities.
+- **Actively maintained** (last updated Sept 2026) with 38.5K+ stars and 4.8K+ forks, serving as a centralized hub for advanced Copilot customization.
 
 ## Why It Matters
 
@@ -42,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: github
-- Stars: 38533
-- Forks: 4871
+- Stars: 38549
+- Forks: 4874
 - Language: JavaScript
 - Topics: agent-skills, agents, ai, awesome, custom-agents, github-copilot, hacktoberfest, prompt-engineering
-- Last Updated: 2026-09-02T04:34:20Z
+- Last Updated: 2026-09-02T12:41:52Z
 - License: MIT
 - Archived: No
 - Created At: 2025-06-11T16:57:39Z

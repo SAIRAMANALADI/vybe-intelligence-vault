@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://developer.android.com/privacy-and-security/security-best-practices
-published_at: '2026-09-01T19:15:40.828068+05:30'
-collected_at: '2026-09-01T19:15:40.828080+05:30'
+published_at: '2026-09-02T18:30:16.548830+05:30'
+collected_at: '2026-09-02T18:30:16.548839+05:30'
 tags:
 - producthunt
 - rag
@@ -14,9 +14,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:improve-your-app-s-security-security-android-devel
-first_seen: '2026-09-01T19:15:40.828080+05:30'
-last_seen: '2026-09-01T19:15:40.828080+05:30'
-last_checked: '2026-09-01T19:15:40.828080+05:30'
+first_seen: '2026-09-02T18:30:16.548839+05:30'
+last_seen: '2026-09-02T18:30:16.548839+05:30'
+last_checked: '2026-09-02T18:30:16.548839+05:30'
 health_score: 100
 ---
 
@@ -24,11 +24,11 @@ health_score: 100
 
 ## Summary
 
-- **Secure Inter-App Communication**: Use implicit intents with an app chooser, signature-based permissions, and non-exported `ContentProvider` objects to safely exchange data between apps. Explicitly disallow access to `ContentProvider` unless necessary, especially for devices running Android 4.1.1 (API 16) or lower where `android:exported` defaults to `true`.
+- **Secure Inter-App Communication**: Use implicit intents with an app chooser, signature-based permissions, and non-exported `ContentProvider` objects to safely exchange data between apps. Explicitly show an app chooser when multiple apps can handle an intent to ensure users select a trusted app for sensitive data transfer.
 
-- **Network Security Enforcement**: Enforce TLS for all network traffic, add a network security configuration to disable clear-text traffic and allow custom CAs during development, and implement a custom trust manager to handle unknown certificate authorities. Avoid accepting all certificates in TLS checks.
+- **Network Security Enforcement**: Enforce TLS for all network traffic and implement a network security configuration to restrict clear-text traffic and manage custom CAs. Use `android:usesCleartextTraffic="false"` and domain-specific configurations in `res/xml/network_security_config.xml` to disable clear-text and optionally allow user-installed certificates during debugging.
 
-- **Data Storage & Permissions**: Store sensitive data in internal storage (sandboxed per app) and avoid requesting unnecessary permissions. Use `content://` URIs with `FLAG_GRANT_READ_URI_PERMISSION`/`FLAG_GRANT_WRITE_URI_PERMISSION` for secure data sharing, and delegate permissioned actions to other apps via intents when possible.
+- **Secure Data Storage & Permissions**: Store sensitive data in internal app storage (sandboxed) and avoid requesting unnecessary permissions. Use `content://` URIs with `FLAG_GRANT_READ_URI_PERMISSION`/`FLAG_GRANT_WRITE_URI_PERMISSION` for secure cross-app data sharing, and delegate actions requiring permissions (e.g., contacts) to apps with pre-granted permissions via intents.
 
 ## Why It Matters
 
@@ -38,7 +38,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-09-01T19:15:40.828068+05:30
+- Published: 2026-09-02T18:30:16.548830+05:30
 
 ## Related Tags
 

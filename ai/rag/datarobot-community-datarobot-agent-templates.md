@@ -4,11 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/datarobot-community/datarobot-agent-templates
-collected_at: '2026-09-02T10:21:20.439055+05:30'
+collected_at: '2026-09-02T18:26:47.611286+05:30'
 published_at: '2026-07-31T15:53:17Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - meta-ai
 - models
 - python
@@ -23,9 +24,9 @@ archived: false
 created_at: '2025-05-14T14:40:53Z'
 pushed_at: '2026-07-31T15:56:17Z'
 resource_id: github:datarobot-community/datarobot-agent-templates
-first_seen: '2026-09-02T10:21:20.439055+05:30'
-last_seen: '2026-09-02T10:21:20.439055+05:30'
-last_checked: '2026-09-02T10:21:20.439055+05:30'
+first_seen: '2026-09-02T18:26:47.611286+05:30'
+last_seen: '2026-09-02T18:26:47.611286+05:30'
+last_checked: '2026-09-02T18:26:47.611286+05:30'
 health_score: 100
 ---
 
@@ -33,9 +34,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Provides modular templates for building agentic workflows integrating DataRobot with frameworks like CrewAI, LangGraph, and LlamaIndex for LLM-driven automation.
-- **Key Components**: Includes Python-based templates leveraging agentic AI patterns (e.g., multi-agent collaboration, tool orchestration) with DataRobot's MLOps/automl capabilities.
-- **Integration Focus**: Designed for seamless interaction between DataRobot models/services and external LLM agents (e.g., CrewAI for task delegation, LangGraph for stateful workflows).
+- **Purpose**: Provides agentic workflow templates for DataRobot, integrating frameworks like CrewAI, LangGraph, and LlamaIndex to enable LLM-driven automation and multi-agent collaboration.
+- **Technical Stack**: Implemented in Python, leveraging DataRobot’s API for model deployment/management, with dependencies on agentic frameworks (e.g., CrewAI for orchestration, LangGraph for stateful workflows, LlamaIndex for RAG pipelines).
+- **Use Cases**: Facilitates end-to-end AI agent workflows (e.g., automated data processing, model retraining, decision-making) with customizable templates for rapid deployment in production environments.
 
 ## Why It Matters
 

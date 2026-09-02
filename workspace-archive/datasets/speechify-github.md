@@ -33,11 +33,11 @@ selection_reason:
 
 ## Summary
 
-- **Meta-Voicebox**: First generative AI speech model enabling cross-task generalization with state-of-the-art performance, implemented in a public repository.
+- **Meta-Voicebox**: First generative AI speech model enabling cross-task generalization with state-of-the-art performance, implemented in a public repository by SpeechifyInc.
 
-- **Speechify AI API SDKs**: Legacy TypeScript SDKs (`speechify-ai-legacy-sdks`) for interfacing with Speechify's AI services, now archived.
+- **Legacy AI SDKs**: SpeechifyInc maintains archived TypeScript SDKs (`speechify-ai-legacy-sdks`) for their AI API, providing backward compatibility for integrations.
 
-- **Toolchain & Libraries**: Open-source utilities including `olmocr` (PDF linearization for LLM training), `SpecForge` (speculative decoding model training), and `piper-phonemize` (C++ text-to-pho
+- **Text Processing Libraries**: Open-source tools like `olmocr` (PDF linearization for LLM training) and `piper-phonemize` (C++ text-to-phoneme conversio
 
 ## Use Cases
 

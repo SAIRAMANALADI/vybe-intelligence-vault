@@ -4,10 +4,11 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://tv.youtube.com/learn/nflsundayticket
-published_at: '2026-09-02T10:28:10.001639+05:30'
-collected_at: '2026-09-02T10:28:10.001655+05:30'
+published_at: '2026-09-02T18:34:02.306338+05:30'
+collected_at: '2026-09-02T18:34:02.306354+05:30'
 tags:
 - agents
+- hackernews
 - models
 - rag
 - reddit
@@ -15,9 +16,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:the-exclusive-home-of-nfl-sunday-ticket-youtube-yo
-first_seen: '2026-09-02T10:28:10.001655+05:30'
-last_seen: '2026-09-02T10:28:10.001655+05:30'
-last_checked: '2026-09-02T10:28:10.001655+05:30'
+first_seen: '2026-09-02T18:34:02.306354+05:30'
+last_seen: '2026-09-02T18:34:02.306354+05:30'
+last_checked: '2026-09-02T18:34:02.306354+05:30'
 health_score: 100
 ---
 
@@ -25,11 +26,17 @@ health_score: 100
 
 ## Summary
 
-- **Pricing & Availability**: New users can subscribe to NFL Sunday Ticket via YouTube TV for **$240/year** (8 payments of **$30/month**) or standalone on YouTube for the same price; returning users pay **$378/year** (8 payments of **$47.25/month**) or **$480/year** (8 payments of **$60/month**), respectively. Offers are non-cancelable and require an active YouTube TV plan for full access.
+- **Pricing & Offer Structure**:
+  - New users: **$240/yr** (8 payments of **$30/mo**) or **$30/mo** for NFL Sunday Ticket + YouTube TV Sports Plan (first 6 months at **$44.99/mo**, then **$64.99/mo**).
+  - Returning users: **$378/yr** (8 payments of **$47.25/mo**) for NFL Sunday Ticket + YouTube TV Sports Plan.
 
-- **Coverage & Features**: Provides **all out-of-market Sunday NFL games** (32 teams, AFC/NFC) with **multiview** (up to 4 games simultaneously), **fantasy view**, and **key play highlights**. Requires **3+ Mbps** (7+ Mbps recommended) for streaming; **no satellite dish or long-term contracts** needed.
+- **Coverage & Features**:
+  - Provides **all out-of-market Sunday NFL games** (32 teams, AFC/NFC) and local/national games (Sunday Night/Monday Night Football, playoffs) when bundled with YouTube TV.
+  - Supports **multiview (4 games simultaneously)**, **fantasy view**, and **key plays replay** via YouTube TV integration.
 
-- **Device & Exclusions**: Accessible via **YouTube/YouTube TV apps** on supported devices. **Excludes digital-only games, commercial use, and local/national broadcasts** (handled by YouTube TV plan). Cancellation of YouTube TV plan revokes access to NFL Sunday Ticket.
+- **Technical Requirements & Restrictions**:
+  - Requires **high-speed internet (≥3 Mbps, ≥7 Mbps recommended)** and **compatible devices** (YouTube/YouTube TV apps).
+  - **Non-refundable**, **non-cancelable** payments; access lost if YouTube TV plan is canceled. **Commercial use excluded**.
 
 ## Why It Matters
 
@@ -39,11 +46,12 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-09-02T10:28:10.001639+05:30
+- Published: 2026-09-02T18:34:02.306338+05:30
 
 ## Related Tags
 
 - agents
+- hackernews
 - models
 - rag
 - reddit

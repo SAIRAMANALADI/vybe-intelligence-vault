@@ -25,7 +25,7 @@ https://github.com/huggingface/datasets (Hugging Face Datasets)
 - [brmson/dataset-sts](https://github.com/brmson/dataset-sts)
 - [bigscience-workshop/promptsource](https://github.com/bigscience-workshop/promptsource)
 - [TIGER-AI-Lab/VLM2Vec](https://github.com/TIGER-AI-Lab/VLM2Vec)
-- [coree/awesome-rag](https://github.com/coree/awesome-rag)
+- [pixegami/rag-tutorial-v2](https://github.com/pixegami/rag-tutorial-v2)
 
 ## Best Learning Resources
 
@@ -43,4 +43,4 @@ https://github.com/huggingface/datasets (Hugging Face Datasets)
 
 ---
 
-*Last updated: 2026-09-02 10:34 IST*
+*Last updated: 2026-09-02 18:40 IST*

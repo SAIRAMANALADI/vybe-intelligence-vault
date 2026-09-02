@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://baseten.co/blog/the-efficient-frontier-of-llm-inference
 hn_url: https://news.ycombinator.com/item?id=49529898
-score: 69
+score: 133
 author: philipkiely
-comments_count: 14
+comments_count: 38
 published_at: '2026-09-02T05:18:05+05:30'
-collected_at: '2026-09-02T10:14:05.804953+05:30'
+collected_at: '2026-09-02T18:21:56.305267+05:30'
 tags:
 - hackernews
 - llm
 status: active
 resource_id: hackernews:the-efficient-frontier-of-llm-inference
 first_seen: '2026-09-02T10:14:05.804953+05:30'
-last_seen: '2026-09-02T10:14:05.804953+05:30'
-last_checked: '2026-09-02T10:14:05.804953+05:30'
+last_seen: '2026-09-02T18:21:56.305267+05:30'
+last_checked: '2026-09-02T18:21:56.305267+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by philipkiely. Score: 69, Comments: 14.
+Hacker News story by philipkiely. Score: 133, Comments: 38.
 Original Link: https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: philipkiely
-- Score: 69 Upvotes
-- Comments: 14 Discussions
+- Score: 133 Upvotes
+- Comments: 38 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49529898
 - Original Article: https://baseten.co/blog/the-efficient-frontier-of-llm-inference
 

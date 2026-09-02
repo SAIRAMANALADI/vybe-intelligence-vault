@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://martinuke0.github.io/posts/2025-12-20-rag-techniques-zero-to-hero-a-complete-guide/
-published_at: '2026-09-02T10:17:25.625982+05:30'
-collected_at: '2026-09-02T10:17:25.625995+05:30'
+published_at: '2026-09-02T18:22:52.875636+05:30'
+collected_at: '2026-09-02T18:22:52.875653+05:30'
 tags:
 - agents
 - benchmark
@@ -21,9 +21,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:rag-techniques-zero-to-hero-a-complete-guide-marti
-first_seen: '2026-09-02T10:17:25.625995+05:30'
-last_seen: '2026-09-02T10:17:25.625995+05:30'
-last_checked: '2026-09-02T10:17:25.625995+05:30'
+first_seen: '2026-09-02T18:22:52.875653+05:30'
+last_seen: '2026-09-02T18:22:52.875653+05:30'
+last_checked: '2026-09-02T18:22:52.875653+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Architecture**: Combines retrieval (vector/lexical) with generative LLMs to ground outputs in external knowledge, improving factuality and adaptability without retraining; core components include retriever, vector store, LLM generator, and optional rerankers/caching layers.
+- **RAG Architecture**: Combines a retriever (vector/lexical search) and a generator (LLM) to fetch and condition responses on external knowledge, improving factuality and reducing hallucinations compared to pure parametric generation.
 
-- **Chunking & Embeddings**: Chunking strategies (fixed-size, semantic, structure-aware) directly impact retrieval quality; embeddings require domain-specific fine-tuning, dimensionality optimization, and normalization for cosine similarity, with hybrid (BM25 + vector) search improving recall/precision.
+- **Key Optimization Techniques**: Multi-stage retrieval (dense + BM25), cross-encoder reranking, query rewriting, and context distillation to enhance precision, coverage, and token efficiency in production systems.
 
-- **Advanced Techniques**: Multi-hop retrieval, iterative reasoning, and cross-encoder rerankers enhance precision but increase cost; context distillation and autocut strategies mitigate hallucinations by optimizing token budgets and evidence selection.
+- **Operational Challenges**: Latency/cost from embedding lookups, retrieval failure modes, and evaluation complexity requiring metrics for both retrieval (nDCG/MRR) and generation (factuality/hallucination rate).
 
 ## Why It Matters
 
@@ -45,7 +45,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-09-02T10:17:25.625982+05:30
+- Published: 2026-09-02T18:22:52.875636+05:30
 
 ## Related Tags
 

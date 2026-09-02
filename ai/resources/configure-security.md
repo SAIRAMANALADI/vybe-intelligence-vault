@@ -4,17 +4,17 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://gohugo.io/configuration/security/
-published_at: '2026-09-02T04:19:19.273358+05:30'
-collected_at: '2026-09-02T04:19:19.273372+05:30'
+published_at: '2026-09-02T18:29:54.195159+05:30'
+collected_at: '2026-09-02T18:29:54.195170+05:30'
 tags:
 - frontend_ui
 - reddit
 - web-crawled
 status: active
 resource_id: blog:configure-security
-first_seen: '2026-09-02T04:19:19.273372+05:30'
-last_seen: '2026-09-02T04:19:19.273372+05:30'
-last_checked: '2026-09-02T04:19:19.273372+05:30'
+first_seen: '2026-09-02T18:29:54.195170+05:30'
+last_seen: '2026-09-02T18:29:54.195170+05:30'
+last_checked: '2026-09-02T18:29:54.195170+05:30'
 health_score: 100
 ---
 
@@ -22,11 +22,13 @@ health_score: 100
 
 ## Summary
 
-- Hugo's security policy uses allowlists to restrict operations like `os/exec`, remote communication, and file system access, with default restrictions enforced unless explicitly permitted.
+- **Default Security Policy**: Hugo enforces a restrictive security policy by default, blocking `os/exec`, remote communication, and other sensitive operations via allowlists; unauthorized access attempts trigger detailed failure messages.
 
-- Key security configurations include `allowContent` (denies HTML by default), `exec.allow` (whitelists executables like `sass`, `git`, `node`), and `http.urls` (restricts remote URL access with regex-based allow/deny rules).
+- **Key Configuration Fields**:
+  - `exec.allow`: Regex list of permitted external executables (e.g., `^(dart-)?sass$`, `^go$`).
+  - `http.urls`: Regex list of allowed remote URLs for `resources.GetRemote`, with negation rules (e.g., `! ^https?://evil\.example\.com`).
 
-- Node.js permissions (v0.161.0+) control file system and resource access via flags like `--allow-fs-read`/`--allow-fs-write`, with granular paths and tool-specific restrictions (e.g., `tailwindcss` addons/child processes).
+- **Node.js Permissions** (v0.161.0+): Controls Node.js tool access via `--permission` flags, including `allowRead`/`.allowWrite` paths (e.g., `"."` for working directory) and `allowAddons`/`.allowWorker` tool names (e.g., `tailwindcss`).
 
 ## Why It Matters
 
@@ -36,7 +38,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-09-02T04:19:19.273358+05:30
+- Published: 2026-09-02T18:29:54.195159+05:30
 
 ## Related Tags
 

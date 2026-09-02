@@ -4,12 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/coree/awesome-rag
-collected_at: '2026-09-02T10:18:25.237574+05:30'
+collected_at: '2026-09-02T18:23:52.389806+05:30'
 published_at: '2026-08-09T00:02:58Z'
 tags:
 - dataset
 - github-repo
 - hackernews
+- models
 - paper
 - rag
 - unknown
@@ -21,9 +22,9 @@ archived: false
 created_at: '2024-02-10T12:01:04Z'
 pushed_at: '2025-12-01T08:45:44Z'
 resource_id: github:coree/awesome-rag
-first_seen: '2026-09-02T10:18:25.237574+05:30'
-last_seen: '2026-09-02T10:18:25.237574+05:30'
-last_checked: '2026-09-02T10:18:25.237574+05:30'
+first_seen: '2026-09-02T18:23:52.389806+05:30'
+last_seen: '2026-09-02T18:23:52.389806+05:30'
+last_checked: '2026-09-02T18:23:52.389806+05:30'
 health_score: 100
 ---
 
@@ -31,11 +32,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated RAG Resources**: A GitHub repository (`coree/awesome-rag`) compiling high-quality resources on retrieval-augmented generation (RAG) for large language models (LLMs), including papers, tools, datasets, and frameworks.
-
-- **Technical Scope**: Covers core RAG components such as embeddings, retrieval systems, and LLM integration, with emphasis on retrieval-augmented architectures and their applications in enhancing generative models.
-
-- **Metadata**: 432 stars, 53 forks, last updated 2026-08-09; categorized under `awesome-list`, `llm`, `rag`, and related topics.
+- **Curated RAG Resources**: Aggregates high-quality tools, papers, frameworks, and datasets for retrieval-augmented generation (RAG) in LLMs, including embeddings, retrieval systems, and model architectures.
+- **Multi-Topic Coverage**: Encompasses foundational RAG concepts, advanced retrieval techniques (e.g., dense/sparse retrieval), and integration methods for LLMs (e.g., fine-tuning, prompt engineering).
+- **Active Maintenance**: Last updated in 2026, ensuring inclusion of recent advancements in RAG, with community-driven contributions (432 stars, 53 forks) across LLMs and retrieval systems.
 
 ## Why It Matters
 

@@ -4,17 +4,16 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://git-scm.com/
-published_at: '2026-08-10T21:56:23.910716+05:30'
-collected_at: '2026-08-10T21:56:23.910729+05:30'
+published_at: '2026-09-02T18:33:10.709082+05:30'
+collected_at: '2026-09-02T18:33:10.709092+05:30'
 tags:
 - web-crawled
-- workflows
 - youtube
 status: active
 resource_id: blog:git
-first_seen: '2026-08-10T21:56:23.910729+05:30'
-last_seen: '2026-08-10T21:56:23.910729+05:30'
-last_checked: '2026-08-10T21:56:23.910729+05:30'
+first_seen: '2026-09-02T18:33:10.709092+05:30'
+last_seen: '2026-09-02T18:33:10.709092+05:30'
+last_checked: '2026-09-02T18:33:10.709092+05:30'
 health_score: 100
 ---
 
@@ -22,11 +21,11 @@ health_score: 100
 
 ## Summary
 
-- **Distributed Version Control**: Git is a free, open-source distributed version control system optimized for speed and efficiency, supporting projects of all sizes from small to very large.
+- **Distributed Version Control**: Git is a free, open-source distributed version control system optimized for speed and efficiency, scaling from small to very large projects.
 
-- **Ecosystem & Performance**: Features lightning-fast performance with a vast ecosystem including GUIs, hosting services (e.g., GitHub, GitLab), and command-line tools for enhanced workflow integration.
+- **High-Performance Ecosystem**: Features lightning-fast performance with extensive support via GUIs, hosting services, and command-line tools (e.g., GitHub, GitLab, Sourcetree).
 
-- **Documentation & Releases**: Provides comprehensive reference documentation, free online resources like *Pro Git* (Scott Chacon & Ben Straub), and regular binary releases (e.g., v2.55.0) for all major platforms.
+- **Latest Release & Resources**: Current stable release is **2.55.0** (2026-06-29), with documentation, installation binaries, and the *Pro Git* book (Scott Chacon & Ben Straub) available for free.
 
 ## Why It Matters
 
@@ -36,12 +35,11 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-08-10T21:56:23.910716+05:30
+- Published: 2026-09-02T18:33:10.709082+05:30
 
 ## Related Tags
 
 - web-crawled
-- workflows
 - youtube
 
 ## Source

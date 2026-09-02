@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NVISOsecurity/cyber-security-llm-agents
-collected_at: '2026-09-02T10:20:25.402793+05:30'
+collected_at: '2026-09-02T18:25:52.590078+05:30'
 published_at: '2026-08-31T09:12:34Z'
 tags:
 - agents
@@ -12,7 +12,6 @@ tags:
 - hackernews
 - jupyter notebook
 - rag
-- scripts
 - workflows
 stars: 391
 language: Jupyter Notebook
@@ -21,9 +20,9 @@ archived: false
 created_at: '2024-02-29T09:54:26Z'
 pushed_at: '2024-05-07T15:31:28Z'
 resource_id: github:nvisosecurity/cyber-security-llm-agents
-first_seen: '2026-09-02T10:20:25.402793+05:30'
-last_seen: '2026-09-02T10:20:25.402793+05:30'
-last_checked: '2026-09-02T10:20:25.402793+05:30'
+first_seen: '2026-09-02T18:25:52.590078+05:30'
+last_seen: '2026-09-02T18:25:52.590078+05:30'
+last_checked: '2026-09-02T18:25:52.590078+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **LLM-Driven Cybersecurity Agents**: Repository contains Jupyter Notebook-based agents leveraging LLMs to automate routine cybersecurity tasks, including adversary emulation via integration with frameworks like CALDERA.
-
-- **Adversary Emulation & Automation**: Agents designed for offensive security operations, enabling automated red teaming, TTP (Tactics, Techniques, and Procedures) simulation, and security assessment workflows.
-
-- **NVISO’s Open-Source Toolkit**: Collection of modular, extensible agents for infosec tasks, optimized for AI-driven cybersecurity operations with a focus on practical, day-to-day use cases.
+- **Purpose**: Repository containing LLM-based agents designed to automate common cybersecurity tasks, including adversary emulation.
+- **Technical Stack**: Implemented primarily in Jupyter Notebooks, leveraging Large Language Models (LLMs) for cybersecurity operations.
+- **Integration**: Compatible with **CALDERA**, an adversary emulation platform, enabling automated red teaming and security testing workflows.
 
 ## Why It Matters
 

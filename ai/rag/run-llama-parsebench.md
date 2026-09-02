@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/run-llama/ParseBench
-collected_at: '2026-09-02T10:20:05.377097+05:30'
+collected_at: '2026-09-02T18:25:32.525602+05:30'
 published_at: '2026-09-02T03:49:00Z'
 tags:
 - agents
@@ -14,7 +14,6 @@ tags:
 - models
 - python
 - rag
-- workflows
 stars: 558
 language: Python
 status: active
@@ -23,9 +22,9 @@ archived: false
 created_at: '2026-04-10T20:46:33Z'
 pushed_at: '2026-09-02T03:48:56Z'
 resource_id: github:run-llama/parsebench
-first_seen: '2026-09-02T10:20:05.377097+05:30'
-last_seen: '2026-09-02T10:20:05.377097+05:30'
-last_checked: '2026-09-02T10:20:05.377097+05:30'
+first_seen: '2026-09-02T18:25:32.525602+05:30'
+last_seen: '2026-09-02T18:25:32.525602+05:30'
+last_checked: '2026-09-02T18:25:32.525602+05:30'
 health_score: 100
 ---
 
@@ -33,11 +32,9 @@ health_score: 100
 
 ## Summary
 
-- **Benchmark Suite**: ParseBench evaluates document parsing capabilities of AI agents across tasks like PDF parsing, OCR, and table extraction, providing a standardized framework for performance assessment.
-
-- **Multi-Modal Evaluation**: Supports both text-based and vision-language model (VLM) parsing, enabling comparison of LLMs and OCR systems in handling complex document structures.
-
-- **Integration Ready**: Designed for compatibility with LlamaIndex, facilitating seamless integration into document AI pipelines and agentic workflows.
+- **ParseBench**: A specialized benchmark for evaluating document parsing performance of AI agents, covering tasks like PDF parsing, OCR, and table extraction.
+- **Metrics**: Designed to assess vision-language models (VLMs) and LLMs in structured document understanding, with support for LlamaIndex integration.
+- **Evaluation Scope**: Includes multi-modal parsing challenges, enabling comparison of OCR, table extraction, and layout analysis across diverse document types.
 
 ## Why It Matters
 
@@ -47,7 +44,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: run-llama
 - Stars: 558
-- Forks: 96
+- Forks: 97
 - Language: Python
 - Topics: benchmark, document-ai, document-parsing, evaluation, llamaindex, llm, machine-learning, ocr, pdf-parsing, table-extraction, vision-language-models
 - Last Updated: 2026-09-02T03:49:00Z

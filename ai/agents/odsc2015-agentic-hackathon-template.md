@@ -4,11 +4,10 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/odsc2015/agentic-hackathon-template
-collected_at: '2026-09-02T10:20:55.353746+05:30'
+collected_at: '2026-09-02T18:26:22.523081+05:30'
 published_at: '2026-05-10T13:08:24Z'
 tags:
 - agents
-- benchmark
 - github-repo
 - unknown
 stars: 19
@@ -19,9 +18,9 @@ archived: false
 created_at: '2025-07-24T08:33:29Z'
 pushed_at: '2025-07-25T16:42:10Z'
 resource_id: github:odsc2015/agentic-hackathon-template
-first_seen: '2026-09-02T10:20:55.353746+05:30'
-last_seen: '2026-09-02T10:20:55.353746+05:30'
-last_checked: '2026-09-02T10:20:55.353746+05:30'
+first_seen: '2026-09-02T18:26:22.523081+05:30'
+last_seen: '2026-09-02T18:26:22.523081+05:30'
+last_checked: '2026-09-02T18:26:22.523081+05:30'
 health_score: 100
 ---
 
@@ -29,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Standardized starter repository** for Agentic AI App Hackathon, offering preconfigured folder structure, environment specifications (`environment.yml`/Dockerfile), and submission-ready documentation templates.
+- **Standardized Structure**: Provides a pre-defined folder layout and environment specifications (`requirements.txt`/`environment.yml`) to ensure reproducibility and streamline hackathon submissions.
 
-- **Reproducible setup** via environment spec (Conda/Poetry) ensuring dependency consistency across teams, with placeholders for customization (e.g., `README.md`, `requirements.txt`).
+- **Documentation Templates**: Includes placeholder documentation files (e.g., `README.md`, `CONTRIBUTING.md`) to guide teams in structuring their project documentation for judging.
 
-- **Judging-optimized structure** includes predefined sections for model cards, evaluation metrics, and deployment scripts, enforcing submission uniformity for automated judging pipelines.
+- **Version Control**: Hosted on GitHub with 193 forks and 19 stars, indicating active community engagement and potential for collaborative iteration.
 
 ## Why It Matters
 

@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.langchain.com/oss/javascript/releases/changelog
-published_at: '2026-09-01T11:00:25.990119+05:30'
-collected_at: '2026-09-01T11:00:25.990127+05:30'
+published_at: '2026-09-02T18:29:04.987571+05:30'
+collected_at: '2026-09-02T18:29:04.987581+05:30'
 tags:
 - agents
 - anthropic
@@ -15,14 +15,15 @@ tags:
 - openai
 - producthunt
 - rag
+- reddit
 - web-crawled
 - workflows
 - youtube
 status: active
 resource_id: blog:changelog-docs-by-langchain
-first_seen: '2026-09-01T11:00:25.990127+05:30'
-last_seen: '2026-09-01T11:00:25.990127+05:30'
-last_checked: '2026-09-01T11:00:25.990127+05:30'
+first_seen: '2026-09-02T18:29:04.987581+05:30'
+last_seen: '2026-09-02T18:29:04.987581+05:30'
+last_checked: '2026-09-02T18:29:04.987581+05:30'
 health_score: 100
 ---
 
@@ -32,9 +33,9 @@ health_score: 100
 
 - **DeepAgents v1.9.0-alpha.0**: Introduces async subagents for non-blocking background tasks (requires LangSmith Deployment) and **BackendProtocolV2** with structured `Result` objects, multi-modal file support (`Uint8Array` for binary files), simplified method names, and backward compatibility via `adaptBackendProtocol`.
 
-- **LangGraph v1.1.0**: Adds **StateSchema** with Standard JSON Schema support (Zod 4, Valibot, etc.), new state primitives (`ReducedValue`, `UntrackedValue`, `MessagesValue`), and type utilities (`GraphNode`, `ConditionalEdgeRouter`) for library-agnostic, type-safe graph state management.
+- **LangGraph v1.1.0**: Adds **StateSchema** with Standard JSON Schema support (Zod 4, Valibot, etc.), new state primitives (`ReducedValue`, `UntrackedValue`, `MessagesValue`), and type utilities (`GraphNode`, `ConditionalEdgeRouter`) for schema-first graph state definitions.
 
-- **LangChain v1.2.0/v1.3.0**: Introduces provider-specific server-side tools (OpenAI/Anthropic), structured output `strict` mode, content moderation, and model profiles with retry middleware; community packages add native structured outputs (Ollama), hybrid search (Elasticsearch), and security fixes across integrations.
+- **LangChain v1.2.0–v1.3.0**: Introduces structured output `strict` mode, provider-specific server-side tools (file search, web search, code interpreter, etc.) for OpenAI/Anthropic, model profiles (via `.profile`), retry/content moderation middleware, and new loader/tool integrations (Jira v3 API, LanceDB, Elasticsearch, GoogleCalendarDeleteTool).
 
 ## Why It Matters
 
@@ -44,7 +45,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-09-01T11:00:25.990119+05:30
+- Published: 2026-09-02T18:29:04.987571+05:30
 
 ## Related Tags
 
@@ -56,6 +57,7 @@ General public resource representing technology updates, guides, or tutorials.
 - openai
 - producthunt
 - rag
+- reddit
 - web-crawled
 - workflows
 - youtube

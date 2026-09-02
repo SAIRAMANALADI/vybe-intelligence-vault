@@ -4,20 +4,20 @@ category: ai/agents
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/openai
-published_at: '2026-08-10T13:45:54.454264+05:30'
-collected_at: '2026-08-10T13:45:54.454279+05:30'
+published_at: '2026-09-02T18:28:59.132489+05:30'
+collected_at: '2026-09-02T18:28:59.132504+05:30'
 tags:
 - agents
 - benchmark
 - openai
+- paper
 - reddit
 - web-crawled
-- workflows
 status: active
 resource_id: blog:openai-github
-first_seen: '2026-08-10T13:45:54.454279+05:30'
-last_seen: '2026-08-10T13:45:54.454279+05:30'
-last_checked: '2026-08-10T13:45:54.454279+05:30'
+first_seen: '2026-09-02T18:28:59.132504+05:30'
+last_seen: '2026-09-02T18:28:59.132504+05:30'
+last_checked: '2026-09-02T18:28:59.132504+05:30'
 health_score: 100
 ---
 
@@ -25,11 +25,11 @@ health_score: 100
 
 ## Summary
 
-- **OpenAI's GitHub organization** hosts verified repositories including `openai-cookbook` (API examples), `whisper` (speech recognition), and `evals` (LLM evaluation framework), with high star counts (e.g., 107k for `whisper`).
+- **OpenAI's GitHub organization** hosts verified repositories including official SDKs (Python, Node.js, Ruby, .NET), tools (Whisper, TikToken), and frameworks (Evals, Codex) under permissive licenses (MIT/Apache-2.0).
 
-- **Multi-language SDKs** are maintained, including `openai-python` (official Python library), `openai-node` (TypeScript/JavaScript), `openai-java` (Kotlin), and `openai-ruby`, alongside CLI tools like `openai-cli` (Go).
+- **Key projects** include `openai-cookbook` (API usage guides), `whisper` (speech recognition), and `evals` (LLM benchmarking), with high star counts (75.7k–120.9k) and active forks (1.6k–18.5k).
 
-- **Specialized tools** include `codex` (Rust-based coding agent), `codex-security` (TypeScript SDK for vulnerability detection), and `openai-agents-python/js` (multi-agent workflow frameworks).
+- **Additional tools** like `codex-security` (vulnerability scanning), `terraform-provider-openai` (Infrastructure-as-Code), and `orchard` (Apple Silicon VM orchestration) demonstrate OpenAI's expanding ecosystem beyond core AI models.
 
 ## Why It Matters
 
@@ -39,16 +39,16 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/agents
-- Published: 2026-08-10T13:45:54.454264+05:30
+- Published: 2026-09-02T18:28:59.132489+05:30
 
 ## Related Tags
 
 - agents
 - benchmark
 - openai
+- paper
 - reddit
 - web-crawled
-- workflows
 
 ## Source
 

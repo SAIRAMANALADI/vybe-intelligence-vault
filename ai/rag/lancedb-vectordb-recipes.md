@@ -4,11 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/lancedb/vectordb-recipes
-collected_at: '2026-09-02T10:17:35.211693+05:30'
+collected_at: '2026-09-02T18:23:02.377606+05:30'
 published_at: '2026-08-30T09:54:01Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - jupyter notebook
 - meta-ai
 - models
@@ -23,9 +24,9 @@ archived: false
 created_at: '2023-06-25T06:10:35Z'
 pushed_at: '2026-04-24T11:29:16Z'
 resource_id: github:lancedb/vectordb-recipes
-first_seen: '2026-09-02T10:17:35.211693+05:30'
-last_seen: '2026-09-02T10:17:35.211693+05:30'
-last_checked: '2026-09-02T10:17:35.211693+05:30'
+first_seen: '2026-09-02T18:23:02.377606+05:30'
+last_seen: '2026-09-02T18:23:02.377606+05:30'
+last_checked: '2026-09-02T18:23:02.377606+05:30'
 health_score: 100
 ---
 
@@ -33,11 +34,11 @@ health_score: 100
 
 ## Summary
 
-- **Multimodal AI & RAG Implementations**: Repository provides Jupyter Notebook-based tutorials and examples for Retrieval-Augmented Generation (RAG) and multimodal AI systems using vector search and LLMs (e.g., GPT-4 Vision, LlamaIndex, LangChain).
+- **Multimodal AI & RAG Implementations**: Repository provides Jupyter Notebook-based examples for integrating vector search (LanceDB) with LLMs (GPT-4 Vision, LangChain, LlamaIndex) for multimodal AI and Retrieval-Augmented Generation (RAG) workflows.
 
-- **Vector Database Integration**: Focuses on LanceDB for efficient vector search, covering embeddings, fine-tuning, and agent-based workflows with OpenAI and other LLM APIs.
+- **End-to-End Agent Systems**: Demonstrates fine-tuning and embedding pipelines for deploying AI agents, leveraging OpenAI embeddings and deep-learning models for multimodal tasks.
 
-- **Tooling & Frameworks**: Demonstrates practical use cases with deep-learning libraries, multimodal models, and agent frameworks (e.g., LangChain, LlamaIndex) for scalable AI pipelines.
+- **Vector Database Optimization**: Focuses on efficient vector storage and retrieval techniques using LanceDB, with tutorials on fine-tuning embeddings and optimizing RAG pipelines for production-grade AI applications.
 
 ## Why It Matters
 

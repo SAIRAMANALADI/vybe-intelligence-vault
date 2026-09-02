@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **JavaScript Dependency**: The application requires JavaScript to be enabled in the browser for execution and functionality.
-- **Client-Side Execution**: Core application logic and rendering are performed on the client side, necessitating active JavaScript support.
-- **Error State**: Disabling JavaScript triggers a fallback message, indicating the application cannot operate without JavaScript execution.
+- **JavaScript Dependency**: The application requires JavaScript to be enabled for execution, as it relies on client-side scripting for functionality.
+- **Browser Configuration**: Users must ensure their browser settings permit JavaScript execution, typically via `about:config` (Firefox) or `chrome://settings/content` (Chrome).
+- **Error Mechanism**: The message indicates a fallback state when JavaScript is disabled, preventing dynamic content rendering and potentially breaking Single-Page Appli
 
 ## Use Cases
 

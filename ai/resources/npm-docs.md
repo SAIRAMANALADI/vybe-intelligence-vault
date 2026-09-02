@@ -4,16 +4,15 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.npmjs.com/
-published_at: '2026-09-02T10:25:49.285228+05:30'
-collected_at: '2026-09-02T10:25:49.285243+05:30'
+published_at: '2026-09-02T18:29:06.266178+05:30'
+collected_at: '2026-09-02T18:29:06.266192+05:30'
 tags:
 - web-crawled
-- workflows
 status: active
 resource_id: blog:npm-docs
-first_seen: '2026-09-02T10:25:49.285243+05:30'
-last_seen: '2026-09-02T10:25:49.285243+05:30'
-last_checked: '2026-09-02T10:25:49.285243+05:30'
+first_seen: '2026-09-02T18:29:06.266192+05:30'
+last_seen: '2026-09-02T18:29:06.266192+05:30'
+last_checked: '2026-09-02T18:29:06.266192+05:30'
 health_score: 100
 ---
 
@@ -21,11 +20,9 @@ health_score: 100
 
 ## Summary
 
-- **Registry & CLI**: npm provides a public registry for JavaScript packages and a command-line interface (CLI) for package management, including publishing, installing, and dependency resolution via `package.json`.
-
-- **Security & Policies**: Enforces policies for package publishing, including scope restrictions, two-factor authentication (2FA), and vulnerability reporting, with threat mitigation strategies for malicious packages (e.g., typosquatting, dependency confusion).
-
-- **Organizations & Integrations**: Supports scoped packages, team-based access control via npm Organizations, and integrates with CI/CD pipelines, IDEs, and other development tools for automated workflows.
+- **npm CLI**: Command-line interface for managing Node.js packages, including installation (`npm install`), dependency management (`package.json`), and script execution (`npm run`).
+- **Registry & Packages**: Centralized package registry for Node.js modules, supporting versioning, publishing (`npm publish`), and dependency resolution via semantic versioning.
+- **Security & Policies**: Enforces security policies (e.g., `npm audit`), mitigates threats (e.g., supply chain attacks), and supports organizational access control via npm Organizations.
 
 ## Why It Matters
 
@@ -35,12 +32,11 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-09-02T10:25:49.285228+05:30
+- Published: 2026-09-02T18:29:06.266178+05:30
 
 ## Related Tags
 
 - web-crawled
-- workflows
 
 ## Source
 

@@ -4,13 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/bangoc123/retrieval-backend-with-rag
-collected_at: '2026-09-02T10:18:10.192327+05:30'
+collected_at: '2026-09-02T18:23:37.393158+05:30'
 published_at: '2026-08-22T07:32:26Z'
 tags:
 - benchmark
+- dataset
 - github-repo
 - python
 - rag
+- workflows
 stars: 267
 language: Python
 status: active
@@ -18,9 +20,9 @@ archived: false
 created_at: '2024-06-13T03:43:42Z'
 pushed_at: '2025-10-03T03:29:43Z'
 resource_id: github:bangoc123/retrieval-backend-with-rag
-first_seen: '2026-09-02T10:18:10.192327+05:30'
-last_seen: '2026-09-02T10:18:10.192327+05:30'
-last_checked: '2026-09-02T10:18:10.192327+05:30'
+first_seen: '2026-09-02T18:23:37.393158+05:30'
+last_seen: '2026-09-02T18:23:37.393158+05:30'
+last_checked: '2026-09-02T18:23:37.393158+05:30'
 health_score: 100
 ---
 
@@ -28,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- Implements a **Retrieval-Augmented Generation (RAG)** pipeline optimized for Vietnamese text, leveraging **FAISS** for efficient vector search and **Vietnamese-specific embeddings** (e.g., PhoBERT or vinai/phobert-base) for semantic retrieval.
-- Integrates **LangChain** for modular pipeline construction, including document loaders (e.g., `UnstructuredFileLoader`), text splitters (e.g., `RecursiveCharacterTextSplitter`), and Vietnamese language-specific preprocessing (e.g., ViTokenizer for word segmentation).
-- Features **retriever evaluation** with metrics like **MRR (Mean Reciprocal Rank)** and **Hit Rate@K**, and supports **hybrid retrieval** (dense + sparse) using BM25 for Vietnamese queries, with deployment-ready FastAPI endpoints for real-time inference.
+- Implements a **Retrieval-Augmented Generation (RAG)** pipeline optimized for **Vietnamese language processing**, leveraging vector databases (e.g., FAISS) for efficient document retrieval.
+- Utilizes **PyTorch-based models** (e.g., `vinai/phobert-base`) for Vietnamese embeddings and **LangChain** for orchestrating retrieval and generation workflows.
+- Includes **benchmarking scripts** for evaluating RAG performance on Vietnamese datasets, with modular components for customization (e.g., chunking strategies, reranking).
 
 ## Why It Matters
 

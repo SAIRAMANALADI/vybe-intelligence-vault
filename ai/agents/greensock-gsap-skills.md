@@ -4,15 +4,14 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/greensock/gsap-skills
-collected_at: '2026-09-02T10:19:50.310718+05:30'
-published_at: '2026-09-02T04:45:37Z'
+collected_at: '2026-09-02T18:25:17.486148+05:30'
+published_at: '2026-09-02T12:34:17Z'
 tags:
 - agents
 - animation
 - github-repo
-- hackernews
 - unknown
-stars: 14776
+stars: 14806
 language: Unknown
 status: active
 license: MIT
@@ -20,9 +19,9 @@ archived: false
 created_at: '2026-03-04T17:22:35Z'
 pushed_at: '2026-07-29T17:36:08Z'
 resource_id: github:greensock/gsap-skills
-first_seen: '2026-09-02T10:19:50.310718+05:30'
-last_seen: '2026-09-02T10:19:50.310718+05:30'
-last_checked: '2026-09-02T10:19:50.310718+05:30'
+first_seen: '2026-09-02T18:25:17.486148+05:30'
+last_seen: '2026-09-02T18:25:17.486148+05:30'
+last_checked: '2026-09-02T18:25:17.486148+05:30'
 health_score: 100
 ---
 
@@ -30,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **GSAP AI Skills Repository**: Provides structured training for AI agents to implement GSAP animations, covering best practices, common patterns, and plugin integration.
-- **Technical Scope**: Focuses on GSAP-specific methodologies, including timeline management, performance optimization, and advanced animation techniques.
-- **Repository Metadata**: 14,776 stars, 881 forks, last updated 2026-09-02; language unspecified, no topics listed.
+*   Provides official, structured AI skill definitions for programmatic GSAP (GreenSock Animation Platform) utilization.
+*   Trains AI coding agents in correct GSAP syntax, best practices, and common animation pattern implementation.
+*   Covers advanced GSAP functionalities, including plugin integration, for AI-driven animation development.
 
 ## Why It Matters
 
@@ -41,11 +40,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: greensock
-- Stars: 14776
-- Forks: 881
+- Stars: 14806
+- Forks: 886
 - Language: Unknown
 - Topics: None
-- Last Updated: 2026-09-02T04:45:37Z
+- Last Updated: 2026-09-02T12:34:17Z
 - License: MIT
 - Archived: No
 - Created At: 2026-03-04T17:22:35Z

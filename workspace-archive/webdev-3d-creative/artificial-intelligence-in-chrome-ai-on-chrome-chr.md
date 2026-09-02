@@ -17,6 +17,7 @@ tags:
 - reddit
 - threejs
 - web-crawled
+- workflows
 selection_reason:
 - Strong keyword match
 - Valuable developer reference
@@ -35,11 +36,9 @@ selection_reason:
 
 ## Summary
 
-- **Built-in AI APIs**: Chrome provides browser-managed AI models and APIs (e.g., WebNN, WebGPU) enabling web apps to perform AI tasks like translation, summarization, and content generation locally via Gemini Nano integration.
-
-- **WebMCP for Agent Calls**: Standardized API for exposing structured tools to AI agents, ensuring reliable, precise actions (e.g., booking slots) with user-permissioned execution via declarative tool registration.
-
-- **Performance Optimization**: Chrome supports AI acc
+- **Built-in AI APIs**: Chrome provides browser-managed AI models and APIs (e.g., `chrome.ai`) for performing AI tasks directly in the browser, with support for foundation/expert models and structured tool interactions via WebMCP for reliable agent calls.
+- **WebNN & Acceleration APIs**: Chrome supports WebNN for ML operations, WebGPU for GPU-accelerated computations, and WebAssembly optimizations for AI inference, enhancing performance and compute efficiency.
+- **DevTools AI Integration**: Chro
 
 ## Use Cases
 

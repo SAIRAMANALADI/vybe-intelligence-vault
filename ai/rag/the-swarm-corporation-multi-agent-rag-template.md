@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/The-Swarm-Corporation/Multi-Agent-RAG-Template
-collected_at: '2026-09-02T10:21:25.488037+05:30'
+collected_at: '2026-09-02T18:26:52.692003+05:30'
 published_at: '2026-07-08T10:21:23Z'
 tags:
 - agents
@@ -21,9 +21,9 @@ archived: false
 created_at: '2024-11-11T19:34:21Z'
 pushed_at: '2025-01-13T21:43:05Z'
 resource_id: github:the-swarm-corporation/multi-agent-rag-template
-first_seen: '2026-09-02T10:21:25.488037+05:30'
-last_seen: '2026-09-02T10:21:25.488037+05:30'
-last_checked: '2026-09-02T10:21:25.488037+05:30'
+first_seen: '2026-09-02T18:26:52.692003+05:30'
+last_seen: '2026-09-02T18:26:52.692003+05:30'
+last_checked: '2026-09-02T18:26:52.692003+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Agent Architecture**: Implements a collaborative system of AI agents using frameworks like **AutoGen**, **CrewAI**, and **Swarms** to process, analyze, and extract insights from documents via **Retrieval-Augmented Generation (RAG)**.
+- **Multi-Agent Architecture**: Implements a collaborative system of AI agents (e.g., CrewAI, AutoGen) for document processing, leveraging frameworks like LangChain, ChromaDB, and Weaviate for retrieval-augmented generation (RAG).
 
-- **Vector Database Integration**: Supports multiple vector stores (**ChromaDB**, **Pinecone**, **Weaviate**) for efficient document retrieval and embeddings, enabling scalable semantic search and context-aware responses.
+- **Integration Stack**: Supports multiple LLM backends (GPT-3.5/4, GPT-5, Anthropic) and vector databases (Pinecone, ChromaDB, Weaviate), with Discord integration for real-time agent communication.
 
-- **Multi-Model & Tooling Support**: Compatible with **OpenAI (GPT-3.5/4/5)**, **Anthropic**, and other LLM providers; includes Discord integration for real-time agent collaboration and task execution.
+- **Template Scope**: Provides a Python-based template for deploying a swarm of specialized agents (e.g., retrieval, analysis, synthesis) to automate multi-stage document insights generation.
 
 ## Why It Matters
 

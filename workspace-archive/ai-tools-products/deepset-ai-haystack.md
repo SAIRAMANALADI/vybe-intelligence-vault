@@ -4,7 +4,7 @@ title: haystack/docs-website/versioned_docs/version-3.1/intro.mdx at main · dee
 archive_category: ai-tools-products
 source_category: ai/rag
 source_url: https://github.com/deepset-ai/haystack/tree/main/docs-website/versioned_docs/version-3.1/intro.mdx
-resource_id: github:deepset-ai/haystack
+resource_id: github:deepset-ai/haystack-47b046f2
 local_vault_path: ai/rag/deepset-ai-haystack.md
 quality_score: 70
 archive_score: 87

@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://policies.google.com/terms
-published_at: '2026-08-11T01:00:18.054754+05:30'
-collected_at: '2026-08-11T01:00:18.054768+05:30'
+published_at: '2026-09-02T18:32:54.287316+05:30'
+collected_at: '2026-09-02T18:32:54.287331+05:30'
 tags:
 - hackernews
 - paper
@@ -17,9 +17,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:google-terms-of-service-privacy-terms-google
-first_seen: '2026-08-11T01:00:18.054768+05:30'
-last_seen: '2026-08-11T01:00:18.054768+05:30'
-last_checked: '2026-08-11T01:00:18.054768+05:30'
+first_seen: '2026-09-02T18:32:54.287331+05:30'
+last_seen: '2026-09-02T18:32:54.287331+05:30'
+last_checked: '2026-09-02T18:32:54.287331+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **Legal Entity & Jurisdiction**: Google LLC, a Delaware-registered entity under U.S. law, provides services from Mountain View, California, with service-specific terms and age requirements enforced.
+- **Service Provider & Jurisdiction**: Google LLC, a Delaware-registered entity operating under U.S. law, provides services under these terms, with contractual obligations governed by U.S. regulations and applicable local laws.
 
-- **Service Provision & AI Integration**: Google services (Search, Maps, Shopping, etc.) are continuously developed using AI/ML for features like real-time translation, spam detection, and automated updates, with material changes requiring advance notice unless urgent.
+- **Automated & AI-Driven Service Modifications**: Google reserves the right to dynamically update, modify, or discontinue services (including AI/ML-driven features) with material changes subject to advance notice unless urgent (e.g., security, legal compliance), while enabling user content export via Google Takeout.
 
-- **User Obligations & Content Licensing**: Users must comply with terms prohibiting abuse (e.g., malware, reverse engineering, AI model training from outputs) while granting Google a license to use submitted content, retaining user IP rights.
+- **User Content & Licensing**: Users retain IP rights to their content but grant Google a perpetual, irrevocable, worldwide license to host, process, and distribute it per service-specific terms, prohibiting reverse engineering, automated extraction, or AI model training on Google-generated content.
 
 ## Why It Matters
 
@@ -41,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-11T01:00:18.054754+05:30
+- Published: 2026-09-02T18:32:54.287316+05:30
 
 ## Related Tags
 

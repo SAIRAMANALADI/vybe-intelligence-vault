@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.ragas.io/en/latest/getstarted/evals/
-published_at: '2026-08-05T09:08:49.065249+05:30'
-collected_at: '2026-08-05T09:08:49.065263+05:30'
+published_at: '2026-09-02T18:27:03.602610+05:30'
+collected_at: '2026-09-02T18:27:03.602623+05:30'
 tags:
 - anthropic
 - benchmark
@@ -20,9 +20,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:evaluate-a-simple-llm-application-ragas
-first_seen: '2026-08-05T09:08:49.065263+05:30'
-last_seen: '2026-08-05T09:08:49.065263+05:30'
-last_checked: '2026-08-05T09:08:49.065263+05:30'
+first_seen: '2026-09-02T18:27:03.602623+05:30'
+last_seen: '2026-09-02T18:27:03.602623+05:30'
+last_checked: '2026-09-02T18:27:03.602623+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Quickstart Setup**: The `ragas quickstart` command generates a project with `evals.py` (evaluation workflow) and `rag.py` (RAG/LLM application), including modular functions for dataset loading, querying, evaluation, and result logging (CSV in `evals/experiments/`).
+- **Project Setup**: The `ragas quickstart` command generates a structured project (`rag_eval/`) with key files (`evals.py`, `rag.py`) for defining evaluation workflows and RAG/LLM application logic, including dataset loading, query execution, and result saving in `evals/experiments/`.
 
-- **Multi-Provider LLM Integration**: Supports OpenAI, Anthropic, Google, Ollama, or custom providers via `llm_factory`; configuration requires API keys (e.g., `OPENAI_API_KEY`) and client initialization (e.g., `llm_factory("gpt-4o", client=client)`).
+- **LLM Provider Integration**: Supports multiple LLM providers (OpenAI, Anthropic, Google, Ollama, or custom) via `llm_factory` in `_init_clients()`, with provider-specific API key configurations and OpenAI-compatible API endpoints.
 
-- **Pre-Built Metrics & Dataset Evaluation**: Includes `DiscreteMetric` for customizable aspect evaluation (e.g., `summary_accuracy`) and supports batch evaluation via `Dataset` objects (CSV/JSONL) with structured test samples for scalable testing.
+- **Evaluation Metrics**: Utilizes pre-built metrics (e.g., `DiscreteMetric` for aspect critique) and supports custom metrics, enabling automated scoring of responses against ground truth or predefined criteria, with results logged and saved to CSV.
 
 ## Why It Matters
 
@@ -44,7 +44,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-05T09:08:49.065249+05:30
+- Published: 2026-09-02T18:27:03.602610+05:30
 
 ## Related Tags
 

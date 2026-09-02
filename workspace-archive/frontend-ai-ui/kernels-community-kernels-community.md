@@ -31,11 +31,11 @@ selection_reason:
 
 ## Summary
 
-- **Live Kernel Build Monitoring**: Real-time tracking of kernel build statuses with an interactive table for continuous integration/continuous deployment (CI/CD) pipelines.
+- **Live Kernel Build Monitoring**: Real-time tracking of kernel build statuses with an interactive table for immediate visibility.
 
-- **Grafana Integration**: Optional metrics dashboard for visualizing performance, build times, and system health via Grafana.
+- **Optional Grafana Integration**: Metrics dashboard (Grafana) for advanced monitoring, visualization, and alerting of kernel build performance.
 
-- **Community-Driven CI System**: Open-source initiative (`kernels-community`) providing public visibility into kernel build processes and regression detection.
+- **Community-Driven CI/CD**: Open-source project (`kernels-community`) providing continuous integration for kernel development with public accessibility.
 
 ## Use Cases
 

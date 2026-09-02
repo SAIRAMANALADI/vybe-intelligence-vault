@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://danluu.com/zitron
 hn_url: https://news.ycombinator.com/item?id=49526069
-score: 534
+score: 770
 author: jatins
-comments_count: 618
+comments_count: 846
 published_at: '2026-09-02T00:05:15+05:30'
-collected_at: '2026-09-02T10:14:05.378475+05:30'
+collected_at: '2026-09-02T18:21:54.999713+05:30'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: hackernews:how-accurate-have-ed-zitron-s-ai-skeptic-predictio
 first_seen: '2026-09-02T04:11:40.025499+05:30'
-last_seen: '2026-09-02T10:14:05.378475+05:30'
-last_checked: '2026-09-02T10:14:05.378475+05:30'
+last_seen: '2026-09-02T18:21:54.999713+05:30'
+last_checked: '2026-09-02T18:21:54.999713+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by jatins. Score: 534, Comments: 618.
+Hacker News story by jatins. Score: 770, Comments: 846.
 Original Link: https://danluu.com/zitron/
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: jatins
-- Score: 534 Upvotes
-- Comments: 618 Discussions
+- Score: 770 Upvotes
+- Comments: 846 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49526069
 - Original Article: https://danluu.com/zitron
 

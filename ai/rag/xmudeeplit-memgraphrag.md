@@ -4,14 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/XMUDeepLIT/MemGraphRAG
-collected_at: '2026-09-02T10:19:00.286238+05:30'
+collected_at: '2026-09-02T18:24:27.459333+05:30'
 published_at: '2026-09-01T19:53:18Z'
 tags:
 - agents
 - github-repo
 - python
 - rag
-- workflows
 stars: 209
 language: Python
 status: active
@@ -20,9 +19,9 @@ archived: false
 created_at: '2026-02-02T03:16:55Z'
 pushed_at: '2026-06-20T23:54:03Z'
 resource_id: github:xmudeeplit/memgraphrag
-first_seen: '2026-09-02T10:19:00.286238+05:30'
-last_seen: '2026-09-02T10:19:00.286238+05:30'
-last_checked: '2026-09-02T10:19:00.286238+05:30'
+first_seen: '2026-09-02T18:24:27.459333+05:30'
+last_seen: '2026-09-02T18:24:27.459333+05:30'
+last_checked: '2026-09-02T18:24:27.459333+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Memory-based Multi-Agent System**: Introduces MemGraphRAG, a KDD 2026 framework leveraging memory-augmented multi-agent collaboration for graph-based Retrieval-Augmented Generation (RAG), enhancing contextual reasoning via agentic workflows.
+- **Memory-based Multi-Agent System**: Introduces a novel **graph retrieval-augmented generation (GraphRAG)** framework leveraging **multi-agent collaboration** with **memory-driven reasoning** for enhanced knowledge graph construction and querying.
 
-- **Graph & Ontology Construction**: Implements dynamic graph construction and ontology learning to structure knowledge, enabling efficient retrieval and reasoning over complex relational data for improved LLM performance.
+- **Ontology-Guided Graph Construction**: Implements **ontology-aware graph construction** to dynamically build and refine knowledge graphs, improving semantic consistency and retrieval accuracy in downstream tasks.
 
-- **Python Implementation**: Provides an open-source Python library with modular components for agent memory, graph RAG, and ontology integration, optimized for scalability and adaptability in knowledge-intensive tasks.
+- **Python-Based Implementation**: Provides an open-source **Python** toolkit with modular components for **agent-memory integration**, **graph-based retrieval**, and **multi-agent coordination**, optimized for scalability and adaptability.
 
 ## Why It Matters
 

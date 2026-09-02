@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/docker/compose-for-agents
-collected_at: '2026-09-02T04:14:53.940484+05:30'
+collected_at: '2026-09-02T18:25:07.527418+05:30'
 published_at: '2026-08-30T14:12:31Z'
 tags:
 - agents
@@ -24,9 +24,9 @@ archived: false
 created_at: '2025-05-09T09:20:04Z'
 pushed_at: '2026-06-04T18:15:29Z'
 resource_id: github:docker/compose-for-agents
-first_seen: '2026-09-02T04:14:53.940484+05:30'
-last_seen: '2026-09-02T04:14:53.940484+05:30'
-last_checked: '2026-09-02T04:14:53.940484+05:30'
+first_seen: '2026-09-02T18:25:07.527418+05:30'
+last_seen: '2026-09-02T18:25:07.527418+05:30'
+last_checked: '2026-09-02T18:25:07.527418+05:30'
 health_score: 100
 ---
 
@@ -34,9 +34,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Provides Docker Compose configurations to deploy and orchestrate open-source AI agents, LLMs (e.g., llama-cpp), tools, and agent runtimes for self-hosted agentic workflows.
-- **Technical Stack**: Primarily TypeScript-based with Docker Compose for orchestration, supporting integration with LLMs, tools, and agent frameworks (e.g., OpenAI Gym).
-- **Use Case**: Enables rapid deployment of AI agent systems via pre-configured examples, facilitating local development and production setups for agentic workflows.
+- **Purpose**: Provides Docker Compose configurations to deploy and orchestrate AI agents, integrating open-source LLMs (e.g., llama-cpp), tools, and agent runtimes for self-hosted agentic workflows.
+- **Technical Stack**: TypeScript-based examples with Docker Compose, supporting orchestration of LLMs, tools (e.g., OpenAI Gym), and agent frameworks for scalable agent deployment.
+- **Key Features**: Pre-configured templates for rapid deployment of AI agents, emphasizing modularity, self-hosting, and compatibility with Docker-based environments.
 
 ## Why It Matters
 
@@ -46,7 +46,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: docker
 - Stars: 1028
-- Forks: 467
+- Forks: 468
 - Language: TypeScript
 - Topics: agentic-workflows, ai-agents, docker, docker-compose, examples, large-language-models, llama-cpp, openai-gym, self-hosted
 - Last Updated: 2026-08-30T14:12:31Z

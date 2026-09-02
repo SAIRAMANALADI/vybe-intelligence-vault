@@ -1,6 +1,6 @@
 ---
 title: Spaces - Hugging Face
-archive_category: rag-systems
+archive_category: ai-tools-products
 source_category: ai/rag
 source_url: https://huggingface.co/spaces
 resource_id: blog:spaces-hugging-face
@@ -23,7 +23,7 @@ selection_reason:
 
 ## Why This Is In The Archive
 
-- Matched archive category: `RAG Systems`
+- Matched archive category: `AI Tools and Products`
 - Quality score: 70 | Archive score: 72 (useful)
 - Resource kind: tutorial
 - Selection reasons:
@@ -32,15 +32,15 @@ selection_reason:
 
 ## Summary
 
-- **Hackathon Focus**: SageBio's "Rare Disease, Real Kid: MVA Hackathon 2026" targets rare disease solutions using multi-omics and AI-driven approaches.
-- **Platform**: Hosted on Hugging Face Spaces, leveraging collaborative AI/ML tools for interdisciplinary problem-solving.
-- **Objective**: Develop scalable computational models to accelerate rare disease research and therapeutic discovery.
+- **Event Focus**: Rare Disease, Real Kid: MVA Hackathon 2026 targets rare disease solutions via collaborative problem-solving.
+- **Platform**: Hosted on Hugging Face Spaces by SageBio, integrating computational biology tools for interdisciplinary teams.
+- **Objective**: Develop innovative computational approaches to address rare disease challenges, leveraging open-source AI/ML resources.
 
 ## Use Cases
 
-- Knowledge querying
-- Document summarization
-- Hybrid retrieval
+- Workflow automation search
+- AI developer tooling
+- Developer utility updates
 
 ## Source
 

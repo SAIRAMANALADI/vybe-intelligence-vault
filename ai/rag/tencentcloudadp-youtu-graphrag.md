@@ -4,10 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TencentCloudADP/youtu-graphrag
-collected_at: '2026-09-02T10:19:00.261816+05:30'
+collected_at: '2026-09-02T18:24:27.444807+05:30'
 published_at: '2026-09-01T02:41:47Z'
 tags:
 - agents
+- benchmark
 - github-repo
 - python
 - rag
@@ -19,9 +20,9 @@ archived: false
 created_at: '2025-09-01T02:52:13Z'
 pushed_at: '2026-02-26T12:57:55Z'
 resource_id: github:tencentcloudadp/youtu-graphrag
-first_seen: '2026-09-02T10:19:00.261816+05:30'
-last_seen: '2026-09-02T10:19:00.261816+05:30'
-last_checked: '2026-09-02T10:19:00.261816+05:30'
+first_seen: '2026-09-02T18:24:27.444807+05:30'
+last_seen: '2026-09-02T18:24:27.444807+05:30'
+last_checked: '2026-09-02T18:24:27.444807+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Vertically Unified Agents**: Introduces a multi-agent architecture where specialized agents (e.g., retrieval, reasoning, planning) collaborate hierarchically for complex reasoning tasks, leveraging graph structures for enhanced contextual understanding.
+- **Vertically Unified Agents**: Introduces a multi-agent framework where specialized agents (e.g., retrieval, reasoning, planning) collaborate hierarchically for complex reasoning tasks, leveraging graph structures for enhanced contextual understanding.
 
-- **Graph Retrieval-Augmented Complex Reasoning (GraphRAG)**: Integrates graph-based retrieval with large language models (LLMs) to dynamically construct and traverse knowledge graphs, improving factual accuracy and logical coherence in multi-step reasoning.
+- **Graph Retrieval-Augmented Architecture**: Integrates graph-based knowledge representation with retrieval-augmented generation (RAG), enabling dynamic knowledge retrieval and structured reasoning over large-scale, interconnected data.
 
-- **Optimized Python Implementation**: Features a high-performance Python framework with modular agent orchestration, graph-aware retrieval pipelines, and efficient memory management for scalable, real-time complex reasoning applications.
+- **ICLR 2026 Contribution**: Proposes a novel paradigm for LLM-driven complex reasoning by vertically unifying agents with graph-centric RAG, demonstrating state-of-the-art performance on multi-hop reasoning benchmarks.
 
 ## Why It Matters
 
@@ -43,7 +44,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: TencentCloudADP
 - Stars: 1257
-- Forks: 185
+- Forks: 186
 - Language: Python
 - Topics: agent, graph, graphrag, llm, rag
 - Last Updated: 2026-09-01T02:41:47Z

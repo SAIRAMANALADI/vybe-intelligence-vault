@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/truefoundry/cognita
-collected_at: '2026-09-02T10:21:40.421561+05:30'
+collected_at: '2026-09-02T18:27:07.568655+05:30'
 published_at: '2026-09-01T12:50:44Z'
 tags:
 - agents
@@ -12,7 +12,6 @@ tags:
 - models
 - python
 - rag
-- workflows
 stars: 4420
 language: Python
 status: active
@@ -21,9 +20,9 @@ archived: true
 created_at: '2023-07-26T13:08:54Z'
 pushed_at: '2026-03-13T15:04:36Z'
 resource_id: github:truefoundry/cognita
-first_seen: '2026-09-02T10:21:40.421561+05:30'
-last_seen: '2026-09-02T10:21:40.421561+05:30'
-last_checked: '2026-09-02T10:21:40.421561+05:30'
+first_seen: '2026-09-02T18:27:07.568655+05:30'
+last_seen: '2026-09-02T18:27:07.568655+05:30'
+last_checked: '2026-09-02T18:27:07.568655+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Modular RAG Framework**: Open-source Python framework for building production-grade Retrieval-Augmented Generation (RAG) applications with modular components for scalable deployment and customization.
-
-- **Multi-Language Support**: Combines Python for backend logic and TypeScript for frontend integration, enabling full-stack AI application development.
-
-- **MLOps & LLM-Ops Integration**: Supports fine-tuning, model deployment, and operational workflows (LLMOps) with built-in tools for data management, retrieval optimization, and agent-based architectures.
+*   Python-based, modular RAG framework engineered for production-grade generative AI application development.
+*   Integrates LLM-ops, MLOps, and model deployment capabilities, supporting fine-tuning within RAG pipelines.
+*   Provides an open-source, extensible architecture for building robust retrieval-augmented generation systems.
 
 ## Why It Matters
 

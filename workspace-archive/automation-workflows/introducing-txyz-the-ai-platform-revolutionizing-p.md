@@ -13,7 +13,6 @@ resource_kind: tutorial
 importance: medium
 tags:
 - agents
-- hackernews
 - openai
 - paper
 - producthunt
@@ -39,11 +38,11 @@ selection_reason:
 
 ## Summary
 
-- **TXYZ AI Platform**: Enables interactive Q&A, summarization, and key point extraction from PDFs, optimized for academic research with real-time contextual responses and page navigation.
+- **TXYZ AI Platform**: Enables interactive Q&A for academic PDFs, providing context-aware answers, summaries, and key point extraction with page highlighting for efficient research workflows.
 
-- **TXYZ-Writing**: AI-driven writing assistant with multi-agent workflows for structured document creation, integrating user notes, citations, and uploaded materials for streamlined academic writing.
+- **TXYZ-Writing**: AI-driven writing assistant with multi-agent architecture for structured document creation, integrating user notes, citations, and uploaded materials for optimized academic writing.
 
-- **Dual-Functionality**: Combines PDF reading (TXYZ) and writing (TXYZ-Writing) into a cohesive workflow, l
+- **Core Features**: Combines PDF reading (highlighting, summaries) with AI-powered writing (interactiv
 
 ## Use Cases
 

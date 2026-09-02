@@ -4,13 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/IAAR-Shanghai/CRUD_RAG
-collected_at: '2026-09-02T10:18:35.255359+05:30'
+collected_at: '2026-09-02T18:24:02.461095+05:30'
 published_at: '2026-09-01T13:49:24Z'
 tags:
 - benchmark
 - dataset
 - github-repo
-- hackernews
 - python
 - rag
 stars: 409
@@ -20,9 +19,9 @@ archived: false
 created_at: '2024-01-26T08:37:25Z'
 pushed_at: '2025-05-20T08:38:28Z'
 resource_id: github:iaar-shanghai/crud_rag
-first_seen: '2026-09-02T10:18:35.255359+05:30'
-last_seen: '2026-09-02T10:18:35.255359+05:30'
-last_checked: '2026-09-02T10:18:35.255359+05:30'
+first_seen: '2026-09-02T18:24:02.461095+05:30'
+last_seen: '2026-09-02T18:24:02.461095+05:30'
+last_checked: '2026-09-02T18:24:02.461095+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Benchmark Framework**: CRUD-RAG provides a structured Chinese benchmark for evaluating Retrieval-Augmented Generation (RAG) models, focusing on Large Language Models (LLMs) with metrics for retrieval and generation performance.
+- **Benchmark Suite**: CRUD-RAG provides a comprehensive Chinese benchmark for evaluating Retrieval-Augmented Generation (RAG) models, covering diverse tasks and datasets to assess performance in real-world scenarios.
 
-- **Components**: Includes datasets, evaluation protocols, and baseline implementations for CRUD (Create, Read, Update, Delete) operations in RAG systems, enabling systematic assessment of model capabilities.
+- **Evaluation Framework**: Implements standardized metrics and protocols for assessing RAG systems, including retrieval accuracy, generation quality, and end-to-end efficiency in Chinese language contexts.
 
-- **Technical Scope**: Implemented in Python, the repository supports modular integration with LLMs and retrieval systems, facilitating reproducible experiments and comparative analysis in Chinese language contexts.
+- **Open-Source Toolkit**: Offers a Python-based repository with modular components for benchmarking, enabling reproducibility and facilitating research in RAG for large language models.
 
 ## Why It Matters
 

@@ -8,12 +8,10 @@ local_vault_path: ai/rag/top-rag-open-source-projects-2026-trendshift.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: framework
+resource_kind: tutorial
 importance: medium
 tags:
 - agents
-- meta-ai
-- models
 - rag
 - reddit
 - scripts
@@ -22,7 +20,7 @@ tags:
 - youtube
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Valuable developer reference
 ---
 
 # Top RAG open-source projects (2026) | Trendshift
@@ -31,18 +29,18 @@ selection_reason:
 
 - Matched archive category: `AI Coding Agents`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: framework
+- Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- **Open-connector**: Open-source gateway enabling interoperability between AI agents and external services via standardized connectors (GitHub: [oomol-lab/open-connector](https://github.com/oomol-lab/open-connector)).
+- **Bifrost**: Enterprise-grade AI gateway enabling scalable routing, governance, and security for AI traffic management, as per [maximhq/bifrost](https://github.com/maximhq/bifrost).
 
-- **Trending AI repositories (Live Mentions)**: Highlighted projects include `leyen-me/170HX-Llama` (LLM fine-tuning), `THU-MAIC/OpenMAIC` (modular AI framework), and `OpenAPITools/openapi-generator` (API schema automation).
+- **open-connector**: Open-source gateway facilitating interoperability for AI agents, referenced in [oomol-lab/open-connector](https://github.com/oomol-lab/open-connector).
 
-- **Daily trending topics**: Top GitHub trending categ
+- **Trending Topics**: Daily GitHub trending topics include **AI agent (32.4k stars)**, **AI skills (11.6k stars)**, and **AI coding assista
 
 ## Use Cases
 

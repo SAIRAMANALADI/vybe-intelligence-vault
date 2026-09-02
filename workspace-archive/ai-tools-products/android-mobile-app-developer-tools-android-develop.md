@@ -36,11 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **Pixel Ecosystem Optimization**: New Pixel 11 devices and Pixel Watch 5 support adaptive layouts for foldables, gesture-driven Wear OS experiences, and on-device AI via ML Kit Prompt API for cross-Pixel ecosystem optimization.
+- **Pixel Ecosystem Optimization**: New Pixel 11 devices introduce adaptive layouts for foldables, gesture-driven Wear OS experiences, and on-device AI via ML Kit Prompt API for cross-Pixel ecosystem optimization.
 
-- **Jetpack XR SDK Beta**: Jetpack SceneCore, ARCore for Jetpack XR, and XR Runtime libraries have reached beta, enabling integration of XR features and preparation for upcoming Android XR devices.
+- **Jetpack XR SDK Beta**: Jetpack SceneCore, ARCore for Jetpack XR, and XR Runtime libraries reach beta, enabling integration of XR features for upcoming Android XR devices.
 
-- **Android SDK License Agreement (2026.1.4)**: Grants limited, royalt
+- **Google Play Quality Requirements**: New Play Store policies enforce stricter memory footprint optimizatio
 
 ## Use Cases
 

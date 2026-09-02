@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/slavakurilyak/awesome-ai-agents
-collected_at: '2026-09-02T10:20:00.310539+05:30'
+collected_at: '2026-09-02T18:25:27.490064+05:30'
 published_at: '2026-09-01T20:47:45Z'
 tags:
 - agents
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-01-15T12:48:42Z'
 pushed_at: '2025-09-09T22:33:26Z'
 resource_id: github:slavakurilyak/awesome-ai-agents
-first_seen: '2026-09-02T10:20:00.310539+05:30'
-last_seen: '2026-09-02T10:20:00.310539+05:30'
-last_checked: '2026-09-02T10:20:00.310539+05:30'
+first_seen: '2026-09-02T18:25:27.490064+05:30'
+last_seen: '2026-09-02T18:25:27.490064+05:30'
+last_checked: '2026-09-02T18:25:27.490064+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated Resource Hub**: GitHub repository containing 300+ curated links and tools focused on agentic AI, including frameworks, libraries, research papers, and applications.
-- **High Community Engagement**: 2,193 stars and 536 forks indicate significant community adoption and interest in agentic AI technologies.
-- **Python-Centric**: Primarily Python-based resources, suggesting strong alignment with Python’s ecosystem for AI/ML development and agent-based systems.
+- **Curated Repository**: GitHub repository `slavakurilyak/awesome-ai-agents` catalogs 300+ open-source AI agent frameworks, tools, and research papers, categorized by functionality and application.
+- **Technical Metrics**: 2,193 stars, 536 forks, primarily Python-based, with last update on 2026-09-01.
+- **Focus Areas**: Emphasizes agentic AI systems, including multi-agent orchestration, autonomous agents, and agent-based simulations.
 
 ## Why It Matters
 

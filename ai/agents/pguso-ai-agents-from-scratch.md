@@ -4,15 +4,17 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pguso/ai-agents-from-scratch
-collected_at: '2026-09-02T10:19:20.251113+05:30'
+collected_at: '2026-09-02T18:24:47.404083+05:30'
 published_at: '2026-09-02T03:47:07Z'
 tags:
 - agents
 - frontend_ui
 - github-repo
+- hackernews
 - javascript
 - meta-ai
 - models
+- workflows
 stars: 4567
 language: JavaScript
 status: active
@@ -21,9 +23,9 @@ archived: false
 created_at: '2025-10-23T19:39:04Z'
 pushed_at: '2026-07-24T15:40:39Z'
 resource_id: github:pguso/ai-agents-from-scratch
-first_seen: '2026-09-02T10:19:20.251113+05:30'
-last_seen: '2026-09-02T10:19:20.251113+05:30'
-last_checked: '2026-09-02T10:19:20.251113+05:30'
+first_seen: '2026-09-02T18:24:47.404083+05:30'
+last_seen: '2026-09-02T18:24:47.404083+05:30'
+last_checked: '2026-09-02T18:24:47.404083+05:30'
 health_score: 100
 ---
 
@@ -31,9 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Educational Repository**: Provides a hands-on tutorial for building AI agents from scratch using JavaScript, focusing on local LLMs (via `node-llama-cpp`) to avoid black-box abstractions.
-- **Core Concepts Covered**: Implements function calling, memory management, and ReAct (Reasoning and Acting) patterns to demystify agent architectures.
-- **Tech Stack & Updates**: Uses Node.js; last updated September 2026, with 4.5K+ stars and 674 forks, emphasizing practical, black-box-free agent development.
+- **Educational Repository**: Provides a hands-on tutorial to build AI agents from scratch using local LLMs, emphasizing transparency and avoiding black-box implementations.
+
+- **Core Technical Focus**: Covers key AI agent concepts including function calling, memory management, and ReAct (Reasoning and Acting) patterns for agentic workflows.
+
+- **Technical Stack**: Implemented in JavaScript with dependencies on `node-llama-cpp` and React, enabling local LLM integration and agent development without cloud dependencies.
 
 ## Why It Matters
 

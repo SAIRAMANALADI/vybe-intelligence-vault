@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://changelog.langchain.com/
-published_at: '2026-09-02T01:10:06.849402+05:30'
-collected_at: '2026-09-02T01:10:06.849417+05:30'
+published_at: '2026-09-02T18:28:05.630318+05:30'
+collected_at: '2026-09-02T18:28:05.630331+05:30'
 tags:
 - agents
 - anthropic
@@ -24,9 +24,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:langsmith-cloud-changelog-docs-by-langchain
-first_seen: '2026-09-02T01:10:06.849417+05:30'
-last_seen: '2026-09-02T01:10:06.849417+05:30'
-last_checked: '2026-09-02T01:10:06.849417+05:30'
+first_seen: '2026-09-02T18:28:05.630331+05:30'
+last_seen: '2026-09-02T18:28:05.630331+05:30'
+last_checked: '2026-09-02T18:28:05.630331+05:30'
 health_score: 100
 ---
 
@@ -34,11 +34,11 @@ health_score: 100
 
 ## Summary
 
-- **Tracing & Access Control**: Attribute-Based Access Control (ABAC) policies now govern trace access; public API exposes shared threads; Engine issues display clearer actions on traces with improved filtering and error handling.
+- **Tracing & Access Control**: Attribute-Based Access Control (ABAC) policies now govern trace access, with support for opening deployment threads directly in tracing and reading shared threads via the public API. Trace filters now extend to thread evaluations, and clearer error messages are provided for unsupported run filters.
 
-- **Gateway & Engine Optimizations**: LLM Gateway routes support trailing slashes, excludes Claude Max OAuth traffic, and reduces Engine usage costs by 40%; Engine distinguishes missing capabilities from errors, improving Feature Gap detection.
+- **Engine & Gateway Optimizations**: Engine now uses application-scoped project counts, reduces false-positive Feature Gap issues, and lowers Usage Credit costs by 40%. Gateway improvements include routing newer OpenAI models via Amazon Bedrock, PII redaction as a separate entitlement, and exclusion of Claude Max OAuth traffic from Gateway spend.
 
-- **Experiments & Annotation Queues**: Experiment evaluators now support PEP 604 union types; annotation queues support both `RUN` and `THREAD` items with enforced 100-item batch limits; evaluator spend charts and dataset comparisons now load reliably from SmithDB.
+- **Dataset & Experiment Enhancements**: Experiment evaluator columns now fully utilize width, and evaluators linked to Hub prompts load correctly. Annotation queue APIs now support both `RUN` and `THREAD` items, with enforcement of a 100-item limit per request and improved error handling for oversized exports.
 
 ## Why It Matters
 
@@ -48,7 +48,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-09-02T01:10:06.849402+05:30
+- Published: 2026-09-02T18:28:05.630318+05:30
 
 ## Related Tags
 

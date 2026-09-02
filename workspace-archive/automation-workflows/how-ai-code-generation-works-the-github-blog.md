@@ -11,7 +11,6 @@ archive_tier: useful
 resource_kind: tutorial
 importance: medium
 tags:
-- hackernews
 - reddit
 - scripts
 - web-crawled
@@ -34,11 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **GitHub Actions Workflow Optimization**: Jeimy Ruiz contributes to GitHub's technical documentation, focusing on workflow optimization for GitHub Actions, including performance tuning and best practices for CI/CD pipelines.
-
-- **Security & Compliance in DevOps**: Authored articles on integrating security and compliance checks into GitHub Actions workflows, emphasizing secure coding practices and automated policy enforcement.
-
-- **Community & Open Source Engagement**: Actively participates in
+- **GitHub Actions Security Flaws**: Highlighted critical vulnerabilities in GitHub Actions workflows, including arbitrary code execution risks due to improper input sanitization in reusable workflows and third-party actions.
+- **Supply Chain Risks**: Demonstrated how malicious or compromised actions in GitHub Marketplace can propagate supply chain attacks, emphasizing the need for stricter validation and provenance checks.
+- **Mitigation Strategies**: Proposed hardened workflow practices, such
 
 ## Use Cases
 

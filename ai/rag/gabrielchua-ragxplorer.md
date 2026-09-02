@@ -4,12 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/gabrielchua/RAGxplorer
-collected_at: '2026-09-02T10:17:55.159854+05:30'
+collected_at: '2026-09-02T18:23:22.377080+05:30'
 published_at: '2026-09-01T22:16:09Z'
 tags:
+- benchmark
+- dataset
 - github-repo
+- hackernews
 - jupyter notebook
-- models
 - rag
 stars: 1221
 language: Jupyter Notebook
@@ -19,9 +21,9 @@ archived: false
 created_at: '2024-01-11T15:31:36Z'
 pushed_at: '2025-01-03T15:10:06Z'
 resource_id: github:gabrielchua/ragxplorer
-first_seen: '2026-09-02T10:17:55.159854+05:30'
-last_seen: '2026-09-02T10:17:55.159854+05:30'
-last_checked: '2026-09-02T10:17:55.159854+05:30'
+first_seen: '2026-09-02T18:23:22.377080+05:30'
+last_seen: '2026-09-02T18:23:22.377080+05:30'
+last_checked: '2026-09-02T18:23:22.377080+05:30'
 health_score: 100
 ---
 
@@ -29,11 +31,9 @@ health_score: 100
 
 ## Summary
 
-- **Interactive RAG Visualization Tool**: Open-source Python-based application using Jupyter Notebooks and Streamlit to visualize and interact with Retrieval-Augmented Generation (RAG) pipelines, enabling dynamic exploration of LLM outputs and retrieval mechanisms.
-
-- **Modular Architecture**: Designed for extensibility with support for custom RAG components (e.g., retrievers, embeddings) and visualization plugins, facilitating experimentation with different LLM and retrieval configurations.
-
-- **Real-Time Debugging & Analysis**: Provides granular insights into RAG performance metrics (e.g., retrieval latency, token usage, answer relevance) via interactive dashboards, aiding in optimization and troubleshooting of LLM applications.
+- **Purpose**: Open-source interactive visualization tool for analyzing and debugging Retrieval-Augmented Generation (RAG) pipelines, enabling users to inspect retrieval quality, latency, and failure modes.
+- **Technical Stack**: Built with Python, Streamlit for the web interface, and Jupyter Notebooks for modular analysis; integrates with LLM frameworks for real-time RAG evaluation.
+- **Features**: Provides dynamic visualizations (e.g., retrieval heatmaps, latency distributions) and supports custom dataset integration for comparative analysis of RAG performance metrics.
 
 ## Why It Matters
 

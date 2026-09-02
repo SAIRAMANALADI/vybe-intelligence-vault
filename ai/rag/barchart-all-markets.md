@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.barchart.com/solutions/data/market
-published_at: '2026-08-04T03:58:21.648136+05:30'
-collected_at: '2026-08-04T03:58:21.648150+05:30'
+published_at: '2026-09-02T18:31:33.091836+05:30'
+collected_at: '2026-09-02T18:31:33.091849+05:30'
 tags:
 - creative_dev
 - dataset
@@ -17,9 +17,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:barchart-all-markets
-first_seen: '2026-08-04T03:58:21.648150+05:30'
-last_seen: '2026-08-04T03:58:21.648150+05:30'
-last_checked: '2026-08-04T03:58:21.648150+05:30'
+first_seen: '2026-09-02T18:31:33.091849+05:30'
+last_seen: '2026-09-02T18:31:33.091849+05:30'
+last_checked: '2026-09-02T18:31:33.091849+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,9 @@ health_score: 100
 
 ## Summary
 
-- **AI Integration**: Barchart launched **Carl**, an AI assistant within **cmdtyView**, enabling natural language analysis, seamless data discovery, and rapid workspace generation for commodity market professionals.
-
-- **Market Replay Enterprise**: Provides standardized bulk datasets of full exchange quote/trade history for large-scale backtesting, model development, and compliance workflows at tick-level granularity.
-
-- **Multi-Market Data Coverage**: Offers global market data solutions spanning **futures, physical commodities, equities, options, forex, crypto, and fundamentals**, with flexible APIs and charting tools for integration into client workflows.
+- **AI Integration**: Barchart’s cmdtyView platform now features **Carl**, an AI-powered assistant that enables natural language analysis, seamless data discovery, and rapid report generation for commodity market professionals.
+- **Market Replay Enterprise**: Provides standardized bulk datasets of full exchange quote and trade history for large-scale backtesting, model development, and compliance workflows at tick-level granularity.
+- **Multi-Market Data Coverage**: Offers global market data solutions across **futures, equities, options, physical commodities, rates, forex, crypto, and fundamentals** via flexible APIs and customizable tools.
 
 ## Why It Matters
 
@@ -41,7 +39,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-04T03:58:21.648136+05:30
+- Published: 2026-09-02T18:31:33.091836+05:30
 
 ## Related Tags
 

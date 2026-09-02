@@ -4,15 +4,16 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/daveshap/OpenAI_Agent_Swarm
-collected_at: '2026-09-02T01:03:33.547604+05:30'
-published_at: '2026-09-01T10:06:10Z'
+collected_at: '2026-09-02T18:26:17.491787+05:30'
+published_at: '2026-09-01T20:27:37Z'
 tags:
 - agents
 - github-repo
 - openai
 - python
 - rag
-stars: 3101
+- workflows
+stars: 3100
 language: Python
 status: active
 license: MIT
@@ -20,9 +21,9 @@ archived: true
 created_at: '2023-11-07T23:12:05Z'
 pushed_at: '2024-02-16T17:12:05Z'
 resource_id: github:daveshap/openai_agent_swarm
-first_seen: '2026-09-02T01:03:33.547604+05:30'
-last_seen: '2026-09-02T01:03:33.547604+05:30'
-last_checked: '2026-09-02T01:03:33.547604+05:30'
+first_seen: '2026-09-02T18:26:17.491787+05:30'
+last_seen: '2026-09-02T18:26:17.491787+05:30'
+last_checked: '2026-09-02T18:26:17.491787+05:30'
 health_score: 100
 ---
 
@@ -30,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Hierarchical Autonomous Agent Swarm (HAAS)**: Implements a multi-agent system with hierarchical task delegation and autonomous decision-making in Python, enabling scalable swarm intelligence.
+- **Hierarchical Autonomous Agent Swarm (HAAS)**: Implements a multi-agent system with hierarchical task delegation and autonomous decision-making for complex workflows.
 
-- **Resistance is Futile!**: Designed for high coordination efficiency, leveraging OpenAI's API to dynamically distribute workloads across agents for parallelized execution.
+- **Python-based Framework**: Utilizes Python for agent orchestration, leveraging OpenAI's API for natural language processing and task execution.
 
-- **Last Updated**: 2026-09-01; Repository includes 3.1K stars, 389 forks, and focuses on autonomous agent collaboration with minimal overhead.
+- **Scalable Swarm Architecture**: Designed for distributed agent collaboration, enabling parallel task processing and adaptive resistance to single-point failures.
 
 ## Why It Matters
 
@@ -43,11 +44,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: daveshap
-- Stars: 3101
+- Stars: 3100
 - Forks: 389
 - Language: Python
 - Topics: agent, autonomous, swarm
-- Last Updated: 2026-09-01T10:06:10Z
+- Last Updated: 2026-09-01T20:27:37Z
 - License: MIT
 - Archived: Yes
 - Created At: 2023-11-07T23:12:05Z

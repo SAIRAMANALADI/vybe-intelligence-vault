@@ -4,11 +4,12 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Speechify-AI/cookbook
-collected_at: '2026-09-02T10:26:07.043457+05:30'
+collected_at: '2026-09-02T18:32:22.243698+05:30'
 published_at: '2026-08-21T19:35:05Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - typescript
 stars: 1
 language: TypeScript
@@ -18,9 +19,9 @@ archived: false
 created_at: '2026-06-16T09:50:55Z'
 pushed_at: '2026-08-21T19:35:00Z'
 resource_id: github:speechify-ai/cookbook
-first_seen: '2026-09-02T10:26:07.043457+05:30'
-last_seen: '2026-09-02T10:26:07.043457+05:30'
-last_checked: '2026-09-02T10:26:07.043457+05:30'
+first_seen: '2026-09-02T18:32:22.243698+05:30'
+last_seen: '2026-09-02T18:32:22.243698+05:30'
+last_checked: '2026-09-02T18:32:22.243698+05:30'
 health_score: 100
 ---
 
@@ -28,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: Hosts TypeScript-based recipes and examples for Speechify's Text-to-Speech (TTS) and Voice Agents APIs, with no Python examples currently available.
-- **Metadata**: 1 star, 0 forks, last updated on 2026-08-21, and categorized under no specific topics.
-- **Purpose**: Demonstrates API integration and usage patterns for Speechify's TTS and Voice Agents services in TypeScript.
+- **Repository Overview**: Contains TypeScript-based recipes and examples for integrating Speechify's Text-to-Speech and Voice Agents APIs.
+- **Technical Scope**: Supports both TypeScript and Python implementations for API interactions.
+- **Metadata**: 1 star, 0 forks, last updated on 2026-08-21.
 
 ## Why It Matters
 

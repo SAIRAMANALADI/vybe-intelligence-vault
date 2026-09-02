@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/resources/whitepapers/gartner-magic-quadrant-and-critical-capabilities-for-ai-code-assistants
-published_at: '2026-08-11T01:02:46.868960+05:30'
-collected_at: '2026-08-11T01:02:46.868975+05:30'
+published_at: '2026-09-02T18:31:08.081980+05:30'
+collected_at: '2026-09-02T18:31:08.081990+05:30'
 tags:
 - agents
 - hackernews
@@ -18,9 +18,9 @@ tags:
 - workflows
 status: active
 resource_id: github:resources/whitepapers
-first_seen: '2026-08-11T01:02:46.868975+05:30'
-last_seen: '2026-08-11T01:02:46.868975+05:30'
-last_checked: '2026-08-11T01:02:46.868975+05:30'
+first_seen: '2026-09-02T18:31:08.081990+05:30'
+last_seen: '2026-09-02T18:31:08.081990+05:30'
+last_checked: '2026-09-02T18:31:08.081990+05:30'
 health_score: 100
 ---
 
@@ -28,9 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Gartner 2025 Magic Quadrant** positions GitHub as a **Leader** in AI Code Assistants, achieving top scores in both **Ability to Execute** and **Completeness of Vision**, second consecutive year.
-- **GitHub Copilot integration** into developer workflows, **Agent Mode**, and **GitHub Enterprise Cloud** centralization enables secure, scalable AI adoption amid challenges like tool sprawl and governance fragmentation.
-- **Gartner predicts 90% of enterprise engineers** will use AI code assistants by 2028 (up from <14% in early 2024), with GitHub’s strategy addressing adoption barriers through unified platform approach.
+- **Gartner 2025 Magic Quadrant** positions GitHub as a **Leader** in AI Code Assistants, achieving highest ratings in *Ability to Execute* and *Completeness of Vision*, alongside Amazon and Cognition (Windsurf).
+
+- **Enterprise AI adoption forecast**: Gartner predicts **90% of enterprise software engineers** will use AI code assistants by **2028**, up from **<14% in early 2024**, driven by GitHub’s integration of **GitHub Copilot** and **Agent Mode** into core workflows.
+
+- **Strategic approach**: GitHub mitigates challenges like *tool sprawl* and *fragmented governance* by centralizing development on **GitHub Enterprise Cloud**, enabling secure, scalable AI adoption with embedded AI capabilities.
 
 ## Why It Matters
 
@@ -40,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-11T01:02:46.868960+05:30
+- Published: 2026-09-02T18:31:08.081980+05:30
 
 ## Related Tags
 

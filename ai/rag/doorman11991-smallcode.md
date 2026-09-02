@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Doorman11991/smallcode
-collected_at: '2026-09-02T10:20:15.304354+05:30'
+collected_at: '2026-09-02T18:25:42.493332+05:30'
 published_at: '2026-09-02T03:56:48Z'
 tags:
 - agents
@@ -20,9 +20,9 @@ archived: false
 created_at: '2026-05-18T06:19:44Z'
 pushed_at: '2026-08-12T20:43:58Z'
 resource_id: github:doorman11991/smallcode
-first_seen: '2026-09-02T10:20:15.304354+05:30'
-last_seen: '2026-09-02T10:20:15.304354+05:30'
-last_checked: '2026-09-02T10:20:15.304354+05:30'
+first_seen: '2026-09-02T18:25:42.493332+05:30'
+last_seen: '2026-09-02T18:25:42.493332+05:30'
+last_checked: '2026-09-02T18:25:42.493332+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Optimized AI Coding Agent**: Designed for small language models (LLMs), achieving an 87% benchmark with a 4B-active model, balancing performance and efficiency.
+- **Optimized AI Coding Agent**: Designed for small LLMs, achieving **87% benchmark performance** with a **4B-active model**, balancing efficiency and capability.
 
-- **JavaScript Implementation**: Entirely written in JavaScript, leveraging lightweight runtime environments for accessibility and ease of integration.
+- **JavaScript-Based Implementation**: Entirely developed in **JavaScript**, leveraging lightweight frameworks for low-resource environments.
 
-- **Active Development**: Last updated in September 2026, indicating ongoing maintenance and potential iterative improvements.
+- **Recent Update & Community Metrics**: Last updated on **2026-09-02**, with **2,022 stars** and **154 forks**, indicating active adoption despite niche focus.
 
 ## Why It Matters
 

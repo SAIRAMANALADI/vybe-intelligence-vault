@@ -14,13 +14,14 @@ tags:
 - frontend_ui
 - hackernews
 - react
-status: active
+status: inactive
 resource_id: hackernews:forgotten-history-of-small-nuclear-reactors-2015
 first_seen: '2026-09-02T10:14:07.651239+05:30'
 last_seen: '2026-09-02T10:14:07.651239+05:30'
 last_checked: '2026-09-02T10:14:07.651239+05:30'
 health_score: 100
 ---
+
 
 # Forgotten History of Small Nuclear Reactors (2015)
 

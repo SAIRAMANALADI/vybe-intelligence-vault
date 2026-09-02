@@ -8,18 +8,19 @@ local_vault_path: ai/rag/deep-agents-code-docs-by-langchain.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: framework
 importance: medium
 tags:
 - agents
 - anthropic
 - producthunt
 - rag
+- reddit
 - web-crawled
 - youtube
 selection_reason:
 - Strong keyword match
-- Valuable developer reference
+- Useful for project building
 ---
 
 # Deep Agents Code - Docs by LangChain
@@ -28,18 +29,16 @@ selection_reason:
 
 - Matched archive category: `Model Providers`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: tutorial
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **Multi-Provider LLM Integration**: Supports seamless switching between LLM providers/models while maintaining persistent memory for cross-session context retention.
-
-- **Modular Agent Architecture**: Enables parallel task execution via subagents, remote sandboxed tool execution, and extensible skills through MCP tools and custom configurations.
-
-- **Controlled Execution & Observability**: Implements human-in-the-loop approval for sensitive operations, context compaction for efficiency, and La
+- **Multi-Model & Provider Agnostic**: Supports any LLM with seamless provider/model switching via the Deep Agents SDK.
+- **Advanced Execution Control**: Features persistent memory for cross-session context, customizable skills for behavior shaping, and approval gates for sensitive tool operations.
+- **Distributed & Extensible Architecture**: Enables remote sandbox execution, subagent delegation for parallel tasks, MCP tool integration, and LangSmith tracing for observability.
 
 ## Use Cases
 

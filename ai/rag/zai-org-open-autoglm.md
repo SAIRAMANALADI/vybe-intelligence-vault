@@ -4,16 +4,15 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/zai-org/Open-AutoGLM
-collected_at: '2026-09-02T10:20:30.403193+05:30'
-published_at: '2026-09-02T02:39:02Z'
+collected_at: '2026-09-02T18:25:57.507100+05:30'
+published_at: '2026-09-02T12:32:58Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - python
 - rag
-- workflows
-stars: 26136
+- scripts
+stars: 26141
 language: Python
 status: active
 license: Apache-2.0
@@ -21,9 +20,9 @@ archived: false
 created_at: '2025-12-08T09:23:44Z'
 pushed_at: '2026-03-06T08:38:39Z'
 resource_id: github:zai-org/open-autoglm
-first_seen: '2026-09-02T10:20:30.403193+05:30'
-last_seen: '2026-09-02T10:20:30.403193+05:30'
-last_checked: '2026-09-02T10:20:30.403193+05:30'
+first_seen: '2026-09-02T18:25:57.507100+05:30'
+last_seen: '2026-09-02T18:25:57.507100+05:30'
+last_checked: '2026-09-02T18:25:57.507100+05:30'
 health_score: 100
 ---
 
@@ -31,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Open Phone Agent Model**: Provides an open-source framework (`Open-AutoGLM`) for deploying AI-driven phone agents, enabling autonomous task execution (e.g., calls, scheduling) via natural language.
-- **Technical Stack**: Implemented in Python, leveraging agent-based architectures for real-time phone interaction, with modular components for extensibility.
-- **Scalability & Integration**: Supports multi-agent coordination, API integrations (e.g., telephony services), and customizable workflows for enterprise/individual use cases.
+- **Open Phone Agent Model**: Open-AutoGLM provides an open-source framework for deploying autonomous AI agents capable of interacting with phone interfaces, enabling hands-free task automation (e.g., calls, SMS, app navigation).
+
+- **Modular Architecture**: Implements a Python-based pipeline with pluggable components for speech recognition, NLP, and GUI interaction, leveraging LLMs (e.g., GLM) for contextual decision-making.
+
+- **Scalability & Extensibility**: Supports custom agent training and deployment, with hooks for integrating additional tools (e.g., APIs, databases) to expand functionality beyond default phone automation tasks.
 
 ## Why It Matters
 
@@ -42,11 +43,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: zai-org
-- Stars: 26136
-- Forks: 4022
+- Stars: 26141
+- Forks: 4023
 - Language: Python
 - Topics: agent, phone-use-agent
-- Last Updated: 2026-09-02T02:39:02Z
+- Last Updated: 2026-09-02T12:32:58Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2025-12-08T09:23:44Z

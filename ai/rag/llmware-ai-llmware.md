@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/llmware-ai/llmware
-collected_at: '2026-09-02T04:16:59.072459+05:30'
+collected_at: '2026-09-02T18:27:17.564682+05:30'
 published_at: '2026-09-01T15:10:45Z'
 tags:
 - agents
@@ -22,9 +22,9 @@ archived: false
 created_at: '2023-09-29T15:19:06Z'
 pushed_at: '2026-05-17T13:53:37Z'
 resource_id: github:llmware-ai/llmware
-first_seen: '2026-09-02T04:16:59.072459+05:30'
-last_seen: '2026-09-02T04:16:59.072459+05:30'
-last_checked: '2026-09-02T04:16:59.072459+05:30'
+first_seen: '2026-09-02T18:27:17.564682+05:30'
+last_seen: '2026-09-02T18:27:17.564682+05:30'
+last_checked: '2026-09-02T18:27:17.564682+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Unified RAG Framework**: Provides an end-to-end Python-based framework for constructing enterprise-grade Retrieval-Augmented Generation (RAG) pipelines, optimized for small, specialized models (e.g., LlamaCPP, ONNX, OpenVINO).
+- **Framework Purpose**: Unified Python-based framework for constructing enterprise-grade RAG pipelines using small, specialized models (e.g., LlamaCPP, ONNX, OpenVINO) optimized for efficiency and deployment.
 
-- **Multi-Model & Backend Support**: Integrates seamlessly with lightweight LLMs and inference engines (e.g., llamacpp, ONNX Runtime, OpenVINO) for efficient deployment across CPU/GPU environments.
+- **Key Features**: Integrates parsing, retrieval, and generation components with support for lightweight models and cross-platform inference backends (e.g., ONNX Runtime, Intel OpenVINO).
 
-- **Enterprise Features**: Includes document parsing, retrieval augmentation, and agent-based workflows, with last update (2026-09-01) reflecting ongoing support for generative AI tooling.
+- **Scalability & Tooling**: Designed for modular agent-based workflows with 14.8k+ GitHub stars, enabling hybrid deployments (local/cloud) and compatibility with generative AI tooling ecosystems.
 
 ## Why It Matters
 

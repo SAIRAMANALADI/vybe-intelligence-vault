@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://huggingface.co/docs/hub/spaces
-published_at: '2026-09-02T10:23:06.106393+05:30'
-collected_at: '2026-09-02T10:23:06.106411+05:30'
+published_at: '2026-09-02T18:28:14.229977+05:30'
+collected_at: '2026-09-02T18:28:14.229993+05:30'
 tags:
 - agents
 - creative_dev
@@ -21,9 +21,9 @@ tags:
 - workflows
 status: active
 resource_id: huggingface:docs/hub
-first_seen: '2026-09-02T10:23:06.106411+05:30'
-last_seen: '2026-09-02T10:23:06.106411+05:30'
-last_checked: '2026-09-02T10:23:06.106411+05:30'
+first_seen: '2026-09-02T18:28:14.229993+05:30'
+last_seen: '2026-09-02T18:28:14.229993+05:30'
+last_checked: '2026-09-02T18:28:14.229993+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Hosting & Deployment**: Hugging Face Spaces enables hosting ML demo apps directly on user/organization profiles with built-in support for Gradio, Docker, and static HTML/JS apps, including GPU/accelerated hardware upgrades.
+- **Spaces Hosting**: ML demo apps can be hosted directly on Hugging Face profiles with built-in support for Gradio SDK, Docker, and static HTML/JS, enabling rapid deployment of ML portfolios, project showcases, and collaborative development.
 
-- **Storage & Compute**: Supports custom Python, Docker, and static Spaces with configurable dependencies, disk usage, and GPU resources; integrates with GitHub Actions for CI/CD.
+- **Hardware Acceleration**: Spaces support GPU/accelerated hardware upgrades for enhanced performance, with additional features like ZeroGPU, custom domains, and MCP server integration for advanced use cases.
 
-- **Advanced Features**: Provides dev mode, custom domains, MCP server integration, API endpoints, and embeddable Spaces with OAuth support for authentication.
+- **Storage & Configuration**: Spaces offer configurable storage limits, dependency management, GitHub Actions integration, and reference configurations for Docker/Gradio-based deployments, with embedded analytics for monitoring usage.
 
 ## Why It Matters
 
@@ -45,7 +45,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-09-02T10:23:06.106393+05:30
+- Published: 2026-09-02T18:28:14.229977+05:30
 
 ## Related Tags
 

@@ -8,7 +8,7 @@ local_vault_path: ai/rag/build-cross-platform-desktop-apps-with-javascript.md
 quality_score: 70
 archive_score: 74
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: framework
 importance: medium
 tags:
 - anthropic
@@ -22,7 +22,7 @@ tags:
 - youtube
 selection_reason:
 - Strong keyword match
-- Valuable developer reference
+- Useful for project building
 ---
 
 # Build cross-platform desktop apps with JavaScript, HTML, and CSS | Electron
@@ -31,16 +31,18 @@ selection_reason:
 
 - Matched archive category: `Model Providers`
 - Quality score: 70 | Archive score: 74 (useful)
-- Resource kind: tutorial
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **Runtime Architecture**: Electron integrates Chromium for rendering and Node.js for native APIs, enabling cross-platform desktop apps with JavaScript/TypeScript.
-- **Security & Maintenance**: Releases sync with Chromium updates for immediate security patches, while npm ecosystem integration allows extensibility via native add-ons.
-- **Distribution & Tooling**: Supports platform-specific installers (DMG/MSI/RPM), app store distribution (Mac/Windows/Linux), and crash reporting via `crashReporte
+- **Runtime Architecture**: Electron integrates Chromium for rendering and Node.js for backend APIs, enabling cross-platform desktop app development using JavaScript/TypeScript.
+
+- **Security & Maintenance**: Releases are synchronized with Chromium updates for immediate security patches, while the open-source project under the OpenJS Foundation ensures community-driven stability.
+
+- **Extensibility & Tooling**: Supports npm packages, native add-ons, and frameworks (React, Vue, Angular), with too
 
 ## Use Cases
 

@@ -3,7 +3,7 @@ title: Gemini API | Google AI for Developers
 archive_category: public-apis
 source_category: ai/agents
 source_url: https://ai.google.dev/gemini-api
-resource_id: blog:gemini-api-google-ai-for-developers
+resource_id: blog:gemini-api-google-ai-for-developers-857d6bfa
 local_vault_path: ai/agents/gemini-api-google-ai-for-developers.md
 quality_score: 70
 archive_score: 72

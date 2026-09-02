@@ -4,8 +4,8 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NanGePlus/CrewAITest
-collected_at: '2026-09-02T10:21:35.365172+05:30'
-published_at: '2026-08-31T06:47:16Z'
+collected_at: '2026-09-02T18:27:02.547689+05:30'
+published_at: '2026-09-02T06:08:51Z'
 tags:
 - agents
 - github-repo
@@ -13,16 +13,16 @@ tags:
 - models
 - python
 - workflows
-stars: 372
+stars: 373
 language: Python
 status: active
 archived: false
 created_at: '2024-09-11T02:58:44Z'
 pushed_at: '2024-10-20T14:37:28Z'
 resource_id: github:nangeplus/crewaitest
-first_seen: '2026-09-02T10:21:35.365172+05:30'
-last_seen: '2026-09-02T10:21:35.365172+05:30'
-last_checked: '2026-09-02T10:21:35.365172+05:30'
+first_seen: '2026-09-02T18:27:02.547689+05:30'
+last_seen: '2026-09-02T18:27:02.547689+05:30'
+last_checked: '2026-09-02T18:27:02.547689+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Agent Orchestration**: Implements a CrewAI-based framework for coordinating multiple AI agents with FastAPI, enabling collaborative task execution and API-driven interactions.
-
-- **Multi-Model Support**: Integrates APIs for GPT, domestic large models (e.g., Chinese LLMs), and local Ollama models, allowing flexible model selection per agent.
-
-- **Production-Ready API Service**: Exposes agent workflows as RESTful endpoints via FastAPI, with last commit (Aug 2026) indicating active maintenance and updates.
+*   Implements a multi-agent collaborative application using CrewAI, exposed via a FastAPI-based API service.
+*   Facilitates external API access for orchestrated AI workflows.
+*   Supports heterogeneous LLM backends, including GPT, domestic large models, and local Ollama instances.
 
 ## Why It Matters
 
@@ -43,11 +41,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: NanGePlus
-- Stars: 372
+- Stars: 373
 - Forks: 84
 - Language: Python
 - Topics: None
-- Last Updated: 2026-08-31T06:47:16Z
+- Last Updated: 2026-09-02T06:08:51Z
 - Archived: No
 - Created At: 2024-09-11T02:58:44Z
 - Pushed At: 2024-10-20T14:37:28Z

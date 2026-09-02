@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NVIDIA/workbench-example-agentic-rag
-collected_at: '2026-09-02T10:18:00.237856+05:30'
+collected_at: '2026-09-02T18:23:27.439381+05:30'
 published_at: '2026-08-19T08:34:59Z'
 tags:
 - agents
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-08-14T17:08:04Z'
 pushed_at: '2026-06-11T22:51:59Z'
 resource_id: github:nvidia/workbench-example-agentic-rag
-first_seen: '2026-09-02T10:18:00.237856+05:30'
-last_seen: '2026-09-02T10:18:00.237856+05:30'
-last_checked: '2026-09-02T10:18:00.237856+05:30'
+first_seen: '2026-09-02T18:23:27.439381+05:30'
+last_seen: '2026-09-02T18:23:27.439381+05:30'
+last_checked: '2026-09-02T18:23:27.439381+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Agentic RAG Implementation**: Demonstrates an autonomous RAG pipeline leveraging LLM-driven agents for dynamic retrieval and reasoning in Jupyter Notebook.
-- **NVIDIA AI Workbench Integration**: Showcases NVIDIA's AI Workbench toolchain for deploying and managing agentic workflows with GPU acceleration.
-- **Modular Design**: Provides a structured example for extending agentic RAG with custom tools, retrieval strategies, and LLM interactions.
+- **Purpose**: Demonstrates an Agentic Retrieval-Augmented Generation (RAG) pipeline using NVIDIA AI Workbench, integrating agentic workflows with retrieval-based LLM augmentation.
+- **Implementation**: Implemented in a Jupyter Notebook, leveraging modular components for dynamic retrieval, agent decision-making, and LLM inference.
+- **Key Features**: Showcases multi-agent collaboration, adaptive retrieval strategies, and integration with NVIDIA’s AI/ML tooling stack for scalable RAG applications.
 
 ## Why It Matters
 
@@ -42,7 +42,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: NVIDIA
 - Stars: 166
-- Forks: 233
+- Forks: 234
 - Language: Jupyter Notebook
 - Topics: None
 - Last Updated: 2026-08-19T08:34:59Z

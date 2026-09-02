@@ -4,13 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Azure/GenAIOps-project-template
-collected_at: '2026-09-02T10:17:45.241037+05:30'
+collected_at: '2026-09-02T18:23:12.482222+05:30'
 published_at: '2026-08-25T13:36:08Z'
 tags:
 - bicep
 - github-repo
+- openai
 - rag
-- scripts
 - workflows
 stars: 46
 language: Bicep
@@ -20,9 +20,9 @@ archived: true
 created_at: '2024-08-28T15:40:26Z'
 pushed_at: '2026-08-20T13:21:20Z'
 resource_id: github:azure/genaiops-project-template
-first_seen: '2026-09-02T10:17:45.241037+05:30'
-last_seen: '2026-09-02T10:17:45.241037+05:30'
-last_checked: '2026-09-02T10:17:45.241037+05:30'
+first_seen: '2026-09-02T18:23:12.482222+05:30'
+last_seen: '2026-09-02T18:23:12.482222+05:30'
+last_checked: '2026-09-02T18:23:12.482222+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Infrastructure-as-Code (IaC) Template**: Provides a Bicep-based deployment for a Generative AI Operations (GenAIOps) project, enabling automated provisioning of Azure resources for Retrieval-Augmented Generation (RAG) workflows.
+- **Template Structure**: Provides a Bicep-based infrastructure-as-code (IaC) template for deploying a Generative AI Operations (GenAIOps) solution with Retrieval-Augmented Generation (RAG) capabilities on Azure.
 
-- **RAG Pipeline Integration**: Includes pre-configured components for vector databases, embedding models, and LLM inference endpoints to support end-to-end RAG workflows.
+- **Key Components**: Includes Azure resources for RAG pipelines (e.g., Azure Cognitive Search, Azure OpenAI, Azure Functions) with modular Bicep modules for scalable deployment.
 
-- **CI/CD & Monitoring**: Embedded templates for Azure DevOps/GitHub Actions pipelines and monitoring dashboards (e.g., Application Insights) to operationalize GenAI applications.
+- **Deployment Focus**: Designed for CI/CD integration, enabling automated GenAIOps workflows with infrastructure provisioning and RAG model orchestration.
 
 ## Why It Matters
 

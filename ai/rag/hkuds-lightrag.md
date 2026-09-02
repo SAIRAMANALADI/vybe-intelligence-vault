@@ -4,24 +4,26 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/HKUDS/LightRAG
-collected_at: '2026-09-02T10:21:40.409630+05:30'
-published_at: '2026-09-02T04:45:02Z'
+collected_at: '2026-09-02T18:27:07.560454+05:30'
+published_at: '2026-09-02T12:35:15Z'
 tags:
 - benchmark
 - github-repo
+- meta-ai
+- models
 - python
 - rag
-stars: 39322
+stars: 39332
 language: Python
 status: active
 license: MIT
 archived: false
 created_at: '2024-10-02T11:57:54Z'
-pushed_at: '2026-09-02T03:41:36Z'
+pushed_at: '2026-09-02T07:23:55Z'
 resource_id: github:hkuds/lightrag
-first_seen: '2026-09-02T10:21:40.409630+05:30'
-last_seen: '2026-09-02T10:21:40.409630+05:30'
-last_checked: '2026-09-02T10:21:40.409630+05:30'
+first_seen: '2026-09-02T18:27:07.560454+05:30'
+last_seen: '2026-09-02T18:27:07.560454+05:30'
+last_checked: '2026-09-02T18:27:07.560454+05:30'
 health_score: 100
 ---
 
@@ -29,9 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **LightRAG Framework**: Introduces a lightweight, efficient Retrieval-Augmented Generation (RAG) system optimized for speed and simplicity, leveraging Python for implementation.
-- **Key Innovations**: Employs graph-based retrieval (GraphRAG) and hybrid indexing (documents + knowledge graphs) to enhance contextual relevance and reduce latency in LLM responses.
-- **Performance Metrics**: Achieves state-of-the-art results in EMNLP2025 evaluations, with significant improvements in retrieval accuracy and generation speed compared to traditional RAG pipelines.
+- **LightRAG Framework**: Introduces a lightweight, efficient Retrieval-Augmented Generation (RAG) system optimized for speed and simplicity, leveraging minimal computational overhead while maintaining high performance in knowledge-intensive tasks.
+
+- **Modular Architecture**: Implements a plug-and-play design with interchangeable components for retrieval, indexing, and generation, supporting integration with existing RAG pipelines (e.g., GraphRAG, Docling) and LLM backends (e.g., GPT, LLaMA).
+
+- **Benchmark Performance**: Achieves state-of-the-art results in [EMNLP2025] evaluations, demonstrating significant latency reductions (up to 5-10x faster) compared to traditional RAG systems without sacrificing accuracy or contextual relevance.
 
 ## Why It Matters
 
@@ -40,15 +44,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: HKUDS
-- Stars: 39322
-- Forks: 5534
+- Stars: 39332
+- Forks: 5535
 - Language: Python
 - Topics: docling, genai, gpt, graphrag, knowledge-graph, large-language-models, llm, mineru, rag, ragas, retrieval-augmented-generation
-- Last Updated: 2026-09-02T04:45:02Z
+- Last Updated: 2026-09-02T12:35:15Z
 - License: MIT
 - Archived: No
 - Created At: 2024-10-02T11:57:54Z
-- Pushed At: 2026-09-02T03:41:36Z
+- Pushed At: 2026-09-02T07:23:55Z
 
 ## Possible Use Cases
 
