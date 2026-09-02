@@ -4,12 +4,11 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/xindoo/agentic-design-patterns
-collected_at: '2026-09-02T18:26:32.515441+05:30'
+collected_at: '2026-09-03T01:02:31.456392+05:30'
 published_at: '2026-09-02T12:11:44Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - html
 stars: 7908
 language: HTML
@@ -18,9 +17,9 @@ archived: false
 created_at: '2025-09-30T03:58:49Z'
 pushed_at: '2026-08-30T15:44:32Z'
 resource_id: github:xindoo/agentic-design-patterns
-first_seen: '2026-09-02T18:26:32.515441+05:30'
-last_seen: '2026-09-02T18:26:32.515441+05:30'
-last_checked: '2026-09-02T18:26:32.515441+05:30'
+first_seen: '2026-09-03T01:02:31.456392+05:30'
+last_seen: '2026-09-03T01:02:31.456392+05:30'
+last_checked: '2026-09-03T01:02:31.456392+05:30'
 health_score: 100
 ---
 
@@ -28,9 +27,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: Chinese version of Google's "Agent Design Patterns" book, optimized for clarity and completeness, with downloadable PDF/Epub formats and online reading options.
-- **Repository Metrics**: 7,908 stars, 1,140 forks, last updated 2026-09-02.
-- **Technical Details**: Entirely HTML-based, no additional topics specified.
+- **Repository**: Chinese translation and optimization of Google's *Agentic Design Patterns* book, providing online reading, PDF, and EPUB downloads.
+- **Metadata**: 7,908 stars, 1,140 forks, HTML-based, last updated 2026-09-02.
+- **Purpose**: Curated collection of agentic design patterns with continuous improvements and accessibility.
 
 ## Why It Matters
 

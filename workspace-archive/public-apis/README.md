@@ -12,8 +12,8 @@ Public developer APIs supply external context and utilities for LLM tools.
 - [WordPress Developer Resources | Developer.WordPress.org](https://developer.wordpress.org) (framework - USEFUL Tier)
 - [BuddyPress Developer Resources | Your best buddies ever to help you code.](https://developer.buddypress.org) (tutorial - USEFUL Tier)
 - [ollama/ollama-python](https://github.com/ollama/ollama-python) (framework - USEFUL Tier)
-- [The-Vibe-Company/quivr](https://github.com/The-Vibe-Company/quivr) (framework - USEFUL Tier)
 - [supabase/supabase](https://github.com/supabase/supabase) (template - USEFUL Tier)
+- [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app) (template - USEFUL Tier)
 - [Welcome to Unstructured! - Unstructured](https://docs.unstructured.io) (tutorial - USEFUL Tier)
 - [Structured outputs | Gemini API | Google AI for Developers](https://ai.google.dev/gemini-api/docs/structured-output) (framework - USEFUL Tier)
 
@@ -21,8 +21,8 @@ Public developer APIs supply external context and utilities for LLM tools.
 
 https://github.com/public-apis/public-apis (Public APIs)
 - [ollama/ollama-python](https://github.com/ollama/ollama-python)
-- [The-Vibe-Company/quivr](https://github.com/The-Vibe-Company/quivr)
 - [supabase/supabase](https://github.com/supabase/supabase)
+- [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app)
 
 ## Best Learning Resources
 
@@ -40,4 +40,4 @@ https://github.com/public-apis/public-apis (Public APIs)
 
 ---
 
-*Last updated: 2026-09-02 18:40 IST*
+*Last updated: 2026-09-03 01:05 IST*

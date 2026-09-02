@@ -4,13 +4,14 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ghuntley/how-to-build-a-coding-agent
-collected_at: '2026-09-02T10:19:20.258955+05:30'
+collected_at: '2026-09-03T01:00:51.373460+05:30'
 published_at: '2026-09-01T11:57:19Z'
 tags:
 - agents
 - github-repo
 - go
 - hackernews
+- workflows
 stars: 5819
 language: Go
 status: active
@@ -18,9 +19,9 @@ archived: false
 created_at: '2025-07-24T03:56:29Z'
 pushed_at: '2026-08-29T11:53:33Z'
 resource_id: github:ghuntley/how-to-build-a-coding-agent
-first_seen: '2026-09-02T10:19:20.258955+05:30'
-last_seen: '2026-09-02T10:19:20.258955+05:30'
-last_checked: '2026-09-02T10:19:20.258955+05:30'
+first_seen: '2026-09-03T01:00:51.373460+05:30'
+last_seen: '2026-09-03T01:00:51.373460+05:30'
+last_checked: '2026-09-03T01:00:51.373460+05:30'
 health_score: 100
 ---
 
@@ -28,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Go-based Workshop**: Provides a step-by-step guide to building a coding agent (e.g., Roo Code, Cline) using Go, covering AI integration and agent architecture.
-
-- **Technical Focus**: Covers core components like LLM interaction, tool orchestration, and real-time code execution for autonomous coding tasks.
-
-- **Modern Tooling**: Aligns with contemporary IDE plugins (Cursor, Windsurf) and open-source alternatives (OpenCode, Amp) for extensibility.
+- **Go-based workshop** for constructing a **coding agent** (e.g., Roo Code, Cline, Amp) with modular architecture for AI-driven code generation/editing.
+- **Technical focus** includes agent workflows, tool integration (e.g., LLM APIs, file system ops), and real-time collaboration features.
+- **Open-source repository** with 5.8K+ stars, updated Sep 2026, covering setup, testing, and deployment strategies for autonomous coding agents.
 
 ## Why It Matters
 

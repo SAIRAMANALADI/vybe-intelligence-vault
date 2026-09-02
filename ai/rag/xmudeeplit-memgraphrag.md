@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/XMUDeepLIT/MemGraphRAG
-collected_at: '2026-09-02T18:24:27.459333+05:30'
+collected_at: '2026-09-03T01:00:31.419736+05:30'
 published_at: '2026-09-01T19:53:18Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2026-02-02T03:16:55Z'
 pushed_at: '2026-06-20T23:54:03Z'
 resource_id: github:xmudeeplit/memgraphrag
-first_seen: '2026-09-02T18:24:27.459333+05:30'
-last_seen: '2026-09-02T18:24:27.459333+05:30'
-last_checked: '2026-09-02T18:24:27.459333+05:30'
+first_seen: '2026-09-03T01:00:31.419736+05:30'
+last_seen: '2026-09-03T01:00:31.419736+05:30'
+last_checked: '2026-09-03T01:00:31.419736+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Memory-based Multi-Agent System**: Introduces a novel **graph retrieval-augmented generation (GraphRAG)** framework leveraging **multi-agent collaboration** with **memory-driven reasoning** for enhanced knowledge graph construction and querying.
+- **Memory-based Multi-Agent System**: Implements a graph retrieval-augmented generation (GraphRAG) framework using a memory-driven multi-agent architecture to enhance contextual reasoning and knowledge synthesis.
 
-- **Ontology-Guided Graph Construction**: Implements **ontology-aware graph construction** to dynamically build and refine knowledge graphs, improving semantic consistency and retrieval accuracy in downstream tasks.
+- **Graph & Ontology Construction**: Dynamically constructs knowledge graphs and ontologies from unstructured data, enabling structured retrieval and reasoning for downstream tasks.
 
-- **Python-Based Implementation**: Provides an open-source **Python** toolkit with modular components for **agent-memory integration**, **graph-based retrieval**, and **multi-agent coordination**, optimized for scalability and adaptability.
+- **Python Implementation**: Provides an open-source Python-based toolkit for scalable graph-based RAG, optimized for multi-agent collaboration and memory-augmented LLM interactions.
 
 ## Why It Matters
 

@@ -4,11 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/towardsai/ragbook-notebooks
-collected_at: '2026-09-02T18:24:17.448560+05:30'
+collected_at: '2026-09-03T01:00:16.429259+05:30'
 published_at: '2026-08-29T10:33:34Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - jupyter notebook
 - meta-ai
 - models
@@ -21,9 +22,9 @@ archived: false
 created_at: '2024-04-10T14:18:01Z'
 pushed_at: '2026-01-25T18:13:23Z'
 resource_id: github:towardsai/ragbook-notebooks
-first_seen: '2026-09-02T18:24:17.448560+05:30'
-last_seen: '2026-09-02T18:24:17.448560+05:30'
-last_checked: '2026-09-02T18:24:17.448560+05:30'
+first_seen: '2026-09-03T01:00:16.429259+05:30'
+last_seen: '2026-09-03T01:00:16.429259+05:30'
+last_checked: '2026-09-03T01:00:16.429259+05:30'
 health_score: 100
 ---
 
@@ -31,9 +32,11 @@ health_score: 100
 
 ## Summary
 
-- Repository containing Jupyter Notebooks for the book *"Building LLMs for Production"* by Towards AI, focusing on practical implementations of LLMs in production environments.
-- Includes notebooks on **LangChain**, **LlamaIndex**, and **RAG (Retrieval-Augmented Generation)** pipelines, with examples in Python for agent-based AI systems.
-- Last updated on **2026-08-29**, with 559 stars and 198 forks, covering topics like AI agents, LLMs, and Python-based workflows.
+- **Repository Purpose**: Hosts Jupyter Notebooks for the book *"Building LLMs for Production"* by Towards AI, focusing on practical implementations of LLMs in production environments.
+
+- **Technical Stack**: Utilizes Python with libraries/frameworks like LangChain, LlamaIndex, and agents for RAG (Retrieval-Augmented Generation) workflows.
+
+- **Metadata**: 559 stars, 198 forks, last updated on 2026-08-29, covering topics such as AI, LLMs, and agent-based systems.
 
 ## Why It Matters
 

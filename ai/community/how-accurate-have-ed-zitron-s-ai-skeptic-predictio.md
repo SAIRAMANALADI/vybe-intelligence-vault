@@ -13,13 +13,14 @@ collected_at: '2026-09-02T18:21:54.999713+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:how-accurate-have-ed-zitron-s-ai-skeptic-predictio
 first_seen: '2026-09-02T04:11:40.025499+05:30'
 last_seen: '2026-09-02T18:21:54.999713+05:30'
 last_checked: '2026-09-02T18:21:54.999713+05:30'
 health_score: 100
 ---
+
 
 # How accurate have Ed Zitron's AI skeptic predictions been?
 

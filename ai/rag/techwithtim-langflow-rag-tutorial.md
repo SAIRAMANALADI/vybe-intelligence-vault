@@ -4,23 +4,22 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/techwithtim/Langflow-RAG-Tutorial
-collected_at: '2026-09-02T18:23:02.350342+05:30'
-published_at: '2026-08-21T16:57:17Z'
+collected_at: '2026-09-03T00:59:06.319335+05:30'
+published_at: '2026-09-02T19:05:21Z'
 tags:
 - github-repo
 - rag
 - unknown
-- workflows
-stars: 97
+stars: 96
 language: Unknown
 status: active
 archived: false
 created_at: '2024-04-17T10:56:19Z'
 pushed_at: '2024-07-18T10:50:24Z'
 resource_id: github:techwithtim/langflow-rag-tutorial
-first_seen: '2026-09-02T18:23:02.350342+05:30'
-last_seen: '2026-09-02T18:23:02.350342+05:30'
-last_checked: '2026-09-02T18:23:02.350342+05:30'
+first_seen: '2026-09-03T00:59:06.319335+05:30'
+last_seen: '2026-09-03T00:59:06.319335+05:30'
+last_checked: '2026-09-03T00:59:06.319335+05:30'
 health_score: 100
 ---
 
@@ -28,9 +27,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Tutorial repository for implementing Retrieval-Augmented Generation (RAG) workflows using Langflow, a visual framework for building LLM applications.
-- **Structure**: Likely includes example pipelines, components, and configurations for integrating vector databases, document loaders, and LLM APIs within Langflow.
-- **Dependencies**: Implicitly requires Langflow (Python-based) and compatible libraries (e.g., `langchain`, `sentence-transformers`, `FAISS`/`Chroma` for vector storage).
+- **Repository**: `techwithtim/Langflow-RAG-Tutorial` (96 ⭐, 26 🍴) – No description, topics, or language metadata provided.
+- **Last Updated**: 2026-09-02T19:05:21Z – Indicates recent or future activity.
+- **Content**: Likely a tutorial on integrating Retrieval-Augmented Generation (RAG) with Langflow (a visual framework for LLM pipelines), though specifics are undocumented.
 
 ## Why It Matters
 
@@ -39,11 +38,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: techwithtim
-- Stars: 97
+- Stars: 96
 - Forks: 26
 - Language: Unknown
 - Topics: None
-- Last Updated: 2026-08-21T16:57:17Z
+- Last Updated: 2026-09-02T19:05:21Z
 - Archived: No
 - Created At: 2024-04-17T10:56:19Z
 - Pushed At: 2024-07-18T10:50:24Z

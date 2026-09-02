@@ -13,13 +13,14 @@ collected_at: '2026-09-02T18:21:54.652738+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:quasar-438b-europe-s-leading-ai-model
 first_seen: '2026-09-02T18:21:54.652738+05:30'
 last_seen: '2026-09-02T18:21:54.652738+05:30'
 last_checked: '2026-09-02T18:21:54.652738+05:30'
 health_score: 100
 ---
+
 
 # Quasar 438B: Europe's Leading AI Model
 

@@ -13,13 +13,14 @@ collected_at: '2026-09-02T18:21:56.305267+05:30'
 tags:
 - hackernews
 - llm
-status: active
+status: inactive
 resource_id: hackernews:the-efficient-frontier-of-llm-inference
 first_seen: '2026-09-02T10:14:05.804953+05:30'
 last_seen: '2026-09-02T18:21:56.305267+05:30'
 last_checked: '2026-09-02T18:21:56.305267+05:30'
 health_score: 100
 ---
+
 
 # The efficient frontier of LLM inference
 

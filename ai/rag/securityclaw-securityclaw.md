@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/SecurityClaw/SecurityClaw
-collected_at: '2026-09-02T18:24:07.437371+05:30'
+collected_at: '2026-09-03T01:00:06.408105+05:30'
 published_at: '2026-08-31T01:22:22Z'
 tags:
 - agents
@@ -12,6 +12,7 @@ tags:
 - python
 - rag
 - scripts
+- workflows
 stars: 269
 language: Python
 status: active
@@ -20,9 +21,9 @@ archived: false
 created_at: '2026-03-03T04:38:03Z'
 pushed_at: '2026-08-06T19:58:27Z'
 resource_id: github:securityclaw/securityclaw
-first_seen: '2026-09-02T18:24:07.437371+05:30'
-last_seen: '2026-09-02T18:24:07.437371+05:30'
-last_checked: '2026-09-02T18:24:07.437371+05:30'
+first_seen: '2026-09-03T01:00:06.408105+05:30'
+last_seen: '2026-09-03T01:00:06.408105+05:30'
+last_checked: '2026-09-03T01:00:06.408105+05:30'
 health_score: 100
 ---
 
@@ -30,9 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Modular SOC Agent**: Python-based autonomous agent with skill-based modules for real-time monitoring of OpenSearch/Elasticsearch logs, integrating threat detection and hunting capabilities.
-- **RAG-Powered Behavioral Memory**: Constructs Retrieval-Augmented Generation (RAG) memory from historical data to contextualize anomalies and validate real-time security events using LLMs.
-- **LLM-Driven Anomaly Validation**: Uses large language models (LLMs) to cross-verify detected anomalies against behavioral baselines, enabling automated SOC decision-making and response.
+- **Modular SOC Agent**: Python-based autonomous SOC agent leveraging OpenSearch/Elasticsearch for real-time data ingestion, with modular design for skill-based anomaly detection and threat hunting.
+
+- **RAG-Enhanced Memory**: Implements Retrieval-Augmented Generation (RAG) to build behavioral memory from historical logs, enabling contextual validation of anomalies via LLMs.
+
+- **LLM-Driven Validation**: Uses large language models (LLMs) to cross-verify detected anomalies, enhancing detection accuracy and reducing false positives in threat detection workflows.
 
 ## Why It Matters
 

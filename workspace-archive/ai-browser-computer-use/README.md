@@ -11,11 +11,11 @@ Computer-use and browser agents transition AI from text engines to active workfl
 - [mongodb · GitHub](https://github.com/mongodb) (tutorial - ESSENTIAL Tier)
 - [wassim249/fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template) (template - ESSENTIAL Tier)
 - [i-am-bee/beeai-framework](https://github.com/i-am-bee/beeai-framework) (framework - ESSENTIAL Tier)
-- [The-Pocket/PocketFlow-Template-Python](https://github.com/The-Pocket/PocketFlow-Template-Python) (template - ESSENTIAL Tier)
 - [golf-mcp/golf](https://github.com/golf-mcp/golf) (mcp-server - ESSENTIAL Tier)
 - [redhat-data-and-ai/template-mcp-server](https://github.com/redhat-data-and-ai/template-mcp-server) (mcp-server - ESSENTIAL Tier)
 - [GoogleCloudPlatform/agent-starter-pack](https://github.com/GoogleCloudPlatform/agent-starter-pack) (template - ESSENTIAL Tier)
 - [langchain-ai/langchain-skills](https://github.com/langchain-ai/langchain-skills) (framework - ESSENTIAL Tier)
+- [vin67/crewai_docker](https://github.com/vin67/crewai_docker) (template - ESSENTIAL Tier)
 
 ## Best GitHub Repositories
 
@@ -24,9 +24,9 @@ https://github.com/showlab/ComputerUse (Computer Use Examples)
 - [mongodb · GitHub](https://github.com/mongodb)
 - [wassim249/fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template)
 - [i-am-bee/beeai-framework](https://github.com/i-am-bee/beeai-framework)
-- [The-Pocket/PocketFlow-Template-Python](https://github.com/The-Pocket/PocketFlow-Template-Python)
 - [golf-mcp/golf](https://github.com/golf-mcp/golf)
 - [redhat-data-and-ai/template-mcp-server](https://github.com/redhat-data-and-ai/template-mcp-server)
+- [GoogleCloudPlatform/agent-starter-pack](https://github.com/GoogleCloudPlatform/agent-starter-pack)
 
 ## Best Learning Resources
 
@@ -44,4 +44,4 @@ https://github.com/showlab/ComputerUse (Computer Use Examples)
 
 ---
 
-*Last updated: 2026-09-02 18:40 IST*
+*Last updated: 2026-09-03 01:06 IST*

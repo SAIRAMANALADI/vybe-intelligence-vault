@@ -4,13 +4,12 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/steel-dev/awesome-web-agents
-collected_at: '2026-09-02T18:25:27.548335+05:30'
+collected_at: '2026-09-03T01:01:31.459490+05:30'
 published_at: '2026-09-01T22:38:25Z'
 tags:
 - agents
 - benchmark
 - github-repo
-- hackernews
 - python
 - scripts
 stars: 1558
@@ -21,9 +20,9 @@ archived: false
 created_at: '2025-03-06T05:23:47Z'
 pushed_at: '2026-08-25T20:49:01Z'
 resource_id: github:steel-dev/awesome-web-agents
-first_seen: '2026-09-02T18:25:27.548335+05:30'
-last_seen: '2026-09-02T18:25:27.548335+05:30'
-last_checked: '2026-09-02T18:25:27.548335+05:30'
+first_seen: '2026-09-03T01:01:31.459490+05:30'
+last_seen: '2026-09-03T01:01:31.459490+05:30'
+last_checked: '2026-09-03T01:01:31.459490+05:30'
 health_score: 100
 ---
 
@@ -31,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated Collection**: Repository aggregating tools, frameworks, and resources for developing AI-powered web agents, focusing on browser automation and LLM integration.
-- **Technical Scope**: Covers Python-based solutions, LLM benchmarking, and AI agent architectures for web interaction and task automation.
-- **Community Metrics**: 1.5K+ stars, 211 forks, last updated September 2026, with topics including AI agents, automation, and LLM evaluation.
+- **Curated list of tools/frameworks** for building AI web agents, including browser automation, LLM benchmarking, and agent orchestration libraries.
+- **Python-centric resources** with focus on AI-driven web interaction, LLM integration, and agent evaluation benchmarks.
+- **Actively maintained** (last updated Sept 2026) with 1.5K+ stars and 200+ forks, covering topics like LLMs, agent frameworks, and web automation.
 
 ## Why It Matters
 
@@ -43,7 +42,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: steel-dev
 - Stars: 1558
-- Forks: 211
+- Forks: 212
 - Language: Python
 - Topics: ai, ai-agents, awesome, awesome-list, browser-automation, llms, llms-benchmarking
 - Last Updated: 2026-09-01T22:38:25Z

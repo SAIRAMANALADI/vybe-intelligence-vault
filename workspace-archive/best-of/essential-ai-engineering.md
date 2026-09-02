@@ -8,6 +8,11 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 ## Curated Top Resources
 
+### [langchain-ai/langchain](https://github.com/langchain-ai/langchain)
+- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
+- **Score**: `91` | **Path**: [`langchain-ai-langchain.md`](../../ai/rag/langchain-ai-langchain.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
+
 ### [fetchai/innovation-lab-examples](https://github.com/fetchai/innovation-lab-examples)
 - **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
 - **Score**: `91` | **Path**: [`fetchai-innovation-lab-examples.md`](../../ai/rag/fetchai-innovation-lab-examples.md)
@@ -53,19 +58,14 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `87` | **Path**: [`maunappl8-openai-agents-ts-kit.md`](../../ai/agents/maunappl8-openai-agents-ts-kit.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
+### [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)
+- **Category**: `ai/agents` | **Kind**: `PRODUCT` | **Tier**: `ESSENTIAL`
+- **Score**: `87` | **Path**: [`addyosmani-agent-skills.md`](../../ai/agents/addyosmani-agent-skills.md)
+- **Selection Reason**: Strong keyword match, Active open-source repository
+
 ### [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents)
 - **Category**: `ai/agents` | **Kind**: `TEMPLATE` | **Tier**: `ESSENTIAL`
 - **Score**: `87` | **Path**: [`mergisi-awesome-openclaw-agents.md`](../../ai/agents/mergisi-awesome-openclaw-agents.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
-
-### [Sri-Krishna-V/awesome-adk-agents](https://github.com/Sri-Krishna-V/awesome-adk-agents)
-- **Category**: `ai/agents` | **Kind**: `TEMPLATE` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`sri-krishna-v-awesome-adk-agents.md`](../../ai/agents/sri-krishna-v-awesome-adk-agents.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
-
-### [OpenAI · GitHub](https://github.com/openai)
-- **Category**: `ai/agents` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`openai-github.md`](../../ai/agents/openai-github.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
 
@@ -89,4 +89,4 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 *Curated by Harvester Engine*
 
-*Last updated: 2026-09-02 18:40 IST*
+*Last updated: 2026-09-03 01:06 IST*

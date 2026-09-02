@@ -33,14 +33,19 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `89` | **Path**: [`pinecone-io-pinecone-claude-code-plugin.md`](../../ai/rag/pinecone-io-pinecone-claude-code-plugin.md)
 - **Selection Reason**: Strong keyword match, Active open-source repository
 
+### [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R)
+- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
+- **Score**: `89` | **Path**: [`sciphi-ai-r2r.md`](../../ai/rag/sciphi-ai-r2r.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
+
+### [aws-samples/amazon-bedrock-samples](https://github.com/aws-samples/amazon-bedrock-samples)
+- **Category**: `ai/rag` | **Kind**: `BENCHMARK` | **Tier**: `ESSENTIAL`
+- **Score**: `89` | **Path**: [`aws-samples-amazon-bedrock-samples.md`](../../ai/rag/aws-samples-amazon-bedrock-samples.md)
+- **Selection Reason**: Strong keyword match, Active open-source repository
+
 ### [neuml/txtai](https://github.com/neuml/txtai)
 - **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
 - **Score**: `89` | **Path**: [`neuml-txtai.md`](../../ai/rag/neuml-txtai.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
-
-### [decodingai-magazine/llm-twin-course](https://github.com/decodingai-magazine/llm-twin-course)
-- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
-- **Score**: `89` | **Path**: [`decodingai-magazine-llm-twin-course.md`](../../ai/rag/decodingai-magazine-llm-twin-course.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
 ### [weaviate/Verba](https://github.com/weaviate/Verba)
@@ -63,11 +68,6 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `88` | **Path**: [`elasticsearch-the-official-distributed-search-anal.md`](../../ai/rag/elasticsearch-the-official-distributed-search-anal.md)
 - **Selection Reason**: Strong keyword match, Valuable developer reference
 
-### [🧩 Integrations | Haystack](https://haystack.deepset.ai/integrations)
-- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
-- **Score**: `88` | **Path**: [`integrations-haystack.md`](../../ai/rag/integrations-haystack.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
-
 
 ## Recommended Learning Path
 
@@ -89,4 +89,4 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 *Curated by Harvester Engine*
 
-*Last updated: 2026-09-02 18:40 IST*
+*Last updated: 2026-09-03 01:06 IST*

@@ -4,10 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/HKUDS/MiniRAG
-collected_at: '2026-09-02T18:23:22.336601+05:30'
+collected_at: '2026-09-03T00:59:21.341217+05:30'
 published_at: '2026-08-31T16:57:28Z'
 tags:
+- benchmark
 - github-repo
+- hackernews
+- models
 - python
 - rag
 stars: 2008
@@ -18,9 +21,9 @@ archived: false
 created_at: '2025-01-11T13:24:14Z'
 pushed_at: '2025-10-16T07:43:16Z'
 resource_id: github:hkuds/minirag
-first_seen: '2026-09-02T18:23:22.336601+05:30'
-last_seen: '2026-09-02T18:23:22.336601+05:30'
-last_checked: '2026-09-02T18:23:22.336601+05:30'
+first_seen: '2026-09-03T00:59:21.341217+05:30'
+last_seen: '2026-09-03T00:59:21.341217+05:30'
+last_checked: '2026-09-03T00:59:21.341217+05:30'
 health_score: 100
 ---
 
@@ -28,9 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **MiniRAG Framework**: Introduces a simplified RAG (Retrieval-Augmented Generation) pipeline leveraging small, open-sourced language models (LLMs) to reduce computational overhead while maintaining performance, as proposed in ACL 2026.
-- **Key Innovations**: Focuses on modular design with optimized retrieval and generation components, enabling efficient deployment on resource-constrained hardware without sacrificing accuracy.
-- **Open-Source Implementation**: Provides a Python-based repository (`HKUDS/MiniRAG`) with 2,008 stars, featuring modular components for customization, retrieval strategies, and integration with existing LLM frameworks.
+- **MiniRAG Architecture**: Introduces a simplified RAG framework leveraging small, open-sourced language models (SLMs) to reduce computational overhead while maintaining competitive performance in retrieval-augmented generation tasks.
+
+- **Efficiency Optimizations**: Implements lightweight retrieval mechanisms and model compression techniques (e.g., quantization, distillation) to enable deployment on resource-constrained hardware without sacrificing accuracy.
+
+- **Benchmark Performance**: Demonstrates state-of-the-art results on standard RAG benchmarks (e.g., MMLU, TriviaQA) with models under 1B parameters, highlighting the trade-off between model size and task performance.
 
 ## Why It Matters
 

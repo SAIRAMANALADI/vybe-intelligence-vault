@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/langchain-ai/react-agent
-collected_at: '2026-09-02T18:26:22.557995+05:30'
+collected_at: '2026-09-03T01:02:21.509972+05:30'
 published_at: '2026-09-01T02:13:11Z'
 tags:
 - agents
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-08-21T19:57:32Z'
 pushed_at: '2026-08-28T21:40:38Z'
 resource_id: github:langchain-ai/react-agent
-first_seen: '2026-09-02T18:26:22.557995+05:30'
-last_seen: '2026-09-02T18:26:22.557995+05:30'
-last_checked: '2026-09-02T18:26:22.557995+05:30'
+first_seen: '2026-09-03T01:02:21.509972+05:30'
+last_seen: '2026-09-03T01:02:21.509972+05:30'
+last_checked: '2026-09-03T01:02:21.509972+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Template Type**: LangGraph-based Python implementation of a ReAct (Reasoning and Acting) agent framework, designed for modular agentic workflows.
+- **Template Purpose**: Provides a LangGraph-based implementation of a ReAct (Reasoning and Acting) agent in Python, enabling iterative reasoning and action execution for complex tasks.
 
-- **Core Components**: Integrates LangGraph for stateful, graph-based agent orchestration with tools for reasoning (e.g., LLM calls) and acting (e.g., tool execution).
+- **Core Components**: Utilizes LangGraph's stateful graph architecture for agent workflows, integrating tools, prompts, and model interactions to facilitate dynamic decision-making.
 
-- **Use Case**: Provides a minimal template for building reactive agents with customizable tools, state management, and execution logic.
+- **Repository Stats**: 835 stars, 698 forks; last updated 2026-09-01, focusing on `langgraph`, `langgraph-python`, and `langgraph-template` topics.
 
 ## Why It Matters
 
@@ -44,7 +44,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: langchain-ai
 - Stars: 835
-- Forks: 699
+- Forks: 698
 - Language: Python
 - Topics: langgraph, langgraph-python, langgraph-template
 - Last Updated: 2026-09-01T02:13:11Z

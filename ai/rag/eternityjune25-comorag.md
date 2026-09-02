@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/EternityJune25/ComoRAG
-collected_at: '2026-09-02T18:24:27.438272+05:30'
+collected_at: '2026-09-03T01:00:26.333846+05:30'
 published_at: '2026-08-21T23:01:56Z'
 tags:
 - github-repo
@@ -18,9 +18,9 @@ archived: false
 created_at: '2025-08-18T09:12:16Z'
 pushed_at: '2025-08-28T14:34:38Z'
 resource_id: github:eternityjune25/comorag
-first_seen: '2026-09-02T18:24:27.438272+05:30'
-last_seen: '2026-09-02T18:24:27.438272+05:30'
-last_checked: '2026-09-02T18:24:27.438272+05:30'
+first_seen: '2026-09-03T01:00:26.333846+05:30'
+last_seen: '2026-09-03T01:00:26.333846+05:30'
+last_checked: '2026-09-03T01:00:26.333846+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Cognitive Architecture**: Introduces a memory-organized RAG framework inspired by human cognitive processes, enabling stateful long narrative reasoning with structured memory retrieval and hierarchical context management.
-
-- **Stateful Reasoning**: Implements dynamic memory updates and retrieval mechanisms to maintain coherent reasoning across extended narratives, leveraging episodic and semantic memory modules for contextual continuity.
-
-- **AAAI 2026 Poster**: Presented as a novel approach in the AAAI 2026 conference, emphasizing empirical validation on long-form reasoning tasks with measurable improvements in coherence and factual consistency.
+- **Cognitive Architecture**: Introduces a memory-organized Retrieval-Augmented Generation (RAG) framework inspired by human cognitive processes, enabling stateful long narrative reasoning with structured memory retention.
+- **Stateful Reasoning**: Implements dynamic memory updates and retrieval mechanisms to maintain contextual coherence across extended dialogues or narratives, enhancing multi-turn reasoning capabilities.
+- **AAAI 2026 Contribution**: Proposes a novel approach to long-form reasoning in RAG systems, validated through poster presentation at AAAI 2026, with open-source Python implementation available.
 
 ## Why It Matters
 

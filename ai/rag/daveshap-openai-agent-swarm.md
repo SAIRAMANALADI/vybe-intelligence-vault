@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/daveshap/OpenAI_Agent_Swarm
-collected_at: '2026-09-02T18:26:17.491787+05:30'
+collected_at: '2026-09-03T01:02:16.438743+05:30'
 published_at: '2026-09-01T20:27:37Z'
 tags:
 - agents
@@ -12,7 +12,6 @@ tags:
 - openai
 - python
 - rag
-- workflows
 stars: 3100
 language: Python
 status: active
@@ -21,9 +20,9 @@ archived: true
 created_at: '2023-11-07T23:12:05Z'
 pushed_at: '2024-02-16T17:12:05Z'
 resource_id: github:daveshap/openai_agent_swarm
-first_seen: '2026-09-02T18:26:17.491787+05:30'
-last_seen: '2026-09-02T18:26:17.491787+05:30'
-last_checked: '2026-09-02T18:26:17.491787+05:30'
+first_seen: '2026-09-03T01:02:16.438743+05:30'
+last_seen: '2026-09-03T01:02:16.438743+05:30'
+last_checked: '2026-09-03T01:02:16.438743+05:30'
 health_score: 100
 ---
 
@@ -31,11 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Hierarchical Autonomous Agent Swarm (HAAS)**: Implements a multi-agent system with hierarchical task delegation and autonomous decision-making for complex workflows.
-
+- **Hierarchical Autonomous Agent Swarm (HAAS)**: Implements a multi-agent system with hierarchical task delegation and autonomous decision-making for distributed problem-solving.
 - **Python-based Framework**: Utilizes Python for agent orchestration, leveraging OpenAI's API for natural language processing and task execution.
-
-- **Scalable Swarm Architecture**: Designed for distributed agent collaboration, enabling parallel task processing and adaptive resistance to single-point failures.
+- **Scalable Swarm Intelligence**: Designed for parallelized agent collaboration, enabling resistance-free task completion through emergent collective behavior.
 
 ## Why It Matters
 

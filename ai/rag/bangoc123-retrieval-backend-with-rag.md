@@ -4,11 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/bangoc123/retrieval-backend-with-rag
-collected_at: '2026-09-02T18:23:37.393158+05:30'
+collected_at: '2026-09-03T00:59:36.333952+05:30'
 published_at: '2026-08-22T07:32:26Z'
 tags:
 - benchmark
-- dataset
 - github-repo
 - python
 - rag
@@ -20,9 +19,9 @@ archived: false
 created_at: '2024-06-13T03:43:42Z'
 pushed_at: '2025-10-03T03:29:43Z'
 resource_id: github:bangoc123/retrieval-backend-with-rag
-first_seen: '2026-09-02T18:23:37.393158+05:30'
-last_seen: '2026-09-02T18:23:37.393158+05:30'
-last_checked: '2026-09-02T18:23:37.393158+05:30'
+first_seen: '2026-09-03T00:59:36.333952+05:30'
+last_seen: '2026-09-03T00:59:36.333952+05:30'
+last_checked: '2026-09-03T00:59:36.333952+05:30'
 health_score: 100
 ---
 
@@ -30,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- Implements a **Retrieval-Augmented Generation (RAG)** pipeline optimized for **Vietnamese language processing**, leveraging vector databases (e.g., FAISS) for efficient document retrieval.
-- Utilizes **PyTorch-based models** (e.g., `vinai/phobert-base`) for Vietnamese embeddings and **LangChain** for orchestrating retrieval and generation workflows.
-- Includes **benchmarking scripts** for evaluating RAG performance on Vietnamese datasets, with modular components for customization (e.g., chunking strategies, reranking).
+- **Vietnamese RAG Implementation**: Demonstrates best practices for Retrieval-Augmented Generation (RAG) specifically tailored for Vietnamese language processing, including data preprocessing, embedding models, and retrieval strategies optimized for Vietnamese text.
+
+- **Modular Python Architecture**: Provides a scalable backend framework in Python, integrating components like vector databases (e.g., FAISS, Chroma), retrieval pipelines, and LLM interfaces (e.g., Hugging Face Transformers) for efficient Vietnamese RAG workflows.
+
+- **Evaluation & Deployment Tools**: Includes evaluation metrics (e.g., retrieval accuracy, response relevance) and deployment scripts (Docker, FastAPI) to benchmark and operationalize Vietnamese RAG systems in production environments.
 
 ## Why It Matters
 

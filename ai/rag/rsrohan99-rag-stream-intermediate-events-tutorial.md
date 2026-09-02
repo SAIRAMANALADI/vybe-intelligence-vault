@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/rsrohan99/rag-stream-intermediate-events-tutorial
-collected_at: '2026-09-02T18:23:07.332834+05:30'
+collected_at: '2026-09-03T00:59:06.283679+05:30'
 published_at: '2026-07-28T13:49:36Z'
 tags:
 - github-repo
@@ -12,7 +12,6 @@ tags:
 - models
 - rag
 - typescript
-- workflows
 stars: 196
 language: TypeScript
 status: active
@@ -20,9 +19,9 @@ archived: false
 created_at: '2024-04-05T21:12:53Z'
 pushed_at: '2024-04-08T10:45:53Z'
 resource_id: github:rsrohan99/rag-stream-intermediate-events-tutorial
-first_seen: '2026-09-02T18:23:07.332834+05:30'
-last_seen: '2026-09-02T18:23:07.332834+05:30'
-last_checked: '2026-09-02T18:23:07.332834+05:30'
+first_seen: '2026-09-03T00:59:06.283679+05:30'
+last_seen: '2026-09-03T00:59:06.283679+05:30'
+last_checked: '2026-09-03T00:59:06.283679+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Event Streaming Architecture**: Demonstrates real-time streaming of intermediate LlamaIndex RAG events (e.g., node parsing, retrieval, synthesis) to Vercel AI SDK using Server-Sent Events (SSE) for low-latency updates.
-
-- **Integration Bridge**: Implements a TypeScript-based intermediary layer to translate LlamaIndex’s event model into Vercel AI SDK-compatible payloads, ensuring seamless propagation of incremental RAG progress.
-
-- **Performance Optimization**: Leverages SSE for unidirectional, persistent connections, reducing overhead compared to WebSockets while maintaining high-throughput event delivery for dynamic RAG workflows.
+- **Event Streaming**: Demonstrates streaming intermediate LlamaIndex RAG events to Vercel AI SDK via Server-Sent Events (SSE) for real-time processing.
+- **Integration**: Focuses on seamless integration between LlamaIndex’s event system and Vercel’s AI SDK using TypeScript.
+- **Tutorial Scope**: Provides a step-by-step guide for handling intermediate events in RAG pipelines, optimized for Vercel’s AI SDK compatibility.
 
 ## Why It Matters
 

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/run-llama/ParseBench
-collected_at: '2026-09-02T18:25:32.525602+05:30'
+collected_at: '2026-09-03T01:01:31.430460+05:30'
 published_at: '2026-09-02T03:49:00Z'
 tags:
 - agents
@@ -22,9 +22,9 @@ archived: false
 created_at: '2026-04-10T20:46:33Z'
 pushed_at: '2026-09-02T03:48:56Z'
 resource_id: github:run-llama/parsebench
-first_seen: '2026-09-02T18:25:32.525602+05:30'
-last_seen: '2026-09-02T18:25:32.525602+05:30'
-last_checked: '2026-09-02T18:25:32.525602+05:30'
+first_seen: '2026-09-03T01:01:31.430460+05:30'
+last_seen: '2026-09-03T01:01:31.430460+05:30'
+last_checked: '2026-09-03T01:01:31.430460+05:30'
 health_score: 100
 ---
 
@@ -32,9 +32,9 @@ health_score: 100
 
 ## Summary
 
-- **ParseBench**: A specialized benchmark for evaluating document parsing performance of AI agents, covering tasks like PDF parsing, OCR, and table extraction.
-- **Metrics**: Designed to assess vision-language models (VLMs) and LLMs in structured document understanding, with support for LlamaIndex integration.
-- **Evaluation Scope**: Includes multi-modal parsing challenges, enabling comparison of OCR, table extraction, and layout analysis across diverse document types.
+*   `ParseBench` is a Python-based benchmark suite for evaluating AI agent performance in document parsing tasks.
+*   It assesses LLMs and Vision-Language Models (VLMs) across critical document AI functions, including PDF parsing, OCR, and table extraction.
+*   The framework provides a standardized evaluation methodology for document understanding capabilities, integrated within the LlamaIndex ecosystem.
 
 ## Why It Matters
 

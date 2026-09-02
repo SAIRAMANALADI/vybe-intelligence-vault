@@ -4,13 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/decodingai-magazine/llm-twin-course
-collected_at: '2026-09-02T18:23:42.396364+05:30'
+collected_at: '2026-09-03T00:59:46.314980+05:30'
 published_at: '2026-09-02T02:12:59Z'
 tags:
 - github-repo
+- hackernews
 - python
 - rag
-- workflows
 stars: 4388
 language: Python
 status: active
@@ -19,9 +19,9 @@ archived: false
 created_at: '2024-03-08T09:21:28Z'
 pushed_at: '2026-04-20T10:53:45Z'
 resource_id: github:decodingai-magazine/llm-twin-course
-first_seen: '2026-09-02T18:23:42.396364+05:30'
-last_seen: '2026-09-02T18:23:42.396364+05:30'
-last_checked: '2026-09-02T18:23:42.396364+05:30'
+first_seen: '2026-09-03T00:59:46.314980+05:30'
+last_seen: '2026-09-03T00:59:46.314980+05:30'
+last_checked: '2026-09-03T00:59:46.314980+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **End-to-end LLM & RAG system**: Provides a production-ready framework for building and deploying large language models (LLMs) and retrieval-augmented generation (RAG) systems using LLMOps best practices, including source code and 12 hands-on lessons.
-
-- **Tech stack integration**: Utilizes Python-based tools such as AWS, Bytewax, Comet-ML, Docker, Pulumi (infrastructure-as-code), Qdrant (vector database), Qwak (MLOps platform), and Superlinked (embedding optimization) for scalable ML system design.
-
-- **MLOps & deployment focus**: Covers infrastructure-as-code (Pulumi), containerization (Docker), and MLOps workflows (Qwak) to ensure reproducible, scalable, and maintainable generative AI systems.
+- **Course Structure**: Provides a hands-on, end-to-end guide for building production-ready LLM and RAG systems using LLMOps best practices, including 12 structured lessons and source code.
+- **Technical Stack**: Implements AWS, Pulumi (IaC), Bytewax (stream processing), Qdrant (vector DB), Comet-ML (experiment tracking), and Qwak (MLOps platform) for scalable infrastructure.
+- **Deployment Focus**: Covers Docker containerization, ML system design, and infrastructure-as-code (IaC) for deploying LLMs and RAG pipelines in production environments.
 
 ## Why It Matters
 

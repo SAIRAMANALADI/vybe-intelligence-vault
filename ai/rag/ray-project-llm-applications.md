@@ -4,10 +4,9 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ray-project/llm-applications
-collected_at: '2026-09-02T18:24:22.450832+05:30'
+collected_at: '2026-09-03T01:00:21.378533+05:30'
 published_at: '2026-08-29T21:55:10Z'
 tags:
-- benchmark
 - github-repo
 - jupyter notebook
 - meta-ai
@@ -23,9 +22,9 @@ archived: false
 created_at: '2023-08-16T04:41:26Z'
 pushed_at: '2026-08-15T00:14:04Z'
 resource_id: github:ray-project/llm-applications
-first_seen: '2026-09-02T18:24:22.450832+05:30'
-last_seen: '2026-09-02T18:24:22.450832+05:30'
-last_checked: '2026-09-02T18:24:22.450832+05:30'
+first_seen: '2026-09-03T01:00:21.378533+05:30'
+last_seen: '2026-09-03T01:00:21.378533+05:30'
+last_checked: '2026-09-03T01:00:21.378533+05:30'
 health_score: 100
 ---
 
@@ -33,9 +32,9 @@ health_score: 100
 
 ## Summary
 
-- Demonstrates production-grade RAG pipelines integrating Llama2, OpenAI, and Anyscale models using Ray for distributed serving and fine-tuning.
-- Provides Jupyter Notebook-based implementations for scalable LLM application development, covering retrieval, generation, and evaluation workflows.
-- Includes deployment strategies for LLMs with Ray Serve, emphasizing efficiency, cost optimization, and reproducibility in ML pipelines.
+- **RAG Pipeline Integration**: Demonstrates production-grade Retrieval-Augmented Generation (RAG) workflows using Ray for distributed serving, with modular components for retrieval, fine-tuning, and inference.
+- **Multi-LLM Compatibility**: Supports Llama2, OpenAI, and Anyscale models with unified interfaces, enabling seamless switching between proprietary and open-source LLMs.
+- **Scalable Deployment**: Leverages Ray’s actor model and distributed computing for high-throughput LLM serving, with Jupyter Notebooks for reproducible experimentation and deployment.
 
 ## Why It Matters
 

@@ -4,25 +4,27 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/langchain-ai/langgraphjs
-collected_at: '2026-09-02T10:21:15.421467+05:30'
-published_at: '2026-09-01T11:31:51Z'
+collected_at: '2026-09-03T01:02:41.509644+05:30'
+published_at: '2026-09-02T16:37:19Z'
 tags:
 - agents
+- anthropic
 - github-repo
+- openai
 - rag
 - typescript
 - workflows
-stars: 3249
+stars: 3248
 language: TypeScript
 status: active
 license: MIT
 archived: false
 created_at: '2024-01-09T17:40:12Z'
-pushed_at: '2026-09-01T18:55:42Z'
+pushed_at: '2026-09-02T19:04:35Z'
 resource_id: github:langchain-ai/langgraphjs
-first_seen: '2026-09-02T10:21:15.421467+05:30'
-last_seen: '2026-09-02T10:21:15.421467+05:30'
-last_checked: '2026-09-02T10:21:15.421467+05:30'
+first_seen: '2026-09-03T01:02:41.509644+05:30'
+last_seen: '2026-09-03T01:02:41.509644+05:30'
+last_checked: '2026-09-03T01:02:41.509644+05:30'
 health_score: 100
 ---
 
@@ -30,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Graph-Based Agent Framework**: LangGraphJS enables building resilient language agents using graph structures, allowing for complex workflow orchestration via nodes and edges.
+- **Graph-Based Agent Framework**: LangGraphJS enables building resilient language agents using graph-based workflows, allowing for complex, stateful agent interactions via directed acyclic graphs (DAGs) in TypeScript.
 
-- **TypeScript Implementation**: The framework is implemented in TypeScript, providing type safety and modern JavaScript features for agent development.
+- **State Management & Resilience**: Implements persistent state storage, checkpointing, and recovery mechanisms to ensure agent resilience across failures, with support for human-in-the-loop interactions and tool integration.
 
-- **LangChain Integration**: Designed as part of the LangChain ecosystem, it leverages LLM capabilities for agentic workflows, with support for generative AI and resilient execution patterns.
+- **Modular & Extensible**: Designed for TypeScript/Node.js, it integrates with LLM providers (e.g., OpenAI, Anthropic) and supports custom nodes, subgraphs, and interoperability with LangChain for scalable agent orchestration.
 
 ## Why It Matters
 
@@ -43,15 +45,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: langchain-ai
-- Stars: 3249
-- Forks: 570
+- Stars: 3248
+- Forks: 569
 - Language: TypeScript
 - Topics: agents, ai, artificial-intelligence, generative-ai, llm, node, typescript
-- Last Updated: 2026-09-01T11:31:51Z
+- Last Updated: 2026-09-02T16:37:19Z
 - License: MIT
 - Archived: No
 - Created At: 2024-01-09T17:40:12Z
-- Pushed At: 2026-09-01T18:55:42Z
+- Pushed At: 2026-09-02T19:04:35Z
 
 ## Possible Use Cases
 

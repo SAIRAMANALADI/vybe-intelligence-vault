@@ -4,13 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NicholasGoh/fastapi-mcp-langgraph-template
-collected_at: '2026-09-02T01:03:53.608184+05:30'
+collected_at: '2026-09-03T01:02:36.441213+05:30'
 published_at: '2026-08-25T03:15:58Z'
 tags:
 - agents
 - github-repo
 - python
 - rag
+- workflows
 stars: 556
 language: Python
 status: active
@@ -19,9 +20,9 @@ archived: false
 created_at: '2025-04-16T13:47:46Z'
 pushed_at: '2026-03-03T23:35:58Z'
 resource_id: github:nicholasgoh/fastapi-mcp-langgraph-template
-first_seen: '2026-09-02T01:03:53.608184+05:30'
-last_seen: '2026-09-02T01:03:53.608184+05:30'
-last_checked: '2026-09-02T01:03:53.608184+05:30'
+first_seen: '2026-09-03T01:02:36.441213+05:30'
+last_seen: '2026-09-03T01:02:36.441213+05:30'
+last_checked: '2026-09-03T01:02:36.441213+05:30'
 health_score: 100
 ---
 
@@ -29,9 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Architecture**: Template integrates **FastAPI** backend with **LangGraph** for agentic orchestration, leveraging **MCP** for modular tooling and **SQLModel** for database interactions.
-- **Observability & Scalability**: Pre-configured with **Prometheus** (metrics), **Grafana** (dashboards), **Langfuse** (tracing), and **Nginx** (load balancing) for production-grade deployment.
-- **DevOps & Storage**: Includes **Supabase** (PostgreSQL) and **Docker**-compatible setup for rapid iteration, with CI/CD-ready configurations.
+- **Architecture**: Template integrates FastAPI, MCP (Model Context Protocol), and LangGraph for agentic orchestration, enabling modular agent workflows with Python-based LangGraph for stateful graph execution.
+
+- **Observability & Storage**: Includes Grafana/Prometheus for monitoring, Langfuse for LLM observability, and Supabase/SQLModel for PostgreSQL-based data persistence and ORM.
+
+- **Deployment**: Pre-configured with Nginx for reverse proxy and compose for container orchestration, optimized for scalable FastAPI deployments with modular MCP tooling.
 
 ## Why It Matters
 

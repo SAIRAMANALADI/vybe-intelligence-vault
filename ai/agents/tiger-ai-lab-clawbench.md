@@ -4,13 +4,14 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TIGER-AI-Lab/ClawBench
-collected_at: '2026-09-02T18:25:42.628066+05:30'
+collected_at: '2026-09-03T01:01:41.438443+05:30'
 published_at: '2026-09-02T11:26:06Z'
 tags:
 - agents
 - benchmark
 - dataset
 - github-repo
+- hackernews
 - python
 - scripts
 stars: 632
@@ -21,9 +22,9 @@ archived: false
 created_at: '2026-04-10T01:59:17Z'
 pushed_at: '2026-09-01T15:26:20Z'
 resource_id: github:tiger-ai-lab/clawbench
-first_seen: '2026-09-02T18:25:42.628066+05:30'
-last_seen: '2026-09-02T18:25:42.628066+05:30'
-last_checked: '2026-09-02T18:25:42.628066+05:30'
+first_seen: '2026-09-03T01:01:41.438443+05:30'
+last_seen: '2026-09-03T01:01:41.438443+05:30'
+last_checked: '2026-09-03T01:01:41.438443+05:30'
 health_score: 100
 ---
 
@@ -31,9 +32,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Open-source benchmark for evaluating browser AI agents on daily tasks, focusing on real-world web interaction and automation capabilities.
-- **Scope**: Includes 632+ tasks across everyday online activities (e.g., form filling, navigation, data extraction) with Chrome-based automation via extensions.
-- **Evaluation**: Supports LLM-driven agent assessment with structured metrics for performance, reliability, and task completion in dynamic web environments.
+- **Purpose**: Open-source benchmark (`ClawBench`) for evaluating AI agents' performance on daily browser-based tasks, enabling standardized assessment of agentic AI systems in real-world scenarios.
+- **Scope**: Focuses on computer-use tasks via browser automation (e.g., Chrome/Chromium), covering everyday online activities for LLM-based agents.
+- **Technical Stack**: Implemented in Python, with support for Chrome extensions, dataset-driven evaluation, and real-world task simulation (last updated: 2026-09-02).
 
 ## Why It Matters
 

@@ -4,10 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Cinnamon/kotaemon
-collected_at: '2026-09-02T18:23:17.424662+05:30'
+collected_at: '2026-09-03T00:59:21.350813+05:30'
 published_at: '2026-09-02T10:00:18Z'
 tags:
 - github-repo
+- openai
 - python
 - rag
 stars: 25726
@@ -18,9 +19,9 @@ archived: false
 created_at: '2024-03-25T08:16:42Z'
 pushed_at: '2026-07-14T16:53:59Z'
 resource_id: github:cinnamon/kotaemon
-first_seen: '2026-09-02T18:23:17.424662+05:30'
-last_seen: '2026-09-02T18:23:17.424662+05:30'
-last_checked: '2026-09-02T18:23:17.424662+05:30'
+first_seen: '2026-09-03T00:59:21.350813+05:30'
+last_seen: '2026-09-03T00:59:21.350813+05:30'
+last_checked: '2026-09-03T00:59:21.350813+05:30'
 health_score: 100
 ---
 
@@ -28,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG-based Architecture**: Implements Retrieval-Augmented Generation (RAG) to enable document-grounded conversational responses by dynamically fetching and synthesizing relevant content from user-provided documents.
+- **RAG-based Architecture**: Implements Retrieval-Augmented Generation (RAG) to enable document-grounded chat interactions with LLMs, leveraging vector embeddings and retrieval mechanisms for contextual responses.
 
-- **Modular Python Framework**: Built in Python with extensible components for document ingestion, embedding, retrieval, and LLM integration, supporting customization of pipelines (e.g., chunking, vector stores, and model backends).
+- **Modular Python Framework**: Open-source Python toolkit with extensible components for document ingestion, chunking, embedding, retrieval, and LLM integration, supporting customization for diverse use cases.
 
-- **Open-Source Deployment**: Licensed for community use with active development, optimized for local or cloud deployment, and includes pre-configured integrations with popular LLMs and vector databases (e.g., FAISS, Chroma).
+- **Scalable Deployment**: Designed for production-grade document processing with support for large-scale retrieval, optimized indexing, and compatibility with major LLM providers (e.g., Hugging Face, OpenAI APIs).
 
 ## Why It Matters
 

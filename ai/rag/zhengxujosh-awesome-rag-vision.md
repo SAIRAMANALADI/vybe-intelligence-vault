@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/zhengxuJosh/Awesome-RAG-Vision
-collected_at: '2026-09-02T18:23:52.371886+05:30'
+collected_at: '2026-09-03T00:59:51.322307+05:30'
 published_at: '2026-08-27T18:10:50Z'
 tags:
 - github-repo
@@ -18,9 +18,9 @@ archived: false
 created_at: '2024-11-21T07:35:07Z'
 pushed_at: '2026-01-25T12:29:49Z'
 resource_id: github:zhengxujosh/awesome-rag-vision
-first_seen: '2026-09-02T18:23:52.371886+05:30'
-last_seen: '2026-09-02T18:23:52.371886+05:30'
-last_checked: '2026-09-02T18:23:52.371886+05:30'
+first_seen: '2026-09-03T00:59:51.322307+05:30'
+last_seen: '2026-09-03T00:59:51.322307+05:30'
+last_checked: '2026-09-03T00:59:51.322307+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated Resource**: A GitHub repository (`zhengxuJosh/Awesome-RAG-Vision`) compiling advanced **Retrieval-Augmented Generation (RAG)** techniques tailored for **Computer Vision (CV)**, including multimodal RAG, vision-language models, and retrieval-augmented visual question answering (VQA).
-
-- **Scope & Focus**: Encompasses cutting-edge methods like **cross-modal retrieval**, **dense retrieval for images**, and **hybrid RAG pipelines** integrating vision encoders (e.g., ViT, CLIP) with generative models (e.g., LLaVA, BLIP-2).
-
-- **Metadata**: 343 stars, 11 forks, last updated **2026-08-27**, with no explicit language or topic tags despite its specialized focus.
+- **Curated Resource**: A GitHub repository (`zhengxuJosh/Awesome-RAG-Vision`) compiling advanced **Retrieval-Augmented Generation (RAG)** techniques specifically tailored for **Computer Vision (CV)** applications.
+- **Metadata**: 343 stars, 11 forks, last updated **2026-08-27T18:10:50Z**; language unspecified (likely multi-language given RAG/CV context).
+- **Focus**: Aggregates cutting-edge RAG methodologies bridging **vision-language models (VLMs)**, multimodal retrieval, and generative AI for enhanced CV tasks (e.g., image captioning, visual question answering).
 
 ## Why It Matters
 

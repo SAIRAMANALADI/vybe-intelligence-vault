@@ -13,9 +13,9 @@ Rigorous evaluations protect against regressions in model behavior, prompt drift
 - [microsoft/TREC-2019-Deep-Learning](https://github.com/microsoft/TREC-2019-Deep-Learning) (framework - ESSENTIAL Tier)
 - [weaviate/Verba](https://github.com/weaviate/Verba) (benchmark - ESSENTIAL Tier)
 - [pypi/warehouse](https://github.com/pypi/warehouse) (benchmark - ESSENTIAL Tier)
-- [apecloud/ApeRAG](https://github.com/apecloud/ApeRAG) (dataset - ESSENTIAL Tier)
 - [neuml/txtai](https://github.com/neuml/txtai) (framework - ESSENTIAL Tier)
 - [pinecone-io/pinecone-claude-code-plugin](https://github.com/pinecone-io/pinecone-claude-code-plugin) (benchmark - ESSENTIAL Tier)
+- [devloperdevesh/EnterpriseRAG-AI](https://github.com/devloperdevesh/EnterpriseRAG-AI) (framework - ESSENTIAL Tier)
 
 ## Best GitHub Repositories
 
@@ -44,4 +44,4 @@ https://github.com/explodinggradients/ragas (Ragas)
 
 ---
 
-*Last updated: 2026-09-02 18:39 IST*
+*Last updated: 2026-09-03 01:05 IST*

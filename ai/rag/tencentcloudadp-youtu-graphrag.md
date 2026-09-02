@@ -4,11 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TencentCloudADP/youtu-graphrag
-collected_at: '2026-09-02T18:24:27.444807+05:30'
+collected_at: '2026-09-03T01:00:26.378522+05:30'
 published_at: '2026-09-01T02:41:47Z'
 tags:
 - agents
-- benchmark
 - github-repo
 - python
 - rag
@@ -20,9 +19,9 @@ archived: false
 created_at: '2025-09-01T02:52:13Z'
 pushed_at: '2026-02-26T12:57:55Z'
 resource_id: github:tencentcloudadp/youtu-graphrag
-first_seen: '2026-09-02T18:24:27.444807+05:30'
-last_seen: '2026-09-02T18:24:27.444807+05:30'
-last_checked: '2026-09-02T18:24:27.444807+05:30'
+first_seen: '2026-09-03T01:00:26.378522+05:30'
+last_seen: '2026-09-03T01:00:26.378522+05:30'
+last_checked: '2026-09-03T01:00:26.378522+05:30'
 health_score: 100
 ---
 
@@ -30,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Vertically Unified Agents**: Introduces a multi-agent framework where specialized agents (e.g., retrieval, reasoning, planning) collaborate hierarchically for complex reasoning tasks, leveraging graph structures for enhanced contextual understanding.
+- **Vertically Unified Agents**: Introduces a multi-agent framework where specialized agents (e.g., retrieval, reasoning, planning) operate hierarchically within a graph-structured knowledge base to enhance complex reasoning tasks.
 
-- **Graph Retrieval-Augmented Architecture**: Integrates graph-based knowledge representation with retrieval-augmented generation (RAG), enabling dynamic knowledge retrieval and structured reasoning over large-scale, interconnected data.
+- **Graph Retrieval-Augmented Architecture**: Integrates graph neural networks (GNNs) with retrieval-augmented generation (RAG) to dynamically extract and synthesize subgraphs for context-aware LLM reasoning, improving factual grounding and interpretability.
 
-- **ICLR 2026 Contribution**: Proposes a novel paradigm for LLM-driven complex reasoning by vertically unifying agents with graph-centric RAG, demonstrating state-of-the-art performance on multi-hop reasoning benchmarks.
+- **Modular Python Implementation**: Provides an open-source Python library with optimized graph operations (e.g., subgraph sampling, attention mechanisms) and agent orchestration, supporting scalability for large-scale knowledge graphs.
 
 ## Why It Matters
 

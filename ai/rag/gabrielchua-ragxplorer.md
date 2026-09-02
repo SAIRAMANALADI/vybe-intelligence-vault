@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/gabrielchua/RAGxplorer
-collected_at: '2026-09-02T18:23:22.377080+05:30'
+collected_at: '2026-09-03T00:59:26.303863+05:30'
 published_at: '2026-09-01T22:16:09Z'
 tags:
 - benchmark
@@ -13,6 +13,7 @@ tags:
 - hackernews
 - jupyter notebook
 - rag
+- workflows
 stars: 1221
 language: Jupyter Notebook
 status: active
@@ -21,9 +22,9 @@ archived: false
 created_at: '2024-01-11T15:31:36Z'
 pushed_at: '2025-01-03T15:10:06Z'
 resource_id: github:gabrielchua/ragxplorer
-first_seen: '2026-09-02T18:23:22.377080+05:30'
-last_seen: '2026-09-02T18:23:22.377080+05:30'
-last_checked: '2026-09-02T18:23:22.377080+05:30'
+first_seen: '2026-09-03T00:59:26.303863+05:30'
+last_seen: '2026-09-03T00:59:26.303863+05:30'
+last_checked: '2026-09-03T00:59:26.303863+05:30'
 health_score: 100
 ---
 
@@ -31,9 +32,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Open-source interactive visualization tool for analyzing and debugging Retrieval-Augmented Generation (RAG) pipelines, enabling users to inspect retrieval quality, latency, and failure modes.
-- **Technical Stack**: Built with Python, Streamlit for the web interface, and Jupyter Notebooks for modular analysis; integrates with LLM frameworks for real-time RAG evaluation.
-- **Features**: Provides dynamic visualizations (e.g., retrieval heatmaps, latency distributions) and supports custom dataset integration for comparative analysis of RAG performance metrics.
+- **Purpose**: Open-source tool for interactive visualization and analysis of Retrieval-Augmented Generation (RAG) pipelines, enabling debugging and performance evaluation.
+- **Technical Stack**: Built in Python with Jupyter Notebooks, Streamlit for web-based interactivity, and integrates with LLM frameworks for RAG workflows.
+- **Features**: Real-time visualization of retrieval quality, latency metrics, and prompt/response analysis; supports custom dataset integration and modular RAG component inspection.
 
 ## Why It Matters
 

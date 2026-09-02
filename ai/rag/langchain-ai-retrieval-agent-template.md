@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/langchain-ai/retrieval-agent-template
-collected_at: '2026-09-02T18:26:37.657543+05:30'
+collected_at: '2026-09-03T01:02:36.633384+05:30'
 published_at: '2026-08-28T21:48:17Z'
 tags:
 - agents
@@ -21,9 +21,9 @@ archived: false
 created_at: '2024-08-21T20:47:35Z'
 pushed_at: '2026-09-02T08:46:49Z'
 resource_id: github:langchain-ai/retrieval-agent-template
-first_seen: '2026-09-02T18:26:37.657543+05:30'
-last_seen: '2026-09-02T18:26:37.657543+05:30'
-last_checked: '2026-09-02T18:26:37.657543+05:30'
+first_seen: '2026-09-03T01:02:36.633384+05:30'
+last_seen: '2026-09-03T01:02:36.633384+05:30'
+last_checked: '2026-09-03T01:02:36.633384+05:30'
 health_score: 100
 ---
 
@@ -31,9 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Template repository for building retrieval agents using LangGraph, a framework for constructing stateful, multi-actor applications with LLMs (LangChain's graph-based orchestration tool).
-- **Technical Stack**: Python-based implementation leveraging LangGraph (Python SDK) for agent workflows, designed for document retrieval and RAG (Retrieval-Augmented Generation) pipelines.
-- **Structure**: Provides a modular template for agent-based retrieval systems, optimized for extensibility and integration with LangChain ecosystem tools.
+- **Template Purpose**: Provides a structured starter implementation for building retrieval agents using LangGraph, a framework for constructing stateful, multi-actor applications with LLMs.
+
+- **Key Components**: Includes pre-configured workflows for document retrieval, state management, and agent orchestration, leveraging LangGraph's Python SDK (`langgraph-python`).
+
+- **Technical Stack**: Built on Python with dependencies on LangChain ecosystem tools (`langgraph`, `langgraph-python`) for agentic RAG pipelines and stateful computation.
 
 ## Why It Matters
 
@@ -43,7 +45,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: langchain-ai
 - Stars: 171
-- Forks: 55
+- Forks: 54
 - Language: Python
 - Topics: langgraph, langgraph-python, langgraph-template
 - Last Updated: 2026-08-28T21:48:17Z

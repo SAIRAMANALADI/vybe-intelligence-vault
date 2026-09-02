@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/onyx-dot-app/EnterpriseRAG-Bench
-collected_at: '2026-09-02T18:23:57.425179+05:30'
+collected_at: '2026-09-03T01:00:01.410629+05:30'
 published_at: '2026-09-02T07:55:34Z'
 tags:
 - benchmark
@@ -21,9 +21,9 @@ archived: false
 created_at: '2026-02-19T02:48:25Z'
 pushed_at: '2026-05-08T02:57:41Z'
 resource_id: github:onyx-dot-app/enterpriserag-bench
-first_seen: '2026-09-02T18:23:57.425179+05:30'
-last_seen: '2026-09-02T18:23:57.425179+05:30'
-last_checked: '2026-09-02T18:23:57.425179+05:30'
+first_seen: '2026-09-03T01:00:01.410629+05:30'
+last_seen: '2026-09-03T01:00:01.410629+05:30'
+last_checked: '2026-09-03T01:00:01.410629+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,15 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: EnterpriseRAG-Bench provides a dataset and benchmark for evaluating Retrieval-Augmented Generation (RAG) systems on company internal documents, focusing on enterprise search and knowledge base applications.
+- **Purpose**: Provides a benchmark and dataset for evaluating Retrieval-Augmented Generation (RAG) systems on proprietary company documents, enabling standardized assessment of enterprise RAG performance.
 
-- **Features**: Includes synthetic data generation, semantic search evaluation, and LLM performance assessment for question-answering tasks in enterprise contexts.
+- **Key Features**:
+  - Includes synthetic data generation for enterprise knowledge bases.
+  - Supports evaluation of semantic search, information retrieval, and LLM question-answering in internal document contexts.
 
-- **Technical Scope**: Supports Python-based RAG evaluation, LLM benchmarking, and retrieval-augmented generation methodologies for enterprise information retrieval systems.
+- **Technical Scope**:
+  - Covers Python-based tools for RAG evaluation, LLM benchmarking, and retrieval optimization.
+  - Addresses enterprise-specific challenges like data privacy and domain adaptation.
 
 ## Why It Matters
 

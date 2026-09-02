@@ -4,11 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/TIMAN-group/PlugMem
-collected_at: '2026-09-02T18:24:27.486949+05:30'
+collected_at: '2026-09-03T01:00:31.353735+05:30'
 published_at: '2026-08-31T12:38:46Z'
 tags:
 - agents
 - github-repo
+- models
 - python
 - rag
 stars: 295
@@ -19,9 +20,9 @@ archived: false
 created_at: '2026-02-09T22:43:38Z'
 pushed_at: '2026-07-09T05:51:21Z'
 resource_id: github:timan-group/plugmem
-first_seen: '2026-09-02T18:24:27.486949+05:30'
-last_seen: '2026-09-02T18:24:27.486949+05:30'
-last_checked: '2026-09-02T18:24:27.486949+05:30'
+first_seen: '2026-09-03T01:00:31.353735+05:30'
+last_seen: '2026-09-03T01:00:31.353735+05:30'
+last_checked: '2026-09-03T01:00:31.353735+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Plug-and-play long-term memory integration**: Enables LLM agents to dynamically attach/detach persistent memory modules without retraining, leveraging modular memory architectures for scalable context retention.
+- **Plug-and-play memory integration**: Introduces a modular, long-term memory system for LLM agents enabling seamless plug-and-play functionality for persistent, scalable memory management without fine-tuning.
 
-- **Hybrid memory retrieval**: Combines retrieval-augmented generation (RAG) with agent-specific memory buffers, optimizing for both short-term task execution and long-term knowledge accumulation.
+- **Hybrid memory architecture**: Combines parametric (model-internal) and non-parametric (external) memory, leveraging retrieval-augmented generation (RAG) for efficient long-term context retention and retrieval.
 
-- **Python-based framework**: Provides a lightweight, extensible library for agent-memory interaction, with ICML 2026 submission highlighting empirical gains in task consistency and knowledge retention over extended interactions.
+- **ICML 2026 framework**: Designed for agent-memory applications with open-source Python implementation, supporting dynamic memory updates and agent-environment interaction for autonomous task execution.
 
 ## Why It Matters
 

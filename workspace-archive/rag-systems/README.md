@@ -11,11 +11,11 @@ Retrieval-Augmented Generation (RAG) grounds LLM completions in private document
 - [weaviate/Verba](https://github.com/weaviate/Verba) (benchmark - ESSENTIAL Tier)
 - [neuml/txtai](https://github.com/neuml/txtai) (framework - ESSENTIAL Tier)
 - [pinecone-io/pinecone-claude-code-plugin](https://github.com/pinecone-io/pinecone-claude-code-plugin) (benchmark - ESSENTIAL Tier)
+- [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) (framework - ESSENTIAL Tier)
+- [aws-samples/amazon-bedrock-samples](https://github.com/aws-samples/amazon-bedrock-samples) (benchmark - ESSENTIAL Tier)
 - [RAG Application Tutorial 2025: Build Production-Ready Retrieval Augmented Generation Systems · System Debug](https://sysdebug.com/posts/rag-application-tutorial-production-guide/) (dataset - ESSENTIAL Tier)
 - [Elasticsearch: The Official Distributed Search & Analytics Engine | Elastic](https://www.elastic.co/elasticsearch/) (dataset - ESSENTIAL Tier)
-- [apecloud/ApeRAG](https://github.com/apecloud/ApeRAG) (dataset - ESSENTIAL Tier)
-- [didilili/ai-agents-from-zero](https://github.com/didilili/ai-agents-from-zero) (framework - ESSENTIAL Tier)
-- [SylphxAI/pdf-reader-mcp](https://github.com/SylphxAI/pdf-reader-mcp) (mcp-server - ESSENTIAL Tier)
+- [google-gemini/gemini-fullstack-langgraph-quickstart](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart) (template - ESSENTIAL Tier)
 
 ## Best GitHub Repositories
 
@@ -25,8 +25,8 @@ https://github.com/microsoft/graphrag (GraphRAG)
 - [weaviate/Verba](https://github.com/weaviate/Verba)
 - [neuml/txtai](https://github.com/neuml/txtai)
 - [pinecone-io/pinecone-claude-code-plugin](https://github.com/pinecone-io/pinecone-claude-code-plugin)
-- [apecloud/ApeRAG](https://github.com/apecloud/ApeRAG)
-- [didilili/ai-agents-from-zero](https://github.com/didilili/ai-agents-from-zero)
+- [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R)
+- [aws-samples/amazon-bedrock-samples](https://github.com/aws-samples/amazon-bedrock-samples)
 
 ## Best Learning Resources
 
@@ -44,4 +44,4 @@ https://github.com/microsoft/graphrag (GraphRAG)
 
 ---
 
-*Last updated: 2026-09-02 18:39 IST*
+*Last updated: 2026-09-03 01:05 IST*

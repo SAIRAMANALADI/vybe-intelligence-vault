@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/datarobot-community/datarobot-agent-templates
-collected_at: '2026-09-02T18:26:47.611286+05:30'
+collected_at: '2026-09-03T01:02:51.567023+05:30'
 published_at: '2026-07-31T15:53:17Z'
 tags:
 - agents
@@ -24,9 +24,9 @@ archived: false
 created_at: '2025-05-14T14:40:53Z'
 pushed_at: '2026-07-31T15:56:17Z'
 resource_id: github:datarobot-community/datarobot-agent-templates
-first_seen: '2026-09-02T18:26:47.611286+05:30'
-last_seen: '2026-09-02T18:26:47.611286+05:30'
-last_checked: '2026-09-02T18:26:47.611286+05:30'
+first_seen: '2026-09-03T01:02:51.567023+05:30'
+last_seen: '2026-09-03T01:02:51.567023+05:30'
+last_checked: '2026-09-03T01:02:51.567023+05:30'
 health_score: 100
 ---
 
@@ -34,9 +34,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Provides agentic workflow templates for DataRobot, integrating frameworks like CrewAI, LangGraph, and LlamaIndex to enable LLM-driven automation and multi-agent collaboration.
-- **Technical Stack**: Implemented in Python, leveraging DataRobot’s API for model deployment/management, with dependencies on agentic frameworks (e.g., CrewAI for orchestration, LangGraph for stateful workflows, LlamaIndex for RAG pipelines).
-- **Use Cases**: Facilitates end-to-end AI agent workflows (e.g., automated data processing, model retraining, decision-making) with customizable templates for rapid deployment in production environments.
+- **Purpose**: Provides pre-built templates for DataRobot Agentic Workflows, enabling integration with frameworks like CrewAI, LangGraph, and LlamaIndex for LLM-driven automation.
+- **Technical Stack**: Python-based templates leveraging agentic AI, DataRobot APIs, and LLM orchestration tools (e.g., LangGraph for workflow management).
+- **Repository Structure**: Contains modular templates for agentic workflows, updated as of July 31, 2026, with community contributions (20 stars, 11 forks).
 
 ## Why It Matters
 
@@ -46,7 +46,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: datarobot-community
 - Stars: 20
-- Forks: 12
+- Forks: 11
 - Language: Python
 - Topics: agentic-ai, crewai, datarobot, langgraph, llamaindex, llm
 - Last Updated: 2026-07-31T15:53:17Z

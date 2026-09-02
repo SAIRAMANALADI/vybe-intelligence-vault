@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - youtube
-status: active
+status: inactive
 resource_id: hackernews:show-hn-weedout-safari-extension-that-hides-youtub
 first_seen: '2026-09-02T04:11:40.176662+05:30'
 last_seen: '2026-09-02T18:21:56.130191+05:30'
 last_checked: '2026-09-02T18:21:56.130191+05:30'
 health_score: 100
 ---
+
 
 # Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos
 

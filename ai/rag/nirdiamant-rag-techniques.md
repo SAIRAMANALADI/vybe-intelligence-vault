@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NirDiamant/RAG_Techniques
-collected_at: '2026-09-02T18:22:57.366019+05:30'
-published_at: '2026-09-02T11:04:12Z'
+collected_at: '2026-09-03T00:59:01.263414+05:30'
+published_at: '2026-09-02T18:00:20Z'
 tags:
 - agents
 - github-repo
@@ -15,7 +15,7 @@ tags:
 - models
 - openai
 - rag
-stars: 29337
+stars: 29341
 language: Jupyter Notebook
 status: active
 license: NOASSERTION
@@ -23,9 +23,9 @@ archived: false
 created_at: '2024-07-13T16:08:36Z'
 pushed_at: '2026-08-29T08:59:28Z'
 resource_id: github:nirdiamant/rag_techniques
-first_seen: '2026-09-02T18:22:57.366019+05:30'
-last_seen: '2026-09-02T18:22:57.366019+05:30'
-last_checked: '2026-09-02T18:22:57.366019+05:30'
+first_seen: '2026-09-03T00:59:01.263414+05:30'
+last_seen: '2026-09-03T00:59:01.263414+05:30'
+last_checked: '2026-09-03T00:59:01.263414+05:30'
 health_score: 100
 ---
 
@@ -33,9 +33,9 @@ health_score: 100
 
 ## Summary
 
-- **Repository Overview**: Hosts advanced RAG techniques with Jupyter Notebook tutorials, covering agentic-rag, embeddings, LLMs, and vector databases.
-- **Technical Stack**: Utilizes Python, LangChain, LlamaIndex, OpenAI, and semantic search for RAG implementations.
-- **Metadata**: 29.3K stars, 3.6K forks, last updated 2026-09-02, with topics including generative AI, NLP, and retrieval-augmented generation.
+- **Comprehensive RAG Techniques**: Repository provides advanced RAG methodologies with Jupyter Notebook tutorials, covering agentic RAG, embeddings, semantic search, and vector databases.
+- **Multi-Framework Integration**: Supports LangChain, LlamaIndex, and OpenAI APIs for LLM interactions, with Python-based implementations.
+- **High Activity & Maintenance**: Maintained repository with 29.3K stars, 3.6K forks, and recent updates (as of 2026-09-02), ensuring up-to-date techniques.
 
 ## Why It Matters
 
@@ -44,11 +44,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: NirDiamant
-- Stars: 29337
-- Forks: 3588
+- Stars: 29341
+- Forks: 3589
 - Language: Jupyter Notebook
 - Topics: agentic-rag, ai, embeddings, generative-ai, gpt, langchain, llama-index, llm, llms, machine-learning, nlp, openai, python, rag, retrieval-augmented-generation, semantic-search, tutorials, vector-database
-- Last Updated: 2026-09-02T11:04:12Z
+- Last Updated: 2026-09-02T18:00:20Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2024-07-13T16:08:36Z
