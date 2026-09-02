@@ -1,55 +1,49 @@
 ---
-title: sv-number/mcp-server
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-02
-tech_stack:
-- JavaScript
-- MCP (Model Context Protocol)
-- Node.js
-- API Integration
-quality_score: 9
-rag_relevance: 8
-deployment_complexity: Low
-tags:
-- MCP server
-- SMS verification
-- AI agent tools
-- phone number ordering
-- multi-country support
-source: https://github.com/sv-number/mcp-server
-stars: 532
-language: JavaScript
-last_updated: '2026-08-10T18:59:16Z'
-discovered_at: '2026-08-10T19:01:31Z'
-evaluated_by: mistral-small-latest
+title: "omer907/mcp-server"
+content_type: "repo"
+engine: "v2"
+category: "Agent Framework"
+tech_stack: ["TypeScript", "Node.js", "MCP (Model Context Protocol)", "npm", "HTTP Streamable Transport"]
+quality_score: 8
+rag_relevance: 9
+deployment_complexity: "Medium"
+tags: ["MCP server", "value-leak detection", "LLMO", "agent integration", "lead capture"]
+source: "https://github.com/omer907/mcp-server"
+stars: 0
+language: "TypeScript"
+last_updated: "2026-08-10T14:59:54Z"
+discovered_at: "2026-08-10T15:03:56Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-An MCP server that provides phone numbers as tools for AI agents, enabling them to order private numbers in 200+ countries, receive SMS verification codes via API, and return the codes for activation. It abstracts the complexity of handling phone number verification for AI-driven workflows.
+MCP server that integrates Melt's value-leak discovery logic into MCP-compatible agents like Claude or Cursor, enabling structured estimates of organizational value leakage. It exposes tools for sandbox analysis, leak quantification, and lead capture, bridging directional estimates with real-world scans.
 
 ## Key Features
-- Orders private phone numbers in 200+ countries via API
-- Automatically retrieves and parses SMS verification codes
-- Supports 9 tools over stdio for seamless agent integration
-- Provides real-time balance checks and country/operator listings
-- Handles polling for codes with configurable intervals and timeouts
+- Exposes three MCP tools for value-leak analysis: `melt_analyze_value_vectors`, `melt_estimate_annual_leak`, and `melt_request_scan`
+- Supports both local (stdio) and hosted (HTTP) MCP transport modes
+- Includes one-click installation via `.mcpb` bundle for Claude Desktop
+- Provides analytics for tool usage tracking without exposing sensitive data
+- Fallback to local lead capture (`leads.jsonl`) if HubSpot integration fails
 
 ## Why It Matters for RAG Builders
-It streamlines phone number verification for AI agents, reducing manual setup and enabling scalable, automated workflows across global services.
+This MCP server enables AI agents to perform structured value-leak analysis and lead capture, directly integrating Melt's proprietary methodologies into agent workflows for real-time, actionable insights.
 
 ## Tech Stack Deep Dive
-### JavaScript
-Automated review identified **JavaScript** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### MCP (Model Context Protocol)
-Automated review identified **MCP (Model Context Protocol)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### TypeScript
+Automated review identified **TypeScript** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 ### Node.js
 Automated review identified **Node.js** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### API Integration
-Automated review identified **API Integration** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### MCP (Model Context Protocol)
+Automated review identified **MCP (Model Context Protocol)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### npm
+Automated review identified **npm** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### HTTP Streamable Transport
+Automated review identified **HTTP Streamable Transport** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 
