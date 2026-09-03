@@ -4,11 +4,10 @@ category: ai/resources
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/dorianbrown/rank_bm25
-collected_at: '2026-09-01T19:10:22.307802+05:30'
+collected_at: '2026-09-04T04:17:08.752296+05:30'
 published_at: '2026-08-31T12:52:13Z'
 tags:
 - github-repo
-- models
 - python
 stars: 1382
 language: Python
@@ -18,9 +17,9 @@ archived: false
 created_at: '2019-01-20T23:26:01Z'
 pushed_at: '2026-05-02T22:17:06Z'
 resource_id: github:dorianbrown/rank_bm25
-first_seen: '2026-09-01T19:10:22.307802+05:30'
-last_seen: '2026-09-01T19:10:22.307802+05:30'
-last_checked: '2026-09-01T19:10:22.307802+05:30'
+first_seen: '2026-09-04T04:17:08.752296+05:30'
+last_seen: '2026-09-04T04:17:08.752296+05:30'
+last_checked: '2026-09-04T04:17:08.752296+05:30'
 health_score: 100
 ---
 
@@ -28,9 +27,9 @@ health_score: 100
 
 ## Summary
 
-- Implements Okapi BM25 and its variants (e.g., BM25+, BM25L, BM25T) in Python for efficient document ranking in information retrieval systems.
-- Optimized for large-scale text processing with support for sparse matrices and parallelized operations via NumPy and SciPy.
-- Provides a lightweight, dependency-minimal API with customizable parameters (e.g., `k1`, `b`, `epsilon`) for fine-tuning retrieval performance.
+- **Implementation**: Pure Python library providing efficient BM25 (Best Match 25) ranking algorithms, including Okapi BM25 and variations (e.g., BM25+, BM25L, BM25T).
+- **Optimizations**: Supports sparse document representations (e.g., TF-IDF-like weighting) with configurable parameters (`k1`, `b`) for dynamic ranking behavior.
+- **Compatibility**: Integrates with standard IR toolkits (e.g., `scikit-learn`) and supports batch processing for large-scale document retrieval.
 
 ## Why It Matters
 

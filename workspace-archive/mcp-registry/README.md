@@ -9,24 +9,23 @@ Model Context Protocol (MCP) acts as the bridge connecting LLMs and local develo
 ## Top Matched Resources
 
 - [firecrawl/firecrawl-mcp-server](https://github.com/firecrawl/firecrawl-mcp-server) (mcp-server - ESSENTIAL Tier)
-- [SonarSource/sonarqube-mcp-server](https://github.com/SonarSource/sonarqube-mcp-server) (mcp-server - ESSENTIAL Tier)
 - [golf-mcp/golf](https://github.com/golf-mcp/golf) (mcp-server - ESSENTIAL Tier)
 - [redhat-data-and-ai/template-mcp-server](https://github.com/redhat-data-and-ai/template-mcp-server) (mcp-server - ESSENTIAL Tier)
-- [ElevenLabs · GitHub](https://github.com/elevenlabs) (framework - ESSENTIAL Tier)
-- [SylphxAI/pdf-reader-mcp](https://github.com/SylphxAI/pdf-reader-mcp) (mcp-server - ESSENTIAL Tier)
-- [WagnerAgent/awesome-mcp-servers-devops](https://github.com/WagnerAgent/awesome-mcp-servers-devops) (mcp-server - ESSENTIAL Tier)
-- [fetchai/innovation-lab-examples](https://github.com/fetchai/innovation-lab-examples) (framework - ESSENTIAL Tier)
+- [SonarSource/sonarqube-mcp-server](https://github.com/SonarSource/sonarqube-mcp-server) (mcp-server - ESSENTIAL Tier)
+- [modelcontextprotocol/typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk) (mcp-server - ESSENTIAL Tier)
+- [jlbadano/ig-mcp](https://github.com/jlbadano/ig-mcp) (mcp-server - ESSENTIAL Tier)
+- [Mintlify · GitHub](https://github.com/mintlify) (template - ESSENTIAL Tier)
+- [github/github-mcp-server](https://github.com/github/github-mcp-server) (mcp-server - ESSENTIAL Tier)
 
 ## Best GitHub Repositories
 
 https://github.com/modelcontextprotocol (Official MCP Repos)
 https://github.com/modelcontextprotocol/servers (MCP Reference Servers)
 - [firecrawl/firecrawl-mcp-server](https://github.com/firecrawl/firecrawl-mcp-server)
-- [SonarSource/sonarqube-mcp-server](https://github.com/SonarSource/sonarqube-mcp-server)
 - [golf-mcp/golf](https://github.com/golf-mcp/golf)
 - [redhat-data-and-ai/template-mcp-server](https://github.com/redhat-data-and-ai/template-mcp-server)
-- [ElevenLabs · GitHub](https://github.com/elevenlabs)
-- [SylphxAI/pdf-reader-mcp](https://github.com/SylphxAI/pdf-reader-mcp)
+- [SonarSource/sonarqube-mcp-server](https://github.com/SonarSource/sonarqube-mcp-server)
+- [jlbadano/ig-mcp](https://github.com/jlbadano/ig-mcp)
 
 ## Best Learning Resources
 
@@ -44,4 +43,4 @@ https://github.com/modelcontextprotocol/servers (MCP Reference Servers)
 
 ---
 
-*Last updated: 2026-09-04 01:09 IST*
+*Last updated: 2026-09-04 04:27 IST*

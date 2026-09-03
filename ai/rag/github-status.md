@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.githubstatus.com/
-published_at: '2026-09-03T10:19:38.112372+05:30'
-collected_at: '2026-09-03T10:19:38.112387+05:30'
+published_at: '2026-09-04T04:22:19.377529+05:30'
+collected_at: '2026-09-04T04:22:19.377544+05:30'
 tags:
 - agents
 - anthropic
@@ -19,9 +19,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:github-status
-first_seen: '2026-09-03T10:19:38.112387+05:30'
-last_seen: '2026-09-03T10:19:38.112387+05:30'
-last_checked: '2026-09-03T10:19:38.112387+05:30'
+first_seen: '2026-09-04T04:22:19.377544+05:30'
+last_seen: '2026-09-04T04:22:19.377544+05:30'
+last_checked: '2026-09-04T04:22:19.377544+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **GitHub Status Page**: Provides real-time operational status, incident reports, and historical uptime (90-day metrics) for GitHub services (e.g., Git Operations, Actions, Copilot) across regions (US, EU, Australia, Japan).
+- **GitHub Status Page**: Provides real-time operational status for GitHub services (e.g., Git Operations, Webhooks, API Requests) with historical uptime metrics (e.g., 90-day uptime for Git Operations: 100.0%, Actions: 99.25%).
 
-- **Notification Subscriptions**: Supports multi-channel incident alerts via email, SMS (global country codes), Slack, and webhooks for automated incident tracking (e.g., `creates/updates/resolves` incidents).
+- **Incident Notifications**: Supports multi-channel incident updates via email, SMS (global phone number support), Slack, and webhooks for automated monitoring, with subscription requiring reCAPTCHA verification and adherence to privacy policies.
 
-- **Recent Incidents**: Documented disruptions include degraded Pull Request performance (Sep 1, 2026), Copilot AI model errors (Aug 31, 2026), GitHub Billing failures (Aug 26–27, 2026), and Actions/PR delays (Aug 26, 2026), with root causes tied to upstream provider issues or infrastructure bottlenecks.
+- **Past Incidents**: Documented major outages include Copilot AI Model Provider disruptions (e.g., Grok 4.6 degradation on Sep 3, 2026; OpenAI model errors on Aug 31, 2026) and GitHub Billing performance issues (Aug 26–27, 2026), with root causes linked to upstream provider failures or concentrated workloads.
 
 ## Why It Matters
 
@@ -43,7 +43,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-09-03T10:19:38.112372+05:30
+- Published: 2026-09-04T04:22:19.377529+05:30
 
 ## Related Tags
 

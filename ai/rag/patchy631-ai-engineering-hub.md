@@ -4,14 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/patchy631/ai-engineering-hub
-collected_at: '2026-09-04T00:53:25.800497+05:30'
+collected_at: '2026-09-04T04:11:28.223206+05:30'
 published_at: '2026-09-03T17:56:52Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - jupyter notebook
 - rag
+- workflows
 stars: 37312
 language: Jupyter Notebook
 status: active
@@ -20,9 +20,9 @@ archived: false
 created_at: '2024-10-21T10:43:24Z'
 pushed_at: '2026-08-26T21:04:16Z'
 resource_id: github:patchy631/ai-engineering-hub
-first_seen: '2026-09-04T00:53:25.800497+05:30'
-last_seen: '2026-09-04T00:53:25.800497+05:30'
-last_checked: '2026-09-04T00:53:25.800497+05:30'
+first_seen: '2026-09-04T04:11:28.223206+05:30'
+last_seen: '2026-09-04T04:11:28.223206+05:30'
+last_checked: '2026-09-04T04:11:28.223206+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive LLM & RAG Tutorials**: Repository offers detailed, hands-on guides on Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG) techniques, including implementation in Jupyter Notebooks.
-- **AI Agent Applications**: Focuses on real-world deployments of AI agents, covering architectural patterns, integration strategies, and performance optimization for production environments.
-- **MCP & Modern AI Stack**: Covers Model Context Protocol (MCP) and modern AI engineering practices, including multi-agent systems, tool integration, and scalable ML pipelines.
+- **Comprehensive LLM & RAG Tutorials**: Repository provides detailed, hands-on guides on Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG) architectures, including implementation in Jupyter Notebooks.
+- **Real-World AI Agent Applications**: Focuses on practical deployments of AI agents, covering end-to-end workflows, integration strategies, and performance optimization for production environments.
+- **Active Development & Community**: Maintained with frequent updates (last commit: 2026-09-03), boasting 37,312 stars and 6,152 forks, indicating strong community engagement and adoption.
 
 ## Why It Matters
 

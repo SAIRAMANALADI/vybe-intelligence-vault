@@ -4,28 +4,26 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NousResearch/hermes-agent
-collected_at: '2026-09-03T10:16:58.175075+05:30'
-published_at: '2026-09-03T04:44:37Z'
+collected_at: '2026-09-04T04:14:33.350317+05:30'
+published_at: '2026-09-03T22:42:10Z'
 tags:
 - agents
 - anthropic
 - github-repo
-- mistral
-- models
 - openai
 - python
 - workflows
-stars: 240245
+stars: 240803
 language: Python
 status: active
 license: MIT
 archived: false
 created_at: '2025-07-22T22:22:28Z'
-pushed_at: '2026-09-03T04:46:38Z'
+pushed_at: '2026-09-03T21:51:35Z'
 resource_id: github:nousresearch/hermes-agent
-first_seen: '2026-09-03T10:16:58.175075+05:30'
-last_seen: '2026-09-03T10:16:58.175075+05:30'
-last_checked: '2026-09-03T10:16:58.175075+05:30'
+first_seen: '2026-09-04T04:14:33.350317+05:30'
+last_seen: '2026-09-04T04:14:33.350317+05:30'
+last_checked: '2026-09-04T04:14:33.350317+05:30'
 health_score: 100
 ---
 
@@ -33,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Provider LLM Integration**: Hermes-Agent supports seamless switching between major LLM providers (OpenAI, Anthropic, Mistral, etc.) via a unified API, enabling dynamic model selection for tasks like reasoning, code generation, and tool use.
+- **Multi-Model Agent Framework**: Hermes-Agent is a Python-based AI agent framework supporting integration with Anthropic's Claude, OpenAI's ChatGPT, and other LLM providers, enabling cross-model agentic workflows.
 
-- **Self-Improving Agent Framework**: Implements a feedback-driven loop where the agent autonomously refines its prompts, tools, and workflows based on performance metrics and user corrections, reducing manual tuning overhead.
+- **Dynamic Agent Growth**: Implements self-improving mechanisms where agents autonomously expand capabilities via iterative feedback loops, tool usage, and contextual learning without manual retraining.
 
-- **Tool-Agnostic Execution Engine**: Executes Python-based tools (e.g., `code-interpreter`, `web-search`) with sandboxed isolation, supporting both local and remote toolchains while maintaining strict input/output validation for security.
+- **Tool-Agnostic Execution**: Supports execution of arbitrary tools (e.g., code interpreters, APIs) via standardized interfaces, with built-in support for `claude-code` and extensible plugins for custom toolchains.
 
 ## Why It Matters
 
@@ -46,15 +44,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: NousResearch
-- Stars: 240245
-- Forks: 49172
+- Stars: 240803
+- Forks: 49333
 - Language: Python
 - Topics: ai, ai-agent, ai-agents, anthropic, chatgpt, claude, claude-code, codex, hermes, hermes-agent, llm, nous-research, openai
-- Last Updated: 2026-09-03T04:44:37Z
+- Last Updated: 2026-09-03T22:42:10Z
 - License: MIT
 - Archived: No
 - Created At: 2025-07-22T22:22:28Z
-- Pushed At: 2026-09-03T04:46:38Z
+- Pushed At: 2026-09-03T21:51:35Z
 
 ## Possible Use Cases
 

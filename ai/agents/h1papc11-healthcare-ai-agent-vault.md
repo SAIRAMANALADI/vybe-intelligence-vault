@@ -4,24 +4,24 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/h1papc11/healthcare-ai-agent-vault
-collected_at: '2026-09-03T04:18:26.163407+05:30'
-published_at: '2026-08-29T23:56:56Z'
+collected_at: '2026-09-04T04:14:28.277115+05:30'
+published_at: '2026-09-03T14:21:06Z'
 tags:
 - agents
 - github-repo
-- unknown
+- typescript
 - workflows
 stars: 139
-language: Unknown
+language: TypeScript
 status: active
 license: MIT
 archived: false
 created_at: '2026-06-25T17:08:15Z'
-pushed_at: '2026-07-06T09:39:26Z'
+pushed_at: '2026-09-03T14:19:02Z'
 resource_id: github:h1papc11/healthcare-ai-agent-vault
-first_seen: '2026-09-03T04:18:26.163407+05:30'
-last_seen: '2026-09-03T04:18:26.163407+05:30'
-last_checked: '2026-09-03T04:18:26.163407+05:30'
+first_seen: '2026-09-04T04:14:28.277115+05:30'
+last_seen: '2026-09-04T04:14:28.277115+05:30'
+last_checked: '2026-09-04T04:14:28.277115+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Obsidian-Integrated Healthcare AI Agent**: Combines Obsidian templates with AI-driven prompt workflows to create a structured, knowledge-managed healthcare vault for family use.
-- **TypeScript Preprocessing Pipeline**: Processes Apple Health export data via a TypeScript-based pipeline, enabling structured data ingestion for AI agent consumption.
-- **Modular AI Healthcare Framework**: Implements a healthcare-specific AI agent architecture with version-controlled workflows, optimized for personal health data aggregation and analysis.
+- **Obsidian-TS-AI Integration**: Combines Obsidian note-taking templates with TypeScript preprocessing for Apple Health export data, enabling structured healthcare data management via AI-driven workflows.
+
+- **AI Prompt Workflows**: Implements modular AI prompt systems to process, analyze, and contextualize health metrics from Apple Health exports for family-specific healthcare insights.
+
+- **TypeScript Pipeline**: Features a preprocessing pipeline in TypeScript to parse, clean, and transform raw Apple Health data into structured formats compatible with AI agent workflows.
 
 ## Why It Matters
 
@@ -42,13 +44,13 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - Owner: h1papc11
 - Stars: 139
 - Forks: 1113
-- Language: Unknown
+- Language: TypeScript
 - Topics: agent-vault, ai-agent, ai-healthcare, health-agent, health-ai-agent, health-vault, health-vault-agent, healthcare-agent, healthcare-vault, healthcare-vault-agent
-- Last Updated: 2026-08-29T23:56:56Z
+- Last Updated: 2026-09-03T14:21:06Z
 - License: MIT
 - Archived: No
 - Created At: 2026-06-25T17:08:15Z
-- Pushed At: 2026-07-06T09:39:26Z
+- Pushed At: 2026-09-03T14:19:02Z
 
 ## Possible Use Cases
 

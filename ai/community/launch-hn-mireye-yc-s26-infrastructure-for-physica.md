@@ -15,13 +15,14 @@ tags:
 - ai
 - hackernews
 - producthunt
-status: active
+status: inactive
 resource_id: hackernews:launch-hn-mireye-yc-s26-infrastructure-for-physica
 first_seen: '2026-09-04T00:52:24.642722+05:30'
 last_seen: '2026-09-04T00:52:24.642722+05:30'
 last_checked: '2026-09-04T00:52:24.642722+05:30'
 health_score: 100
 ---
+
 
 # Launch HN: Mireye (YC S26) – Infrastructure for Physical World AI Agents
 

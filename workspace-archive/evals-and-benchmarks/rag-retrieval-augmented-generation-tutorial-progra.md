@@ -18,7 +18,6 @@ tags:
 - openai
 - rag
 - web-crawled
-- workflows
 selection_reason:
 - Strong keyword match
 - Valuable developer reference
@@ -37,11 +36,11 @@ selection_reason:
 
 ## Summary
 
-- **RAG Workflow**: Two-phase process combining retrieval (query embedding → vector DB similarity search → relevant doc retrieval) and generation (LLM response augmented with retrieved context).
+- **RAG Pipeline**: Combines retrieval (vector similarity search) and generation (LLM) to enhance responses with external knowledge, mitigating hallucinations and outdated knowledge issues.
 
-- **Core Components**: Document loader, text splitter (chunking strategy), embedding model (vectorization), vector store (indexed storage), retriever (similarity search), and LLM (context-aware generation).
+- **Core Components**: Document loader, text splitter, embedding model, vector store, retriever, and LLM—each critical for processing, indexing, and querying knowledge bases efficiently.
 
-- **Advanced Patterns**: Metadata filtering for targeted retrieval and hybrid search (BM25 + vec
+- **Advanced Patterns**: Metadata filtering and hybrid search (keyword + semantic) improve retrieval precision; chunking
 
 ## Use Cases
 

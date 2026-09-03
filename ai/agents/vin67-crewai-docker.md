@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/vin67/crewai_docker
-collected_at: '2026-09-03T10:17:47.820002+05:30'
+collected_at: '2026-09-04T04:15:23.330234+05:30'
 published_at: '2026-03-15T20:13:41Z'
 tags:
 - agents
@@ -17,9 +17,9 @@ archived: false
 created_at: '2024-12-02T21:32:28Z'
 pushed_at: '2024-12-02T22:01:46Z'
 resource_id: github:vin67/crewai_docker
-first_seen: '2026-09-03T10:17:47.820002+05:30'
-last_seen: '2026-09-03T10:17:47.820002+05:30'
-last_checked: '2026-09-03T10:17:47.820002+05:30'
+first_seen: '2026-09-04T04:15:23.330234+05:30'
+last_seen: '2026-09-04T04:15:23.330234+05:30'
+last_checked: '2026-09-04T04:15:23.330234+05:30'
 health_score: 100
 ---
 
@@ -27,9 +27,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Dockerfile template for deploying CrewAI, a Python-based multi-agent AI framework, in a containerized environment.
-- **Configuration**: Optimized for Python runtime with dependencies managed via `requirements.txt` for CrewAI and its agent orchestration.
-- **Update**: Last modified on **2026-03-15**, ensuring compatibility with recent CrewAI versions and Docker best practices.
+- **Base Image**: Uses `python:3.11-slim` as the base Docker image for minimal footprint and compatibility with CrewAI.
+- **Dependencies**: Installs CrewAI (`crewai>=0.1.0`) and other Python packages (`pip install -r requirements.txt`) via a requirements file.
+- **Optimized Setup**: Includes a multi-stage build with a virtual environment (`venv`) for dependency isolation and reduced final image size.
 
 ## Why It Matters
 

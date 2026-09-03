@@ -4,10 +4,9 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/raganwald/raganwald.github.com
-collected_at: '2026-09-04T00:53:10.854496+05:30'
+collected_at: '2026-09-04T04:11:13.150839+05:30'
 published_at: '2026-07-08T15:07:53Z'
 tags:
-- creative_dev
 - github-repo
 - html
 - rag
@@ -18,9 +17,9 @@ archived: false
 created_at: '2012-02-19T03:15:00Z'
 pushed_at: '2026-07-08T15:06:30Z'
 resource_id: github:raganwald/raganwald.github.com
-first_seen: '2026-09-04T00:53:10.854496+05:30'
-last_seen: '2026-09-04T00:53:10.854496+05:30'
-last_checked: '2026-09-04T00:53:10.854496+05:30'
+first_seen: '2026-09-04T04:11:13.150839+05:30'
+last_seen: '2026-09-04T04:11:13.150839+05:30'
+last_checked: '2026-09-04T04:11:13.150839+05:30'
 health_score: 100
 ---
 
@@ -28,9 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **Static Site Generator**: Uses Jekyll to compile Markdown/HTML into a static website hosted on GitHub Pages.
-- **Minimalist Structure**: Repository contains raw HTML, assets, and Jekyll configuration (`_config.yml`) for a personal blog/portfolio.
-- **Deprecated/Unmaintained**: Last commit (July 2026) predates typical GitHub metadata updates, suggesting potential abandonment.
+- **Jekyll-based static site generator**: Repository contains the source code for `raganwald.com`, built using Jekyll, a Ruby-based static site generator.
+
+- **GitHub Pages deployment**: The site is hosted via GitHub Pages, leveraging Jekyll’s native integration with GitHub for automated builds and deployments.
+
+- **Minimalist HTML structure**: The repository consists primarily of HTML templates and static assets, with no additional frameworks or complex build tools.
 
 ## Why It Matters
 

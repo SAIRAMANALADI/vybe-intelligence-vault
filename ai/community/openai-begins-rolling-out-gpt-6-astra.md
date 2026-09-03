@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - openai
-status: active
+status: inactive
 resource_id: hackernews:openai-begins-rolling-out-gpt-6-astra
 first_seen: '2026-09-04T00:52:22.467436+05:30'
 last_seen: '2026-09-04T00:52:22.467436+05:30'
 last_checked: '2026-09-04T00:52:22.467436+05:30'
 health_score: 100
 ---
+
 
 # OpenAI begins rolling out GPT-6 Astra
 

@@ -10,20 +10,19 @@ Public developer APIs supply external context and utilities for LLM tools.
 
 - [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app) (template - ESSENTIAL Tier)
 - [Flama: a Python framework for development and deployment of production-ready APIs, machine learning, and LLM services](https://arxiv.org/abs/2608.18733) (mcp-server - USEFUL Tier)
-- [BuddyPress Developer Resources | Your best buddies ever to help you code.](https://developer.buddypress.org) (tutorial - USEFUL Tier)
 - [WordPress Developer Resources | Developer.WordPress.org](https://developer.wordpress.org) (framework - USEFUL Tier)
-- [supabase/supabase](https://github.com/supabase/supabase) (template - USEFUL Tier)
-- [beisdog · GitHub](https://github.com/beisdog) (framework - USEFUL Tier)
+- [BuddyPress Developer Resources | Your best buddies ever to help you code.](https://developer.buddypress.org) (tutorial - USEFUL Tier)
 - [ollama/ollama-python](https://github.com/ollama/ollama-python) (framework - USEFUL Tier)
-- [Apps Script | Google for Developers](https://developers.google.com/apps-script) (tutorial - USEFUL Tier)
+- [supabase/supabase](https://github.com/supabase/supabase) (template - USEFUL Tier)
+- [Welcome to Unstructured! - Unstructured](https://docs.unstructured.io) (tutorial - USEFUL Tier)
+- [Structured outputs | Gemini API | Google AI for Developers](https://ai.google.dev/gemini-api/docs/structured-output) (framework - USEFUL Tier)
 
 ## Best GitHub Repositories
 
 https://github.com/public-apis/public-apis (Public APIs)
 - [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app)
-- [supabase/supabase](https://github.com/supabase/supabase)
-- [beisdog · GitHub](https://github.com/beisdog)
 - [ollama/ollama-python](https://github.com/ollama/ollama-python)
+- [supabase/supabase](https://github.com/supabase/supabase)
 
 ## Best Learning Resources
 
@@ -41,4 +40,4 @@ https://github.com/public-apis/public-apis (Public APIs)
 
 ---
 
-*Last updated: 2026-09-04 01:10 IST*
+*Last updated: 2026-09-04 04:28 IST*

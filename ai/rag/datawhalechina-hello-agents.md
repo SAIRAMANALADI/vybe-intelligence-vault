@@ -4,15 +4,16 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/datawhalechina/hello-agents
-collected_at: '2026-09-03T18:26:12.652717+05:30'
-published_at: '2026-09-03T12:54:56Z'
+collected_at: '2026-09-04T04:11:28.335997+05:30'
+published_at: '2026-09-03T22:05:08Z'
 tags:
 - agents
 - github-repo
 - hackernews
 - python
 - rag
-stars: 76743
+- workflows
+stars: 76800
 language: Python
 status: active
 license: NOASSERTION
@@ -20,9 +21,9 @@ archived: false
 created_at: '2025-09-07T09:50:24Z'
 pushed_at: '2026-08-18T06:51:35Z'
 resource_id: github:datawhalechina/hello-agents
-first_seen: '2026-09-03T18:26:12.652717+05:30'
-last_seen: '2026-09-03T18:26:12.652717+05:30'
-last_checked: '2026-09-03T18:26:12.652717+05:30'
+first_seen: '2026-09-04T04:11:28.335997+05:30'
+last_seen: '2026-09-04T04:11:28.335997+05:30'
+last_checked: '2026-09-04T04:11:28.335997+05:30'
 health_score: 100
 ---
 
@@ -30,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Educational Repository**: Provides a comprehensive tutorial (`《从零开始构建智能体》`) on building intelligent agents from scratch, covering both theoretical principles and practical implementations in Python.
+- **Comprehensive Agent Development Tutorial**: A zero-to-hero guide covering the principles and practical implementation of AI agents, integrating LLM, RAG, and Python-based workflows.
 
-- **Core Components**: Focuses on key technologies including **LLMs (Large Language Models)**, **RAG (Retrieval-Augmented Generation)**, and agent architectures for real-world applications.
+- **High-Engagement Repository**: Achieved 76.8k stars and 9.5k forks, indicating strong community adoption and collaborative learning interest in agent architectures.
 
-- **High Engagement**: Maintains significant community interest with **76,743 stars** and **9,539 forks**, reflecting its utility as a foundational resource for agent development.
+- **Updated Technical Resource**: Last modified on 2026-09-03, ensuring relevance with modern agent frameworks and methodologies.
 
 ## Why It Matters
 
@@ -43,11 +44,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: datawhalechina
-- Stars: 76743
-- Forks: 9539
+- Stars: 76800
+- Forks: 9551
 - Language: Python
 - Topics: agent, llm, rag, tutorial
-- Last Updated: 2026-09-03T12:54:56Z
+- Last Updated: 2026-09-03T22:05:08Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2025-09-07T09:50:24Z

@@ -4,13 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/freddy-schuetz/n8n-claw
-collected_at: '2026-09-03T04:18:41.129734+05:30'
+collected_at: '2026-09-04T04:14:38.349316+05:30'
 published_at: '2026-08-31T11:02:26Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - rag
+- scripts
 - shell
 - workflows
 stars: 554
@@ -18,11 +18,11 @@ language: Shell
 status: active
 archived: false
 created_at: '2026-02-28T18:13:35Z'
-pushed_at: '2026-08-28T10:59:37Z'
+pushed_at: '2026-09-03T12:47:55Z'
 resource_id: github:freddy-schuetz/n8n-claw
-first_seen: '2026-09-03T04:18:41.129734+05:30'
-last_seen: '2026-09-03T04:18:41.129734+05:30'
-last_checked: '2026-09-03T04:18:41.129734+05:30'
+first_seen: '2026-09-04T04:14:38.349316+05:30'
+last_seen: '2026-09-04T04:14:38.349316+05:30'
+last_checked: '2026-09-04T04:14:38.349316+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Architecture**: n8n-based autonomous AI agent framework inspired by OpenClaw, leveraging adaptive RAG-powered memory, MCP templates for Skills, and hierarchical Expert Agents with delegated sub-agents for task decomposition.
+- **OpenClaw-inspired autonomous AI agent** implemented entirely in `n8n`, leveraging **Adaptive RAG-powered memory** for dynamic context retention and retrieval.
 
-- **Capabilities**: Integrates media understanding, proactive task management, and self-hosted deployment via a single setup script, with built-in support for Supabase, SearXNG, and Crawl4AI for data retrieval and processing.
+- **Modular architecture** with **Skills via MCP templates**, **Expert Agents** (delegating sub-agents), **proactive task management**, and **media understanding**, all self-hosted via a single setup script.
 
-- **Technical Stack**: Primarily shell-based, with dependencies on n8n, MCP, and external tools (e.g., SearXNG, Supabase) for modular AI agent orchestration and execution.
+- **Integrated toolchain** combining `crawl4ai` for scraping, `SearXNG` for search, and `Supabase` for storage, with **Model Context Protocol (MCP)** support for extensible agent interactions.
 
 ## Why It Matters
 
@@ -50,7 +50,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - Last Updated: 2026-08-31T11:02:26Z
 - Archived: No
 - Created At: 2026-02-28T18:13:35Z
-- Pushed At: 2026-08-28T10:59:37Z
+- Pushed At: 2026-09-03T12:47:55Z
 
 ## Possible Use Cases
 

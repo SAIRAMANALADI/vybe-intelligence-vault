@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://martinuke0.github.io/posts/2025-12-12-rag-techniques-beginner-to-advanced-practical-patterns-code-and-resources/
-published_at: '2026-09-04T00:53:21.276929+05:30'
-collected_at: '2026-09-04T00:53:21.276941+05:30'
+published_at: '2026-09-04T04:11:23.687330+05:30'
+collected_at: '2026-09-04T04:11:23.687344+05:30'
 tags:
 - agents
 - anthropic
@@ -22,9 +22,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:rag-techniques-beginner-to-advanced-practical-patt
-first_seen: '2026-09-04T00:53:21.276941+05:30'
-last_seen: '2026-09-04T00:53:21.276941+05:30'
-last_checked: '2026-09-04T00:53:21.276941+05:30'
+first_seen: '2026-09-04T04:11:23.687344+05:30'
+last_seen: '2026-09-04T04:11:23.687344+05:30'
+last_checked: '2026-09-04T04:11:23.687344+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Core RAG Architecture**: Combines a retriever (dense/sparse) with an LLM generator to ground responses in retrieved context, reducing hallucinations and enabling dynamic knowledge updates via document indexing.
+- **Core RAG Architecture**: Combines a retriever (dense embeddings + vector search or sparse BM25) with an LLM generator to ground responses in retrieved context, reducing hallucinations and enabling dynamic knowledge updates.
 
-- **Minimal Pipeline Components**: Uses `sentence-transformers` for embeddings, FAISS for vector search, and `transformers` (e.g., Flan-T5) for generation; supports optional BM25 for hybrid retrieval and cross-encoder reranking for precision.
+- **Minimal Pipeline Implementation**: Uses `sentence-transformers` for embeddings, FAISS for vector storage/indexing, and a seq2seq model (e.g., Flan-T5) for generation, with document chunking and normalization for cosine similarity.
 
-- **Advanced Techniques**: Implements multi-hop retrieval, GraphRAG (knowledge graphs), hybrid sparse/dense retrieval, query expansion (HyDE/multi-query), and agentic RAG with tool use for complex reasoning and grounding guarantees.
+- **Advanced Enhancements**: Intermediate techniques include hybrid retrieval (sparse+dense), reranking (e.g., `bge-reranker`), query expansion (HyDE/multi-query), and metadata filtering; advanced methods cover GraphRAG, multi-hop decomposition, and agentic tool integration.
 
 ## Why It Matters
 
@@ -46,7 +46,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-09-04T00:53:21.276929+05:30
+- Published: 2026-09-04T04:11:23.687330+05:30
 
 ## Related Tags
 

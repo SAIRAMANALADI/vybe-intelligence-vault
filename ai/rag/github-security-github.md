@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/security
-published_at: '2026-08-10T16:22:51.675947+05:30'
-collected_at: '2026-08-10T16:22:51.675964+05:30'
+published_at: '2026-09-04T04:23:56.959002+05:30'
+collected_at: '2026-09-04T04:23:56.959014+05:30'
 tags:
 - hackernews
 - paper
@@ -14,9 +14,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:github-security-github
-first_seen: '2026-08-10T16:22:51.675964+05:30'
-last_seen: '2026-08-10T16:22:51.675964+05:30'
-last_checked: '2026-08-10T16:22:51.675964+05:30'
+first_seen: '2026-09-04T04:23:56.959014+05:30'
+last_seen: '2026-09-04T04:23:56.959014+05:30'
+last_checked: '2026-09-04T04:23:56.959014+05:30'
 health_score: 100
 ---
 
@@ -24,11 +24,11 @@ health_score: 100
 
 ## Summary
 
-- **GitHub Advanced Security (GHAS)** integrates static analysis, secret protection, and supply chain security into developer workflows via push protection, AI-driven remediation, and dependency tracking.
+- **GitHub Advanced Security (GHAS)** integrates static analysis, AI-driven remediation, and vulnerability management directly into developer workflows to address security debt proactively.
 
-- **Secret Protection** blocks accidental secret exposure in commits (e.g., API keys) pre-repository push, while **Code Security** leverages static analysis (CodeQL) and AI to proactively detect/remediate vulnerabilities.
+- **Secret Protection** blocks accidental secret exposure in commits via push protection, while **Code Security** leverages static analysis (e.g., CodeQL) and AI suggestions to detect and fix vulnerabilities (e.g., XSS, SSRF) in real time.
 
-- **Supply Chain Security** mitigates open-source risks via dependency tracking, auto-updates, and build attestation, supported by the **Security Advisory Database** (CVEs + GitHub advisories).
+- **Supply Chain Security** mitigates open-source risks through dependency tracking, automated updates, and build attestation, supported by the **GitHub Security Lab** and **Security Advisory Database** for CVE and advisory coverage.
 
 ## Why It Matters
 
@@ -38,7 +38,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-08-10T16:22:51.675947+05:30
+- Published: 2026-09-04T04:23:56.959002+05:30
 
 ## Related Tags
 

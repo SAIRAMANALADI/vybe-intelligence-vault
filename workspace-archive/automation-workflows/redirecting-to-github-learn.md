@@ -11,6 +11,7 @@ archive_tier: useful
 resource_kind: tutorial
 importance: medium
 tags:
+- hackernews
 - web-crawled
 - workflows
 selection_reason:
@@ -31,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- GitHub Learn provides interactive, project-based tutorials for mastering Git and GitHub workflows.
-- Skills include version control, branching, pull requests, and CI/CD integration via hands-on exercises.
-- Content is structured for beginners to advanced users, with real-world scenarios and automated feedback.
+- GitHub Learn provides interactive, hands-on tutorials for mastering Git and GitHub workflows, including version control, branching, and pull requests.
+- Skills are organized into structured paths (e.g., "Introduction to GitHub," "Collaborating with Issues and Pull Requests") with step-by-step exercises.
+- Each tutorial includes real-time feedback, sandboxed environments, and progress tracking to validate technical proficiency.
 
 ## Use Cases
 

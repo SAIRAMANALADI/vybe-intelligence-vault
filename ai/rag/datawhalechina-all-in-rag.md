@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/datawhalechina/all-in-rag
-collected_at: '2026-09-04T00:53:05.805996+05:30'
+collected_at: '2026-09-04T04:11:13.383774+05:30'
 published_at: '2026-09-03T15:31:26Z'
 tags:
 - github-repo
@@ -20,9 +20,9 @@ archived: false
 created_at: '2025-06-05T08:12:35Z'
 pushed_at: '2026-09-02T14:41:36Z'
 resource_id: github:datawhalechina/all-in-rag
-first_seen: '2026-09-04T00:53:05.805996+05:30'
-last_seen: '2026-09-04T00:53:05.805996+05:30'
-last_checked: '2026-09-04T00:53:05.805996+05:30'
+first_seen: '2026-09-04T04:11:13.383774+05:30'
+last_seen: '2026-09-04T04:11:13.383774+05:30'
+last_checked: '2026-09-04T04:11:13.383774+05:30'
 health_score: 100
 ---
 
@@ -30,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive RAG Guide**: A full-stack technical manual for Retrieval-Augmented Generation (RAG) development, covering end-to-end implementation with Python, including embedding models, vector databases (Milvus), and graph-based retrieval (Neo4j).
+- **Comprehensive RAG Development Guide**: Provides a full-stack technical roadmap for Retrieval-Augmented Generation (RAG) applications, covering end-to-end implementation from embedding models to deployment.
 
-- **Multi-Framework Integration**: Demonstrates RAG pipelines using LangChain and LlamaIndex, with support for multimodal inputs and compatibility with advanced LLMs (DeepSeek, Kimi-K2).
+- **Multi-Tool Integration**: Demonstrates integration with frameworks like LangChain and LlamaIndex, databases (Milvus, Neo4j), and models (DeepSeek, Kimi-K2), supporting both unimodal and multimodal RAG pipelines.
 
-- **Advanced Tooling & Deployment**: Includes practical examples for deploying RAG systems, leveraging vector search (Milvus), and integrating with modern AI frameworks for scalable, production-ready applications.
+- **Open-Source Python Repository**: Hosted on GitHub with 10.7k+ stars and 5.3k+ forks, featuring continuously updated (as of 2026-09-03) Python-based implementations and documentation for scalable RAG systems.
 
 ## Why It Matters
 

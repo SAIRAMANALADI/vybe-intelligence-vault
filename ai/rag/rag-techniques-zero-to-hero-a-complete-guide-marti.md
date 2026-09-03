@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://martinuke0.github.io/posts/2025-12-20-rag-techniques-zero-to-hero-a-complete-guide/
-published_at: '2026-09-04T00:53:21.202245+05:30'
-collected_at: '2026-09-04T00:53:21.202257+05:30'
+published_at: '2026-09-04T04:11:23.723301+05:30'
+collected_at: '2026-09-04T04:11:23.723309+05:30'
 tags:
 - agents
 - benchmark
@@ -21,9 +21,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:rag-techniques-zero-to-hero-a-complete-guide-marti
-first_seen: '2026-09-04T00:53:21.202257+05:30'
-last_seen: '2026-09-04T00:53:21.202257+05:30'
-last_checked: '2026-09-04T00:53:21.202257+05:30'
+first_seen: '2026-09-04T04:11:23.723309+05:30'
+last_seen: '2026-09-04T04:11:23.723309+05:30'
+last_checked: '2026-09-04T04:11:23.723309+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Pipeline Architecture**: Core components include a retriever (vector/lexical), vector store/index, LLM generator, and optional reranker/query-rewriting layers; orchestration and caching optimize performance and cost.
+- **Core RAG Pipeline**: Combines a retriever (vector/lexical) with an LLM generator, optionally enhanced by rerankers, query rewriting, caching, and orchestration layers to improve precision and efficiency.
 
-- **Advanced Retrieval Techniques**: Hybrid search (BM25 + vector), two-stage reranking (cross-encoders on top-K candidates), and multi-hop/iterative retrieval (GraphRAG, agent-based workflows) improve precision and reasoning over complex queries.
+- **Chunking & Embeddings**: Text segmentation strategies (fixed-size, overlap, semantic, structure-aware) directly impact retrieval quality; domain-specific fine-tuning of embeddings (dimensionality, normalization) optimizes vector search performance.
 
-- **Context Optimization & Training**: Token-efficient context trimming (autocut), distillation of retrieved content, and retrieval-aware fine-tuning (end-to-end or RAG-style training) reduce hallucinations and enhance factual grounding.
+- **Multi-Stage Retrieval & Context Management**: Two-stage retrieval (ANN + cross-encoder rerankers) balances speed and precision; iterative multi-hop retrieval and context distillation reduce hallucinations by refining retrieved evidence before generation.
 
 ## Why It Matters
 
@@ -45,7 +45,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-09-04T00:53:21.202245+05:30
+- Published: 2026-09-04T04:11:23.723301+05:30
 
 ## Related Tags
 
