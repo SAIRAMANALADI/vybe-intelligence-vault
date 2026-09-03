@@ -9,23 +9,23 @@ High quality data determines the effectiveness of evaluations, fine-tuning, and 
 ## Top Matched Resources
 
 - [microsoft/TREC-2019-Deep-Learning](https://github.com/microsoft/TREC-2019-Deep-Learning) (framework - ESSENTIAL Tier)
+- [A Machine Learning-Driven Solution for Denoising Inertial Confinement Fusion Images](https://arxiv.org/abs/2511.16717) (framework - ESSENTIAL Tier)
 - [CoMedBench: A Multi-Source Benchmark of Synthetic Medical Data Fidelity and Downstream Utility](https://arxiv.org/abs/2608.12805) (framework - ESSENTIAL Tier)
 - [VGGHeads: 3D Multi Head Alignment with a Large-Scale Synthetic Dataset](https://arxiv.org/abs/2407.18245) (framework - ESSENTIAL Tier)
-- [A Machine Learning-Driven Solution for Denoising Inertial Confinement Fusion Images](https://arxiv.org/abs/2511.16717) (framework - ESSENTIAL Tier)
-- [VideoAgent: All-in-One Framework for Video Understanding and Editing](https://arxiv.org/abs/2606.23327) (framework - ESSENTIAL Tier)
-- [Claw-SWE-Bench: A Benchmark for Evaluating OpenClaw-style Agent Harnesses on Coding Tasks](https://arxiv.org/abs/2606.12344) (prompt - ESSENTIAL Tier)
-- [Polaris : Multi Agentic System for Conversational Enterprise Analytics](https://arxiv.org/abs/2608.14246) (framework - ESSENTIAL Tier)
 - [Towards Generalizable Visually Grounded Exploration of Household Devices](https://arxiv.org/abs/2609.00845) (framework - ESSENTIAL Tier)
+- [Semantic Flip: Synthetic OOD Generation for Robust Refusal in Embodied Question Answering and Spatial Localization](https://arxiv.org/abs/2606.16898) (framework - ESSENTIAL Tier)
+- [PEMAND: Persona-Enriched Multi-Agent Negotiation for Household Decision-Making](https://arxiv.org/abs/2604.10475) (framework - ESSENTIAL Tier)
+- [A Framework for Evaluating Agentic Skills at Scale](https://arxiv.org/abs/2606.17819) (framework - ESSENTIAL Tier)
 
 ## Best GitHub Repositories
 
 https://github.com/huggingface/datasets (Hugging Face Datasets)
 - [microsoft/TREC-2019-Deep-Learning](https://github.com/microsoft/TREC-2019-Deep-Learning)
 - [langwatch/langwatch](https://github.com/langwatch/langwatch)
-- [brmson/dataset-sts](https://github.com/brmson/dataset-sts)
-- [bigscience-workshop/promptsource](https://github.com/bigscience-workshop/promptsource)
-- [TIGER-AI-Lab/VLM2Vec](https://github.com/TIGER-AI-Lab/VLM2Vec)
-- [KruxAI/ragbuilder](https://github.com/KruxAI/ragbuilder)
+- [HKUDS/LightGCL](https://github.com/HKUDS/LightGCL)
+- [IBM/mt-rag-benchmark](https://github.com/IBM/mt-rag-benchmark)
+- [onejune2018/Awesome-LLM-Eval](https://github.com/onejune2018/Awesome-LLM-Eval)
+- [microsoft/graphrag](https://github.com/microsoft/graphrag)
 
 ## Best Learning Resources
 
@@ -43,4 +43,4 @@ https://github.com/huggingface/datasets (Hugging Face Datasets)
 
 ---
 
-*Last updated: 2026-09-03 18:43 IST*
+*Last updated: 2026-09-04 01:10 IST*

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NVISOsecurity/cyber-security-llm-agents
-collected_at: '2026-09-03T04:18:26.203962+05:30'
+collected_at: '2026-09-04T00:56:20.991230+05:30'
 published_at: '2026-08-31T09:12:34Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2024-02-29T09:54:26Z'
 pushed_at: '2024-05-07T15:31:28Z'
 resource_id: github:nvisosecurity/cyber-security-llm-agents
-first_seen: '2026-09-03T04:18:26.203962+05:30'
-last_seen: '2026-09-03T04:18:26.203962+05:30'
-last_checked: '2026-09-03T04:18:26.203962+05:30'
+first_seen: '2026-09-04T00:56:20.991230+05:30'
+last_seen: '2026-09-04T00:56:20.991230+05:30'
+last_checked: '2026-09-04T00:56:20.991230+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **LLM-Powered Cybersecurity Agents**: Repository contains Jupyter Notebook-based agents leveraging Large Language Models (LLMs) to automate common cybersecurity tasks such as adversary emulation and red teaming.
+- **LLM-Powered Cybersecurity Agents**: Repository contains Jupyter Notebook-based agents leveraging Large Language Models (LLMs) to automate common cybersecurity tasks, including adversary emulation.
 
-- **Integration with CALDERA**: Agents are designed to integrate with the CALDERA adversary emulation platform, enabling automated attack simulation and security testing workflows.
+- **Integration with CALDERA**: Agents are designed to interact with the CALDERA adversary emulation platform, enabling automated red team operations and security testing workflows.
 
-- **Open-Source Toolkit**: Provides a modular, extensible framework for cybersecurity professionals to develop and deploy LLM-driven agents for offensive and defensive security operations.
+- **Open-Source Toolkit**: Provides a modular framework for cybersecurity professionals to extend and customize LLM-driven agents for offensive/defensive security operations.
 
 ## Why It Matters
 

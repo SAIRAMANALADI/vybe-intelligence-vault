@@ -13,13 +13,14 @@ collected_at: '2026-09-03T18:25:04.847808+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:qantas-airbus-a380-engine-failure-in-2010-2023
 first_seen: '2026-09-03T04:14:42.540776+05:30'
 last_seen: '2026-09-03T18:25:04.847808+05:30'
 last_checked: '2026-09-03T18:25:04.847808+05:30'
 health_score: 100
 ---
+
 
 # Qantas Airbus A380 engine failure in 2010 (2023)
 

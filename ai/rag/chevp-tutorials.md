@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/chevp/tutorials/tree/main/docs/data-science-and-analytics/RAG_Tutorial.md
-published_at: '2026-09-02T10:21:56.232939+05:30'
-collected_at: '2026-09-02T10:21:56.232956+05:30'
+published_at: '2026-09-04T00:57:46.796555+05:30'
+collected_at: '2026-09-04T00:57:46.796568+05:30'
 tags:
 - agents
 - benchmark
@@ -17,9 +17,9 @@ tags:
 - web-crawled
 status: active
 resource_id: github:chevp/tutorials
-first_seen: '2026-09-02T10:21:56.232956+05:30'
-last_seen: '2026-09-02T10:21:56.232956+05:30'
-last_checked: '2026-09-02T10:21:56.232956+05:30'
+first_seen: '2026-09-04T00:57:46.796568+05:30'
+last_seen: '2026-09-04T00:57:46.796568+05:30'
+last_checked: '2026-09-04T00:57:46.796568+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Pipeline**: Two-stage process combining retrieval (vector similarity search in embeddings) and generation (LLM conditioned on retrieved context), mitigating hallucinations and outdated knowledge by dynamically fetching relevant documents.
+- **RAG Pipeline**: Two-phase process combining retrieval (vector similarity search in embeddings) and generation (LLM response conditioned on retrieved context), addressing hallucinations, outdated knowledge, and domain specificity.
 
-- **Core Components**: Document loader → text splitter (recursive/paragraph-based) → embedding model (e.g., `text-embedding-ada-002`) → vector store (in-memory/FAISS) → retriever (top-k similarity with score thresholding) → LLM (e.g., `gpt-3.5-turbo`).
+- **Core Components**: Document loader → text splitter (e.g., recursive chunking with 300-token chunks, 20-token overlap) → embedding model (e.g., OpenAI `text-embedding-ada-002`) → vector store (in-memory or external) → retriever (top-k similarity search with minScore threshold) → LLM (e.g., `gpt-3.5-turbo` with augmented prompt).
 
-- **Advanced Techniques**: Hybrid search (BM25 + semantic), metadata filtering (e.g., department/year), query rewriting (multi-query expansion), and conversational memory (sliding window) to enhance precision, recall, and context retention in RAG systems.
+- **Advanced Techniques**: Hybrid search (BM25 + vector similarity), metadata filtering (e.g., category/department-based retrieval), query rewriting (LLM-generated alternative queries), and conversational memory (e.g., sliding-window chat memory) to enhance relevance and coherence.
 
 ## Why It Matters
 
@@ -41,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-09-02T10:21:56.232939+05:30
+- Published: 2026-09-04T00:57:46.796555+05:30
 
 ## Related Tags
 

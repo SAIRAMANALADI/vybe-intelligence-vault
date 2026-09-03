@@ -13,13 +13,14 @@ collected_at: '2026-09-03T18:25:04.629656+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:aging-brains-blend-memories-together-instead-of-ju
 first_seen: '2026-09-03T00:58:03.812935+05:30'
 last_seen: '2026-09-03T18:25:04.629656+05:30'
 last_checked: '2026-09-03T18:25:04.629656+05:30'
 health_score: 100
 ---
+
 
 # Aging brains blend memories together instead of just forgetting them
 

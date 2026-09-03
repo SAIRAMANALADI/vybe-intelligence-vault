@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NanGePlus/CrewAITest
-collected_at: '2026-09-03T18:30:17.690528+05:30'
+collected_at: '2026-09-04T00:57:31.002358+05:30'
 published_at: '2026-09-02T06:08:51Z'
 tags:
 - agents
@@ -19,9 +19,9 @@ archived: false
 created_at: '2024-09-11T02:58:44Z'
 pushed_at: '2024-10-20T14:37:28Z'
 resource_id: github:nangeplus/crewaitest
-first_seen: '2026-09-03T18:30:17.690528+05:30'
-last_seen: '2026-09-03T18:30:17.690528+05:30'
-last_checked: '2026-09-03T18:30:17.690528+05:30'
+first_seen: '2026-09-04T00:57:31.002358+05:30'
+last_seen: '2026-09-04T00:57:31.002358+05:30'
+last_checked: '2026-09-04T00:57:31.002358+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Agent Framework**: Implements a **CrewAI**-based system for orchestrating collaborative AI agents with **FastAPI** for API service provisioning.
-- **Model Agnostic**: Supports **GPT**, domestic large models (e.g., ERNIE, GLM), and **Ollama**-local models via unified interfaces.
-- **Deployment**: Enables scalable, API-driven multi-agent applications with modular model integration and real-time task coordination.
+- **Multi-Agent System**: Implements a collaborative multi-agent architecture using CrewAI, enabling distributed task execution and coordination.
+- **API Service Layer**: Integrates FastAPI to expose endpoints for external interactions, facilitating RESTful communication with the agent system.
+- **Model Agnosticism**: Supports multiple LLM backends (GPT, domestic models, Ollama local models) via unified interfaces, enabling flexible model switching.
 
 ## Why It Matters
 

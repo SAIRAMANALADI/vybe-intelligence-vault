@@ -4,7 +4,7 @@ category: ai/resources
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/liweiyi88/gosnakego
-collected_at: '2026-09-03T18:30:22.757645+05:30'
+collected_at: '2026-09-04T00:57:41.018713+05:30'
 published_at: '2026-08-24T03:06:58Z'
 tags:
 - github-repo
@@ -17,9 +17,9 @@ archived: false
 created_at: '2022-01-10T05:52:51Z'
 pushed_at: '2023-11-06T05:44:35Z'
 resource_id: github:liweiyi88/gosnakego
-first_seen: '2026-09-03T18:30:22.757645+05:30'
-last_seen: '2026-09-03T18:30:22.757645+05:30'
-last_checked: '2026-09-03T18:30:22.757645+05:30'
+first_seen: '2026-09-04T00:57:41.018713+05:30'
+last_seen: '2026-09-04T00:57:41.018713+05:30'
+last_checked: '2026-09-04T00:57:41.018713+05:30'
 health_score: 100
 ---
 
@@ -27,9 +27,9 @@ health_score: 100
 
 ## Summary
 
-- **Implementation**: A minimalist snake game built in Go, utilizing the standard library for rendering and input handling.
-- **Structure**: Single-file repository (`main.go`) with core game logic (snake movement, collision detection, score tracking).
-- **Dependencies**: Zero external libraries; relies on terminal-based rendering for cross-platform compatibility.
+- **Implementation**: A snake game developed in Go (Golang) using the `ebiten` library for rendering and input handling.
+- **Features**: Classic snake mechanics with directional controls, score tracking, and collision detection.
+- **Dependencies**: Minimal, relying on Go's standard library and `ebiten` for cross-platform game development.
 
 ## Why It Matters
 

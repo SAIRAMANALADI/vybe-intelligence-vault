@@ -15,13 +15,14 @@ tags:
 - hackernews
 - mistral
 - models
-status: active
+status: inactive
 resource_id: hackernews:can-i-opt-out-of-my-input-or-output-data-being-use
 first_seen: '2026-09-03T00:58:03.348426+05:30'
 last_seen: '2026-09-03T18:25:03.784959+05:30'
 last_checked: '2026-09-03T18:25:03.784959+05:30'
 health_score: 100
 ---
+
 
 # Can I opt out of my input or output data being used for training?
 

@@ -4,11 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pixegami/rag-tutorial-v2
-collected_at: '2026-09-03T18:26:12.467325+05:30'
+collected_at: '2026-09-04T00:53:25.801747+05:30'
 published_at: '2026-09-01T04:15:04Z'
 tags:
+- benchmark
 - github-repo
-- models
 - python
 - rag
 stars: 967
@@ -18,9 +18,9 @@ archived: false
 created_at: '2024-04-06T09:27:09Z'
 pushed_at: '2024-08-03T16:41:27Z'
 resource_id: github:pixegami/rag-tutorial-v2
-first_seen: '2026-09-03T18:26:12.467325+05:30'
-last_seen: '2026-09-03T18:26:12.467325+05:30'
-last_checked: '2026-09-03T18:26:12.467325+05:30'
+first_seen: '2026-09-04T00:53:25.801747+05:30'
+last_seen: '2026-09-04T00:53:25.801747+05:30'
+last_checked: '2026-09-04T00:53:25.801747+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Local LLM Integration**: Demonstrates deployment and fine-tuning of local language models (LLMs) for RAG pipelines using LangChain, emphasizing offline capabilities and reduced dependency on cloud APIs.
+- **Local LLM Integration**: Demonstrates implementation of Retrieval-Augmented Generation (RAG) using local language models (LLMs) for offline processing and reduced dependency on cloud APIs.
 
-- **Dynamic Database Updates**: Implements automated or manual database refresh mechanisms to ensure RAG systems ingest the latest data without full re-indexing, improving response relevance and efficiency.
+- **Dynamic Database Updates**: Implements mechanisms for real-time or periodic updates to the vector database (e.g., Chroma or FAISS) to ensure retrieval relevance with evolving data.
 
-- **Testing & Validation Framework**: Includes unit and integration tests for RAG components (e.g., retrieval, prompt engineering, and LLM output parsing) with tools like pytest or custom evaluators to measure accuracy and latency.
+- **Testing & Evaluation Framework**: Includes structured testing pipelines (e.g., retrieval accuracy, response quality) to benchmark RAG performance and validate improvements.
 
 ## Why It Matters
 

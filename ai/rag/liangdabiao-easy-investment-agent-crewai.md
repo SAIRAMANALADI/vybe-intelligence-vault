@@ -4,11 +4,12 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/liangdabiao/easy_investment_Agent_crewai
-collected_at: '2026-09-03T10:17:57.831905+05:30'
+collected_at: '2026-09-04T00:57:26.020786+05:30'
 published_at: '2026-09-02T12:30:31Z'
 tags:
 - agents
 - github-repo
+- hackernews
 - python
 - rag
 stars: 630
@@ -18,9 +19,9 @@ archived: false
 created_at: '2025-09-26T11:16:52Z'
 pushed_at: '2026-05-07T01:07:08Z'
 resource_id: github:liangdabiao/easy_investment_agent_crewai
-first_seen: '2026-09-03T10:17:57.831905+05:30'
-last_seen: '2026-09-03T10:17:57.831905+05:30'
-last_checked: '2026-09-03T10:17:57.831905+05:30'
+first_seen: '2026-09-04T00:57:26.020786+05:30'
+last_seen: '2026-09-04T00:57:26.020786+05:30'
+last_checked: '2026-09-04T00:57:26.020786+05:30'
 health_score: 100
 ---
 
@@ -28,9 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **Multi-Agent System**: Implements four specialized AI agents (e.g., data fetcher, analyzer, sentiment evaluator, decision maker) collaborating via CrewAI to perform end-to-end A-share investment analysis.
-- **Data Integration**: Leverages AKShare for real-time A-share metrics (quotes, financials, fund flows, sentiment) and integrates structured/unstructured data for holistic market assessment.
-- **Decision Optimization**: Outputs actionable investment recommendations by synthesizing quantitative metrics and qualitative market insights, tailored to China’s stock market dynamics.
+- **Multi-Agent A股 Analysis System**: Leverages **CrewAI** with **4 specialized AI agents** (e.g., data fetcher, financial analyzer, sentiment evaluator, decision generator) for **collaborative A-share stock analysis** using real-time AKShare data (quotes, financials, fund flows, market sentiment).
+
+- **China-Specific Optimization**: Tailored for **A-share market nuances** (e.g., regulatory constraints, liquidity patterns) with **AKShare integration** for **comprehensive data pipelines** (historical/real-time metrics, macro indicators).
+
+- **Automated Investment Insights**: Outputs **structured investment recommendations** via **multi-agent consensus**, combining quantitative signals (fundamentals, technicals) and qualitative factors (market sentiment, news).
 
 ## Why It Matters
 

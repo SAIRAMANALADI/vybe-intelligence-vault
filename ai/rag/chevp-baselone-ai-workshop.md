@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/chevp/baselone-ai-workshop
-collected_at: '2026-09-02T10:22:00.440288+05:30'
+collected_at: '2026-09-04T00:57:46.060467+05:30'
 published_at: '2025-10-15T13:49:42Z'
 tags:
 - github-repo
@@ -17,9 +17,9 @@ archived: false
 created_at: '2025-10-15T12:19:15Z'
 pushed_at: '2025-10-15T08:09:02Z'
 resource_id: github:chevp/baselone-ai-workshop
-first_seen: '2026-09-02T10:22:00.440288+05:30'
-last_seen: '2026-09-02T10:22:00.440288+05:30'
-last_checked: '2026-09-02T10:22:00.440288+05:30'
+first_seen: '2026-09-04T00:57:46.060467+05:30'
+last_seen: '2026-09-04T00:57:46.060467+05:30'
+last_checked: '2026-09-04T00:57:46.060467+05:30'
 health_score: 100
 ---
 
@@ -27,9 +27,9 @@ health_score: 100
 
 ## Summary
 
-- **Purpose**: Open-source Retrieval-Augmented Generation (RAG) workshop material for BaselOne 2025.
-- **Status**: Repository is newly created with no stars, forks, or defined programming language as of the last update (2025-10-15).
-- **Access**: GitHub repository available at `https://github.com/chevp/baselone-ai-workshop`.
+- Open-source Retrieval-Augmented Generation (RAG) workshop repository for BaselOne 2025, with no prior stars or forks.
+- Repository language and topics remain unspecified as of the last update (2025-10-15T13:49:42Z).
+- GitHub link: [https://github.com/chevp/baselone-ai-workshop](https://github.com/chevp/baselone-ai-workshop).
 
 ## Why It Matters
 

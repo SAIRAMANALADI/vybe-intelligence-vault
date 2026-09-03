@@ -13,13 +13,14 @@ collected_at: '2026-09-03T18:25:03.174860+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:three-sites-made-215128-best-software-pages-for-ai
 first_seen: '2026-09-03T00:58:03.928734+05:30'
 last_seen: '2026-09-03T18:25:03.174860+05:30'
 last_checked: '2026-09-03T18:25:03.174860+05:30'
 health_score: 100
 ---
+
 
 # Three sites made 215,128 “best software” pages for AI. Perplexity cites them
 

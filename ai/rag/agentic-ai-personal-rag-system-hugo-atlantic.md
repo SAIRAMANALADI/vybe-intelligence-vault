@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://subhashydv.github.io/blog/2025/09/agentic-ai-personal-rag-system/
-published_at: '2026-09-03T10:13:53.072317+05:30'
-collected_at: '2026-09-03T10:13:53.072331+05:30'
+published_at: '2026-09-04T00:53:21.297316+05:30'
+collected_at: '2026-09-04T00:53:21.297325+05:30'
 tags:
 - agents
 - meta-ai
@@ -15,9 +15,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:agentic-ai-personal-rag-system-hugo-atlantic
-first_seen: '2026-09-03T10:13:53.072331+05:30'
-last_seen: '2026-09-03T10:13:53.072331+05:30'
-last_checked: '2026-09-03T10:13:53.072331+05:30'
+first_seen: '2026-09-04T00:53:21.297325+05:30'
+last_seen: '2026-09-04T00:53:21.297325+05:30'
+last_checked: '2026-09-04T00:53:21.297325+05:30'
 health_score: 100
 ---
 
@@ -25,11 +25,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Architecture**: A personal RAG system ingests PDF/TXT files via REST API, preprocesses and chunks text (e.g., using LangChain’s `RecursiveCharacterTextSplitter`), and generates embeddings (e.g., via `@xenova/transformers`) stored in a vector database (e.g., Chroma) for semantic retrieval.
+- **RAG System Architecture**: Implements a Retrieval-Augmented Generation (RAG) pipeline with modular components: file upload (PDF/TXT), preprocessing, chunking (e.g., LangChain's `RecursiveCharacterTextSplitter`), embedding generation (e.g., `@xenova/transformers`), and vector storage (e.g., Chroma/Faiss) for semantic search.
 
-- **Query Processing**: User queries are embedded and matched against vectorized chunks; retrieved context + query are passed to an LLM (e.g., GPT-4) with a system prompt to constrain responses to the provided context.
+- **Orchestration & LLM Integration**: Query processing involves embedding the user question, retrieving top-*k* relevant chunks from the vector store, and passing them with a custom prompt to an LLM (e.g., GPT-4) for context-aware response generation, enforcing strict adherence to provided context.
 
-- **MCP Integration**: The system exposes an MCP server to standardize AI agent interactions (e.g., GitHub Copilot) with the `/ask` endpoint, enabling plug-and-play functionality via a protocol analogous to USB-C.
+- **MCP Server Integration**: Exposes the RAG system via an MCP server, enabling standardized AI agent interactions (e.g., GitHub Copilot) with the `/ask` REST endpoint, facilitating external tool integration through a protocol akin to USB-C for AI systems.
 
 ## Why It Matters
 
@@ -39,7 +39,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-09-03T10:13:53.072317+05:30
+- Published: 2026-09-04T00:53:21.297316+05:30
 
 ## Related Tags
 

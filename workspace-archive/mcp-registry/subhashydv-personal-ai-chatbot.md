@@ -4,7 +4,7 @@ title: personal-ai-chatbot/mcp/server.js at main · subhashydv/personal-ai-chatb
 archive_category: mcp-registry
 source_category: ai/resources
 source_url: https://github.com/subhashydv/personal-ai-chatbot/blob/main/mcp/server.js
-resource_id: github:subhashydv/personal-ai-chatbot
+resource_id: github:subhashydv/personal-ai-chatbot-19522037
 local_vault_path: ai/resources/subhashydv-personal-ai-chatbot.md
 quality_score: 70
 archive_score: 79
