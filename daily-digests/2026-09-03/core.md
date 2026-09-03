@@ -1,75 +1,58 @@
 ---
-title: Plantcore-AI/core
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-03
-tech_stack:
-- Rust
-- Terminal User Interface (TUI)
-- Sandboxing
-- Git
-- LLM Providers (Anthropic, OpenAI, GLM, etc.)
-- Bubblewrap
-- Seatbelt (macOS)
-- JSON/Stream-JSON
-- MCP (Model Context Protocol)
+title: "dappql/core"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["TypeScript", "React", "wagmi", "viem", "React Query", "ABI Codegen", "Model Context Protocol (MCP)", "Node.js"]
 quality_score: 9
-rag_relevance: 8
-deployment_complexity: Medium
-tags:
-- coding agent
-- terminal
-- Rust runtime
-- sandboxing
-- LLM integration
-source: https://github.com/Plantcore-AI/core
+rag_relevance: 9
+deployment_complexity: "Medium"
+tags: ["smart contracts", "agent-native", "multicall", "typed SDK", "blockchain"]
+source: "https://github.com/dappql/core"
 stars: 2
-language: Rust
-last_updated: '2026-07-21T04:09:43Z'
-discovered_at: '2026-07-21T04:14:35Z'
-evaluated_by: mistral-small-latest
+language: "TypeScript"
+last_updated: "2026-09-03T21:55:15Z"
+discovered_at: "2026-09-03T22:11:49Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-Core Code is an open-source terminal-native coding agent built on a modular Rust runtime, designed for bounded execution, durable evidence, and deny-by-default authority. It provides a full-screen TUI and one-shot automation for coding tasks with explicit resource ceilings and security boundaries.
+DappQL is an agent-native data layer for smart contracts that enhances wagmi and viem with typed codegen, automatic multicall batching, per-block reactivity, and AI-agent-friendly SDK generation. It bridges human-readable dApp development with AI agent workflows.
 
 ## Key Features
-- Bounded execution with explicit resource ceilings (turns, time, cost, retries)
-- Deny-by-default authority and deny-by-default permissions for security
-- Durable evidence and hash-chained session records for reproducibility
-- Modular Rust crates for protocol, authority, tools, and observability
-- Interactive TUI and one-shot CLI interfaces with provider-agnostic model support
+- Typed codegen from ABIs with TypeScript support for ABI changes
+- Automatic multicall batching across components and the entire app
+- Per-block reactivity and iterator queries for on-chain data
+- AI-agent ready with AGENTS.md and MCP server integration
+- Non-React runtime for scripts, servers, and bots
 
 ## Why It Matters for RAG Builders
-Core Code provides a secure, bounded, and observable foundation for building and deploying AI-powered coding agents, ensuring safety and reliability in production environments.
+DappQL streamlines smart contract interactions for both developers and AI agents by providing typed, batch-optimized, and reactive data access layers, reducing boilerplate and improving reliability in RAG and AI-driven workflows.
 
 ## Tech Stack Deep Dive
-### Rust
-Automated review identified **Rust** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### TypeScript
+Automated review identified **TypeScript** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Terminal User Interface (TUI)
-Automated review identified **Terminal User Interface (TUI)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### React
+Automated review identified **React** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Sandboxing
-Automated review identified **Sandboxing** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### wagmi
+Automated review identified **wagmi** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Git
-Automated review identified **Git** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### viem
+Automated review identified **viem** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### LLM Providers (Anthropic, OpenAI, GLM, etc.)
-Automated review identified **LLM Providers (Anthropic, OpenAI, GLM, etc.)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### React Query
+Automated review identified **React Query** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Bubblewrap
-Automated review identified **Bubblewrap** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### ABI Codegen
+Automated review identified **ABI Codegen** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Seatbelt (macOS)
-Automated review identified **Seatbelt (macOS)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Model Context Protocol (MCP)
+Automated review identified **Model Context Protocol (MCP)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### JSON/Stream-JSON
-Automated review identified **JSON/Stream-JSON** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### MCP (Model Context Protocol)
-Automated review identified **MCP (Model Context Protocol)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Node.js
+Automated review identified **Node.js** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 
