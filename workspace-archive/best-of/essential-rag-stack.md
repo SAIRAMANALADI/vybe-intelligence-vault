@@ -28,15 +28,20 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `89` | **Path**: [`neuml-txtai.md`](../../ai/rag/neuml-txtai.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
-### [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R)
-- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
-- **Score**: `89` | **Path**: [`sciphi-ai-r2r.md`](../../ai/rag/sciphi-ai-r2r.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
-
 ### [pinecone-io/pinecone-claude-code-plugin](https://github.com/pinecone-io/pinecone-claude-code-plugin)
 - **Category**: `ai/rag` | **Kind**: `BENCHMARK` | **Tier**: `ESSENTIAL`
 - **Score**: `89` | **Path**: [`pinecone-io-pinecone-claude-code-plugin.md`](../../ai/rag/pinecone-io-pinecone-claude-code-plugin.md)
 - **Selection Reason**: Strong keyword match, Active open-source repository
+
+### [dannyblaker/rag-tutorial](https://github.com/dannyblaker/rag-tutorial)
+- **Category**: `ai/rag` | **Kind**: `TUTORIAL` | **Tier**: `ESSENTIAL`
+- **Score**: `89` | **Path**: [`dannyblaker-rag-tutorial.md`](../../ai/rag/dannyblaker-rag-tutorial.md)
+- **Selection Reason**: Strong keyword match, Active open-source repository
+
+### [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R)
+- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
+- **Score**: `89` | **Path**: [`sciphi-ai-r2r.md`](../../ai/rag/sciphi-ai-r2r.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
 
 ### [neuml/txtai](https://github.com/neuml/txtai)
 - **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
@@ -53,20 +58,15 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `89` | **Path**: [`pinecone-github.md`](../../ai/rag/pinecone-github.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
-### [Elasticsearch: The Official Distributed Search & Analytics Engine | Elastic](https://www.elastic.co/elasticsearch/)
-- **Category**: `ai/rag` | **Kind**: `DATASET` | **Tier**: `ESSENTIAL`
-- **Score**: `88` | **Path**: [`elasticsearch-the-official-distributed-search-anal.md`](../../ai/rag/elasticsearch-the-official-distributed-search-anal.md)
-- **Selection Reason**: Strong keyword match, Valuable developer reference
-
 ### [RAG Application Tutorial 2025: Build Production-Ready Retrieval Augmented Generation Systems · System Debug](https://sysdebug.com/posts/rag-application-tutorial-production-guide/)
 - **Category**: `ai/rag` | **Kind**: `DATASET` | **Tier**: `ESSENTIAL`
 - **Score**: `88` | **Path**: [`rag-application-tutorial-2025-build-production-rea.md`](../../ai/rag/rag-application-tutorial-2025-build-production-rea.md)
 - **Selection Reason**: Strong keyword match, Valuable developer reference
 
-### [🧩 Integrations | Haystack](https://haystack.deepset.ai/integrations)
-- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
-- **Score**: `88` | **Path**: [`integrations-haystack.md`](../../ai/rag/integrations-haystack.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
+### [Elasticsearch: The Official Distributed Search & Analytics Engine | Elastic](https://www.elastic.co/elasticsearch/)
+- **Category**: `ai/rag` | **Kind**: `DATASET` | **Tier**: `ESSENTIAL`
+- **Score**: `88` | **Path**: [`elasticsearch-the-official-distributed-search-anal.md`](../../ai/rag/elasticsearch-the-official-distributed-search-anal.md)
+- **Selection Reason**: Strong keyword match, Valuable developer reference
 
 
 ## Recommended Learning Path
@@ -89,4 +89,4 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 *Curated by Harvester Engine*
 
-*Last updated: 2026-09-03 04:32 IST*
+*Last updated: 2026-09-03 10:31 IST*

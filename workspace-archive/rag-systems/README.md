@@ -10,12 +10,12 @@ Retrieval-Augmented Generation (RAG) grounds LLM completions in private document
 
 - [weaviate/Verba](https://github.com/weaviate/Verba) (benchmark - ESSENTIAL Tier)
 - [neuml/txtai](https://github.com/neuml/txtai) (framework - ESSENTIAL Tier)
-- [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) (framework - ESSENTIAL Tier)
 - [pinecone-io/pinecone-claude-code-plugin](https://github.com/pinecone-io/pinecone-claude-code-plugin) (benchmark - ESSENTIAL Tier)
-- [Elasticsearch: The Official Distributed Search & Analytics Engine | Elastic](https://www.elastic.co/elasticsearch/) (dataset - ESSENTIAL Tier)
+- [dannyblaker/rag-tutorial](https://github.com/dannyblaker/rag-tutorial) (tutorial - ESSENTIAL Tier)
+- [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) (framework - ESSENTIAL Tier)
 - [RAG Application Tutorial 2025: Build Production-Ready Retrieval Augmented Generation Systems · System Debug](https://sysdebug.com/posts/rag-application-tutorial-production-guide/) (dataset - ESSENTIAL Tier)
-- [scotthavird/crewai-template](https://github.com/scotthavird/crewai-template) (template - ESSENTIAL Tier)
-- [cli/cli](https://github.com/cli/cli) (workflow - ESSENTIAL Tier)
+- [Elasticsearch: The Official Distributed Search & Analytics Engine | Elastic](https://www.elastic.co/elasticsearch/) (dataset - ESSENTIAL Tier)
+- [google-gemini/gemini-fullstack-langgraph-quickstart](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart) (template - ESSENTIAL Tier)
 
 ## Best GitHub Repositories
 
@@ -24,9 +24,9 @@ https://github.com/langchain-ai/langchain (LangChain)
 https://github.com/microsoft/graphrag (GraphRAG)
 - [weaviate/Verba](https://github.com/weaviate/Verba)
 - [neuml/txtai](https://github.com/neuml/txtai)
-- [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R)
 - [pinecone-io/pinecone-claude-code-plugin](https://github.com/pinecone-io/pinecone-claude-code-plugin)
-- [scotthavird/crewai-template](https://github.com/scotthavird/crewai-template)
+- [dannyblaker/rag-tutorial](https://github.com/dannyblaker/rag-tutorial)
+- [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R)
 
 ## Best Learning Resources
 
@@ -44,4 +44,4 @@ https://github.com/microsoft/graphrag (GraphRAG)
 
 ---
 
-*Last updated: 2026-09-03 04:31 IST*
+*Last updated: 2026-09-03 10:30 IST*

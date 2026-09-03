@@ -11,10 +11,10 @@ LiteLLM, LangChain, OpenAI API, Anthropic SDK.
 
 ## Recommended Resources from the Vault
 *   [Kathleen Remembers: Length-Invariant One-Shot Recall Without Attention](https://arxiv.org/abs/2608.30376)
-*   [Enhancing diagnostic capability with multi-agents conversational large language models](https://semanticscholar.org/paper/f53f31b8ecc6d0eeba19cf21a40c0f205ff532ca)
+*   [IndexMem: Learned KV-Cache Eviction with Latent Memory for Long-Context LLM Inference](https://arxiv.org/abs/2605.25475)
+*   [Modernizing HEBO: a robust Bayesian optimization baseline for practical heteroskedastic and non-stationary problems](https://arxiv.org/abs/2607.10669)
+*   [Structural Role Injection in Handlebars-Templated LLM Prompts: Triple-Brace Interpolation, Delimiter Family, and the Limits of HTML Auto-Escaping](https://arxiv.org/abs/2606.18120)
 *   [A JoLT for the KV Cache: Near-Lossless KV Cache Compression via Joint Tucker and JL-Residual Allocation for LLMs](https://arxiv.org/abs/2607.12550)
-*   [Rethinking Expressivity and Efficiency in Test-Time Training](https://arxiv.org/abs/2608.21308)
-*   [Minima-KV: Retention-Preserving KV Cache Compression with Mixed-Format Paged Attention](https://arxiv.org/abs/2608.23834)
 
 ## Project Ideas
 *   Build an API router that fallbacks to a smaller LLM when rate limits are hit.

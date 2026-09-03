@@ -13,13 +13,14 @@ collected_at: '2026-09-03T04:14:43.132174+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:mamdani-bans-ai-in-nyc-schools
 first_seen: '2026-09-03T04:14:43.132174+05:30'
 last_seen: '2026-09-03T04:14:43.132174+05:30'
 last_checked: '2026-09-03T04:14:43.132174+05:30'
 health_score: 100
 ---
+
 
 # Mamdani Bans AI in NYC Schools
 

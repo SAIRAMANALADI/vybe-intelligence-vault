@@ -14,13 +14,14 @@ tags:
 - frontend_ui
 - hackernews
 - react
-status: active
+status: inactive
 resource_id: hackernews:vidact-a-compiler-that-turns-react-into-direct-dom
 first_seen: '2026-09-03T04:14:44.025165+05:30'
 last_seen: '2026-09-03T04:14:44.025165+05:30'
 last_checked: '2026-09-03T04:14:44.025165+05:30'
 health_score: 100
 ---
+
 
 # Vidact – a compiler that turns React into direct DOM operations
 

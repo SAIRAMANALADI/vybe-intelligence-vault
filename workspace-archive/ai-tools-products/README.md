@@ -8,24 +8,24 @@ Discovering modern AI productivity tools allows developers to streamline their d
 
 ## Top Matched Resources
 
-- [vin67/crewai_docker](https://github.com/vin67/crewai_docker) (template - ESSENTIAL Tier)
 - [langchain-ai/langchain-skills](https://github.com/langchain-ai/langchain-skills) (framework - ESSENTIAL Tier)
-- [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app) (template - ESSENTIAL Tier)
-- [fetchai/innovation-lab-examples](https://github.com/fetchai/innovation-lab-examples) (framework - ESSENTIAL Tier)
 - [Mintlify · GitHub](https://github.com/mintlify) (template - ESSENTIAL Tier)
+- [fetchai/innovation-lab-examples](https://github.com/fetchai/innovation-lab-examples) (framework - ESSENTIAL Tier)
+- [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app) (template - ESSENTIAL Tier)
 - [Genkit - Open-source AI framework by Google in JavaScript, Go and Python](https://genkit.dev) (framework - USEFUL Tier)
-- [Mining Architectural Quality Under Agentic AI Adoption: A Causal Study of Java Repositories](https://arxiv.org/abs/2606.13298) (framework - USEFUL Tier)
+- [Nonuniformity Principle in Human-AI Coworking](https://arxiv.org/abs/2607.16530) (framework - USEFUL Tier)
 - [Multi-Agent Firewall Architecture for Privacy Protection of Sensitive Data in Interactions with Language Models](https://arxiv.org/abs/2607.08282) (framework - USEFUL Tier)
+- [Mining Architectural Quality Under Agentic AI Adoption: A Causal Study of Java Repositories](https://arxiv.org/abs/2606.13298) (framework - USEFUL Tier)
 
 ## Best GitHub Repositories
 
 https://github.com/steven-tey/charlie (Charlie Directory App)
-- [vin67/crewai_docker](https://github.com/vin67/crewai_docker)
 - [langchain-ai/langchain-skills](https://github.com/langchain-ai/langchain-skills)
-- [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app)
-- [fetchai/innovation-lab-examples](https://github.com/fetchai/innovation-lab-examples)
 - [Mintlify · GitHub](https://github.com/mintlify)
-- [MuhammadUsmanGM/claude-code-best-practices](https://github.com/MuhammadUsmanGM/claude-code-best-practices)
+- [fetchai/innovation-lab-examples](https://github.com/fetchai/innovation-lab-examples)
+- [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app)
+- [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx)
+- [ARUNAGIRINATHAN-K/awesome-ai-agents-2026](https://github.com/ARUNAGIRINATHAN-K/awesome-ai-agents-2026)
 
 ## Best Learning Resources
 
@@ -42,4 +42,4 @@ https://github.com/steven-tey/charlie (Charlie Directory App)
 
 ---
 
-*Last updated: 2026-09-03 04:32 IST*
+*Last updated: 2026-09-03 10:31 IST*

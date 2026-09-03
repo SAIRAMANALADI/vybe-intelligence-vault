@@ -12,6 +12,8 @@ resource_kind: tutorial
 importance: medium
 tags:
 - agents
+- anthropic
+- hackernews
 - rag
 - reddit
 - scripts
@@ -36,11 +38,9 @@ selection_reason:
 
 ## Summary
 
-- **Bifrost**: Enterprise-grade AI gateway enabling scalable routing, governance, and security for AI traffic management, as per [maximhq/bifrost](https://github.com/maximhq/bifrost).
-
-- **open-connector**: Open-source gateway facilitating interoperability for AI agents, referenced in [oomol-lab/open-connector](https://github.com/oomol-lab/open-connector).
-
-- **Trending Topics**: Daily GitHub trending topics include **AI agent (32.4k stars)**, **AI skills (11.6k stars)**, and **AI coding assista
+*   Featured projects include Busbar for AI action control, Bifrost as an enterprise AI gateway for routing, governance, and security, and open-connector as an open-source gateway for AI agents.
+*   Trendshift.io functions as a platform for tracking live social media mentions of GitHub repositories and identifying trending repositories and technical topics.
+*   Top trending GitHub topics highlight significant developer interest in AI agents, AI skills, AI coding assistants, self-hosted solutions
 
 ## Use Cases
 

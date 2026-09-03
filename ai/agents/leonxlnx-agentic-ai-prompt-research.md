@@ -4,7 +4,7 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Leonxlnx/agentic-ai-prompt-research
-collected_at: '2026-09-03T04:18:21.128582+05:30'
+collected_at: '2026-09-03T10:16:47.791656+05:30'
 published_at: '2026-09-02T18:10:31Z'
 tags:
 - agents
@@ -12,6 +12,7 @@ tags:
 - github-repo
 - hackernews
 - unknown
+- workflows
 stars: 2523
 language: Unknown
 status: active
@@ -19,9 +20,9 @@ archived: false
 created_at: '2026-03-31T11:47:04Z'
 pushed_at: '2026-03-31T19:04:33Z'
 resource_id: github:leonxlnx/agentic-ai-prompt-research
-first_seen: '2026-09-03T04:18:21.128582+05:30'
-last_seen: '2026-09-03T04:18:21.128582+05:30'
-last_checked: '2026-09-03T04:18:21.128582+05:30'
+first_seen: '2026-09-03T10:16:47.791656+05:30'
+last_seen: '2026-09-03T10:16:47.791656+05:30'
+last_checked: '2026-09-03T10:16:47.791656+05:30'
 health_score: 100
 ---
 
@@ -29,11 +30,11 @@ health_score: 100
 
 ## Summary
 
-- **Agentic AI Coding Assistants**: Research focuses on reconstructing prompt patterns and coordination mechanisms for autonomous AI coding agents, emphasizing multi-agent collaboration and task decomposition.
+- **Agentic AI Coding Assistants**: Research focuses on reconstructing prompt patterns and coordination mechanisms for autonomous AI coding assistants, emphasizing system prompts and prompt engineering techniques.
 
-- **Security Classification**: Implements structured security frameworks to classify and mitigate risks in agentic AI systems, including input validation, sandboxing, and access control.
+- **Security Classification**: Investigates security frameworks and classifications for agentic AI systems, ensuring safe and controlled interactions within coding environments.
 
-- **Prompt Engineering & System Prompts**: Analyzes advanced prompt engineering techniques to optimize agent behavior, including dynamic context injection and role-based system prompts for enhanced performance.
+- **Claude Integration**: Examines the integration of Claude-based models in agentic AI workflows, optimizing performance and reliability for coding tasks.
 
 ## Why It Matters
 

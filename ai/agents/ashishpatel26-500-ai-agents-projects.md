@@ -4,15 +4,13 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ashishpatel26/500-AI-Agents-Projects
-collected_at: '2026-09-03T04:17:41.082843+05:30'
-published_at: '2026-09-02T22:39:59Z'
+collected_at: '2026-09-03T10:16:02.633475+05:30'
+published_at: '2026-09-03T03:54:20Z'
 tags:
 - agents
 - github-repo
-- hackernews
 - python
-- scripts
-stars: 37334
+stars: 37343
 language: Python
 status: active
 license: MIT
@@ -20,9 +18,9 @@ archived: false
 created_at: '2024-12-20T13:37:15Z'
 pushed_at: '2026-07-27T05:40:40Z'
 resource_id: github:ashishpatel26/500-ai-agents-projects
-first_seen: '2026-09-03T04:17:41.082843+05:30'
-last_seen: '2026-09-03T04:17:41.082843+05:30'
-last_checked: '2026-09-03T04:17:41.082843+05:30'
+first_seen: '2026-09-03T10:16:02.633475+05:30'
+last_seen: '2026-09-03T10:16:02.633475+05:30'
+last_checked: '2026-09-03T10:16:02.633475+05:30'
 health_score: 100
 ---
 
@@ -30,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- **Curated AI Agent Applications**: Repository aggregates 500+ open-source AI agent projects spanning healthcare, finance, education, retail, and other sectors, demonstrating practical implementations of generative AI and autonomous agents.
+- **Curated AI Agent Use Cases**: Repository aggregates 500+ practical AI agent applications across industries (healthcare, finance, education, retail) with open-source implementations for hands-on deployment.
 
-- **Technical Resource Structure**: All projects are Python-based, with direct links to GitHub repositories for hands-on deployment, covering diverse use cases from automation to decision-making across industries.
+- **Multi-Industry Showcase**: Demonstrates GenAI-driven agent solutions, emphasizing cross-sector transformation with links to executable projects in Python.
 
-- **High-Activity Open-Source Project**: Maintained with 37,334 stars and 6,648 forks, last updated in September 2026, reflecting active community engagement and continuous expansion of AI agent applications.
+- **High-Activity Open Source Project**: Maintained repository (37.3k⭐, 6.6k🍴) with last update in 2026, focusing on AI agent frameworks and GenAI integration.
 
 ## Why It Matters
 
@@ -43,11 +41,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: ashishpatel26
-- Stars: 37334
-- Forks: 6648
+- Stars: 37343
+- Forks: 6649
 - Language: Python
 - Topics: ai-agents, genai
-- Last Updated: 2026-09-02T22:39:59Z
+- Last Updated: 2026-09-03T03:54:20Z
 - License: MIT
 - Archived: No
 - Created At: 2024-12-20T13:37:15Z

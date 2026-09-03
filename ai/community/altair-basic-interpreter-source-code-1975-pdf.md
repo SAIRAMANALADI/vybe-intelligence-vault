@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://images.gatesnotes.com/12514eb8-7b51-008e-41a9-512542cf683b/34d561c8-cf5c-4e69-af47-3782ea11482e/original-microsoft-source-code.pdf
 hn_url: https://news.ycombinator.com/item?id=49541754
-score: 33
+score: 46
 author: Eridanus2
-comments_count: 10
+comments_count: 31
 published_at: '2026-09-03T01:38:22+05:30'
-collected_at: '2026-09-03T04:14:41.896729+05:30'
+collected_at: '2026-09-03T10:11:20.128215+05:30'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: hackernews:altair-basic-interpreter-source-code-1975-pdf
 first_seen: '2026-09-03T04:14:41.896729+05:30'
-last_seen: '2026-09-03T04:14:41.896729+05:30'
-last_checked: '2026-09-03T04:14:41.896729+05:30'
+last_seen: '2026-09-03T10:11:20.128215+05:30'
+last_checked: '2026-09-03T10:11:20.128215+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by Eridanus2. Score: 33, Comments: 10.
+Hacker News story by Eridanus2. Score: 46, Comments: 31.
 Original Link: https://images.gatesnotes.com/12514eb8-7b51-008e-41a9-512542cf683b/34d561c8-cf5c-4e69-af47-3782ea11482e/Original-Microsoft-Source-Code.pdf
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: Eridanus2
-- Score: 33 Upvotes
-- Comments: 10 Discussions
+- Score: 46 Upvotes
+- Comments: 31 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49541754
 - Original Article: https://images.gatesnotes.com/12514eb8-7b51-008e-41a9-512542cf683b/34d561c8-cf5c-4e69-af47-3782ea11482e/original-microsoft-source-code.pdf
 
