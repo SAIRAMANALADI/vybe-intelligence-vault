@@ -13,13 +13,14 @@ collected_at: '2026-09-03T10:11:20.415915+05:30'
 tags:
 - hackernews
 - llm
-status: active
+status: inactive
 resource_id: github:mlc-ai/web-llm
 first_seen: '2026-09-03T00:58:04.882447+05:30'
 last_seen: '2026-09-03T10:11:20.415915+05:30'
 last_checked: '2026-09-03T10:11:20.415915+05:30'
 health_score: 100
 ---
+
 
 # WebLLM: high-performance in-browser LLM inference engine
 

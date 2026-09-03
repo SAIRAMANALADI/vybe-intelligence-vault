@@ -11,11 +11,11 @@ Rigorous evaluations protect against regressions in model behavior, prompt drift
 - [OpenAI · GitHub](https://github.com/openai) (framework - ESSENTIAL Tier)
 - [GoogleCloudPlatform/agent-starter-pack](https://github.com/GoogleCloudPlatform/agent-starter-pack) (template - ESSENTIAL Tier)
 - [microsoft/TREC-2019-Deep-Learning](https://github.com/microsoft/TREC-2019-Deep-Learning) (framework - ESSENTIAL Tier)
+- [datawhalechina/all-in-rag](https://github.com/datawhalechina/all-in-rag) (framework - ESSENTIAL Tier)
 - [weaviate/Verba](https://github.com/weaviate/Verba) (benchmark - ESSENTIAL Tier)
+- [Building Production-Ready RAG Systems from Scratch | Md. Zahid Hasan](https://z4hid.github.io/blog/building-rag-systems-from-scratch/) (prompt - ESSENTIAL Tier)
 - [pypi/warehouse](https://github.com/pypi/warehouse) (benchmark - ESSENTIAL Tier)
 - [neuml/txtai](https://github.com/neuml/txtai) (framework - ESSENTIAL Tier)
-- [pinecone-io/pinecone-claude-code-plugin](https://github.com/pinecone-io/pinecone-claude-code-plugin) (benchmark - ESSENTIAL Tier)
-- [devloperdevesh/EnterpriseRAG-AI](https://github.com/devloperdevesh/EnterpriseRAG-AI) (framework - ESSENTIAL Tier)
 
 ## Best GitHub Repositories
 
@@ -25,8 +25,8 @@ https://github.com/explodinggradients/ragas (Ragas)
 - [OpenAI · GitHub](https://github.com/openai)
 - [GoogleCloudPlatform/agent-starter-pack](https://github.com/GoogleCloudPlatform/agent-starter-pack)
 - [microsoft/TREC-2019-Deep-Learning](https://github.com/microsoft/TREC-2019-Deep-Learning)
+- [datawhalechina/all-in-rag](https://github.com/datawhalechina/all-in-rag)
 - [weaviate/Verba](https://github.com/weaviate/Verba)
-- [pypi/warehouse](https://github.com/pypi/warehouse)
 
 ## Best Learning Resources
 
@@ -44,4 +44,4 @@ https://github.com/explodinggradients/ragas (Ragas)
 
 ---
 
-*Last updated: 2026-09-03 10:30 IST*
+*Last updated: 2026-09-03 18:42 IST*

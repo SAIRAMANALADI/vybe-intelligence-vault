@@ -9,6 +9,7 @@ Micro-SaaS templates, business validations, boilerplate code, and builder launch
 | [codebucks27/The-Weirdos-NFT-Website-Starter-Code](https://github.com/codebucks27/the-weirdos-nft-website-starter-code) | `startup-builder/` | 70 |
 | [Twilio Hub](https://developers.twilio.com/series/twilio-developers-hub/landing_page) | `startup-builder/` | 70 |
 | [moby/moby · Discussions · GitHub](https://github.com/moby/moby/discussions) | `startup-builder/` | 70 |
+| [LangChain Support Portal](https://support.langchain.com/) | `startup-builder/` | 70 |
 | [Manage your Apple Account](https://account.apple.com/) | `startup-builder/` | 70 |
 | [Home - Cornell Research & Innovation](https://research.cornell.edu/video/future-computation) | `startup-builder/` | 70 |
 | [Dr. Axel Rauschmayer](https://dr-axel.de) | `startup-builder/` | 70 |

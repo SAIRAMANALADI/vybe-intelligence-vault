@@ -4,19 +4,20 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://github.com/langchain-ai
-published_at: '2026-09-02T18:28:34.772309+05:30'
-collected_at: '2026-09-02T18:28:34.772323+05:30'
+published_at: '2026-09-03T18:35:27.089959+05:30'
+collected_at: '2026-09-03T18:35:27.089975+05:30'
 tags:
 - agents
 - anthropic
 - rag
 - web-crawled
+- workflows
 - youtube
 status: active
 resource_id: blog:langchain-github
-first_seen: '2026-09-02T18:28:34.772323+05:30'
-last_seen: '2026-09-02T18:28:34.772323+05:30'
-last_checked: '2026-09-02T18:28:34.772323+05:30'
+first_seen: '2026-09-03T18:35:27.089975+05:30'
+last_seen: '2026-09-03T18:35:27.089975+05:30'
+last_checked: '2026-09-03T18:35:27.089975+05:30'
 health_score: 100
 ---
 
@@ -24,11 +25,11 @@ health_score: 100
 
 ## Summary
 
-- **Core Libraries**: `LangChain`/`LangChain.js` provide reusable components and integrations for LLM applications; `LangGraph`/`LangGraph.js` enable building LLM agents as graphs; `Deep Agents`/`Deep Agents.js` support agent planning, subagents, and file system interactions.
+- **Core Libraries**: LangChain/LangChain.js provide reusable components and integrations for LLM applications; LangGraph/LangGraph.js enable building LLM agents as graphs; Deep Agents/Deep Agents.js support agentic workflows with planning, subagents, and filesystem access.
 
-- **Commercial Platform**: `LangSmith` offers a production-grade platform for building and monitoring LLM applications.
+- **Commercial Platform**: LangSmith offers a production-grade platform for building, monitoring, and managing LLM applications.
 
-- **OSS Extensions/Apps**: Includes `Deep Agents Code` (`dcode`) for terminal-based coding agents, `Open SWE` for asynchronous coding agents, `MCP Adapters` for MCP tool compatibility, `Agent Protocol` for framework-agnostic LLM agent APIs, and `OpenWiki` for CLI-based codebase/wiki generation.
+- **OSS Extensions/Apps**: Includes `dcode` (terminal-based coding agent), Open SWE (asynchronous coding agent), MCP Adapters (MCP tool compatibility), Agent Protocol (standardized agent APIs), and OpenWiki (CLI agent for codebase/wiki generation).
 
 ## Why It Matters
 
@@ -38,7 +39,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-09-02T18:28:34.772309+05:30
+- Published: 2026-09-03T18:35:27.089959+05:30
 
 ## Related Tags
 
@@ -46,6 +47,7 @@ General public resource representing technology updates, guides, or tutorials.
 - anthropic
 - rag
 - web-crawled
+- workflows
 - youtube
 
 ## Source

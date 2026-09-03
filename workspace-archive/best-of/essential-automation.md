@@ -28,11 +28,6 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `87` | **Path**: [`alexpeclub-ai-coding-starter-kit.md`](../../ai/agents/alexpeclub-ai-coding-starter-kit.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
-### [NanGePlus/CrewAITest](https://github.com/NanGePlus/CrewAITest)
-- **Category**: `ai/agents` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`nangeplus-crewaitest.md`](../../ai/agents/nangeplus-crewaitest.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
-
 ### [Black Forest Labs · GitHub](https://github.com/black-forest-labs)
 - **Category**: `ai/resources` | **Kind**: `MCP-SERVER` | **Tier**: `ESSENTIAL`
 - **Score**: `87` | **Path**: [`black-forest-labs-github.md`](../../ai/resources/black-forest-labs-github.md)
@@ -43,9 +38,19 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `87` | **Path**: [`google-gemini-gemini-fullstack-langgraph-quickstart.md`](../../ai/rag/google-gemini-gemini-fullstack-langgraph-quickstart.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
+### [datawhalechina/all-in-rag](https://github.com/datawhalechina/all-in-rag)
+- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
+- **Score**: `87` | **Path**: [`datawhalechina-all-in-rag.md`](../../ai/rag/datawhalechina-all-in-rag.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
+
 ### [neuml/txtai](https://github.com/neuml/txtai)
 - **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
 - **Score**: `87` | **Path**: [`neuml-txtai.md`](../../ai/rag/neuml-txtai.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
+
+### [deepset-ai/haystack](https://github.com/deepset-ai/haystack)
+- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
+- **Score**: `87` | **Path**: [`deepset-ai-haystack.md`](../../ai/rag/deepset-ai-haystack.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
 ### [fetchai/innovation-lab-examples](https://github.com/fetchai/innovation-lab-examples)
@@ -62,11 +67,6 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Category**: `ai/rag` | **Kind**: `WORKFLOW` | **Tier**: `ESSENTIAL`
 - **Score**: `87` | **Path**: [`cli-cli.md`](../../ai/rag/cli-cli.md)
 - **Selection Reason**: Strong keyword match, Active open-source repository
-
-### [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R)
-- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`sciphi-ai-r2r.md`](../../ai/rag/sciphi-ai-r2r.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
 
 
 ## Recommended Learning Path
@@ -89,4 +89,4 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 *Curated by Harvester Engine*
 
-*Last updated: 2026-09-03 10:31 IST*
+*Last updated: 2026-09-03 18:43 IST*

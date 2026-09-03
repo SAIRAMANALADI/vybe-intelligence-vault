@@ -13,13 +13,14 @@ collected_at: '2026-09-03T10:11:20.305762+05:30'
 tags:
 - hackernews
 - rag
-status: active
+status: inactive
 resource_id: hackernews:we-could-save-petabytes-of-cache-storage-with-zsta
 first_seen: '2026-09-03T00:58:04.779152+05:30'
 last_seen: '2026-09-03T10:11:20.305762+05:30'
 last_checked: '2026-09-03T10:11:20.305762+05:30'
 health_score: 100
 ---
+
 
 # We could save petabytes of cache storage with Zstandard and Pingora
 

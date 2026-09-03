@@ -138,11 +138,11 @@ This index groups curated resources by target developer skills.
 - [weaviate/Verba](https://github.com/weaviate/Verba) (Tier: `essential` | [`Local File`](../../ai/rag/weaviate-verba.md))
 - [neuml/txtai](https://github.com/neuml/txtai) (Tier: `essential` | [`Local File`](../../ai/rag/neuml-txtai.md))
 - [pinecone-io/pinecone-claude-code-plugin](https://github.com/pinecone-io/pinecone-claude-code-plugin) (Tier: `essential` | [`Local File`](../../ai/rag/pinecone-io-pinecone-claude-code-plugin.md))
-- [dannyblaker/rag-tutorial](https://github.com/dannyblaker/rag-tutorial) (Tier: `essential` | [`Local File`](../../ai/rag/dannyblaker-rag-tutorial.md))
 - [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) (Tier: `essential` | [`Local File`](../../ai/rag/sciphi-ai-r2r.md))
 - [RAG Application Tutorial 2025: Build Production-Ready Retrieval Augmented Generation Systems · System Debug](https://sysdebug.com/posts/rag-application-tutorial-production-guide/) (Tier: `essential` | [`Local File`](../../ai/rag/rag-application-tutorial-2025-build-production-rea.md))
 - [Elasticsearch: The Official Distributed Search & Analytics Engine | Elastic](https://www.elastic.co/elasticsearch/) (Tier: `essential` | [`Local File`](../../ai/rag/elasticsearch-the-official-distributed-search-anal.md))
 - [google-gemini/gemini-fullstack-langgraph-quickstart](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart) (Tier: `essential` | [`Local File`](../../ai/rag/google-gemini-gemini-fullstack-langgraph-quickstart.md))
+- [datawhalechina/all-in-rag](https://github.com/datawhalechina/all-in-rag) (Tier: `essential` | [`Local File`](../../ai/rag/datawhalechina-all-in-rag.md))
 
 ## Full-stack AI Engineering
 
@@ -182,22 +182,22 @@ This index groups curated resources by target developer skills.
 - [weaviate/Verba](https://github.com/weaviate/Verba) (Tier: `essential` | [`Local File`](../../ai/rag/weaviate-verba.md))
 - [neuml/txtai](https://github.com/neuml/txtai) (Tier: `essential` | [`Local File`](../../ai/rag/neuml-txtai.md))
 - [pinecone-io/pinecone-claude-code-plugin](https://github.com/pinecone-io/pinecone-claude-code-plugin) (Tier: `essential` | [`Local File`](../../ai/rag/pinecone-io-pinecone-claude-code-plugin.md))
-- [dannyblaker/rag-tutorial](https://github.com/dannyblaker/rag-tutorial) (Tier: `essential` | [`Local File`](../../ai/rag/dannyblaker-rag-tutorial.md))
 - [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) (Tier: `essential` | [`Local File`](../../ai/rag/sciphi-ai-r2r.md))
 - [RAG Application Tutorial 2025: Build Production-Ready Retrieval Augmented Generation Systems · System Debug](https://sysdebug.com/posts/rag-application-tutorial-production-guide/) (Tier: `essential` | [`Local File`](../../ai/rag/rag-application-tutorial-2025-build-production-rea.md))
 - [Elasticsearch: The Official Distributed Search & Analytics Engine | Elastic](https://www.elastic.co/elasticsearch/) (Tier: `essential` | [`Local File`](../../ai/rag/elasticsearch-the-official-distributed-search-anal.md))
 - [google-gemini/gemini-fullstack-langgraph-quickstart](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart) (Tier: `essential` | [`Local File`](../../ai/rag/google-gemini-gemini-fullstack-langgraph-quickstart.md))
+- [datawhalechina/all-in-rag](https://github.com/datawhalechina/all-in-rag) (Tier: `essential` | [`Local File`](../../ai/rag/datawhalechina-all-in-rag.md))
 
 ## LLM Evaluation
 
 - [OpenAI · GitHub](https://github.com/openai) (Tier: `essential` | [`Local File`](../../ai/agents/openai-github.md))
 - [GoogleCloudPlatform/agent-starter-pack](https://github.com/GoogleCloudPlatform/agent-starter-pack) (Tier: `essential` | [`Local File`](../../ai/agents/googlecloudplatform-agent-starter-pack.md))
 - [microsoft/TREC-2019-Deep-Learning](https://github.com/microsoft/TREC-2019-Deep-Learning) (Tier: `essential` | [`Local File`](../../ai/resources/microsoft-trec-2019-deep-learning.md))
+- [datawhalechina/all-in-rag](https://github.com/datawhalechina/all-in-rag) (Tier: `essential` | [`Local File`](../../ai/rag/datawhalechina-all-in-rag.md))
 - [weaviate/Verba](https://github.com/weaviate/Verba) (Tier: `essential` | [`Local File`](../../ai/rag/weaviate-verba.md))
+- [Building Production-Ready RAG Systems from Scratch | Md. Zahid Hasan](https://z4hid.github.io/blog/building-rag-systems-from-scratch/) (Tier: `essential` | [`Local File`](../../ai/rag/building-rag-systems-from-scratch-a-practical-guid.md))
 - [pypi/warehouse](https://github.com/pypi/warehouse) (Tier: `essential` | [`Local File`](../../ai/resources/pypi-warehouse.md))
 - [neuml/txtai](https://github.com/neuml/txtai) (Tier: `essential` | [`Local File`](../../ai/rag/neuml-txtai.md))
-- [pinecone-io/pinecone-claude-code-plugin](https://github.com/pinecone-io/pinecone-claude-code-plugin) (Tier: `essential` | [`Local File`](../../ai/rag/pinecone-io-pinecone-claude-code-plugin.md))
-- [devloperdevesh/EnterpriseRAG-AI](https://github.com/devloperdevesh/EnterpriseRAG-AI) (Tier: `essential` | [`Local File`](../../ai/rag/devloperdevesh-enterpriserag-ai.md))
 
 ## LLMOps Observability
 
@@ -213,13 +213,13 @@ This index groups curated resources by target developer skills.
 ## Local LLMs
 
 - [Quantize with Confidence? An Empirical Study of Quantization for Code Generation](https://arxiv.org/abs/2607.14181) (Tier: `essential` | [`Local File`](../../ai/research/arxiv-2607-14181.md))
-- [NanGePlus/CrewAITest](https://github.com/NanGePlus/CrewAITest) (Tier: `essential` | [`Local File`](../../ai/agents/nangeplus-crewaitest.md))
 - [llamasearchai/OpenAGI-Customization](https://github.com/llamasearchai/OpenAGI-Customization) (Tier: `essential` | [`Local File`](../../ai/resources/llamasearchai-openagi-customization.md))
 - [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app) (Tier: `essential` | [`Local File`](../../ai/rag/pathwaycom-llm-app.md))
 - [Flama: a Python framework for development and deployment of production-ready APIs, machine learning, and LLM services](https://arxiv.org/abs/2608.18733) (Tier: `essential` | [`Local File`](../../ai/research/arxiv-2608-18733.md))
 - [Introducing Gemma 3 270M: The compact model for hyper-efficient AI - Google Developers Blog](https://developers.googleblog.com/en/introducing-gemma-3-270m) (Tier: `essential` | [`Local File`](../../ai/rag/introducing-gemma-3-270m-the-compact-model-for-hyp.md))
 - [Flat Score, Amplified Failures: How the Error Budget Masks Damage in Quantized LLM Agents](https://arxiv.org/abs/2607.27275) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2607-27275.md))
 - [FlashDrive: Flash Vision-Language-Action Inference for Autonomous Driving](https://arxiv.org/abs/2608.12932) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2608-12932.md))
+- [REAL-Q: E2E LLM Quantization via Dynamic Gradient Descent](https://arxiv.org/abs/2609.00049) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2609-00049.md))
 
 ## MCP Integrations
 
@@ -257,13 +257,13 @@ This index groups curated resources by target developer skills.
 ## Model Optimization
 
 - [Quantize with Confidence? An Empirical Study of Quantization for Code Generation](https://arxiv.org/abs/2607.14181) (Tier: `essential` | [`Local File`](../../ai/research/arxiv-2607-14181.md))
-- [NanGePlus/CrewAITest](https://github.com/NanGePlus/CrewAITest) (Tier: `essential` | [`Local File`](../../ai/agents/nangeplus-crewaitest.md))
 - [llamasearchai/OpenAGI-Customization](https://github.com/llamasearchai/OpenAGI-Customization) (Tier: `essential` | [`Local File`](../../ai/resources/llamasearchai-openagi-customization.md))
 - [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app) (Tier: `essential` | [`Local File`](../../ai/rag/pathwaycom-llm-app.md))
 - [Flama: a Python framework for development and deployment of production-ready APIs, machine learning, and LLM services](https://arxiv.org/abs/2608.18733) (Tier: `essential` | [`Local File`](../../ai/research/arxiv-2608-18733.md))
 - [Introducing Gemma 3 270M: The compact model for hyper-efficient AI - Google Developers Blog](https://developers.googleblog.com/en/introducing-gemma-3-270m) (Tier: `essential` | [`Local File`](../../ai/rag/introducing-gemma-3-270m-the-compact-model-for-hyp.md))
 - [Flat Score, Amplified Failures: How the Error Budget Masks Damage in Quantized LLM Agents](https://arxiv.org/abs/2607.27275) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2607-27275.md))
 - [FlashDrive: Flash Vision-Language-Action Inference for Autonomous Driving](https://arxiv.org/abs/2608.12932) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2608-12932.md))
+- [REAL-Q: E2E LLM Quantization via Dynamic Gradient Descent](https://arxiv.org/abs/2609.00049) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2609-00049.md))
 
 ## Model Selection
 
@@ -279,9 +279,9 @@ This index groups curated resources by target developer skills.
 ## Multi-Agent Design
 
 - [maunappl8/openai-agents-ts-kit](https://github.com/maunappl8/openai-agents-ts-kit) (Tier: `essential` | [`Local File`](../../ai/agents/maunappl8-openai-agents-ts-kit.md))
-- [NanGePlus/CrewAITest](https://github.com/NanGePlus/CrewAITest) (Tier: `essential` | [`Local File`](../../ai/agents/nangeplus-crewaitest.md))
 - [google-gemini/gemini-fullstack-langgraph-quickstart](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart) (Tier: `essential` | [`Local File`](../../ai/rag/google-gemini-gemini-fullstack-langgraph-quickstart.md))
 - [scotthavird/crewai-template](https://github.com/scotthavird/crewai-template) (Tier: `essential` | [`Local File`](../../ai/rag/scotthavird-crewai-template.md))
+- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) (Tier: `essential` | [`Local File`](../../ai/rag/deepset-ai-haystack.md))
 - [fetchai/innovation-lab-examples](https://github.com/fetchai/innovation-lab-examples) (Tier: `essential` | [`Local File`](../../ai/rag/fetchai-innovation-lab-examples.md))
 - [wassim249/fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template) (Tier: `essential` | [`Local File`](../../ai/agents/wassim249-fastapi-langgraph-agent-production-ready-template.md))
 - [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) (Tier: `essential` | [`Local File`](../../ai/agents/mergisi-awesome-openclaw-agents.md))
@@ -358,22 +358,22 @@ This index groups curated resources by target developer skills.
 - [OpenAI · GitHub](https://github.com/openai) (Tier: `essential` | [`Local File`](../../ai/agents/openai-github.md))
 - [GoogleCloudPlatform/agent-starter-pack](https://github.com/GoogleCloudPlatform/agent-starter-pack) (Tier: `essential` | [`Local File`](../../ai/agents/googlecloudplatform-agent-starter-pack.md))
 - [microsoft/TREC-2019-Deep-Learning](https://github.com/microsoft/TREC-2019-Deep-Learning) (Tier: `essential` | [`Local File`](../../ai/resources/microsoft-trec-2019-deep-learning.md))
+- [datawhalechina/all-in-rag](https://github.com/datawhalechina/all-in-rag) (Tier: `essential` | [`Local File`](../../ai/rag/datawhalechina-all-in-rag.md))
 - [weaviate/Verba](https://github.com/weaviate/Verba) (Tier: `essential` | [`Local File`](../../ai/rag/weaviate-verba.md))
+- [Building Production-Ready RAG Systems from Scratch | Md. Zahid Hasan](https://z4hid.github.io/blog/building-rag-systems-from-scratch/) (Tier: `essential` | [`Local File`](../../ai/rag/building-rag-systems-from-scratch-a-practical-guid.md))
 - [pypi/warehouse](https://github.com/pypi/warehouse) (Tier: `essential` | [`Local File`](../../ai/resources/pypi-warehouse.md))
 - [neuml/txtai](https://github.com/neuml/txtai) (Tier: `essential` | [`Local File`](../../ai/rag/neuml-txtai.md))
-- [pinecone-io/pinecone-claude-code-plugin](https://github.com/pinecone-io/pinecone-claude-code-plugin) (Tier: `essential` | [`Local File`](../../ai/rag/pinecone-io-pinecone-claude-code-plugin.md))
-- [devloperdevesh/EnterpriseRAG-AI](https://github.com/devloperdevesh/EnterpriseRAG-AI) (Tier: `essential` | [`Local File`](../../ai/rag/devloperdevesh-enterpriserag-ai.md))
 
 ## Reranking Pipelines
 
 - [weaviate/Verba](https://github.com/weaviate/Verba) (Tier: `essential` | [`Local File`](../../ai/rag/weaviate-verba.md))
 - [neuml/txtai](https://github.com/neuml/txtai) (Tier: `essential` | [`Local File`](../../ai/rag/neuml-txtai.md))
 - [pinecone-io/pinecone-claude-code-plugin](https://github.com/pinecone-io/pinecone-claude-code-plugin) (Tier: `essential` | [`Local File`](../../ai/rag/pinecone-io-pinecone-claude-code-plugin.md))
-- [dannyblaker/rag-tutorial](https://github.com/dannyblaker/rag-tutorial) (Tier: `essential` | [`Local File`](../../ai/rag/dannyblaker-rag-tutorial.md))
 - [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) (Tier: `essential` | [`Local File`](../../ai/rag/sciphi-ai-r2r.md))
 - [RAG Application Tutorial 2025: Build Production-Ready Retrieval Augmented Generation Systems · System Debug](https://sysdebug.com/posts/rag-application-tutorial-production-guide/) (Tier: `essential` | [`Local File`](../../ai/rag/rag-application-tutorial-2025-build-production-rea.md))
 - [Elasticsearch: The Official Distributed Search & Analytics Engine | Elastic](https://www.elastic.co/elasticsearch/) (Tier: `essential` | [`Local File`](../../ai/rag/elasticsearch-the-official-distributed-search-anal.md))
 - [google-gemini/gemini-fullstack-langgraph-quickstart](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart) (Tier: `essential` | [`Local File`](../../ai/rag/google-gemini-gemini-fullstack-langgraph-quickstart.md))
+- [datawhalechina/all-in-rag](https://github.com/datawhalechina/all-in-rag) (Tier: `essential` | [`Local File`](../../ai/rag/datawhalechina-all-in-rag.md))
 
 ## Roadmap Planning
 
@@ -403,19 +403,19 @@ This index groups curated resources by target developer skills.
 - [GoogleCloudPlatform/agent-starter-pack](https://github.com/GoogleCloudPlatform/agent-starter-pack) (Tier: `essential` | [`Local File`](../../ai/agents/googlecloudplatform-agent-starter-pack.md))
 - [langchain-ai/langchain-skills](https://github.com/langchain-ai/langchain-skills) (Tier: `essential` | [`Local File`](../../ai/agents/langchain-ai-langchain-skills.md))
 - [AlexPEClub/ai-coding-starter-kit](https://github.com/AlexPEClub/ai-coding-starter-kit) (Tier: `essential` | [`Local File`](../../ai/agents/alexpeclub-ai-coding-starter-kit.md))
-- [NanGePlus/CrewAITest](https://github.com/NanGePlus/CrewAITest) (Tier: `essential` | [`Local File`](../../ai/agents/nangeplus-crewaitest.md))
 - [Black Forest Labs · GitHub](https://github.com/black-forest-labs) (Tier: `essential` | [`Local File`](../../ai/resources/black-forest-labs-github.md))
 - [google-gemini/gemini-fullstack-langgraph-quickstart](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart) (Tier: `essential` | [`Local File`](../../ai/rag/google-gemini-gemini-fullstack-langgraph-quickstart.md))
+- [datawhalechina/all-in-rag](https://github.com/datawhalechina/all-in-rag) (Tier: `essential` | [`Local File`](../../ai/rag/datawhalechina-all-in-rag.md))
 - [neuml/txtai](https://github.com/neuml/txtai) (Tier: `essential` | [`Local File`](../../ai/rag/neuml-txtai.md))
 
 ## Similarity Search
 
 - [pinecone-io/pinecone-claude-code-plugin](https://github.com/pinecone-io/pinecone-claude-code-plugin) (Tier: `essential` | [`Local File`](../../ai/rag/pinecone-io-pinecone-claude-code-plugin.md))
+- [datawhalechina/all-in-rag](https://github.com/datawhalechina/all-in-rag) (Tier: `essential` | [`Local File`](../../ai/rag/datawhalechina-all-in-rag.md))
 - [neuml/txtai](https://github.com/neuml/txtai) (Tier: `essential` | [`Local File`](../../ai/rag/neuml-txtai.md))
 - [weaviate/Verba](https://github.com/weaviate/Verba) (Tier: `essential` | [`Local File`](../../ai/rag/weaviate-verba.md))
 - [Pinecone · GitHub](https://github.com/pinecone-io) (Tier: `essential` | [`Local File`](../../ai/rag/pinecone-github.md))
 - [🧩 Integrations | Haystack](https://haystack.deepset.ai/integrations) (Tier: `essential` | [`Local File`](../../ai/rag/integrations-haystack.md))
-- [dannyblaker/rag-tutorial](https://github.com/dannyblaker/rag-tutorial) (Tier: `essential` | [`Local File`](../../ai/rag/dannyblaker-rag-tutorial.md))
 - [decodingai-magazine/llm-twin-course](https://github.com/decodingai-magazine/llm-twin-course) (Tier: `essential` | [`Local File`](../../ai/rag/decodingai-magazine-llm-twin-course.md))
 - [VivekMalhan666/rag-beginner-guide](https://github.com/VivekMalhan666/rag-beginner-guide) (Tier: `essential` | [`Local File`](../../ai/rag/vivekmalhan666-rag-beginner-guide.md))
 
@@ -433,9 +433,9 @@ This index groups curated resources by target developer skills.
 ## State Machines
 
 - [maunappl8/openai-agents-ts-kit](https://github.com/maunappl8/openai-agents-ts-kit) (Tier: `essential` | [`Local File`](../../ai/agents/maunappl8-openai-agents-ts-kit.md))
-- [NanGePlus/CrewAITest](https://github.com/NanGePlus/CrewAITest) (Tier: `essential` | [`Local File`](../../ai/agents/nangeplus-crewaitest.md))
 - [google-gemini/gemini-fullstack-langgraph-quickstart](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart) (Tier: `essential` | [`Local File`](../../ai/rag/google-gemini-gemini-fullstack-langgraph-quickstart.md))
 - [scotthavird/crewai-template](https://github.com/scotthavird/crewai-template) (Tier: `essential` | [`Local File`](../../ai/rag/scotthavird-crewai-template.md))
+- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) (Tier: `essential` | [`Local File`](../../ai/rag/deepset-ai-haystack.md))
 - [fetchai/innovation-lab-examples](https://github.com/fetchai/innovation-lab-examples) (Tier: `essential` | [`Local File`](../../ai/rag/fetchai-innovation-lab-examples.md))
 - [wassim249/fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template) (Tier: `essential` | [`Local File`](../../ai/agents/wassim249-fastapi-langgraph-agent-production-ready-template.md))
 - [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) (Tier: `essential` | [`Local File`](../../ai/agents/mergisi-awesome-openclaw-agents.md))
@@ -510,11 +510,11 @@ This index groups curated resources by target developer skills.
 ## Vector Indexes
 
 - [pinecone-io/pinecone-claude-code-plugin](https://github.com/pinecone-io/pinecone-claude-code-plugin) (Tier: `essential` | [`Local File`](../../ai/rag/pinecone-io-pinecone-claude-code-plugin.md))
+- [datawhalechina/all-in-rag](https://github.com/datawhalechina/all-in-rag) (Tier: `essential` | [`Local File`](../../ai/rag/datawhalechina-all-in-rag.md))
 - [neuml/txtai](https://github.com/neuml/txtai) (Tier: `essential` | [`Local File`](../../ai/rag/neuml-txtai.md))
 - [weaviate/Verba](https://github.com/weaviate/Verba) (Tier: `essential` | [`Local File`](../../ai/rag/weaviate-verba.md))
 - [Pinecone · GitHub](https://github.com/pinecone-io) (Tier: `essential` | [`Local File`](../../ai/rag/pinecone-github.md))
 - [🧩 Integrations | Haystack](https://haystack.deepset.ai/integrations) (Tier: `essential` | [`Local File`](../../ai/rag/integrations-haystack.md))
-- [dannyblaker/rag-tutorial](https://github.com/dannyblaker/rag-tutorial) (Tier: `essential` | [`Local File`](../../ai/rag/dannyblaker-rag-tutorial.md))
 - [decodingai-magazine/llm-twin-course](https://github.com/decodingai-magazine/llm-twin-course) (Tier: `essential` | [`Local File`](../../ai/rag/decodingai-magazine-llm-twin-course.md))
 - [VivekMalhan666/rag-beginner-guide](https://github.com/VivekMalhan666/rag-beginner-guide) (Tier: `essential` | [`Local File`](../../ai/rag/vivekmalhan666-rag-beginner-guide.md))
 
@@ -524,10 +524,10 @@ This index groups curated resources by target developer skills.
 - [GoogleCloudPlatform/agent-starter-pack](https://github.com/GoogleCloudPlatform/agent-starter-pack) (Tier: `essential` | [`Local File`](../../ai/agents/googlecloudplatform-agent-starter-pack.md))
 - [langchain-ai/langchain-skills](https://github.com/langchain-ai/langchain-skills) (Tier: `essential` | [`Local File`](../../ai/agents/langchain-ai-langchain-skills.md))
 - [AlexPEClub/ai-coding-starter-kit](https://github.com/AlexPEClub/ai-coding-starter-kit) (Tier: `essential` | [`Local File`](../../ai/agents/alexpeclub-ai-coding-starter-kit.md))
-- [NanGePlus/CrewAITest](https://github.com/NanGePlus/CrewAITest) (Tier: `essential` | [`Local File`](../../ai/agents/nangeplus-crewaitest.md))
 - [Black Forest Labs · GitHub](https://github.com/black-forest-labs) (Tier: `essential` | [`Local File`](../../ai/resources/black-forest-labs-github.md))
 - [google-gemini/gemini-fullstack-langgraph-quickstart](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart) (Tier: `essential` | [`Local File`](../../ai/rag/google-gemini-gemini-fullstack-langgraph-quickstart.md))
+- [datawhalechina/all-in-rag](https://github.com/datawhalechina/all-in-rag) (Tier: `essential` | [`Local File`](../../ai/rag/datawhalechina-all-in-rag.md))
 - [neuml/txtai](https://github.com/neuml/txtai) (Tier: `essential` | [`Local File`](../../ai/rag/neuml-txtai.md))
 
 ---
-*Last updated: 2026-09-03 10:31 IST*
+*Last updated: 2026-09-03 18:43 IST*

@@ -4,12 +4,11 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/run-llama/llama-parse-cli
-collected_at: '2026-09-01T19:14:31.513734+05:30'
+collected_at: '2026-09-03T18:35:16.734349+05:30'
 published_at: '2026-08-28T02:40:57Z'
 tags:
 - github-repo
 - go
-- hackernews
 - meta-ai
 - models
 - rag
@@ -19,11 +18,11 @@ status: active
 license: MIT
 archived: false
 created_at: '2026-06-15T21:38:58Z'
-pushed_at: '2026-09-01T00:42:32Z'
+pushed_at: '2026-09-02T07:02:28Z'
 resource_id: github:run-llama/llama-parse-cli
-first_seen: '2026-09-01T19:14:31.513734+05:30'
-last_seen: '2026-09-01T19:14:31.513734+05:30'
-last_checked: '2026-09-01T19:14:31.513734+05:30'
+first_seen: '2026-09-03T18:35:16.734349+05:30'
+last_seen: '2026-09-03T18:35:16.734349+05:30'
+last_checked: '2026-09-03T18:35:16.734349+05:30'
 health_score: 100
 ---
 
@@ -32,8 +31,8 @@ health_score: 100
 ## Summary
 
 - **Purpose**: CLI tool for cloud-based OCR and document parsing using LlamaParse, enabling structured extraction from unstructured documents.
-- **Technical Stack**: Implemented in Go, leveraging cloud infrastructure for scalable document processing.
-- **Metadata**: Minimal repository activity (2 stars, 1 fork) with last update on 2026-08-28.
+- **Tech Stack**: Implemented in Go, leveraging cloud infrastructure for scalable document processing.
+- **Metadata**: 2 stars, 1 fork, last updated 2026-08-28.
 
 ## Why It Matters
 
@@ -50,7 +49,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - License: MIT
 - Archived: No
 - Created At: 2026-06-15T21:38:58Z
-- Pushed At: 2026-09-01T00:42:32Z
+- Pushed At: 2026-09-02T07:02:28Z
 
 ## Possible Use Cases
 

@@ -4,9 +4,10 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/datawhalechina/all-in-rag
-collected_at: '2026-09-03T10:13:37.734307+05:30'
-published_at: '2026-09-03T03:47:54Z'
+collected_at: '2026-09-03T18:25:52.415284+05:30'
+published_at: '2026-09-03T12:24:53Z'
 tags:
+- benchmark
 - github-repo
 - hackernews
 - meta-ai
@@ -14,16 +15,16 @@ tags:
 - python
 - rag
 - workflows
-stars: 10773
+stars: 10784
 language: Python
 status: active
 archived: false
 created_at: '2025-06-05T08:12:35Z'
 pushed_at: '2026-09-02T14:41:36Z'
 resource_id: github:datawhalechina/all-in-rag
-first_seen: '2026-09-03T10:13:37.734307+05:30'
-last_seen: '2026-09-03T10:13:37.734307+05:30'
-last_checked: '2026-09-03T10:13:37.734307+05:30'
+first_seen: '2026-09-03T18:25:52.415284+05:30'
+last_seen: '2026-09-03T18:25:52.415284+05:30'
+last_checked: '2026-09-03T18:25:52.415284+05:30'
 health_score: 100
 ---
 
@@ -31,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Comprehensive RAG Guide**: Provides a full-stack technical guide for developing applications with Retrieval-Augmented Generation (RAG) using large language models (LLMs) like DeepSeek and Kimi-K2, covering embedding, indexing, and multimodal integration.
+- **Comprehensive RAG Development Guide**: A full-stack technical resource covering Retrieval-Augmented Generation (RAG) implementation, including integration with deep learning models (e.g., DeepSeek, Kimi-K2), embedding techniques, and multimodal workflows.
 
-- **Toolchain Integration**: Demonstrates practical implementations with frameworks such as LangChain, LlamaIndex, and libraries for vector databases (Milvus) and graph databases (Neo4j), emphasizing Python-based workflows.
+- **Toolchain Integration**: Demonstrates practical implementations using Python-based frameworks (LangChain, LlamaIndex) and vector databases (Milvus) alongside graph-based systems (Neo4j) for advanced retrieval strategies.
 
-- **Advanced Topics**: Includes multimodal RAG pipelines, hybrid retrieval strategies, and optimization techniques for production-grade LLM applications, with last update timestamped **2026-09-03**.
+- **Production-Ready Workflows**: Focuses on scalable RAG architectures, covering deployment, evaluation, and optimization for real-world AI applications, with updates as of September 2026.
 
 ## Why It Matters
 
@@ -44,11 +45,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: datawhalechina
-- Stars: 10773
-- Forks: 5330
+- Stars: 10784
+- Forks: 5340
 - Language: Python
 - Topics: ai, deepseek, embedding, kimi-k2, langchain, llama-index, llm, milvus, multimodal, neo4j, python, rag
-- Last Updated: 2026-09-03T03:47:54Z
+- Last Updated: 2026-09-03T12:24:53Z
 - Archived: No
 - Created At: 2025-06-05T08:12:35Z
 - Pushed At: 2026-09-02T14:41:36Z

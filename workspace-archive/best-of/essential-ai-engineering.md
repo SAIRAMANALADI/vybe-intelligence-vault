@@ -28,6 +28,11 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `89` | **Path**: [`microsoft-trec-2019-deep-learning.md`](../../ai/resources/microsoft-trec-2019-deep-learning.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
+### [datawhalechina/all-in-rag](https://github.com/datawhalechina/all-in-rag)
+- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
+- **Score**: `89` | **Path**: [`datawhalechina-all-in-rag.md`](../../ai/rag/datawhalechina-all-in-rag.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
+
 ### [weaviate/Verba](https://github.com/weaviate/Verba)
 - **Category**: `ai/rag` | **Kind**: `BENCHMARK` | **Tier**: `ESSENTIAL`
 - **Score**: `89` | **Path**: [`weaviate-verba.md`](../../ai/rag/weaviate-verba.md)
@@ -43,6 +48,11 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `88` | **Path**: [`arxiv-2607-14181.md`](../../ai/research/arxiv-2607-14181.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
+### [Building Production-Ready RAG Systems from Scratch | Md. Zahid Hasan](https://z4hid.github.io/blog/building-rag-systems-from-scratch/)
+- **Category**: `ai/rag` | **Kind**: `PROMPT` | **Tier**: `ESSENTIAL`
+- **Score**: `88` | **Path**: [`building-rag-systems-from-scratch-a-practical-guid.md`](../../ai/rag/building-rag-systems-from-scratch-a-practical-guid.md)
+- **Selection Reason**: Strong keyword match, Valuable developer reference
+
 ### [GoogleCloudPlatform/agent-starter-pack](https://github.com/GoogleCloudPlatform/agent-starter-pack)
 - **Category**: `ai/agents` | **Kind**: `TEMPLATE` | **Tier**: `ESSENTIAL`
 - **Score**: `87` | **Path**: [`googlecloudplatform-agent-starter-pack.md`](../../ai/agents/googlecloudplatform-agent-starter-pack.md)
@@ -56,16 +66,6 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 ### [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents)
 - **Category**: `ai/agents` | **Kind**: `TEMPLATE` | **Tier**: `ESSENTIAL`
 - **Score**: `87` | **Path**: [`mergisi-awesome-openclaw-agents.md`](../../ai/agents/mergisi-awesome-openclaw-agents.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
-
-### [Sri-Krishna-V/awesome-adk-agents](https://github.com/Sri-Krishna-V/awesome-adk-agents)
-- **Category**: `ai/agents` | **Kind**: `TEMPLATE` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`sri-krishna-v-awesome-adk-agents.md`](../../ai/agents/sri-krishna-v-awesome-adk-agents.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
-
-### [OpenAI · GitHub](https://github.com/openai)
-- **Category**: `ai/agents` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`openai-github.md`](../../ai/agents/openai-github.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
 
@@ -89,4 +89,4 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 *Curated by Harvester Engine*
 
-*Last updated: 2026-09-03 10:31 IST*
+*Last updated: 2026-09-03 18:43 IST*

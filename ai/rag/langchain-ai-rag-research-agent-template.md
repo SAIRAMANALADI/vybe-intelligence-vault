@@ -4,17 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/langchain-ai/rag-research-agent-template
-collected_at: '2026-09-03T04:15:46.060593+05:30'
-published_at: '2026-08-13T21:20:48Z'
+collected_at: '2026-09-03T18:26:22.610300+05:30'
+published_at: '2026-09-03T01:47:18Z'
 tags:
 - agents
-- benchmark
 - github-repo
-- openai
 - python
 - rag
-- workflows
-stars: 312
+stars: 313
 language: Python
 status: active
 license: MIT
@@ -22,9 +19,9 @@ archived: true
 created_at: '2024-10-14T20:06:54Z'
 pushed_at: '2024-12-03T14:41:47Z'
 resource_id: github:langchain-ai/rag-research-agent-template
-first_seen: '2026-09-03T04:15:46.060593+05:30'
-last_seen: '2026-09-03T04:15:46.060593+05:30'
-last_checked: '2026-09-03T04:15:46.060593+05:30'
+first_seen: '2026-09-03T18:26:22.610300+05:30'
+last_seen: '2026-09-03T18:26:22.610300+05:30'
+last_checked: '2026-09-03T18:26:22.610300+05:30'
 health_score: 100
 ---
 
@@ -32,11 +29,7 @@ health_score: 100
 
 ## Summary
 
-- **Template Purpose**: Provides a structured starter repository for building Retrieval-Augmented Generation (RAG) research agents using LangChain, facilitating rapid prototyping of AI-driven document analysis pipelines.
-
-- **Key Components**: Includes modular Python code for document ingestion, vector storage (e.g., FAISS/Chroma), LLM integration (e.g., LangChain's `LLMChain`), and evaluation utilities for RAG workflows.
-
-- **Dependencies**: Leverages LangChain ecosystem (e.g., `langchain-core`, `langchain-community`) and likely integrates with vector databases (e.g., Pinecone, Weaviate) and LLMs (e.g., OpenAI, Hugging Face).
+*   Provides a Python-based template for developing Retrieval Augmented Generation (RAG)
 
 ## Why It Matters
 
@@ -45,11 +38,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: langchain-ai
-- Stars: 312
+- Stars: 313
 - Forks: 73
 - Language: Python
 - Topics: None
-- Last Updated: 2026-08-13T21:20:48Z
+- Last Updated: 2026-09-03T01:47:18Z
 - License: MIT
 - Archived: Yes
 - Created At: 2024-10-14T20:06:54Z

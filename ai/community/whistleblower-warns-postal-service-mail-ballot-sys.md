@@ -13,13 +13,14 @@ collected_at: '2026-09-03T10:11:19.394425+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:whistleblower-warns-postal-service-mail-ballot-sys
 first_seen: '2026-09-03T10:11:19.394425+05:30'
 last_seen: '2026-09-03T10:11:19.394425+05:30'
 last_checked: '2026-09-03T10:11:19.394425+05:30'
 health_score: 100
 ---
+
 
 # Whistleblower warns Postal Service mail ballot system has catastrophic problems
 

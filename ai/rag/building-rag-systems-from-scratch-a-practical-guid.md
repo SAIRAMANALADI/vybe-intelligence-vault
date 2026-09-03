@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://z4hid.github.io/blog/building-rag-systems-from-scratch/
-published_at: '2026-09-02T01:00:09.194663+05:30'
-collected_at: '2026-09-02T01:00:09.194675+05:30'
+published_at: '2026-09-03T18:26:09.165106+05:30'
+collected_at: '2026-09-03T18:26:09.165119+05:30'
 tags:
 - agents
 - anthropic
@@ -19,9 +19,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:building-production-ready-rag-systems-from-scratch
-first_seen: '2026-09-02T01:00:09.194675+05:30'
-last_seen: '2026-09-02T01:00:09.194675+05:30'
-last_checked: '2026-09-02T01:00:09.194675+05:30'
+first_seen: '2026-09-03T18:26:09.165119+05:30'
+last_seen: '2026-09-03T18:26:09.165119+05:30'
+last_checked: '2026-09-03T18:26:09.165119+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,11 @@ health_score: 100
 
 ## Summary
 
-- **RAG Pipeline Architecture**: The system consists of two phases—**indexing** (documents → chunking → embedding → vector storage) and **querying** (user query → embedding → vector search → top-K retrieval → LLM generation)—with critical dependencies on chunking strategy, embedding model selection, and vector database choice for retrieval accuracy and latency.
+- **RAG Pipeline Architecture**: Indexing phase converts raw documents into embeddings via chunking (800 tokens, 200 overlap) and stores them in a vector DB (Chroma/Pinecone); querying phase embeds user input, retrieves top-K relevant chunks (hybrid BM25+semantic search), and generates answers with LLM while enforcing strict context adherence and citation requirements.
 
-- **Key Technical Trade-offs**: Chunk size (200–1500 tokens) balances context retention vs. retrieval precision; hybrid search (semantic + BM25) improves recall for mixed query types; and re-ranking (e.g., Cohere cross-encoder) boosts answer quality by 15–25% with minimal overhead.
+- **Critical Optimization Parameters**: Embedding model choice (e.g., OpenAI `text-embedding-3-small` vs. BAAI `BGE-large-en-v1.5`), chunking strategy (semantic vs. fixed-size), and retrieval enhancements (re-ranking via Cohere/Sentence Transformers, metadata filtering) directly impact hallucination rates (42% reduction per Microsoft Research) and retrieval precision.
 
-- **Production Considerations**: Requires **nightly index updates** for document changes, **semantic caching** for frequent queries, **comprehensive logging** (query, retrieval, generation) for debugging, and **fallback mechanisms** for edge cases (e.g., no relevant docs, vector store failures).
+- **Production Hardening**: Implements nightly incremental indexing, semantic caching for repeated queries, exhaustive logging (query, retrieved docs, LLM prompt/output), and fallback mechanisms for empty retrievals; enforces context length limits (3–5 chunks) to balance cost/performance while maintaining faithfulness metrics via RAGAS evaluation.
 
 ## Why It Matters
 
@@ -43,7 +43,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-09-02T01:00:09.194663+05:30
+- Published: 2026-09-03T18:26:09.165106+05:30
 
 ## Related Tags
 

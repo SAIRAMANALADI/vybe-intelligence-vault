@@ -13,13 +13,14 @@ collected_at: '2026-09-03T10:11:20.128215+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:altair-basic-interpreter-source-code-1975-pdf
 first_seen: '2026-09-03T04:14:41.896729+05:30'
 last_seen: '2026-09-03T10:11:20.128215+05:30'
 last_checked: '2026-09-03T10:11:20.128215+05:30'
 health_score: 100
 ---
+
 
 # Altair Basic Interpreter Source Code (1975) [pdf]
 

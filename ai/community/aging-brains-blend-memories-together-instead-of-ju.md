@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://studyfinds.com/aging-brains-blend-memories-together-instead-of-forgetting-them-study-finds
 hn_url: https://news.ycombinator.com/item?id=49535548
-score: 233
+score: 303
 author: mdp2021
-comments_count: 111
+comments_count: 123
 published_at: '2026-09-02T18:29:09+05:30'
-collected_at: '2026-09-03T10:11:19.311016+05:30'
+collected_at: '2026-09-03T18:25:04.629656+05:30'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: hackernews:aging-brains-blend-memories-together-instead-of-ju
 first_seen: '2026-09-03T00:58:03.812935+05:30'
-last_seen: '2026-09-03T10:11:19.311016+05:30'
-last_checked: '2026-09-03T10:11:19.311016+05:30'
+last_seen: '2026-09-03T18:25:04.629656+05:30'
+last_checked: '2026-09-03T18:25:04.629656+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by mdp2021. Score: 233, Comments: 111.
+Hacker News story by mdp2021. Score: 303, Comments: 123.
 Original Link: https://studyfinds.com/aging-brains-blend-memories-together-instead-of-forgetting-them-study-finds/
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: mdp2021
-- Score: 233 Upvotes
-- Comments: 111 Discussions
+- Score: 303 Upvotes
+- Comments: 123 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49535548
 - Original Article: https://studyfinds.com/aging-brains-blend-memories-together-instead-of-forgetting-them-study-finds
 

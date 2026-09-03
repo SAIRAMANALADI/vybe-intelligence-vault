@@ -1,6 +1,6 @@
 ---
 title: Live trending GitHub repositories — daily momentum ranking | Trendshift
-archive_category: ai-coding-agents
+archive_category: automation-workflows
 source_category: ai/agents
 source_url: https://trendshift.io/
 resource_id: blog:live-trending-github-repositories-daily-momentum-r
@@ -8,46 +8,42 @@ local_vault_path: ai/agents/live-trending-github-repositories-daily-momentum-r.m
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: tutorial
+resource_kind: framework
 importance: medium
 tags:
 - agents
 - hackernews
-- meta-ai
-- models
+- reddit
 - scripts
 - web-crawled
 - workflows
-- youtube
 selection_reason:
 - Strong keyword match
-- Valuable developer reference
+- Useful for project building
 ---
 
 # Live trending GitHub repositories — daily momentum ranking | Trendshift
 
 ## Why This Is In The Archive
 
-- Matched archive category: `AI Coding Agents`
+- Matched archive category: `Automation Workflows`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: tutorial
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **open-connector**: Open-source gateway enabling AI agent interoperability via standardized connector protocols, with 150K+ monthly visitors.
-
-- **Live Mentions**: Real-time tracking of trending repositories (e.g., `xpr-account-trust-cli`, `leOS-Studio`) as they gain traction, sourced from X/Twitter posts.
-
-- **Daily Trending Topics**: GitHub repositories categorized by technical domains, led by `#AI agent` (10.9k stars), `#AI skills` (3.9k stars), and `#AI coding assistant` (3.5k stars).
+- **Busbar**: Open-source framework enabling fine-grained control over AI agent actions via policy enforcement and real-time monitoring.
+- **Bifrost**: Enterprise-grade AI gateway for scalable routing, governance, and security of AI traffic with pluggable middleware support.
+- **open-flow/open-connector**: Agent-first workflow automation toolkit with a modular connector gateway for integrating AI agents with external systems.
 
 ## Use Cases
 
-- Assisted programming workflows
-- Auto-debugging codebases
-- Autonomous feature building
+- Local cron scheduling
+- n8n pipeline setups
+- OS task automations
 
 ## Source
 

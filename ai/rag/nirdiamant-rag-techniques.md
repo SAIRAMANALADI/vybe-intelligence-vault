@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NirDiamant/RAG_Techniques
-collected_at: '2026-09-03T04:15:36.090021+05:30'
-published_at: '2026-09-02T22:22:25Z'
+collected_at: '2026-09-03T18:26:12.472825+05:30'
+published_at: '2026-09-03T10:06:02Z'
 tags:
 - agents
 - github-repo
@@ -15,7 +15,8 @@ tags:
 - models
 - openai
 - rag
-stars: 29344
+- workflows
+stars: 29350
 language: Jupyter Notebook
 status: active
 license: NOASSERTION
@@ -23,9 +24,9 @@ archived: false
 created_at: '2024-07-13T16:08:36Z'
 pushed_at: '2026-08-29T08:59:28Z'
 resource_id: github:nirdiamant/rag_techniques
-first_seen: '2026-09-03T04:15:36.090021+05:30'
-last_seen: '2026-09-03T04:15:36.090021+05:30'
-last_checked: '2026-09-03T04:15:36.090021+05:30'
+first_seen: '2026-09-03T18:26:12.472825+05:30'
+last_seen: '2026-09-03T18:26:12.472825+05:30'
+last_checked: '2026-09-03T18:26:12.472825+05:30'
 health_score: 100
 ---
 
@@ -33,9 +34,9 @@ health_score: 100
 
 ## Summary
 
-*   Showcases advanced Retrieval-Augmented Generation (RAG) techniques, encompassing agentic RAG and semantic search methodologies.
-*   Implements RAG systems using prominent LLM frameworks like LangChain and LlamaIndex, integrating OpenAI models and vector databases.
-*   Offers detailed, executable Jupyter Notebook tutorials for practical application and understanding of each RAG technique.
+- **Repository Overview**: Hosts advanced RAG techniques with Jupyter Notebook tutorials, covering agentic RAG, embeddings, semantic search, and vector databases.
+- **Technical Stack**: Integrates LangChain, LlamaIndex, OpenAI, and Python for LLM-based retrieval-augmented generation workflows.
+- **Metrics**: 29.3K stars, 3.5K forks; last updated September 2026.
 
 ## Why It Matters
 
@@ -44,11 +45,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: NirDiamant
-- Stars: 29344
-- Forks: 3589
+- Stars: 29350
+- Forks: 3590
 - Language: Jupyter Notebook
 - Topics: agentic-rag, ai, embeddings, generative-ai, gpt, langchain, llama-index, llm, llms, machine-learning, nlp, openai, python, rag, retrieval-augmented-generation, semantic-search, tutorials, vector-database
-- Last Updated: 2026-09-02T22:22:25Z
+- Last Updated: 2026-09-03T10:06:02Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2024-07-13T16:08:36Z

@@ -11,7 +11,6 @@ archive_tier: useful
 resource_kind: benchmark
 importance: medium
 tags:
-- hackernews
 - rag
 - web-crawled
 selection_reason:
@@ -32,9 +31,11 @@ selection_reason:
 
 ## Summary
 
-- **Resource Link**: The provided URL directs to a Google Colab notebook tutorial hosted on GitHub, specifically for a **Multi-Stage Retrieval-Augmented Generation (RAG) system** (`mst-rag-tutorial`).
-- **Authentication Requirement**: Accessing the notebook requires a **Google account sign-in** due to Colab's integration with Google Drive.
-- **Content Focus**: The tutorial covers **RAG pipelines**, likely including **multi-stage retrieval mechanisms** and **generation optimization** techniques.
+- **Resource Link**: The provided URL directs to a Google Colab notebook tutorial on RAG (Retrieval-Augmented Generation) hosted on GitHub, specifically for MST-RAG (Multi-Stage Transformer RAG) implementation.
+
+- **Access Requirement**: Sign-in via Google accounts is mandatory to access the notebook (`rag_tutorial.ipynb`) due to Google Colab's authentication policy.
+
+- **Content Focus**: The tutorial covers end-to-end RAG pipeline development, including retrieval mechanisms, transformer-based g
 
 ## Use Cases
 

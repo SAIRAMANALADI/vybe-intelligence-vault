@@ -2,7 +2,7 @@
 title: AI Document Extraction Software with confidence scores and citations | Extract
 archive_category: evals-and-benchmarks
 source_category: ai/rag
-source_url: https://www.llamaindex.ai/llamaextract
+source_url: https://www.llamaindex.ai/llamaextract?utm_source=github&utm_medium=org_card
 resource_id: blog:ai-document-extraction-software-with-confidence-sc
 local_vault_path: ai/rag/ai-document-extraction-software-with-confidence-sc.md
 quality_score: 70
@@ -37,11 +37,11 @@ selection_reason:
 
 ## Summary
 
-- **Field-level confidence scoring**: Provides granular extraction certainty metrics per column to quantify model confidence in structured data extraction.
+- **Field-level confidence scoring**: Quantifies extraction certainty for individual data fields, enabling probabilistic validation of structured outputs from unstructured documents.
 
-- **Layout + context-aware parsing**: Uses advanced reasoning to handle complex spatial layouts, nested tables, and multi-field extraction (e.g., names, dates, decisions) with superior accuracy.
+- **Layout + context-aware parsing**: Uses spatial reasoning and contextual analysis to accurately extract multi-field data (e.g., names, dates, decisions) from complex document layouts, including nested tables and mixed content.
 
-- **Iterative schema development & granular control**: Supports custom schema definition or auto-detection of fields, with configurable parsing mod
+- **Iterative schema development**: Supports custom schema definition or auto-detecti
 
 ## Use Cases
 
@@ -51,7 +51,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://www.llamaindex.ai/llamaextract
+Original source URL: https://www.llamaindex.ai/llamaextract?utm_source=github&utm_medium=org_card
 
 ## Local Vault File
 

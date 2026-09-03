@@ -15,9 +15,9 @@ This index groups resources by direct developer use-cases and design goals.
 ## Orchestrating Multi-Agent Logic
 
 - [maunappl8/openai-agents-ts-kit](https://github.com/maunappl8/openai-agents-ts-kit) (Category: `agent-frameworks` | [`Local File`](../../ai/agents/maunappl8-openai-agents-ts-kit.md))
-- [NanGePlus/CrewAITest](https://github.com/NanGePlus/CrewAITest) (Category: `agent-frameworks` | [`Local File`](../../ai/agents/nangeplus-crewaitest.md))
 - [google-gemini/gemini-fullstack-langgraph-quickstart](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart) (Category: `agent-frameworks` | [`Local File`](../../ai/rag/google-gemini-gemini-fullstack-langgraph-quickstart.md))
 - [scotthavird/crewai-template](https://github.com/scotthavird/crewai-template) (Category: `agent-frameworks` | [`Local File`](../../ai/rag/scotthavird-crewai-template.md))
+- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) (Category: `agent-frameworks` | [`Local File`](../../ai/rag/deepset-ai-haystack.md))
 - [fetchai/innovation-lab-examples](https://github.com/fetchai/innovation-lab-examples) (Category: `agent-frameworks` | [`Local File`](../../ai/rag/fetchai-innovation-lab-examples.md))
 - [wassim249/fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template) (Category: `agent-frameworks` | [`Local File`](../../ai/agents/wassim249-fastapi-langgraph-agent-production-ready-template.md))
 - [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) (Category: `agent-frameworks` | [`Local File`](../../ai/agents/mergisi-awesome-openclaw-agents.md))
@@ -29,8 +29,8 @@ This index groups resources by direct developer use-cases and design goals.
 - [pinecone-io/pinecone-claude-code-plugin](https://github.com/pinecone-io/pinecone-claude-code-plugin) (Category: `vector-databases` | [`Local File`](../../ai/rag/pinecone-io-pinecone-claude-code-plugin.md))
 - [neuml/txtai](https://github.com/neuml/txtai) (Category: `rag-systems` | [`Local File`](../../ai/rag/neuml-txtai.md))
 - [pinecone-io/pinecone-claude-code-plugin](https://github.com/pinecone-io/pinecone-claude-code-plugin) (Category: `rag-systems` | [`Local File`](../../ai/rag/pinecone-io-pinecone-claude-code-plugin.md))
-- [dannyblaker/rag-tutorial](https://github.com/dannyblaker/rag-tutorial) (Category: `rag-systems` | [`Local File`](../../ai/rag/dannyblaker-rag-tutorial.md))
 - [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) (Category: `rag-systems` | [`Local File`](../../ai/rag/sciphi-ai-r2r.md))
+- [datawhalechina/all-in-rag](https://github.com/datawhalechina/all-in-rag) (Category: `vector-databases` | [`Local File`](../../ai/rag/datawhalechina-all-in-rag.md))
 - [neuml/txtai](https://github.com/neuml/txtai) (Category: `vector-databases` | [`Local File`](../../ai/rag/neuml-txtai.md))
 - [weaviate/Verba](https://github.com/weaviate/Verba) (Category: `vector-databases` | [`Local File`](../../ai/rag/weaviate-verba.md))
 
@@ -50,11 +50,11 @@ This index groups resources by direct developer use-cases and design goals.
 - [OpenAI · GitHub](https://github.com/openai) (Category: `evals-and-benchmarks` | [`Local File`](../../ai/agents/openai-github.md))
 - [GoogleCloudPlatform/agent-starter-pack](https://github.com/GoogleCloudPlatform/agent-starter-pack) (Category: `evals-and-benchmarks` | [`Local File`](../../ai/agents/googlecloudplatform-agent-starter-pack.md))
 - [microsoft/TREC-2019-Deep-Learning](https://github.com/microsoft/TREC-2019-Deep-Learning) (Category: `evals-and-benchmarks` | [`Local File`](../../ai/resources/microsoft-trec-2019-deep-learning.md))
+- [datawhalechina/all-in-rag](https://github.com/datawhalechina/all-in-rag) (Category: `evals-and-benchmarks` | [`Local File`](../../ai/rag/datawhalechina-all-in-rag.md))
 - [weaviate/Verba](https://github.com/weaviate/Verba) (Category: `evals-and-benchmarks` | [`Local File`](../../ai/rag/weaviate-verba.md))
+- [Building Production-Ready RAG Systems from Scratch | Md. Zahid Hasan](https://z4hid.github.io/blog/building-rag-systems-from-scratch/) (Category: `evals-and-benchmarks` | [`Local File`](../../ai/rag/building-rag-systems-from-scratch-a-practical-guid.md))
 - [pypi/warehouse](https://github.com/pypi/warehouse) (Category: `evals-and-benchmarks` | [`Local File`](../../ai/resources/pypi-warehouse.md))
 - [neuml/txtai](https://github.com/neuml/txtai) (Category: `evals-and-benchmarks` | [`Local File`](../../ai/rag/neuml-txtai.md))
-- [pinecone-io/pinecone-claude-code-plugin](https://github.com/pinecone-io/pinecone-claude-code-plugin) (Category: `evals-and-benchmarks` | [`Local File`](../../ai/rag/pinecone-io-pinecone-claude-code-plugin.md))
-- [devloperdevesh/EnterpriseRAG-AI](https://github.com/devloperdevesh/EnterpriseRAG-AI) (Category: `evals-and-benchmarks` | [`Local File`](../../ai/rag/devloperdevesh-enterpriserag-ai.md))
 
 ## Script Automations & External API Integration
 
@@ -62,9 +62,9 @@ This index groups resources by direct developer use-cases and design goals.
 - [GoogleCloudPlatform/agent-starter-pack](https://github.com/GoogleCloudPlatform/agent-starter-pack) (Category: `automation-workflows` | [`Local File`](../../ai/agents/googlecloudplatform-agent-starter-pack.md))
 - [langchain-ai/langchain-skills](https://github.com/langchain-ai/langchain-skills) (Category: `automation-workflows` | [`Local File`](../../ai/agents/langchain-ai-langchain-skills.md))
 - [AlexPEClub/ai-coding-starter-kit](https://github.com/AlexPEClub/ai-coding-starter-kit) (Category: `automation-workflows` | [`Local File`](../../ai/agents/alexpeclub-ai-coding-starter-kit.md))
-- [NanGePlus/CrewAITest](https://github.com/NanGePlus/CrewAITest) (Category: `automation-workflows` | [`Local File`](../../ai/agents/nangeplus-crewaitest.md))
 - [Black Forest Labs · GitHub](https://github.com/black-forest-labs) (Category: `automation-workflows` | [`Local File`](../../ai/resources/black-forest-labs-github.md))
 - [google-gemini/gemini-fullstack-langgraph-quickstart](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart) (Category: `automation-workflows` | [`Local File`](../../ai/rag/google-gemini-gemini-fullstack-langgraph-quickstart.md))
+- [datawhalechina/all-in-rag](https://github.com/datawhalechina/all-in-rag) (Category: `automation-workflows` | [`Local File`](../../ai/rag/datawhalechina-all-in-rag.md))
 - [neuml/txtai](https://github.com/neuml/txtai) (Category: `automation-workflows` | [`Local File`](../../ai/rag/neuml-txtai.md))
 
 ## Streaming UI Layouts & Next.js AI SaaS Templates
@@ -101,4 +101,4 @@ This index groups resources by direct developer use-cases and design goals.
 - [Staircase AI](https://education.gainsight.com/page/staircase-ai) (Category: `learning-paths` | [`Local File`](../../ai/rag/staircase-ai.md))
 
 ---
-*Last updated: 2026-09-03 10:31 IST*
+*Last updated: 2026-09-03 18:43 IST*

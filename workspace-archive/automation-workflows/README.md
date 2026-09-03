@@ -12,9 +12,9 @@ Automated workflows connect AI models to tasks, databases, and cron schedules.
 - [GoogleCloudPlatform/agent-starter-pack](https://github.com/GoogleCloudPlatform/agent-starter-pack) (template - ESSENTIAL Tier)
 - [langchain-ai/langchain-skills](https://github.com/langchain-ai/langchain-skills) (framework - ESSENTIAL Tier)
 - [AlexPEClub/ai-coding-starter-kit](https://github.com/AlexPEClub/ai-coding-starter-kit) (template - ESSENTIAL Tier)
-- [NanGePlus/CrewAITest](https://github.com/NanGePlus/CrewAITest) (framework - ESSENTIAL Tier)
 - [Black Forest Labs · GitHub](https://github.com/black-forest-labs) (mcp-server - ESSENTIAL Tier)
 - [google-gemini/gemini-fullstack-langgraph-quickstart](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart) (template - ESSENTIAL Tier)
+- [datawhalechina/all-in-rag](https://github.com/datawhalechina/all-in-rag) (framework - ESSENTIAL Tier)
 - [neuml/txtai](https://github.com/neuml/txtai) (framework - ESSENTIAL Tier)
 
 ## Best GitHub Repositories
@@ -24,8 +24,8 @@ https://github.com/n8n-io/n8n (n8n)
 - [GoogleCloudPlatform/agent-starter-pack](https://github.com/GoogleCloudPlatform/agent-starter-pack)
 - [langchain-ai/langchain-skills](https://github.com/langchain-ai/langchain-skills)
 - [AlexPEClub/ai-coding-starter-kit](https://github.com/AlexPEClub/ai-coding-starter-kit)
-- [NanGePlus/CrewAITest](https://github.com/NanGePlus/CrewAITest)
 - [Black Forest Labs · GitHub](https://github.com/black-forest-labs)
+- [google-gemini/gemini-fullstack-langgraph-quickstart](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart)
 
 ## Best Learning Resources
 
@@ -43,4 +43,4 @@ https://github.com/n8n-io/n8n (n8n)
 
 ---
 
-*Last updated: 2026-09-03 10:31 IST*
+*Last updated: 2026-09-03 18:43 IST*
