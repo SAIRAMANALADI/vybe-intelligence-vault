@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot
 hn_url: https://news.ycombinator.com/item?id=49550375
-score: 145
+score: 228
 author: rabahs
-comments_count: 51
+comments_count: 68
 published_at: '2026-09-03T19:58:18+05:30'
-collected_at: '2026-09-04T04:10:17.225741+05:30'
+collected_at: '2026-09-04T10:12:46.691318+05:30'
 tags:
 - hackernews
 - llm
 status: active
 resource_id: hackernews:porting-my-1993-amiga-game-to-godot-with-an-llm-re
 first_seen: '2026-09-04T00:52:22.883520+05:30'
-last_seen: '2026-09-04T04:10:17.225741+05:30'
-last_checked: '2026-09-04T04:10:17.225741+05:30'
+last_seen: '2026-09-04T10:12:46.691318+05:30'
+last_checked: '2026-09-04T10:12:46.691318+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by rabahs. Score: 145, Comments: 51.
+Hacker News story by rabahs. Score: 228, Comments: 68.
 Original Link: https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: rabahs
-- Score: 145 Upvotes
-- Comments: 51 Discussions
+- Score: 228 Upvotes
+- Comments: 68 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49550375
 - Original Article: https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot
 

@@ -4,23 +4,23 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/datawhalechina/llm-universe
-collected_at: '2026-09-04T04:11:08.236230+05:30'
-published_at: '2026-09-03T14:33:29Z'
+collected_at: '2026-09-04T10:15:05.421996+05:30'
+published_at: '2026-09-04T02:26:10Z'
 tags:
 - github-repo
-- hackernews
 - jupyter notebook
 - rag
-stars: 13907
+- workflows
+stars: 13908
 language: Jupyter Notebook
 status: active
 archived: false
 created_at: '2023-10-29T16:01:22Z'
 pushed_at: '2026-08-27T03:08:26Z'
 resource_id: github:datawhalechina/llm-universe
-first_seen: '2026-09-04T04:11:08.236230+05:30'
-last_seen: '2026-09-04T04:11:08.236230+05:30'
-last_checked: '2026-09-04T04:11:08.236230+05:30'
+first_seen: '2026-09-04T10:15:05.421996+05:30'
+last_seen: '2026-09-04T10:15:05.421996+05:30'
+last_checked: '2026-09-04T10:15:05.421996+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Educational Framework**: Provides a structured tutorial for beginners in large language model (LLM) application development, covering foundational to advanced concepts.
-
-- **Technical Stack**: Utilizes **LangChain** and **RAG (Retrieval-Augmented Generation)** methodologies, implemented primarily in **Jupyter Notebook** for interactive learning.
-
-- **Repository Metrics**: Highly active with **13,907 stars** and **1,411 forks**, last updated in **September 2026**, indicating sustained community engagement and maintenance.
+*   Provides a beginner-oriented curriculum for large language model (LLM) application development.
+*   Leverages the LangChain framework for orchestrating LLM workflows and integrations.
+*   Demonstrates Retrieval-Augmented Generation (RAG) architectures through Jupyter Notebook-based tutorials.
 
 ## Why It Matters
 
@@ -41,11 +39,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: datawhalechina
-- Stars: 13907
+- Stars: 13908
 - Forks: 1411
 - Language: Jupyter Notebook
 - Topics: langchain, rag
-- Last Updated: 2026-09-03T14:33:29Z
+- Last Updated: 2026-09-04T02:26:10Z
 - Archived: No
 - Created At: 2023-10-29T16:01:22Z
 - Pushed At: 2026-08-27T03:08:26Z

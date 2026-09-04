@@ -13,13 +13,14 @@ collected_at: '2026-09-04T04:10:19.507493+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:how-to-get-a-free-arpa-domain
 first_seen: '2026-09-04T00:52:24.493307+05:30'
 last_seen: '2026-09-04T04:10:19.507493+05:30'
 last_checked: '2026-09-04T04:10:19.507493+05:30'
 health_score: 100
 ---
+
 
 # How to get a free .arpa domain
 

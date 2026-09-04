@@ -63,10 +63,10 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `82` | **Path**: [`arxiv-2504-01407.md`](../../ai/agents/arxiv-2504-01407.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
-### [Robust Biharmonic Skinning Using Geometric Fields](https://arxiv.org/abs/2406.00238)
-- **Category**: `ai/research` | **Kind**: `FRAMEWORK` | **Tier**: `USEFUL`
-- **Score**: `82` | **Path**: [`arxiv-2406-00238.md`](../../ai/research/arxiv-2406-00238.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
+### [TRACE: A Self-Evolving Skill Bank for Consistent, Limit-Aware LLM Agents](https://arxiv.org/abs/2608.22793)
+- **Category**: `ai/agents` | **Kind**: `BENCHMARK` | **Tier**: `USEFUL`
+- **Score**: `82` | **Path**: [`arxiv-2608-22793.md`](../../ai/agents/arxiv-2608-22793.md)
+- **Selection Reason**: Strong keyword match, Valuable developer reference
 
 
 ## Recommended Learning Path
@@ -88,4 +88,4 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 *Curated by Harvester Engine*
 
-*Last updated: 2026-09-04 04:28 IST*
+*Last updated: 2026-09-04 10:32 IST*

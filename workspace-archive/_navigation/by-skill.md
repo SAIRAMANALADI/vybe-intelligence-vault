@@ -530,4 +530,4 @@ This index groups curated resources by target developer skills.
 - [neuml/txtai](https://github.com/neuml/txtai) (Tier: `essential` | [`Local File`](../../ai/rag/neuml-txtai.md))
 
 ---
-*Last updated: 2026-09-04 04:28 IST*
+*Last updated: 2026-09-04 10:32 IST*

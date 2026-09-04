@@ -17,12 +17,12 @@ New AI templates, platforms, context servers, and interface boilerplates for dev
 | [Redakto - The Incognito Tab for LLMs](https://arxiv.org/abs/2608.18260) | `mcp-registry/` | 70 |
 | [Demixing Sparse Signals from Nonlinear Observations using Generalized Non-convex Regularization](https://arxiv.org/abs/2607.10618) | `mcp-registry/` | 70 |
 | [A Large-Scale Dataset of MCP Implementations on GitHub](https://arxiv.org/abs/2607.10123) | `mcp-registry/` | 70 |
+| [CASCADE: A Component Ablation and Corpus Audit of a Layered Local Defense for MCP-Based Systems](https://arxiv.org/abs/2604.17125) | `mcp-registry/` | 70 |
 | [Flama: a Python framework for development and deployment of production-ready APIs, machine learning, and LLM services](https://arxiv.org/abs/2608.18733) | `mcp-registry/` | 70 |
 | [LLM-Guided Retrieval for Prediction of Molecular Perturbation Responses](https://arxiv.org/abs/2608.01734) | `mcp-registry/` | 70 |
 | [modelcontextprotocol/typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk) | `mcp-registry/` | 70 |
 | [jlbadano/ig-mcp](https://github.com/jlbadano/ig-mcp) | `mcp-registry/` | 70 |
 | [github/github-mcp-server](https://github.com/github/github-mcp-server) | `mcp-registry/` | 70 |
 | [Prompts - Model Context Protocol](https://modelcontextprotocol.io/specification/latest/server/prompts) | `mcp-registry/` | 70 |
-| [riseandignite/mcp-shield](https://github.com/riseandignite/mcp-shield) | `mcp-registry/` | 70 |
 
 More resources will appear as the harvester collects them.

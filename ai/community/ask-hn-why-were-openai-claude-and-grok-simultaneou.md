@@ -15,13 +15,14 @@ tags:
 - anthropic
 - hackernews
 - openai
-status: active
+status: inactive
 resource_id: hackernews:ask-hn-why-were-openai-claude-and-grok-simultaneou
 first_seen: '2026-09-04T00:52:22.982469+05:30'
 last_seen: '2026-09-04T04:10:18.890158+05:30'
 last_checked: '2026-09-04T04:10:18.890158+05:30'
 health_score: 100
 ---
+
 
 # Ask HN: Why were OpenAI, Claude, and Grok simultaneously down?
 
