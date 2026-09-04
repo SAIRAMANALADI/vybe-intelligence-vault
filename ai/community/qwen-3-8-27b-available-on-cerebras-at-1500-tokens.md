@@ -13,13 +13,14 @@ collected_at: '2026-09-05T00:35:26.030668+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:qwen-3-8-27b-available-on-cerebras-at-1500-tokens
 first_seen: '2026-09-04T00:52:21.925929+05:30'
 last_seen: '2026-09-05T00:35:26.030668+05:30'
 last_checked: '2026-09-05T00:35:26.030668+05:30'
 health_score: 100
 ---
+
 
 # Qwen 3.8 27B available on Cerebras at 1500 tokens/s
 

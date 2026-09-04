@@ -8,7 +8,7 @@ Distribution of original signal ingestion sources across processed URLs:
 | github | 1016 |
 | huggingface | 911 |
 | nextjs.org | 77 |
-| youtube | 67 |
+| youtube | 66 |
 | semanticscholar.org | 63 |
 | support.google.com | 59 |
 | react.dev | 24 |
@@ -167,7 +167,6 @@ Distribution of original signal ingestion sources across processed URLs:
 | tubitak.gov.tr | 3 |
 | torproject.org | 3 |
 | images.cnrs.fr | 3 |
-| arstechnica.com | 2 |
 | git-scm.com | 2 |
 | barchart.com | 2 |
 | jamsadr.com | 2 |
@@ -306,11 +305,10 @@ Distribution of original signal ingestion sources across processed URLs:
 | anaconda.com | 2 |
 | globalprivacyassembly.com | 2 |
 | collusion.wiki | 1 |
-| inference-docs.cerebras.ai | 1 |
-| productrise.app | 1 |
 | nytimes.com | 1 |
-| wired.com | 1 |
+| eebench.org | 1 |
 | blog.master.dev | 1 |
+| rietta.com | 1 |
 | gmcgoldr.github.io | 1 |
 | lightrag.github.io | 1 |
 | githubstatus.com | 1 |
@@ -422,6 +420,7 @@ Distribution of original signal ingestion sources across processed URLs:
 | parsintl.com | 1 |
 | cursor.com | 1 |
 | archive.org | 1 |
+| arstechnica.com | 1 |
 | httparchive.org | 1 |
 | alphaxiv.org | 1 |
 | jupyterlab.rtfd.io | 1 |

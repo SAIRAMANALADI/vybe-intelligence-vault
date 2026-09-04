@@ -13,13 +13,14 @@ collected_at: '2026-09-05T00:35:27.319352+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:how-fairphone-built-the-fairphone-gen-6
 first_seen: '2026-09-05T00:35:27.319352+05:30'
 last_seen: '2026-09-05T00:35:27.319352+05:30'
 last_checked: '2026-09-05T00:35:27.319352+05:30'
 health_score: 100
 ---
+
 
 # How Fairphone built the Fairphone Gen 6+
 

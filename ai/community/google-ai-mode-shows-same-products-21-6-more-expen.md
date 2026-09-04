@@ -13,13 +13,14 @@ collected_at: '2026-09-05T00:35:26.193912+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:google-ai-mode-shows-same-products-21-6-more-expen
 first_seen: '2026-09-05T00:35:26.193912+05:30'
 last_seen: '2026-09-05T00:35:26.193912+05:30'
 last_checked: '2026-09-05T00:35:26.193912+05:30'
 health_score: 100
 ---
+
 
 # Google AI Mode shows same products 21.6% more expensive than traditional search
 

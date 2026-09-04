@@ -5951,13 +5951,10 @@ Resources organized by keyword tags.
 
 ## ai
 
+  - [Can AI design circuit boards yet?](../ai/community/can-ai-design-circuit-boards-yet.md)
   - [Corporate America is getting hooked on open-source AI](../ai/community/corporate-america-is-getting-hooked-on-open-source.md)
   - [Discovery of a new OpenAI agent message board](../ai/community/discovery-of-a-new-openai-agent-message-board.md)
-  - [Google AI Mode shows same products 21.6% more expensive than traditional search](../ai/community/google-ai-mode-shows-same-products-21-6-more-expen.md)
-  - [How Fairphone built the Fairphone Gen 6+](../ai/community/how-fairphone-built-the-fairphone-gen-6.md)
-  - [Nobody Is Saying Why OpenAI and Anthropic Had Outages](../ai/community/nobody-is-saying-why-openai-and-anthropic-had-outa.md)
-  - [Qwen 3.8 27B available on Cerebras at 1500 tokens/s](../ai/community/qwen-3-8-27b-available-on-cerebras-at-1500-tokens.md)
-  - [The largest electric aircraft just flew [video]](../ai/community/youtube-nm86dboqgpm.md)
+  - [Government Rails Site Hit Hours After CVE Patch](../ai/community/government-rails-site-hit-hours-after-cve-patch.md)
 
 ## animation
 
@@ -6376,7 +6373,6 @@ Resources organized by keyword tags.
   - [NexForge: Scaling Agent Capabilities through Requirement-Driven Task Synthesis for LLMs](../ai/rag/arxiv-2607-14186.md)
   - [NightFeats @ MMU-RAGent NeurIPS 2025: A Context-Optimized Multi-Agent RAG System for the Text-to-Text Track](../ai/rag/arxiv-2606-11199.md)
   - [Nixtla Enterprise Adds Foundation Models, MCP, and Agentic AI](../ai/rag/nixtla-enterprise-adds-foundation-models-mcp-and-a.md)
-  - [Nobody Is Saying Why OpenAI and Anthropic Had Outages](../ai/community/nobody-is-saying-why-openai-and-anthropic-had-outa.md)
   - [NormAct: A Benchmark for Hidden Social Norm Compliance in Embodied Planning](../ai/agents/arxiv-2606-27826.md)
   - [Not All LLM Reasoning is Visible in the Chain-of-Thought](../ai/rag/arxiv-2607-22925.md)
   - [NousResearch/hermes-agent](../ai/agents/nousresearch-hermes-agent.md)
@@ -23865,6 +23861,7 @@ Resources organized by keyword tags.
 ## hackernews
 
   - ["Did you lie?" Evaluating Lie Detectors across Model Scale and Belief-Verified Model Organisms](../ai/research/arxiv-2606-12618.md)
+  - ["Next-token predictor" is the wrong mental model for LLMs](../ai/community/stop-thinking-of-llms-as-next-token-predictors.md)
   - ["We'll have to see how it works": An interview study to understand collaborative practices in interdisciplinary artificial intelligence and healthcare research](../ai/research/arxiv-2311-18424.md)
   - [#1 Real-Time AI Voice SDK | Krisp](../ai/agents/1-real-time-ai-voice-sdk-krisp.md)
   - [- YouTube](../ai/rag/youtube-pbcra-zart4.md)
@@ -24430,6 +24427,7 @@ Resources organized by keyword tags.
   - [Campus Parking | Transportation](../ai/resources/campus-parking-transportation.md)
   - [Can AI Agents Really Complete RTL-to-GDS? Lessons from Benchmarking Tool-Interactive EDA Workflows](../ai/agents/arxiv-2607-17528.md)
   - [Can AI Agents Simulate A/B Test Outcomes? A Validation Framework for Agentic Experimentation](../ai/agents/arxiv-2608-02345.md)
+  - [Can AI design circuit boards yet?](../ai/community/can-ai-design-circuit-boards-yet.md)
   - [Can Artificial Intelligence Accelerate Technological Progress? Researchers' Perspectives on AI in Manufacturing and Materials Science](../ai/research/arxiv-2511-14007.md)
   - [Can Deep Neural Networks Improve Compression of Very Large Scientific Data?](../ai/rag/arxiv-2606-14353.md)
   - [Can E-learning Help Regulators Better Adapt to a Changing Energy Landscape? | Stanford Impact Labs](../ai/rag/can-e-learning-help-regulators-better-adapt-to-a-c.md)
@@ -25193,7 +25191,6 @@ Resources organized by keyword tags.
   - [Golioth IoT Infrastructure as Code](../ai/rag/golioth-iot-infrastructure-as-code.md)
   - [Good Practice Guide for quantifying uncertainties for machine learning models applied to photoplethysmography signals](../ai/research/arxiv-2607-19999.md)
   - [Google - YouTube](../ai/resources/google-youtube.md)
-  - [Google AI Mode shows same products 21.6% more expensive than traditional search](../ai/community/google-ai-mode-shows-same-products-21-6-more-expen.md)
   - [Google AI Studio news from Google I/O 2026](../ai/rag/google-ai-studio-news-from-google-i-o-2026.md)
   - [Google Account](../ai/resources/google-account.md)
   - [Google Cloud Privacy Notice](../ai/rag/google-cloud-privacy-notice.md)
@@ -25218,6 +25215,7 @@ Resources organized by keyword tags.
   - [Governing Generative AI Across Financial Institutions: A Framework for Generative AI Risk Control](../ai/agents/arxiv-2607-04103.md)
   - [Governing Technical Debt in Agentic AI Systems](../ai/agents/arxiv-2605-29129.md)
   - [Governing Well in the Algorithmic Age: The Foundations of Digital Statecraft](../ai/research/arxiv-2607-18483.md)
+  - [Government Rails Site Hit Hours After CVE Patch](../ai/community/government-rails-site-hit-hours-after-cve-patch.md)
   - [GradPower: Powering Gradients for Faster Language Model Pre-Training](../ai/research/arxiv-2505-24275.md)
   - [Gradient-Free Continual Learning](../ai/research/arxiv-2504-01219.md)
   - [Gradient-Free Privacy Leakage in Federated Language Models through Selective Weight Tampering](../ai/research/arxiv-2310-16152.md)
@@ -25344,7 +25342,6 @@ Resources organized by keyword tags.
   - [How Content Assistant raised the design quality bar without slowing us down - Inside Atlassian](../ai/rag/how-content-assistant-raised-the-design-quality-ba.md)
   - [How Do LLM Agents Actually Get the Flag? Trace-Level Provenance for Agentic Offensive Security Evaluation](../ai/agents/arxiv-2608-26237.md)
   - [How Environment and Urbanization Shape Bird Diversity in Sri Lanka](../ai/research/arxiv-2607-00582.md)
-  - [How Fairphone built the Fairphone Gen 6+](../ai/community/how-fairphone-built-the-fairphone-gen-6.md)
   - [How Formerly Incarcerated People Envision Technologies for Prison Parole](../ai/research/arxiv-2607-16513.md)
   - [How Much of a 10-K Matters? Aggregation-Dependent Value of Full-Text versus Risk-Factor Sentiment](../ai/research/arxiv-2607-14174.md)
   - [How Organizations Use AI: Evidence from ChatGPT](../ai/research/arxiv-2608-12236.md)
@@ -25935,7 +25932,6 @@ Resources organized by keyword tags.
   - [NirDiamant/GenAI_Agents](../ai/rag/nirdiamant-genai-agents.md)
   - [NirDiamant/RAG_Techniques](../ai/rag/nirdiamant-rag-techniques.md)
   - [No One to Blame: A Framework of Constitutive AI Unaccountability](../ai/agents/arxiv-2608-12104.md)
-  - [Nobody Is Saying Why OpenAI and Anthropic Had Outages](../ai/community/nobody-is-saying-why-openai-and-anthropic-had-outa.md)
   - [Noise Contrastive Estimation-based Matching Framework for Low-Resource Security Attack Pattern Recognition](../ai/research/arxiv-2401-10337.md)
   - [Noise-Aware Boundary-Enhanced Generative Learning for Ultrasound Speckle Reduction](../ai/rag/arxiv-2606-25009.md)
   - [Non--negative matrix factorization using the \textit{R} package \textsf{nnmf}](../ai/research/arxiv-2607-20084.md)
@@ -26251,7 +26247,6 @@ Resources organized by keyword tags.
   - [Quickstart to Serving Cluster | BYOC | Zilliz Cloud Developer Hub](../ai/rag/quickstart-to-serving-cluster-byoc-zilliz-cloud-de.md)
   - [Quickstart | GitBook Documentation](../ai/rag/quickstart-gitbook-documentation.md)
   - [Quickstart — Sentence Transformers documentation](../ai/rag/quickstart-sentence-transformers-documentation.md)
-  - [Qwen 3.8 27B available on Cerebras at 1500 tokens/s](../ai/community/qwen-3-8-27b-available-on-cerebras-at-1500-tokens.md)
   - [Qwen-RobotManip Technical Report: Alignment Unlocks Scale for Robotic Manipulation Foundation Models](../ai/research/arxiv-2606-17846.md)
   - [QwenLM/Qwen3](../ai/resources/qwenlm-qwen3.md)
   - [R Markdown: The Definitive Guide](../ai/rag/r-markdown-the-definitive-guide.md)
@@ -26652,7 +26647,6 @@ Resources organized by keyword tags.
   - [Stochastic Saddle Avoidance Beyond Unit Excitation and Smoothness: A Pathwise Lyapunov-Perron Framework](../ai/research/arxiv-2608-03001.md)
   - [Stochastic-Dimension Frozen Sampled Neural Network for High-Dimensional Gross-Pitaevskii Equations on Unbounded Domains](../ai/research/arxiv-2604-09361.md)
   - [Stop Indexing at Full Precision: Revisiting Clustering for Vector Embeddings](../ai/rag/arxiv-2608-14648.md)
-  - [Stop Thinking of LLMs as Next-Token Predictors](../ai/community/stop-thinking-of-llms-as-next-token-predictors.md)
   - [Storyset | Customize, animate and download illustration for free](../ai/rag/storyset-customize-animate-and-download-illustrati.md)
   - [Streaming Sliced Optimal Transport](../ai/rag/arxiv-2505-06835.md)
   - [Streamlined Arbitration Rules & Procedures | JAMS Mediation, Arbitration, ADR Services](../ai/rag/streamlined-arbitration-rules-procedures-jams-medi.md)
@@ -26844,7 +26838,6 @@ Resources organized by keyword tags.
   - [The evolution of AI from image interpretation toward scientific inference in nanoparticle electron microscopy](../ai/agents/arxiv-2607-10388.md)
   - [The impact of artificial intelligence on enterprise software user roles](../ai/agents/arxiv-2606-25525.md)
   - [The knowledge layer for AI | GitBook](../ai/agents/the-knowledge-layer-for-ai-gitbook.md)
-  - [The largest electric aircraft just flew [video]](../ai/community/youtube-nm86dboqgpm.md)
   - [The safety failures we are not instrumenting: a perspective on hidden safety-critical challenges in modern AI systems](../ai/research/arxiv-2607-19292.md)
   - [The state of RPKI: Q4 2018](../ai/resources/the-state-of-rpki-q4-2018.md)
   - [The unreasonable effectiveness of simple HTML – Terence Eden’s Blog](../ai/resources/the-unreasonable-effectiveness-of-simple-html-tere.md)
@@ -28025,8 +28018,8 @@ Resources organized by keyword tags.
 
 ## llm
 
+  - ["Next-token predictor" is the wrong mental model for LLMs](../ai/community/stop-thinking-of-llms-as-next-token-predictors.md)
   - [Show HN: TERMy – A fast terminal assistant that does not use LLMs](../ai/community/gioblu-npc-forge.md)
-  - [Stop Thinking of LLMs as Next-Token Predictors](../ai/community/stop-thinking-of-llms-as-next-token-predictors.md)
 
 ## mdx
 
@@ -34365,7 +34358,6 @@ Resources organized by keyword tags.
   - [NirDiamant/GenAI_Agents](../ai/rag/nirdiamant-genai-agents.md)
   - [NirDiamant/RAG_Techniques](../ai/rag/nirdiamant-rag-techniques.md)
   - [No Detectable Change in Side-Level WER from Prompt-Level Context: A Preregistered Ablation on a Production Oral-History Corpus](../ai/research/arxiv-2608-28875.md)
-  - [Nobody Is Saying Why OpenAI and Anthropic Had Outages](../ai/community/nobody-is-saying-why-openai-and-anthropic-had-outa.md)
   - [Noesis: Bidirectional Graph-RAG with Adaptive Parallelism and Cross-Knowledge-Base Semantic Discovery](../ai/rag/arxiv-2608-15919.md)
   - [Not All Skills Help: Measuring and Repairing Agent Knowledge](../ai/agents/arxiv-2606-15390.md)
   - [Not All Tokens Are Equal: Inflation-Aware Routing for Agentic LLM Systems](../ai/agents/arxiv-2608-13571.md)
@@ -55478,6 +55470,7 @@ Resources organized by keyword tags.
   - [pytorch/pytorch](../ai/resources/pytorch-pytorch.md)
   - [pytorch/torchcodec](../ai/resources/pytorch-torchcodec.md)
   - [raga-ai-hub/raga-llm-hub](../ai/rag/raga-ai-hub-raga-llm-hub.md)
+  - [raganwald/raganwald.github.com](../ai/rag/raganwald-raganwald-github-com.md)
   - [ray-project/llm-applications](../ai/rag/ray-project-llm-applications.md)
   - [research process - How do researchers stay organized when working on multiple papers at once? - Academia Stack Exchange](../ai/resources/research-process-how-do-researchers-stay-organized.md)
   - [reworkd/AgentGPT](../ai/rag/reworkd-agentgpt.md)
@@ -57725,7 +57718,6 @@ Resources organized by keyword tags.
   - [The World Model Remembers, the Actor Forgets: Dream Rehearsal for Continual Model-Based RL](../ai/agents/arxiv-2607-19749.md)
   - [The browser that puts you first | Brave](../ai/rag/the-browser-that-puts-you-first-brave.md)
   - [The knowledge layer for AI | GitBook](../ai/agents/the-knowledge-layer-for-ai-gitbook.md)
-  - [The largest electric aircraft just flew [video]](../ai/community/youtube-nm86dboqgpm.md)
   - [The official repository for Dart and Flutter packages.](../ai/resources/the-official-repository-for-dart-and-flutter-packa.md)
   - [Thermalizing Stochastic Programs](../ai/research/arxiv-2608-01615.md)
   - [Thermodynamic Limits of Physical Intelligence](../ai/agents/arxiv-2602-05463.md)
@@ -58108,4 +58100,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-09-05T00:51:43.162787+05:30*
+*Index generated on 2026-09-05T04:12:58.791190+05:30*

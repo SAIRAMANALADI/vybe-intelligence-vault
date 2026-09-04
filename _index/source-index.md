@@ -22592,16 +22592,13 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
+  - ["Next-token predictor" is the wrong mental model for LLMs](../ai/community/stop-thinking-of-llms-as-next-token-predictors.md)
+  - [Can AI design circuit boards yet?](../ai/community/can-ai-design-circuit-boards-yet.md)
   - [Corporate America is getting hooked on open-source AI](../ai/community/corporate-america-is-getting-hooked-on-open-source.md)
   - [Discovery of a new OpenAI agent message board](../ai/community/discovery-of-a-new-openai-agent-message-board.md)
-  - [Google AI Mode shows same products 21.6% more expensive than traditional search](../ai/community/google-ai-mode-shows-same-products-21-6-more-expen.md)
-  - [How Fairphone built the Fairphone Gen 6+](../ai/community/how-fairphone-built-the-fairphone-gen-6.md)
-  - [Nobody Is Saying Why OpenAI and Anthropic Had Outages](../ai/community/nobody-is-saying-why-openai-and-anthropic-had-outa.md)
-  - [Qwen 3.8 27B available on Cerebras at 1500 tokens/s](../ai/community/qwen-3-8-27b-available-on-cerebras-at-1500-tokens.md)
+  - [Government Rails Site Hit Hours After CVE Patch](../ai/community/government-rails-site-hit-hours-after-cve-patch.md)
   - [Show HN: TERMy – A fast terminal assistant that does not use LLMs](../ai/community/gioblu-npc-forge.md)
-  - [Stop Thinking of LLMs as Next-Token Predictors](../ai/community/stop-thinking-of-llms-as-next-token-predictors.md)
   - [The Rust React Compiler is now native in Vite](../web-development/community/the-rust-react-compiler-is-now-native-in-vite.md)
-  - [The largest electric aircraft just flew [video]](../ai/community/youtube-nm86dboqgpm.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -26459,4 +26456,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-09-05T00:51:43.450348+05:30*
+*Index generated on 2026-09-05T04:12:59.085419+05:30*

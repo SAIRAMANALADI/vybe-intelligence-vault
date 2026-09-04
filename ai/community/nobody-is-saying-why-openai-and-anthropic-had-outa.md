@@ -15,13 +15,14 @@ tags:
 - anthropic
 - hackernews
 - openai
-status: active
+status: inactive
 resource_id: hackernews:nobody-is-saying-why-openai-and-anthropic-had-outa
 first_seen: '2026-09-05T00:35:23.497911+05:30'
 last_seen: '2026-09-05T00:35:23.497911+05:30'
 last_checked: '2026-09-05T00:35:23.497911+05:30'
 health_score: 100
 ---
+
 
 # Nobody Is Saying Why OpenAI and Anthropic Had Outages
 

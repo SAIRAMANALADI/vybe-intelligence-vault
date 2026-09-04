@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - youtube
-status: active
+status: inactive
 resource_id: youtube:nM86DBOqgPM
 first_seen: '2026-09-04T04:10:17.030284+05:30'
 last_seen: '2026-09-05T00:35:27.160784+05:30'
 last_checked: '2026-09-05T00:35:27.160784+05:30'
 health_score: 100
 ---
+
 
 # The largest electric aircraft just flew [video]
 
