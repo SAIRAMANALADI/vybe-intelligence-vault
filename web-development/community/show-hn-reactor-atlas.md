@@ -14,13 +14,14 @@ tags:
 - frontend_ui
 - hackernews
 - react
-status: active
+status: inactive
 resource_id: hackernews:show-hn-reactor-atlas
 first_seen: '2026-09-04T10:12:47.443867+05:30'
 last_seen: '2026-09-04T18:20:01.942792+05:30'
 last_checked: '2026-09-04T18:20:01.942792+05:30'
 health_score: 100
 ---
+
 
 # Show HN: Reactor Atlas
 

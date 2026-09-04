@@ -13,13 +13,14 @@ collected_at: '2026-09-04T18:19:59.256636+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:carbon-aware-electricity-pricing-measured-daily-on
 first_seen: '2026-09-04T18:19:59.256636+05:30'
 last_seen: '2026-09-04T18:19:59.256636+05:30'
 last_checked: '2026-09-04T18:19:59.256636+05:30'
 health_score: 100
 ---
+
 
 # Carbon-aware electricity pricing, measured daily on 38 grids
 

@@ -14,13 +14,14 @@ tags:
 - agents
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:xanadu-was-waiting-for-agents
 first_seen: '2026-09-04T04:10:17.983111+05:30'
 last_seen: '2026-09-04T18:20:01.783995+05:30'
 last_checked: '2026-09-04T18:20:01.783995+05:30'
 health_score: 100
 ---
+
 
 # Xanadu was waiting for agents
 

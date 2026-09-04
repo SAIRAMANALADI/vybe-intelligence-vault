@@ -13,13 +13,14 @@ collected_at: '2026-09-04T18:20:00.215789+05:30'
 tags:
 - hackernews
 - llm
-status: active
+status: inactive
 resource_id: hackernews:porting-my-1993-amiga-game-to-godot-with-an-llm-re
 first_seen: '2026-09-04T00:52:22.883520+05:30'
 last_seen: '2026-09-04T18:20:00.215789+05:30'
 last_checked: '2026-09-04T18:20:00.215789+05:30'
 health_score: 100
 ---
+
 
 # Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly
 

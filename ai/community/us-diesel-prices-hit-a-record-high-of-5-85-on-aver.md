@@ -13,13 +13,14 @@ collected_at: '2026-09-04T18:20:00.376974+05:30'
 tags:
 - hackernews
 - rag
-status: active
+status: inactive
 resource_id: hackernews:us-diesel-prices-hit-a-record-high-of-5-85-on-aver
 first_seen: '2026-09-04T18:20:00.376974+05:30'
 last_seen: '2026-09-04T18:20:00.376974+05:30'
 last_checked: '2026-09-04T18:20:00.376974+05:30'
 health_score: 100
 ---
+
 
 # US diesel prices hit a record high of $5.85 on average
 

@@ -13,13 +13,14 @@ collected_at: '2026-09-04T18:20:00.056999+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:go-grandmaster-shin-defeats-ai-katago-with-a-two-s
 first_seen: '2026-09-04T00:52:25.230621+05:30'
 last_seen: '2026-09-04T18:20:00.056999+05:30'
 last_checked: '2026-09-04T18:20:00.056999+05:30'
 health_score: 100
 ---
+
 
 # Go grandmaster Shin defeats AI KataGo with a two-stone handicap
 

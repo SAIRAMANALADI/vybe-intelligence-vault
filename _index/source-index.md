@@ -22592,15 +22592,16 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [Carbon-aware electricity pricing, measured daily on 38 grids](../ai/community/carbon-aware-electricity-pricing-measured-daily-on.md)
+  - [Corporate America is getting hooked on open-source AI](../ai/community/corporate-america-is-getting-hooked-on-open-source.md)
   - [Discovery of a new OpenAI agent message board](../ai/community/discovery-of-a-new-openai-agent-message-board.md)
-  - [Go grandmaster Shin defeats AI KataGo with a two-stone handicap](../ai/community/go-grandmaster-shin-defeats-ai-katago-with-a-two-s.md)
-  - [Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly](../ai/community/porting-my-1993-amiga-game-to-godot-with-an-llm-re.md)
+  - [Google AI Mode shows same products 21.6% more expensive than traditional search](../ai/community/google-ai-mode-shows-same-products-21-6-more-expen.md)
+  - [How Fairphone built the Fairphone Gen 6+](../ai/community/how-fairphone-built-the-fairphone-gen-6.md)
+  - [Nobody Is Saying Why OpenAI and Anthropic Had Outages](../ai/community/nobody-is-saying-why-openai-and-anthropic-had-outa.md)
   - [Qwen 3.8 27B available on Cerebras at 1500 tokens/s](../ai/community/qwen-3-8-27b-available-on-cerebras-at-1500-tokens.md)
-  - [Show HN: Reactor Atlas](../web-development/community/show-hn-reactor-atlas.md)
+  - [Show HN: TERMy – A fast terminal assistant that does not use LLMs](../ai/community/gioblu-npc-forge.md)
+  - [Stop Thinking of LLMs as Next-Token Predictors](../ai/community/stop-thinking-of-llms-as-next-token-predictors.md)
+  - [The Rust React Compiler is now native in Vite](../web-development/community/the-rust-react-compiler-is-now-native-in-vite.md)
   - [The largest electric aircraft just flew [video]](../ai/community/youtube-nm86dboqgpm.md)
-  - [US diesel prices hit a record high of $5.85 on average](../ai/community/us-diesel-prices-hit-a-record-high-of-5-85-on-aver.md)
-  - [Xanadu was waiting for agents](../ai/community/xanadu-was-waiting-for-agents.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -23578,6 +23579,7 @@ Resources organized by publisher feed and query sources.
   - [How Turbopack chunks your JavaScript](../ai/rag/how-turbopack-chunks-your-javascript.md)
   - [How to Think About Security in Next.js](../web-development/nextjs/how-to-think-about-security-in-next-js.md)
   - [How to Upgrade to React 18](../web-development/how-to-upgrade-to-react-18.md)
+  - [How we closed 1,500 GitHub issues in one month](../ai/agents/how-we-closed-1500-github-issues-in-one-month.md)
   - [Incrementally Adopting Next.js](../web-development/nextjs/incrementally-adopting-next-js.md)
   - [Inside Turbopack: Building Faster by Building Less](../web-development/nextjs/inside-turbopack-building-faster-by-building-less.md)
   - [Introducing Create Next App](../web-development/nextjs/introducing-create-next-app.md)
@@ -23691,7 +23693,6 @@ Resources organized by publisher feed and query sources.
   - [1.5.4 Ownership and Use of Stanford Trademarks and Images | Administrative Guide](../ai/resources/1-5-4-ownership-and-use-of-stanford-trademarks-and.md)
   - [10 Best CrewAI Projects You Must Build in 2026](../ai/rag/10-best-crewai-projects-you-must-build-in-2026.md)
   - [100 Years of Stanford Engineering](../ai/rag/100-years-of-stanford-engineering.md)
-  - [15 Best Open-Source RAG Frameworks in 2026](../ai/rag/15-best-open-source-rag-frameworks-in-2026.md)
   - [15 updates from Google I﻿/﻿O 2026: Powering the agentic web with new capabilities, tools, and features in Chrome | Blog](../ai/agents/15-updates-from-google-i-o-2026-powering-the-agent.md)
   - [17 U.S. Code § 512 - Limitations on liability relating to material online | U.S. Code | US Law | LII / Legal Information](../ai/rag/17-u-s-code-ss-512-limitations-on-liability-relati.md)
   - [2.3 to 2.4 | Dovecot CE](../ai/rag/2-3-to-2-4-dovecot-ce.md)
@@ -25804,7 +25805,6 @@ Resources organized by publisher feed and query sources.
   - [The Apache Incubator](../ai/rag/the-apache-incubator.md)
   - [The Apache Software Foundation · GitHub](../ai/resources/the-apache-software-foundation-github.md)
   - [The Assembly and Executive Committee – Global Privacy Assembly](../ai/resources/the-assembly-and-executive-committee-global-privac.md)
-  - [The Best RAG Frameworks in 2026: A Comprehensive Guide to Building Superior Retrieval-Augmented Generation Systems | mar](../ai/rag/the-best-rag-frameworks-in-2026-a-comprehensive-gu.md)
   - [The Compass REST API](../ai/resources/the-compass-rest-api.md)
   - [The Complete Guide to RAG: Naive, Advanced, and Graph RAG in One Document | Mr. Latte](../ai/rag/the-complete-guide-to-rag-naive-advanced-and-graph.md)
   - [The Computer Vision Foundation – A non-profit organization that fosters and supports research in all aspects of computer](../ai/resources/the-computer-vision-foundation-a-non-profit-organi.md)
@@ -25868,7 +25868,6 @@ Resources organized by publisher feed and query sources.
   - [Top 23 rag Open-Source Projects | LibHunt](../ai/rag/top-23-rag-open-source-projects-libhunt.md)
   - [Top 7 GitHub Repos to Master Retrieval-Augmented Generation](../ai/rag/top-7-github-repos-to-master-retrieval-augmented-g.md)
   - [Top Open Source Github Repositories for creating your own RAG | Resemble AI](../ai/rag/top-open-source-github-repositories-for-creating-y.md)
-  - [Top RAG open-source projects (2026) | Trendshift](../ai/rag/top-rag-open-source-projects-2026-trendshift.md)
   - [Top free game assets - itch.io](../ai/rag/top-free-game-assets-itch-io.md)
   - [Top game assets tagged Fonts - itch.io](../ai/resources/top-game-assets-tagged-fonts-itch-io.md)
   - [Top game assets tagged No AI - itch.io](../ai/rag/top-game-assets-tagged-no-ai-itch-io.md)
@@ -25957,7 +25956,6 @@ Resources organized by publisher feed and query sources.
   - [Unity Issue Tracker](../ai/rag/unity-issue-tracker.md)
   - [Unity: Develop, Deploy, and Grow | The World's Leading Game Engine](../ai/rag/unity-develop-deploy-and-grow-the-world-s-leading.md)
   - [Universal AI is “a pathway to AI fluency that’s accessible and approachable to anyone, anywhere” | MIT News | Massachuse](../ai/rag/universal-ai-is-a-pathway-to-ai-fluency-thats-acce.md)
-  - [UniversalRAG: Retrieval-Augmented Generation over Corpora of Diverse Modalities and Granularities](../ai/rag/universalrag-retrieval-augmented-generation-over-c.md)
   - [University Audit Office](../ai/resources/university-audit-office.md)
   - [University Corporation for Atmospheric Research | University Corporation for Atmospheric Research](../ai/resources/university-corporation-for-atmospheric-research-un.md)
   - [University of California | Office of The President](../ai/resources/university-of-california-office-of-the-president.md)
@@ -26461,4 +26459,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-09-04T18:36:22.533415+05:30*
+*Index generated on 2026-09-05T00:51:43.450348+05:30*
