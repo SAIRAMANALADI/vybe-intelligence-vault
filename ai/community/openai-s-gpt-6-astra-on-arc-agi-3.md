@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - openai
-status: active
+status: inactive
 resource_id: hackernews:openai-s-gpt-6-astra-on-arc-agi-3
 first_seen: '2026-09-04T04:10:17.888867+05:30'
 last_seen: '2026-09-04T10:12:48.906895+05:30'
 last_checked: '2026-09-04T10:12:48.906895+05:30'
 health_score: 100
 ---
+
 
 # OpenAI's GPT-6 Astra on ARC-AGI-3
 

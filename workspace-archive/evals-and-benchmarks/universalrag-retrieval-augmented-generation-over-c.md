@@ -34,8 +34,8 @@ selection_reason:
 
 ## Summary
 
-*   UniversalRAG proposes an any-to-any RAG framework designed to retrieve and integrate knowledge from heterogeneous, multi-modal, and multi-granularity sources, addressing limitations of single-corpus RAG.
-*   It implements modality-aware routing, which dynamically identifies and performs targeted retrieval within the most appropriate modality-specific corpus, mitigating the "modality gap" observed with unified representation spaces, and is theoretically justified.
+*   UniversalRAG proposes an any-to-any RAG framework designed for integrating knowledge from heterogeneous, multi-modal, and multi-granularity sources, overcoming limitations of single-modality RAG systems.
+*   It implements *modality-aware routing* to dynamically identify and perform targeted retrieval within the most appropriate modality-specific corpus, mitigating the "modality gap" inherent in unified multi-modal embedding spaces, with theoretical justification.
 *   The framework further or
 
 ## Use Cases

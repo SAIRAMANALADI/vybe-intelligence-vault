@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://inference-docs.cerebras.ai/models/overview
 hn_url: https://news.ycombinator.com/item?id=49554520
-score: 497
+score: 597
 author: altertable
-comments_count: 148
+comments_count: 199
 published_at: '2026-09-04T00:02:13+05:30'
-collected_at: '2026-09-04T10:12:45.555105+05:30'
+collected_at: '2026-09-04T18:19:58.754452+05:30'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: hackernews:qwen-3-8-27b-available-on-cerebras-at-1500-tokens
 first_seen: '2026-09-04T00:52:21.925929+05:30'
-last_seen: '2026-09-04T10:12:45.555105+05:30'
-last_checked: '2026-09-04T10:12:45.555105+05:30'
+last_seen: '2026-09-04T18:19:58.754452+05:30'
+last_checked: '2026-09-04T18:19:58.754452+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by altertable. Score: 497, Comments: 148.
+Hacker News story by altertable. Score: 597, Comments: 199.
 Original Link: https://inference-docs.cerebras.ai/models/overview
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: altertable
-- Score: 497 Upvotes
-- Comments: 148 Discussions
+- Score: 597 Upvotes
+- Comments: 199 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49554520
 - Original Article: https://inference-docs.cerebras.ai/models/overview
 

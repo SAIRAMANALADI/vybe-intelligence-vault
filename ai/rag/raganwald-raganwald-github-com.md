@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/raganwald/raganwald.github.com
-collected_at: '2026-09-04T04:11:13.150839+05:30'
+collected_at: '2026-09-04T18:20:52.477670+05:30'
 published_at: '2026-07-08T15:07:53Z'
 tags:
 - github-repo
@@ -17,9 +17,9 @@ archived: false
 created_at: '2012-02-19T03:15:00Z'
 pushed_at: '2026-07-08T15:06:30Z'
 resource_id: github:raganwald/raganwald.github.com
-first_seen: '2026-09-04T04:11:13.150839+05:30'
-last_seen: '2026-09-04T04:11:13.150839+05:30'
-last_checked: '2026-09-04T04:11:13.150839+05:30'
+first_seen: '2026-09-04T18:20:52.477670+05:30'
+last_seen: '2026-09-04T18:20:52.477670+05:30'
+last_checked: '2026-09-04T18:20:52.477670+05:30'
 health_score: 100
 ---
 
@@ -27,11 +27,8 @@ health_score: 100
 
 ## Summary
 
-- **Jekyll-based static site generator**: Repository contains the source code for `raganwald.com`, built using Jekyll, a Ruby-based static site generator.
-
-- **GitHub Pages deployment**: The site is hosted via GitHub Pages, leveraging Jekyll’s native integration with GitHub for automated builds and deployments.
-
-- **Minimalist HTML structure**: The repository consists primarily of HTML templates and static assets, with no additional frameworks or complex build tools.
+*
+*   Jekyll-based static site source for `raganwald.com`.
 
 ## Why It Matters
 

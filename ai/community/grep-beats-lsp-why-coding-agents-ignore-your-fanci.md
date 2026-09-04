@@ -13,13 +13,14 @@ collected_at: '2026-09-04T10:12:46.109639+05:30'
 tags:
 - agents
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:grep-beats-lsp-why-coding-agents-ignore-your-fanci
 first_seen: '2026-09-04T10:12:46.109639+05:30'
 last_seen: '2026-09-04T10:12:46.109639+05:30'
 last_checked: '2026-09-04T10:12:46.109639+05:30'
 health_score: 100
 ---
+
 
 # Grep beats LSP? Why coding agents ignore your fancier tools
 
