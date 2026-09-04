@@ -1,59 +1,64 @@
 ---
-title: jgoneit/harness
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-04
-tech_stack:
-- Python
-- Codex CLI
-- Make
-- Git
-- Shell Scripting
-quality_score: 7
-rag_relevance: 6
-deployment_complexity: Medium
-tags:
-- workflow automation
-- approval gates
-- AI coding safety
-- agent orchestration
-- code review
-source: https://github.com/jgoneit/harness
-stars: 0
-language: Python
-last_updated: '2026-07-12T10:20:30Z'
-discovered_at: '2026-07-12T10:26:24Z'
-evaluated_by: mistral-small-latest
+title: "majiayu000/harness"
+content_type: "repo"
+engine: "v2"
+category: "Orchestrator"
+tech_stack: ["Rust", "Starlark", "PostgreSQL", "OpenTelemetry", "JSON-RPC", "Claude Code CLI", "Codex CLI", "Anthropic API", "GitHub Webhooks", "MCP Server"]
+quality_score: 9
+rag_relevance: 10
+deployment_complexity: "High"
+tags: ["multi-agent orchestration", "policy engine", "observability", "AI governance", "autonomous agents"]
+source: "https://github.com/majiayu000/harness"
+stars: 41
+language: "Rust"
+last_updated: "2026-07-11T16:53:10Z"
+discovered_at: "2026-07-11T16:55:51Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-Codex Harness is an early-stage gated workflow plugin for Codex CLI that enforces deliberate agent workflows by separating planning, approval, scoped implementation, review, repair, and completion reporting for higher-risk AI coding tasks.
+Harness is a Rust-native control plane for orchestrating fleets of AI coding agents (e.g., Claude Code, Codex) with governance, policy enforcement, and observability. It standardizes agent lifecycle management, cross-agent review, and automated remediation for scalable AI-driven development workflows.
 
 ## Key Features
-- Enforces multi-stage workflow with explicit approval gates for planning, implementation, review, and repair
-- Supports role separation (planner, implementer, reviewer) for Small and Non-trivial tasks
-- Implements scope control to restrict implementers to pre-approved changes
-- Includes clean-context review requirements and canonical findings tables
-- Provides completion reporting with approval ledgers, verification status, and unresolved risks
+- Parallel fleet orchestration with unified lifecycle management for AI coding agents
+- Starlark-based policy engine for sandboxed rule evaluation and governance
+- Automated cross-agent code review to prevent self-review and ensure quality
+- OpenTelemetry-native observability with async-safe trace and metric export
+- GitHub webhook automation for triggering tasks from issue comments and PR reviews
 
 ## Why It Matters for RAG Builders
-It provides a structured, approval-gated workflow for AI agents to handle higher-risk coding tasks safely, reducing scope drift and ensuring deliberate execution.
+Harness provides the critical infrastructure for scaling AI agent fleets with governance, ensuring reliability, security, and observability in production RAG and AI workflows.
 
 ## Tech Stack Deep Dive
-### Python
-Automated review identified **Python** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Rust
+Automated review identified **Rust** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Starlark
+Automated review identified **Starlark** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### PostgreSQL
+Automated review identified **PostgreSQL** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### OpenTelemetry
+Automated review identified **OpenTelemetry** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### JSON-RPC
+Automated review identified **JSON-RPC** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+
+### Claude Code CLI
+Automated review identified **Claude Code CLI** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 ### Codex CLI
 Automated review identified **Codex CLI** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Make
-Automated review identified **Make** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Anthropic API
+Automated review identified **Anthropic API** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Git
-Automated review identified **Git** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### GitHub Webhooks
+Automated review identified **GitHub Webhooks** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Shell Scripting
-Automated review identified **Shell Scripting** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### MCP Server
+Automated review identified **MCP Server** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

@@ -1,79 +1,55 @@
 ---
-title: Mehrvarz24/skills
-content_type: repo
-engine: v2
-category: daily-digests/2026-09-04
-tech_stack:
-- Python
-- YAML
-- Bash
-- Hermes Agent
-- Git
-- LaTeX
-- HuggingFace Hub
-- llama.cpp
-- vLLM
-- W&B
-quality_score: 8
-rag_relevance: 7
-deployment_complexity: Low
-tags:
-- agent-skills
-- modular-skills
-- hermes-agent
-- ai-workflows
-- production-ready
-source: https://github.com/Mehrvarz24/skills
-stars: 0
-language: Python
-last_updated: '2026-08-04T19:31:41Z'
-discovered_at: '2026-08-04T19:32:16Z'
-evaluated_by: mistral-small-latest
+title: "makethisbetter/skills"
+content_type: "repo"
+engine: "v2"
+category: "Tooling"
+tech_stack: ["Claude Code", "Make This Better CLI (Go)", "Make This Better API (REST)", "JavaScript/TypeScript", "Shell/Bash", "JWT", "MCP Server"]
+quality_score: 9
+rag_relevance: 8
+deployment_complexity: "Medium"
+tags: ["feedback automation", "AI-driven development", "issue triage", "Claude Code skills", "developer tools"]
+source: "https://github.com/makethisbetter/skills"
+stars: 1
+language: "None"
+last_updated: "2026-08-06T06:29:19Z"
+discovered_at: "2026-08-06T06:32:02Z"
+evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-A comprehensive library of 108 production-ready skills for the Hermes Agent by Nous Research, covering AI agents, development, creative work, research, productivity, and MLOps. Skills are modular, auto-detected, and designed for seamless integration with Hermes Agent.
+A Claude Code skill that enables AI-driven feedback management and resolution by integrating slash commands for triaging, picking, and fixing user-reported issues with structured context and automated workflows.
 
 ## Key Features
-- 108 pre-built skills across 20 categories for immediate use
-- Auto-detection and integration with Hermes Agent (no config required)
-- Structured skill format with YAML frontmatter for metadata
-- Supports autonomous AI agents, coding, DevOps, creative work, research, and MLOps
-- Includes advanced tools like computer-use, UI/UX design, and research paper writing
+- Slash commands for feedback management (e.g., /makethisbetter pick, list, ready, release)
+- Automated context collection (screenshots, console errors, AI analysis) for issue resolution
+- Integration with Make This Better CLI and API for structured feedback workflows
+- Guided setup and configuration for widget deployment and identity verification
+- Supports self-hosting with custom API endpoints
 
 ## Why It Matters for RAG Builders
-Provides a ready-to-use skill library that accelerates Hermes Agent deployment and extends its capabilities across diverse AI and productivity tasks.
+It streamlines AI-native feedback loops by automating issue triage and resolution, reducing context-switching and enabling agents to act directly on user-reported problems with full context.
 
 ## Tech Stack Deep Dive
-### Python
-Automated review identified **Python** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Claude Code
+Automated review identified **Claude Code** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### YAML
-Automated review identified **YAML** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Make This Better CLI (Go)
+Automated review identified **Make This Better CLI (Go)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Bash
-Automated review identified **Bash** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Make This Better API (REST)
+Automated review identified **Make This Better API (REST)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Hermes Agent
-Automated review identified **Hermes Agent** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### JavaScript/TypeScript
+Automated review identified **JavaScript/TypeScript** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Git
-Automated review identified **Git** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Shell/Bash
+Automated review identified **Shell/Bash** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### LaTeX
-Automated review identified **LaTeX** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### JWT
+Automated review identified **JWT** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### HuggingFace Hub
-Automated review identified **HuggingFace Hub** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### llama.cpp
-Automated review identified **llama.cpp** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### vLLM
-Automated review identified **vLLM** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### W&B
-Automated review identified **W&B** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### MCP Server
+Automated review identified **MCP Server** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 
