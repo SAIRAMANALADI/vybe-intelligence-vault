@@ -25006,6 +25006,7 @@ Resources organized by keyword tags.
   - [Fine-tuning Multi-modal LLMs with ART: Art-based Reinforcement Training](../ai/research/arxiv-2606-11854.md)
   - [FineInstructions: Scaling Synthetic Instructions to Pre-Training Scale](../ai/research/arxiv-2601-22146.md)
   - [Finite Reliability Representations: Noise-Calibrated Belief-Space Covers for Reliable Decision-Making](../ai/research/arxiv-2607-04019.md)
+  - [Finite time blowup for an averaged three-dimensional Navier-Stokes equation (2014)](../ai/community/finite-time-blowup-for-an-averaged-three-dimension.md)
   - [Finite-Horizon Input-Output Dynamics of Minibatch Perturbations in AdamW](../ai/research/arxiv-2608-19762.md)
   - [Firebase Data Processing and Security Terms](../ai/rag/firebase-data-processing-and-security-terms.md)
   - [Firebase Extensions](../ai/resources/firebase-extensions-2.md)
@@ -25560,6 +25561,7 @@ Resources organized by keyword tags.
   - [LLMs Can Annotate Attribution Graphs](../ai/research/arxiv-2608-02632.md)
   - [LLMs Can Better Capture Human Judgments--With the Right Prompts](../ai/research/arxiv-2606-12754.md)
   - [LLMs and Agentic AI Systems for Smart Grids: A Tutorial on Architectures and Applications](../ai/agents/arxiv-2607-18147.md)
+  - [LLMs as a Cognitive Virus](../ai/community/arxiv-2609-03344.md)
   - [LTM: Large-scale Terrain Model for Wildfire-prone Landscapes](../ai/rag/arxiv-2607-08711.md)
   - [Ladder Up, Memory Down: Low-Cost Fine-Tuning With Side Nets](../ai/rag/arxiv-2512-14237.md)
   - [LangChain - YouTube](../ai/resources/langchain-youtube.md)
@@ -28004,6 +28006,10 @@ Resources organized by keyword tags.
 ## lean
 
   - [mistralai/LeanstralSafeVerify](../ai/agents/mistralai-leanstralsafeverify.md)
+
+## llm
+
+  - [LLMs as a Cognitive Virus](../ai/community/arxiv-2609-03344.md)
 
 ## mdx
 
@@ -42398,6 +42404,7 @@ Resources organized by keyword tags.
   - [Finetuned Multimodal Language Models Are High-Quality Image-Text Data Filters](../ai/research/finetuned-multimodal-language-models-are-high-qual.md)
   - [Fingerprinting Text-to-Image Diffusion Models via Collapsed Generation](../ai/rag/arxiv-2608-11732.md)
   - [Finite Resources False Discovery Rate Control in Structured Hypothesis Spaces](../ai/rag/arxiv-2606-15393.md)
+  - [Finite time blowup for an averaged three-dimensional Navier-Stokes equation (2014)](../ai/community/finite-time-blowup-for-an-averaged-three-dimension.md)
   - [Finite-Sample Metric Non-Collapse for Geometrically Supervised Latent World Models in Control](../ai/rag/arxiv-2608-07265.md)
   - [Finite-Time Analysis of Discounted Exponential-Utility Reinforcement Learning](../ai/rag/arxiv-2608-01917.md)
   - [Firebase Authentication](../ai/rag/firebase-authentication.md)
@@ -58066,4 +58073,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-09-06T00:11:14.512649+05:30*
+*Index generated on 2026-09-06T03:54:31.156697+05:30*

@@ -30252,7 +30252,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://www.scite.ai/>
 
 * **[AI handles incidents, engineers lose touch with their systems](ai/community/ai-handles-incidents-engineers-lose-touch-with-the.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by sylvainkalache. Score: 301, Comments: 272. Original Link: https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems
+  * Summary: Hacker News story by sylvainkalache. Score: 358, Comments: 308. Original Link: https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems
   * Tags: `ai`, `hackernews`
   * Source URL: <https://sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems>
 
@@ -30747,7 +30747,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2606.04165>
 
 * **[Can AI design circuit boards yet?](ai/community/can-ai-design-circuit-boards-yet.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by iopapa. Score: 324, Comments: 192. Original Link: https://eebench.org/blog/can-ai-design-circuit-boards-yet/
+  * Summary: Hacker News story by iopapa. Score: 354, Comments: 203. Original Link: https://eebench.org/blog/can-ai-design-circuit-boards-yet/
   * Tags: `ai`, `hackernews`
   * Source URL: <https://eebench.org/blog/can-ai-design-circuit-boards-yet>
 
@@ -31377,7 +31377,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://www.discourse.org>
 
 * **[Discovery of a new OpenAI agent message board](ai/community/discovery-of-a-new-openai-agent-message-board.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by moultano. Score: 1964, Comments: 1466. Original Link: https://collusion.wiki/
+  * Summary: Hacker News story by moultano. Score: 2052, Comments: 1494. Original Link: https://collusion.wiki/
   * Tags: `agents`, `ai`, `hackernews`, `openai`
   * Source URL: <https://collusion.wiki>
 
@@ -31775,6 +31775,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: - **Agentic Workflows in Finance**: Demonstrates Claude's capability to automate complex financial workflows (e.g., risk assessment, fraud detection) via multi-agent systems, reducing manual intervention by up to 70% in pilot studies. - **Regulatory
   * Tags: `agents`, `anthropic`, `creative_dev`, `rag`, `scripts`, `web-crawled`, `workflows`
   * Source URL: <https://claude.com/solutions/financial-services>
+
+* **[Finite time blowup for an averaged three-dimensional Navier-Stokes equation (2014)](ai/community/finite-time-blowup-for-an-averaged-three-dimension.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by gmays. Score: 40, Comments: 15. Original Link: https://terrytao.wordpress.com/2014/02/04/finite-time-blowup-for-an-averaged-three-dimensional-navier-stokes-equation/
+  * Tags: `hackernews`, `rag`
+  * Source URL: <https://terrytao.wordpress.com/2014/02/04/finite-time-blowup-for-an-averaged-three-dimensional-navier-stokes-equation>
 
 * **[Firecrawl - The context API to search, scrape, and interact with the web at scale. 🔥](ai/rag/firecrawl-the-context-api-to-search-scrape-and-int.md)** (`dataset` | `useful` tier)
   * Summary: - **Firecrawl Developer Index**: A specialized index providing 70M+ artifacts (READMEs, docs, issues, PRs) refreshed continuously (daily for most sources) to supply coding agents with up-to-date repository context for code generation and debugging. -
@@ -33055,6 +33060,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: - **Multi-model CLI/Python library** for interacting with remote APIs (OpenAI, Anthropic, Google, Meta) and local models (Ollama, LM Studio) via plugins, supporting both chat and tool execution. - **Core features** include SQLite-based prompt/respons
   * Tags: `agents`, `anthropic`, `dataset`, `meta-ai`, `models`, `openai`, `rag`, `reddit`, `web-crawled`, `workflows`, `youtube`
   * Source URL: <https://llm.datasette.io>
+
+* **[LLMs as a Cognitive Virus](ai/community/arxiv-2609-03344.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by canjobear. Score: 95, Comments: 52. Original Link: https://arxiv.org/abs/2609.03344
+  * Tags: `hackernews`, `llm`
+  * Source URL: <https://arxiv.org/abs/2609.03344>
 
 * **[LLMs for Academic Workflows: An Evaluation of Literature Reviews Generated with Short and Long Context Windows of LLMs](ai/research/arxiv-2608-26145.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2608.26145v1 Announce Type: new Abstract: Our research focuses on evaluating literature reviews generated in short and long context settings of large language models (LLMs) to investigate the impact of context window on the quality of AI-genera
@@ -35326,7 +35336,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2608.04170>
 
 * **[Visualizing Rust's Vtables: How dyn Trait Works In Memory](ai/community/visualizing-rust-s-vtables-how-dyn-trait-works-in.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by torutofu. Score: 7, Comments: 0. Original Link: https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/
+  * Summary: Hacker News story by torutofu. Score: 98, Comments: 10. Original Link: https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/
   * Tags: `ai`, `hackernews`
   * Source URL: <https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory>
 
@@ -39821,7 +39831,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://huggingface.co/blog/tiiuae/emirati-benchmarks>
 
 * **[amazon/chronos-2](ai/models/huggingface-amazon-chronos-2.md)** (`dataset` | `useful` tier)
-  * Summary: Trending Hugging Face model: amazon/chronos-2 (Likes: 429, Downloads: 24516181)
+  * Summary: Trending Hugging Face model: amazon/chronos-2 (Likes: 430, Downloads: 24516181)
   * Tags: `dataset`, `hf-model`, `huggingface`
   * Source URL: <https://huggingface.co/amazon/chronos-2>
 
@@ -60340,7 +60350,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://research.google>
 
 * **[google-bert/bert-base-uncased](ai/models/huggingface-google-bert-bert-base-uncased.md)** (`dataset` | `useful` tier)
-  * Summary: Trending Hugging Face model: google-bert/bert-base-uncased (Likes: 2965, Downloads: 56175564)
+  * Summary: Trending Hugging Face model: google-bert/bert-base-uncased (Likes: 2979, Downloads: 56175564)
   * Tags: `dataset`, `hf-model`, `huggingface`
   * Source URL: <https://huggingface.co/google-bert/bert-base-uncased>
 
@@ -85356,7 +85366,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://huggingface.co/blog/sentence-transformers-joins-hf>
 
 * **[sentence-transformers/all-MiniLM-L6-v2](ai/rag/huggingface-sentence-transformers-all-minilm-l6-v2.md)** (`dataset` | `useful` tier)
-  * Summary: Trending Hugging Face model: sentence-transformers/all-MiniLM-L6-v2 (Likes: 5538, Downloads: 255006933)
+  * Summary: Trending Hugging Face model: sentence-transformers/all-MiniLM-L6-v2 (Likes: 5554, Downloads: 255006933)
   * Tags: `dataset`, `hf-model`, `huggingface`, `rag`
   * Source URL: <https://huggingface.co/sentence-transformers/all-minilm-l6-v2>
 
@@ -97823,7 +97833,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2609.03880>
 
 * **[xlangai/ubuntu_osworld_file_cache](ai/models/huggingface-datasets-xlangai.md)** (`dataset` | `useful` tier)
-  * Summary: Trending Hugging Face dataset: xlangai/ubuntu_osworld_file_cache (Likes: 48, Downloads: 1459882)
+  * Summary: Trending Hugging Face dataset: xlangai/ubuntu_osworld_file_cache (Likes: 49, Downloads: 1459882)
   * Tags: `dataset`, `hf-dataset`, `huggingface`
   * Source URL: <https://huggingface.co/datasets/xlangai>
 
@@ -108408,8 +108418,8 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `github-repo`, `hackernews`, `meta-ai`, `models`, `python`, `rag`, `reddit`
   * Source URL: <https://github.com/datawhalechina/all-in-rag>
 
-* **[datawhalechina/llm-universe](ai/rag/datawhalechina-llm-universe.md)** (`tool` | `useful` tier)
-  * Summary: * Provides foundational guidance for large language model (LLM) application development.
+* **[datawhalechina/llm-universe](ai/rag/datawhalechina-llm-universe.md)** (`benchmark` | `useful` tier)
+  * Summary: * Structured curriculum for Large Language Model (LLM) application development. * Emphasizes practical implementation of LangChain and Retrieval-Augmented Generation (RAG) architectures. * Content delivered via interactive Jupyter Notebooks for code-
   * Tags: `github-repo`, `jupyter notebook`, `rag`
   * Source URL: <https://github.com/datawhalechina/llm-universe>
 
@@ -120342,7 +120352,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://martinuke0.github.io/posts/2025-12-12-rag-techniques-beginner-to-advanced-practical-patterns-code-and-resources/>
 
 * **[raganwald/raganwald.github.com](ai/rag/raganwald-raganwald-github-com.md)** (`tool` | `useful` tier)
-  * Summary: * Jekyll static site generator source repository. * Codebase for `raganwald.com`, implicitly leveraging GitHub Pages infrastructure. * Primary content language is HTML.
+  * Summary: * Jekyll source repository for `raganwald.com`. * Deployed as a GitHub Pages site via `raganwald.github.com`. * Primary content rendered to HTML.
   * Tags: `github-repo`, `html`, `rag`
   * Source URL: <https://github.com/raganwald/raganwald.github.com>
 
@@ -123991,7 +124001,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2606.16617>
 
 * **[SylphAI-Inc/GithubChat](ai/rag/sylphai-inc-githubchat.md)** (`benchmark` | `useful` tier)
-  * Summary: * Python-based RAG system for interactive, contextualized querying of downloaded GitHub repository content. * Implements practical Retrieval-Augmented Generation tailored for codebases and project documentation. * Enables conversational AI applicatio
+  * Summary: * Python-based Retrieval-Augmented Generation (RAG) system for GitHub repositories. * Enables conversational querying and interaction with ingested codebase and documentation. * Facilitates local download and processing of remote Git repositories for
   * Tags: `github-repo`, `python`, `rag`
   * Source URL: <https://github.com/SylphAI-Inc/GithubChat>
 

@@ -5,11 +5,11 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://collusion.wiki
 hn_url: https://news.ycombinator.com/item?id=49563355
-score: 1964
+score: 2052
 author: moultano
-comments_count: 1466
+comments_count: 1494
 published_at: '2026-09-04T17:24:53+05:30'
-collected_at: '2026-09-05T23:54:54.702797+05:30'
+collected_at: '2026-09-06T03:38:21.074909+05:30'
 tags:
 - agents
 - ai
@@ -18,8 +18,8 @@ tags:
 status: active
 resource_id: hackernews:discovery-of-a-new-openai-agent-message-board
 first_seen: '2026-09-04T18:19:57.503524+05:30'
-last_seen: '2026-09-05T23:54:54.702797+05:30'
-last_checked: '2026-09-05T23:54:54.702797+05:30'
+last_seen: '2026-09-06T03:38:21.074909+05:30'
+last_checked: '2026-09-06T03:38:21.074909+05:30'
 health_score: 100
 ---
 
@@ -27,7 +27,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by moultano. Score: 1964, Comments: 1466.
+Hacker News story by moultano. Score: 2052, Comments: 1494.
 Original Link: https://collusion.wiki/
 
 ## Why It Matters
@@ -37,8 +37,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: moultano
-- Score: 1964 Upvotes
-- Comments: 1466 Discussions
+- Score: 2052 Upvotes
+- Comments: 1494 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49563355
 - Original Article: https://collusion.wiki
 

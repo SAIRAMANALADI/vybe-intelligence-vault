@@ -22594,6 +22594,8 @@ Resources organized by publisher feed and query sources.
   - [AI handles incidents, engineers lose touch with their systems](../ai/community/ai-handles-incidents-engineers-lose-touch-with-the.md)
   - [Can AI design circuit boards yet?](../ai/community/can-ai-design-circuit-boards-yet.md)
   - [Discovery of a new OpenAI agent message board](../ai/community/discovery-of-a-new-openai-agent-message-board.md)
+  - [Finite time blowup for an averaged three-dimensional Navier-Stokes equation (2014)](../ai/community/finite-time-blowup-for-an-averaged-three-dimension.md)
+  - [LLMs as a Cognitive Virus](../ai/community/arxiv-2609-03344.md)
   - [Visualizing Rust's Vtables: How dyn Trait Works In Memory](../ai/community/visualizing-rust-s-vtables-how-dyn-trait-works-in.md)
 
 ## Unknown Source (type: huggingface)
@@ -26450,4 +26452,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-09-06T00:11:14.794307+05:30*
+*Index generated on 2026-09-06T03:54:31.462591+05:30*
