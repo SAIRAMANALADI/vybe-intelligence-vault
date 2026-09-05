@@ -22591,10 +22591,11 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
+  - [AI handles incidents, engineers lose touch with their systems](../ai/community/ai-handles-incidents-engineers-lose-touch-with-the.md)
   - [Can AI design circuit boards yet?](../ai/community/can-ai-design-circuit-boards-yet.md)
   - [Discovery of a new OpenAI agent message board](../ai/community/discovery-of-a-new-openai-agent-message-board.md)
+  - [GPT-6 Astra in code review: Gains, privacy, and cost](../ai/community/gpt-6-astra-in-code-review-gains-privacy-and-cost.md)
   - [Government Rails Site Hit Hours After CVE Patch](../ai/community/government-rails-site-hit-hours-after-cve-patch.md)
-  - [Show HN: Moadim.io – A scheduler for agents](../ai/community/show-hn-moadim-io-a-scheduler-for-agents.md)
   - [Show HN: TERMy – A fast terminal assistant that does not use LLMs](../ai/community/gioblu-npc-forge.md)
   - [The Rust React Compiler is now native in Vite](../web-development/community/the-rust-react-compiler-is-now-native-in-vite.md)
 
@@ -25800,6 +25801,7 @@ Resources organized by publisher feed and query sources.
   - [The Apache Incubator](../ai/rag/the-apache-incubator.md)
   - [The Apache Software Foundation · GitHub](../ai/resources/the-apache-software-foundation-github.md)
   - [The Assembly and Executive Committee – Global Privacy Assembly](../ai/resources/the-assembly-and-executive-committee-global-privac.md)
+  - [The Best RAG Frameworks in 2026: A Comprehensive Guide to Building Superior Retrieval-Augmented Generation Systems | mar](../ai/rag/the-best-rag-frameworks-in-2026-a-comprehensive-gu.md)
   - [The Compass REST API](../ai/resources/the-compass-rest-api.md)
   - [The Complete Guide to RAG: Naive, Advanced, and Graph RAG in One Document | Mr. Latte](../ai/rag/the-complete-guide-to-rag-naive-advanced-and-graph.md)
   - [The Computer Vision Foundation – A non-profit organization that fosters and supports research in all aspects of computer](../ai/resources/the-computer-vision-foundation-a-non-profit-organi.md)
@@ -25863,6 +25865,7 @@ Resources organized by publisher feed and query sources.
   - [Top 23 rag Open-Source Projects | LibHunt](../ai/rag/top-23-rag-open-source-projects-libhunt.md)
   - [Top 7 GitHub Repos to Master Retrieval-Augmented Generation](../ai/rag/top-7-github-repos-to-master-retrieval-augmented-g.md)
   - [Top Open Source Github Repositories for creating your own RAG | Resemble AI](../ai/rag/top-open-source-github-repositories-for-creating-y.md)
+  - [Top RAG open-source projects (2026) | Trendshift](../ai/rag/top-rag-open-source-projects-2026-trendshift.md)
   - [Top free game assets - itch.io](../ai/rag/top-free-game-assets-itch-io.md)
   - [Top game assets tagged Fonts - itch.io](../ai/resources/top-game-assets-tagged-fonts-itch-io.md)
   - [Top game assets tagged No AI - itch.io](../ai/rag/top-game-assets-tagged-no-ai-itch-io.md)
@@ -26454,4 +26457,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-09-05T10:25:23.462252+05:30*
+*Index generated on 2026-09-05T17:40:52.734431+05:30*

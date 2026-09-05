@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://github.com/gioblu/npc-forge
 hn_url: https://news.ycombinator.com/item?id=49562219
-score: 103
+score: 147
 author: gioscarab
-comments_count: 29
+comments_count: 38
 published_at: '2026-09-04T14:33:00+05:30'
-collected_at: '2026-09-05T10:09:08.023651+05:30'
+collected_at: '2026-09-05T17:24:25.743427+05:30'
 tags:
 - hackernews
 - llm
 status: active
 resource_id: github:gioblu/npc-forge
 first_seen: '2026-09-05T00:35:24.090700+05:30'
-last_seen: '2026-09-05T10:09:08.023651+05:30'
-last_checked: '2026-09-05T10:09:08.023651+05:30'
+last_seen: '2026-09-05T17:24:25.743427+05:30'
+last_checked: '2026-09-05T17:24:25.743427+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by gioscarab. Score: 103, Comments: 29.
+Hacker News story by gioscarab. Score: 147, Comments: 38.
 Original Link: https://github.com/gioblu/NPC-Forge/blob/main/docs/development.md
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: gioscarab
-- Score: 103 Upvotes
-- Comments: 29 Discussions
+- Score: 147 Upvotes
+- Comments: 38 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49562219
 - Original Article: https://github.com/gioblu/npc-forge
 

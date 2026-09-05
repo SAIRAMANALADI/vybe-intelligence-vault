@@ -13,13 +13,14 @@ collected_at: '2026-09-05T10:09:08.689799+05:30'
 tags:
 - agents
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:show-hn-moadim-io-a-scheduler-for-agents
 first_seen: '2026-09-05T10:09:08.689799+05:30'
 last_seen: '2026-09-05T10:09:08.689799+05:30'
 last_checked: '2026-09-05T10:09:08.689799+05:30'
 health_score: 100
 ---
+
 
 # Show HN: Moadim.io – A scheduler for agents
 
