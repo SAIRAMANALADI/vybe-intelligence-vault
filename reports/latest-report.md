@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-09-05T17:42:42.236305+05:30`
+Generated at: `2026-09-05T21:00:40.859763+05:30`
 
 ## Executive Summary
 
@@ -8,36 +8,33 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## ✨ New Discoveries
 
-- **AI handles incidents, engineers lose touch with their systems** - Score: `180` in category `ai/community` ([Link](https://sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems)) ([File](../ai/community/ai-handles-incidents-engineers-lose-touch-with-the.md))
-- **GPT-6 Astra in code review: Gains, privacy, and cost** - Score: `57` in category `ai/community` ([Link](https://coderabbit.ai/blog/gpt-6-astra-code-review-evaluation)) ([File](../ai/community/gpt-6-astra-in-code-review-gains-privacy-and-cost.md))
-- **Top RAG open-source projects (2026) | Trendshift** - Score: `0` in category `ai/rag` ([Link](https://trendshift.io/topics/rag)) ([File](../ai/rag/top-rag-open-source-projects-2026-trendshift.md))
-- **The Best RAG Frameworks in 2026: A Comprehensive Guide to Building Superior Retrieval-Augmented Generation Systems | mar** - Score: `0` in category `ai/rag` ([Link](https://martinuke0.github.io/posts/2026-01-06-the-best-rag-frameworks-in-2026-a-comprehensive-guide-to-building-superior-retrieval-augmented-generation-systems)) ([File](../ai/rag/the-best-rag-frameworks-in-2026-a-comprehensive-gu.md))
+- **[QUALITY] - ** - Score: `0` in category `` ([File](../.github/ISSUE_TEMPLATE/quality-feedback.md))
 
 ## Top Trending Resources
 
-- **Discovery of a new OpenAI agent message board** - Score: `1771` (+211), Rank Change: `0` ([File](../ai/community/discovery-of-a-new-openai-agent-message-board.md))
-- **Can AI design circuit boards yet?** - Score: `277` (+77), Rank Change: `0` ([File](../ai/community/can-ai-design-circuit-boards-yet.md))
-- **Show HN: TERMy – A fast terminal assistant that does not use LLMs** - Score: `147` (+44), Rank Change: `0` ([File](../ai/community/gioblu-npc-forge.md))
-- **The Rust React Compiler is now native in Vite** - Score: `147` (+21), Rank Change: `-2` ([File](../web-development/community/the-rust-react-compiler-is-now-native-in-vite.md))
-- **Government Rails Site Hit Hours After CVE Patch** - Score: `98` (+16), Rank Change: `-1` ([File](../ai/community/government-rails-site-hit-hours-after-cve-patch.md))
-- **Andrew-Jang/RAGHub** - Score: `0` (0), Rank Change: `+1497` ([File](../ai/rag/andrew-jang-raghub.md))
-- **The Ultimate List of Python RAG Projects on GitHub · Technical news about AI, coding and all** - Score: `0` (0), Rank Change: `+1457` ([File](../ai/rag/the-ultimate-list-of-python-rag-projects-on-github.md))
-- **LightRAG** - Score: `0` (0), Rank Change: `+1005` ([File](../ai/rag/lightrag.md))
-- **Medium** - Score: `0` (0), Rank Change: `+26392` ([File](../ai/rag/medium-2.md))
-- **IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow** - Score: `0` (0), Rank Change: `+1003` ([File](../ai/rag/icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow.md))
+- **IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow** - Score: `0` (0), Rank Change: `+5` ([File](../ai/rag/icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow.md))
+- **IcensRAGHomework/icensraghomework-classroom01-rag3-hw03_workflow** - Score: `0` (0), Rank Change: `+5` ([File](../ai/rag/icensraghomework-icensraghomework-classroom01-rag3-hw03-workflow.md))
+- **ragnarokoffline/ragnarokoffline.github.io** - Score: `0` (0), Rank Change: `+5` ([File](../ai/rag/ragnarokoffline-ragnarokoffline-github-io.md))
+- **datawhalechina/llm-universe** - Score: `0` (0), Rank Change: `+5` ([File](../ai/rag/datawhalechina-llm-universe.md))
+- **datawhalechina/all-in-rag** - Score: `0` (0), Rank Change: `+5` ([File](../ai/rag/datawhalechina-all-in-rag.md))
+- **ParticleMedia/RAGTruth** - Score: `0` (0), Rank Change: `+5` ([File](../ai/rag/particlemedia-ragtruth.md))
+- **malonge/RaGOO** - Score: `0` (0), Rank Change: `+5` ([File](../ai/rag/malonge-ragoo.md))
+- **SylphAI-Inc/GithubChat** - Score: `0` (0), Rank Change: `+5` ([File](../ai/rag/sylphai-inc-githubchat.md))
+- **raganwald/raganwald.github.com** - Score: `0` (0), Rank Change: `+5` ([File](../ai/rag/raganwald-raganwald-github-com.md))
+- **analyticsworld1/RAG_Techniques2025-main** - Score: `0` (0), Rank Change: `+1006` ([File](../ai/rag/analyticsworld1-rag-techniques2025-main.md))
 
 ## 🚀 Fastest Rising Tools
 
-- **Medium** - (Rank Change: `+26392`) ([File](../ai/rag/medium-2.md))
-- **Andrew-Jang/RAGHub** - (Rank Change: `+1497`) ([File](../ai/rag/andrew-jang-raghub.md))
-- **The Ultimate List of Python RAG Projects on GitHub · Technical news about AI, coding and all** - (Rank Change: `+1457`) ([File](../ai/rag/the-ultimate-list-of-python-rag-projects-on-github.md))
-- **LightRAG** - (Rank Change: `+1005`) ([File](../ai/rag/lightrag.md))
-- **IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow** - (Rank Change: `+1003`) ([File](../ai/rag/icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow.md))
-- **IcensRAGHomework/icensraghomework-classroom01-rag3-hw03_workflow** - (Rank Change: `+1003`) ([File](../ai/rag/icensraghomework-icensraghomework-classroom01-rag3-hw03-workflow.md))
-- **ParticleMedia/RAGTruth** - (Rank Change: `+1000`) ([File](../ai/rag/particlemedia-ragtruth.md))
-- **malonge/RaGOO** - (Rank Change: `+1000`) ([File](../ai/rag/malonge-ragoo.md))
-- **ragnarokoffline/ragnarokoffline.github.io** - (Rank Change: `+996`) ([File](../ai/rag/ragnarokoffline-ragnarokoffline-github-io.md))
-- **SylphAI-Inc/GithubChat** - (Rank Change: `+989`) ([File](../ai/rag/sylphai-inc-githubchat.md))
+- **infiniflow/ragflow** - (Rank Change: `+25441`) ([File](../ai/rag/infiniflow-ragflow-2.md))
+- **RUC-NLPIR/FlashRAG** - (Rank Change: `+25360`) ([File](../ai/rag/ruc-nlpir-flashrag-2.md))
+- **stanford-oval/storm** - (Rank Change: `+17139`) ([File](../ai/rag/stanford-oval-storm.md))
+- **analyticsworld1/RAG_Techniques2025-main** - (Rank Change: `+1006`) ([File](../ai/rag/analyticsworld1-rag-techniques2025-main.md))
+- **dannyblaker/rag-tutorial** - (Rank Change: `+1006`) ([File](../ai/rag/dannyblaker-rag-tutorial.md))
+- **7 Best GitHub Repositories For Mastering RAG Systems** - (Rank Change: `+1006`) ([File](../ai/rag/7-best-github-repositories-for-mastering-rag-syste.md))
+- **TRACE: A Self-Evolving Skill Bank for Consistent, Limit-Aware LLM Agents** - (Rank Change: `+1006`) ([File](../ai/agents/arxiv-2608-22793.md))
+- **PalmClaw: A Native On-Device Agent Framework for Mobile Phones** - (Rank Change: `+1006`) ([File](../ai/agents/arxiv-2607-13027.md))
+- **Learning What Not to Forget: Long-Horizon Agent Memory from a Few Kilobytes of Learning** - (Rank Change: `+1006`) ([File](../ai/agents/arxiv-2606-20954.md))
+- **SV-Detect: AI-generated Text Detection with Steering Vectors** - (Rank Change: `+1006`) ([File](../ai/research/arxiv-2606-07313.md))
 
 ## 🔄 Essential Tier Transitions
 
@@ -48,4 +45,5 @@ No resources left the Essential tier in this run.
 
 ## 💤 Recently Inactive Resources
 
-- **Show HN: Moadim.io – A scheduler for agents** (Category: `ai/community`) ([File](../ai/community/show-hn-moadim-io-a-scheduler-for-agents.md))
+No recently active resources transitioned to inactive.
+
