@@ -13,13 +13,14 @@ collected_at: '2026-09-05T17:24:25.743427+05:30'
 tags:
 - hackernews
 - llm
-status: active
+status: inactive
 resource_id: github:gioblu/npc-forge
 first_seen: '2026-09-05T00:35:24.090700+05:30'
 last_seen: '2026-09-05T17:24:25.743427+05:30'
 last_checked: '2026-09-05T17:24:25.743427+05:30'
 health_score: 100
 ---
+
 
 # Show HN: TERMy – A fast terminal assistant that does not use LLMs
 

@@ -14,13 +14,14 @@ tags:
 - ai
 - benchmark
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:gpt-6-astra-in-code-review-gains-privacy-and-cost
 first_seen: '2026-09-05T17:24:24.338469+05:30'
 last_seen: '2026-09-05T17:24:24.338469+05:30'
 last_checked: '2026-09-05T17:24:24.338469+05:30'
 health_score: 100
 ---
+
 
 # GPT-6 Astra in code review: Gains, privacy, and cost
 

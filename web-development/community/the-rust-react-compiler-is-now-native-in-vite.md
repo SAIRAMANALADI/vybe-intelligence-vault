@@ -14,13 +14,14 @@ tags:
 - frontend_ui
 - hackernews
 - react
-status: active
+status: inactive
 resource_id: hackernews:the-rust-react-compiler-is-now-native-in-vite
 first_seen: '2026-09-05T00:35:23.025683+05:30'
 last_seen: '2026-09-05T17:24:25.664477+05:30'
 last_checked: '2026-09-05T17:24:25.664477+05:30'
 health_score: 100
 ---
+
 
 # The Rust React Compiler is now native in Vite
 

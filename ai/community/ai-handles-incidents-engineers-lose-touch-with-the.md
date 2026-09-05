@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems
 hn_url: https://news.ycombinator.com/item?id=49574167
-score: 180
+score: 263
 author: sylvainkalache
-comments_count: 164
+comments_count: 231
 published_at: '2026-09-05T13:22:50+05:30'
-collected_at: '2026-09-05T17:24:23.431896+05:30'
+collected_at: '2026-09-05T20:52:15.128341+05:30'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: hackernews:ai-handles-incidents-engineers-lose-touch-with-the
 first_seen: '2026-09-05T17:24:23.431896+05:30'
-last_seen: '2026-09-05T17:24:23.431896+05:30'
-last_checked: '2026-09-05T17:24:23.431896+05:30'
+last_seen: '2026-09-05T20:52:15.128341+05:30'
+last_checked: '2026-09-05T20:52:15.128341+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by sylvainkalache. Score: 180, Comments: 164.
+Hacker News story by sylvainkalache. Score: 263, Comments: 231.
 Original Link: https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: sylvainkalache
-- Score: 180 Upvotes
-- Comments: 164 Discussions
+- Score: 263 Upvotes
+- Comments: 231 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49574167
 - Original Article: https://sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems
 
