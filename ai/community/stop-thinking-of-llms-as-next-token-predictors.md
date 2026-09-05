@@ -13,13 +13,14 @@ collected_at: '2026-09-05T03:56:45.196354+05:30'
 tags:
 - hackernews
 - llm
-status: active
+status: inactive
 resource_id: hackernews:stop-thinking-of-llms-as-next-token-predictors
 first_seen: '2026-09-05T00:35:25.526463+05:30'
 last_seen: '2026-09-05T03:56:45.196354+05:30'
 last_checked: '2026-09-05T03:56:45.196354+05:30'
 health_score: 100
 ---
+
 
 # "Next-token predictor" is the wrong mental model for LLMs
 

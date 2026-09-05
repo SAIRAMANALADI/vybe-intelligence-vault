@@ -109,7 +109,6 @@ Resources organized by keyword tags.
   - [A Neuro-Symbolic Approach to Strategy Synthesis for Strategic Logics](../ai/agents/arxiv-2606-17962.md)
   - [A New Framework for Evaluating Voice Agents (EVA)](../ai/agents/huggingface-blog-servicenow-ai-eva.md)
   - [A Noise-Robust Elicit-to-Optimize Framework for Distortion Riskmetrics via Inverse Reinforcement Learning](../ai/agents/arxiv-2607-14373.md)
-  - [A Non-Formulable Theorem: A Fundamental Limit of Finite Syntactic Systems and Its Consequences for Security and AI](../ai/agents/arxiv-2609-04086.md)
   - [A Physics-Informed Framework for PID Tuning of Chemical Processes Using Large Language Model Agents](../ai/agents/arxiv-2607-26594.md)
   - [A Policy Algebra for Trust-Preserving Agentic AI Execution](../ai/agents/arxiv-2608-16402.md)
   - [A Probabilistic Framework for LLM-Based Model Discovery](../ai/agents/arxiv-2602-18266.md)
@@ -4492,6 +4491,7 @@ Resources organized by keyword tags.
   - [ShopX: A Foundation Model for Intent-to-Item Fulfillment in Agentic Shopping](../ai/agents/arxiv-2606-31693.md)
   - [Short-Term-to-Long-Term Memory Transfer for Knowledge Graphs under Partial Observability](../ai/agents/arxiv-2605-22142.md)
   - [Should We Type or Talk to LLM Agents? A Comprehensive Study of Voice and Keyboard Input Perturbations](../ai/agents/arxiv-2608-03970.md)
+  - [Show HN: Moadim.io – A scheduler for agents](../ai/community/show-hn-moadim-io-a-scheduler-for-agents.md)
   - [Shubhamsaboo/awesome-llm-apps](../ai/rag/shubhamsaboo-awesome-llm-apps.md)
   - [Shutdownable Agents through POST-Agency](../ai/agents/arxiv-2505-20203.md)
   - [ShuttleArena: Interpretable Self-Play in Physics-Based Badminton](../ai/agents/arxiv-2608-25246.md)
@@ -5952,7 +5952,6 @@ Resources organized by keyword tags.
 ## ai
 
   - [Can AI design circuit boards yet?](../ai/community/can-ai-design-circuit-boards-yet.md)
-  - [Corporate America is getting hooked on open-source AI](../ai/community/corporate-america-is-getting-hooked-on-open-source.md)
   - [Discovery of a new OpenAI agent message board](../ai/community/discovery-of-a-new-openai-agent-message-board.md)
   - [Government Rails Site Hit Hours After CVE Patch](../ai/community/government-rails-site-hit-hours-after-cve-patch.md)
 
@@ -6133,7 +6132,6 @@ Resources organized by keyword tags.
   - [Context Graphs for Proactive Enterprise Agents](../ai/rag/arxiv-2607-07721.md)
   - [ContextSniper: AntTrail's Token-Efficient Code Memory for Repository-Level Program Repair](../ai/rag/arxiv-2607-01916.md)
   - [Cookies policy | Magnific](../ai/rag/cookies-policy-magnific.md)
-  - [Corporate America is getting hooked on open-source AI](../ai/community/corporate-america-is-getting-hooked-on-open-source.md)
   - [Cost-Effective Automated Judging of Natural-Language Mathematical Proofs](../ai/research/arxiv-2608-00004.md)
   - [Coupling Planning with Episodic Memory in LLM Agents for Software Issue Resolution](../ai/rag/arxiv-2608-06811.md)
   - [Creating Your First QA Pipeline with Retrieval-Augmentation | Haystack](../ai/rag/creating-your-first-qa-pipeline-with-retrieval-aug.md)
@@ -16523,8 +16521,9 @@ Resources organized by keyword tags.
   - [Aug 31, 2026Improving our alignment and security efforts](../ai/companies/anthropic/aug-31-2026improving-our-alignment-and-security-ef.md)
   - [Aug 4, 2026AnnouncementsMariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer](../ai/companies/anthropic/aug-4-2026announcementsmariano-florentino-tino-cue.md)
   - [Aug 7, 2026ProductImproving Fable 5's biology safeguards](../ai/companies/anthropic/aug-7-2026productimproving-fable-5-s-biology-safeg.md)
-  - [Code & data](../ai/companies/code-data.md)
+  - [Code, datasets and models](../ai/companies/code-datasets-and-models.md)
   - [Computer vision](../ai/companies/computer-vision.md)
+  - [Data platforms and analytics](../ai/companies/data-platforms-and-analytics.md)
   - [Engineering](../ai/companies/openai/engineering.md)
   - [Global Affairs](../ai/companies/openai/global-affairs.md)
   - [Graphics & multimedia](../ai/companies/graphics-multimedia.md)
@@ -16535,7 +16534,6 @@ Resources organized by keyword tags.
   - [Jul 27, 2026AnnouncementsOur position on open-weights models](../ai/companies/anthropic/jul-27-2026announcementsour-position-on-open-weigh.md)
   - [Jul 30, 2026AnnouncementsInvestigating three real-world incidents in our cybersecurity evaluations](../ai/companies/anthropic/jul-30-2026announcementsinvestigating-three-real-w.md)
   - [Learn more](../ai/companies/deepmind/learn-more.md)
-  - [Microsoft Research blog](../ai/companies/microsoft-research-blog.md)
   - [Mistral Medium 3.5](../ai/companies/mistral/mistral-medium-3-5.md)
   - [Mistral OCR 4](../ai/companies/mistral/mistral-ocr-4.md)
   - [Mistral Small 4](../ai/companies/mistral/mistral-small-4.md)
@@ -17767,6 +17765,7 @@ Resources organized by keyword tags.
   - [CoQui: A Coordinate-Conditioned Quantum Implicit Generative Adversarial Network for End-to-End Image Generation](../ai/research/arxiv-2608-11884.md)
   - [CoToGrasp: Contact-Topology-Conditioned Dexterous Grasp Synthesis via Canonical Workspace Learning](../ai/research/arxiv-2608-19776.md)
   - [CoVer: Conflict-Aware Claim Verification](../ai/research/arxiv-2609-00508.md)
+  - [Code, datasets and models](../ai/companies/code-datasets-and-models.md)
   - [Code-Poisoning Property Inference Attacks](../ai/agents/arxiv-2607-15970.md)
   - [Code-in-the-Loop Forensics: Agentic Tool Use for Image Forgery Detection](../ai/agents/arxiv-2512-16300.md)
   - [CodeEvo: Interaction-Driven Synthesis of Code-centric Data through Hybrid and Iterative Feedback](../ai/agents/arxiv-2507-22080.md)
@@ -23861,7 +23860,6 @@ Resources organized by keyword tags.
 ## hackernews
 
   - ["Did you lie?" Evaluating Lie Detectors across Model Scale and Belief-Verified Model Organisms](../ai/research/arxiv-2606-12618.md)
-  - ["Next-token predictor" is the wrong mental model for LLMs](../ai/community/stop-thinking-of-llms-as-next-token-predictors.md)
   - ["We'll have to see how it works": An interview study to understand collaborative practices in interdisciplinary artificial intelligence and healthcare research](../ai/research/arxiv-2311-18424.md)
   - [#1 Real-Time AI Voice SDK | Krisp](../ai/agents/1-real-time-ai-voice-sdk-krisp.md)
   - [- YouTube](../ai/rag/youtube-pbcra-zart4.md)
@@ -24601,7 +24599,6 @@ Resources organized by keyword tags.
   - [Cornell University](../ai/rag/cornell-university.md)
   - [Cornell University | Search Pages](../ai/resources/cornell-university-search-pages.md)
   - [Cornell University's Online Web and Video Conferencing Service - Zoom](../ai/resources/cornell-university-s-online-web-and-video-conferen.md)
-  - [Corporate America is getting hooked on open-source AI](../ai/community/corporate-america-is-getting-hooked-on-open-source.md)
   - [Corpus Augmentation for Sign Language Translation via LLM-Guided Video Stitching](../ai/research/arxiv-2606-11925.md)
   - [Correlating Cross-Iteration Noise for DP-SGD using Model Curvature](../ai/research/arxiv-2510-05416.md)
   - [Cortecs: CoRTecS](../ai/resources/cortecs-cortecs.md)
@@ -26527,6 +26524,7 @@ Resources organized by keyword tags.
   - [ShielDroid: A Hybrid Approach Integrating Machine and Deep Learning for Android Malware Detection](../ai/research/arxiv-2608-03250.md)
   - [Shielding for Higher-Order Safety](../ai/research/arxiv-2608-03662.md)
   - [Short-circuit evaluation - Wikipedia](../ai/resources/short-circuit-evaluation-wikipedia.md)
+  - [Show HN: Moadim.io – A scheduler for agents](../ai/community/show-hn-moadim-io-a-scheduler-for-agents.md)
   - [Show HN: TERMy – A fast terminal assistant that does not use LLMs](../ai/community/gioblu-npc-forge.md)
   - [Show Me How You Reason and I'll Tell You Who You Are: Reasoning Graphs for Robust LLM Authorship Attribution](../ai/rag/arxiv-2607-14905.md)
   - [Shows | web.dev](../ai/resources/shows-web-dev.md)
@@ -28018,7 +28016,6 @@ Resources organized by keyword tags.
 
 ## llm
 
-  - ["Next-token predictor" is the wrong mental model for LLMs](../ai/community/stop-thinking-of-llms-as-next-token-predictors.md)
   - [Show HN: TERMy – A fast terminal assistant that does not use LLMs](../ai/community/gioblu-npc-forge.md)
 
 ## mdx
@@ -28796,12 +28793,12 @@ Resources organized by keyword tags.
 
   - [Artificial intelligence](../ai/companies/artificial-intelligence.md)
   - [Audio & acoustics](../ai/companies/audio-acoustics.md)
-  - [Code & data](../ai/companies/code-data.md)
+  - [Code, datasets and models](../ai/companies/code-datasets-and-models.md)
   - [Computer vision](../ai/companies/computer-vision.md)
+  - [Data platforms and analytics](../ai/companies/data-platforms-and-analytics.md)
   - [Graphics & multimedia](../ai/companies/graphics-multimedia.md)
   - [Human language technologies](../ai/companies/human-language-technologies.md)
   - [Human-computer interaction](../ai/companies/human-computer-interaction.md)
-  - [Microsoft Research blog](../ai/companies/microsoft-research-blog.md)
   - [Publications](../ai/companies/publications.md)
   - [Search & information retrieval](../ai/companies/search-information-retrieval.md)
 
@@ -34123,7 +34120,6 @@ Resources organized by keyword tags.
   - [Conversational AI for Rapid Scientific Prototyping: A Case Study on ESA's ELOPE Competition](../ai/research/arxiv-2601-04920.md)
   - [Cookies policy | Magnific](../ai/rag/cookies-policy-magnific.md)
   - [Copilot CLI sessions in Visual Studio Code](../ai/agents/copilot-cli-sessions-in-visual-studio-code.md)
-  - [Corporate America is getting hooked on open-source AI](../ai/community/corporate-america-is-getting-hooked-on-open-source.md)
   - [Correction and Corruption: A Two-Rate View of Error Flow in LLM Protocols](../ai/rag/arxiv-2604-18245.md)
   - [Counterfactual Modeling with Fine-Tuned LLMs for Health Intervention Design and Sensor Data Augmentation](../ai/rag/arxiv-2601-14590.md)
   - [Coverage-Controlled Preference Mining from Noisy Claim Verification for Evidence-Grounded Generation](../ai/rag/arxiv-2603-10494.md)
@@ -58100,4 +58096,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-09-05T04:12:58.791190+05:30*
+*Index generated on 2026-09-05T10:25:23.166633+05:30*

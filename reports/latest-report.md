@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-09-05T08:52:23.601788+05:30`
+Generated at: `2026-09-05T10:27:56.928351+05:30`
 
 ## Executive Summary
 
@@ -8,34 +8,35 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## ✨ New Discoveries
 
-- **"Next-token predictor" is the wrong mental model for LLMs** - Score: `43` in category `ai/community` ([Link](https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html)) ([File](../ai/community/stop-thinking-of-llms-as-next-token-predictors.md))
-- **[QUALITY] - ** - Score: `0` in category `` ([File](../.github/ISSUE_TEMPLATE/quality-feedback.md))
+- **Show HN: Moadim.io – A scheduler for agents** - Score: `20` in category `ai/community` ([Link](https://moadim.io)) ([File](../ai/community/show-hn-moadim-io-a-scheduler-for-agents.md))
+- **Data platforms and analytics** - Score: `0` in category `ai/companies` ([Link](https://microsoft.com/en-us/research/research-area/data-platform-analytics)) ([File](../ai/companies/data-platforms-and-analytics.md))
+- **Code, datasets and models** - Score: `0` in category `ai/companies` ([Link](https://microsoft.com/en-us/research/tools)) ([File](../ai/companies/code-datasets-and-models.md))
 
 ## Top Trending Resources
 
-- **ragnarokoffline/ragnarokoffline.github.io** - Score: `0` (0), Rank Change: `+1002` ([File](../ai/rag/ragnarokoffline-ragnarokoffline-github-io.md))
-- **analyticsworld1/RAG_Techniques2025-main** - Score: `0` (0), Rank Change: `+1002` ([File](../ai/rag/analyticsworld1-rag-techniques2025-main.md))
-- **dannyblaker/rag-tutorial** - Score: `0` (0), Rank Change: `+1002` ([File](../ai/rag/dannyblaker-rag-tutorial.md))
-- **7 Best GitHub Repositories For Mastering RAG Systems** - Score: `0` (0), Rank Change: `+1002` ([File](../ai/rag/7-best-github-repositories-for-mastering-rag-syste.md))
-- **LightRAG** - Score: `0` (0), Rank Change: `+1002` ([File](../ai/rag/lightrag.md))
-- **IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow** - Score: `0` (0), Rank Change: `+1002` ([File](../ai/rag/icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow.md))
-- **IcensRAGHomework/icensraghomework-classroom01-rag3-hw03_workflow** - Score: `0` (0), Rank Change: `+1002` ([File](../ai/rag/icensraghomework-icensraghomework-classroom01-rag3-hw03-workflow.md))
-- **ParticleMedia/RAGTruth** - Score: `0` (0), Rank Change: `+1002` ([File](../ai/rag/particlemedia-ragtruth.md))
-- **malonge/RaGOO** - Score: `0` (0), Rank Change: `+1002` ([File](../ai/rag/malonge-ragoo.md))
-- **TRACE: A Self-Evolving Skill Bank for Consistent, Limit-Aware LLM Agents** - Score: `0` (0), Rank Change: `+1002` ([File](../ai/agents/arxiv-2608-22793.md))
+- **Discovery of a new OpenAI agent message board** - Score: `1560` (+183), Rank Change: `0` ([File](../ai/community/discovery-of-a-new-openai-agent-message-board.md))
+- **Can AI design circuit boards yet?** - Score: `200` (+102), Rank Change: `+1` ([File](../ai/community/can-ai-design-circuit-boards-yet.md))
+- **The Rust React Compiler is now native in Vite** - Score: `126` (+38), Rank Change: `+1` ([File](../web-development/community/the-rust-react-compiler-is-now-native-in-vite.md))
+- **Government Rails Site Hit Hours After CVE Patch** - Score: `82` (+26), Rank Change: `+1` ([File](../ai/community/government-rails-site-hit-hours-after-cve-patch.md))
+- **Show HN: TERMy – A fast terminal assistant that does not use LLMs** - Score: `103` (+24), Rank Change: `+1` ([File](../ai/community/gioblu-npc-forge.md))
+- **datawhalechina/all-in-rag** - Score: `0` (0), Rank Change: `+1` ([File](../ai/rag/datawhalechina-all-in-rag.md))
+- **datawhalechina/llm-universe** - Score: `0` (0), Rank Change: `+3` ([File](../ai/rag/datawhalechina-llm-universe.md))
+- **Search & information retrieval** - Score: `0` (0), Rank Change: `+2` ([File](../ai/companies/search-information-retrieval.md))
+- **Human language technologies** - Score: `0` (0), Rank Change: `+2` ([File](../ai/companies/human-language-technologies.md))
+- **Human-computer interaction** - Score: `0` (0), Rank Change: `+2` ([File](../ai/companies/human-computer-interaction.md))
 
 ## 🚀 Fastest Rising Tools
 
-- **infiniflow/ragflow** - (Rank Change: `+25438`) ([File](../ai/rag/infiniflow-ragflow-2.md))
-- **RUC-NLPIR/FlashRAG** - (Rank Change: `+25357`) ([File](../ai/rag/ruc-nlpir-flashrag-2.md))
-- **stanford-oval/storm** - (Rank Change: `+17136`) ([File](../ai/rag/stanford-oval-storm.md))
-- **ragnarokoffline/ragnarokoffline.github.io** - (Rank Change: `+1002`) ([File](../ai/rag/ragnarokoffline-ragnarokoffline-github-io.md))
-- **analyticsworld1/RAG_Techniques2025-main** - (Rank Change: `+1002`) ([File](../ai/rag/analyticsworld1-rag-techniques2025-main.md))
-- **dannyblaker/rag-tutorial** - (Rank Change: `+1002`) ([File](../ai/rag/dannyblaker-rag-tutorial.md))
-- **7 Best GitHub Repositories For Mastering RAG Systems** - (Rank Change: `+1002`) ([File](../ai/rag/7-best-github-repositories-for-mastering-rag-syste.md))
-- **LightRAG** - (Rank Change: `+1002`) ([File](../ai/rag/lightrag.md))
-- **IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow** - (Rank Change: `+1002`) ([File](../ai/rag/icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow.md))
-- **IcensRAGHomework/icensraghomework-classroom01-rag3-hw03_workflow** - (Rank Change: `+1002`) ([File](../ai/rag/icensraghomework-icensraghomework-classroom01-rag3-hw03-workflow.md))
+- **google-t5/t5-small** - (Rank Change: `+870`) ([File](../ai/models/huggingface-google-t5-t5-small.md))
+- **sentence-transformers/all-mpnet-base-v2** - (Rank Change: `+870`) ([File](../ai/rag/huggingface-sentence-transformers-all-mpnet-base-v2.md))
+- **amazon/chronos-2** - (Rank Change: `+870`) ([File](../ai/models/huggingface-amazon-chronos-2.md))
+- **BAAI/bge-m3** - (Rank Change: `+870`) ([File](../ai/rag/huggingface-baai-bge-m3.md))
+- **sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2** - (Rank Change: `+870`) ([File](../ai/rag/huggingface-sentence-transformers-paraphrase-multilingual-minilm-l12-v2.md))
+- **google-bert/bert-base-uncased** - (Rank Change: `+870`) ([File](../ai/models/huggingface-google-bert-bert-base-uncased.md))
+- **google/electra-base-discriminator** - (Rank Change: `+870`) ([File](../ai/models/huggingface-google-electra-base-discriminator.md))
+- **BAAI/bge-small-en-v1.5** - (Rank Change: `+870`) ([File](../ai/rag/huggingface-baai-bge-small-en-v1-5.md))
+- **cross-encoder/ms-marco-MiniLM-L6-v2** - (Rank Change: `+870`) ([File](../ai/rag/huggingface-cross-encoder-ms-marco-minilm-l6-v2.md))
+- **sentence-transformers/all-MiniLM-L6-v2** - (Rank Change: `+870`) ([File](../ai/rag/huggingface-sentence-transformers-all-minilm-l6-v2.md))
 
 ## 🔄 Essential Tier Transitions
 
@@ -46,5 +47,4 @@ No resources left the Essential tier in this run.
 
 ## 💤 Recently Inactive Resources
 
-No recently active resources transitioned to inactive.
-
+- **Corporate America is getting hooked on open-source AI** (Category: `ai/community`) ([File](../ai/community/corporate-america-is-getting-hooked-on-open-source.md))

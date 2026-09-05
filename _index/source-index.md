@@ -476,7 +476,6 @@ Resources organized by publisher feed and query sources.
   - [A New Perspective on Precision and Recall for Generative Models](../ai/research/arxiv-2511-02414.md)
   - [A New Theory of Value for Post-AGI Economics](../ai/research/arxiv-2608-01432.md)
   - [A Noise-Robust Elicit-to-Optimize Framework for Distortion Riskmetrics via Inverse Reinforcement Learning](../ai/agents/arxiv-2607-14373.md)
-  - [A Non-Formulable Theorem: A Fundamental Limit of Finite Syntactic Systems and Its Consequences for Security and AI](../ai/agents/arxiv-2609-04086.md)
   - [A Nonlinear Singular Value Theory for Neural Networks](../ai/research/arxiv-2605-06938.md)
   - [A Novel Approach to Temporal QoS Estimation via Extended Kalman Filter-Incorporated Latent Feature Analysis](../ai/research/arxiv-2606-23010.md)
   - [A Novel Fourier Feature Network for Solving Partial Differential Equations](../ai/research/arxiv-2608-14733.md)
@@ -21674,8 +21673,9 @@ Resources organized by publisher feed and query sources.
   - [Aug 31, 2026Improving our alignment and security efforts](../ai/companies/anthropic/aug-31-2026improving-our-alignment-and-security-ef.md)
   - [Aug 4, 2026AnnouncementsMariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer](../ai/companies/anthropic/aug-4-2026announcementsmariano-florentino-tino-cue.md)
   - [Aug 7, 2026ProductImproving Fable 5's biology safeguards](../ai/companies/anthropic/aug-7-2026productimproving-fable-5-s-biology-safeg.md)
-  - [Code & data](../ai/companies/code-data.md)
+  - [Code, datasets and models](../ai/companies/code-datasets-and-models.md)
   - [Computer vision](../ai/companies/computer-vision.md)
+  - [Data platforms and analytics](../ai/companies/data-platforms-and-analytics.md)
   - [Engineering](../ai/companies/openai/engineering.md)
   - [Global Affairs](../ai/companies/openai/global-affairs.md)
   - [Graphics & multimedia](../ai/companies/graphics-multimedia.md)
@@ -21686,7 +21686,6 @@ Resources organized by publisher feed and query sources.
   - [Jul 27, 2026AnnouncementsOur position on open-weights models](../ai/companies/anthropic/jul-27-2026announcementsour-position-on-open-weigh.md)
   - [Jul 30, 2026AnnouncementsInvestigating three real-world incidents in our cybersecurity evaluations](../ai/companies/anthropic/jul-30-2026announcementsinvestigating-three-real-w.md)
   - [Learn more](../ai/companies/deepmind/learn-more.md)
-  - [Microsoft Research blog](../ai/companies/microsoft-research-blog.md)
   - [Mistral Medium 3.5](../ai/companies/mistral/mistral-medium-3-5.md)
   - [Mistral OCR 4](../ai/companies/mistral/mistral-ocr-4.md)
   - [Mistral Small 4](../ai/companies/mistral/mistral-small-4.md)
@@ -22592,11 +22591,10 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - ["Next-token predictor" is the wrong mental model for LLMs](../ai/community/stop-thinking-of-llms-as-next-token-predictors.md)
   - [Can AI design circuit boards yet?](../ai/community/can-ai-design-circuit-boards-yet.md)
-  - [Corporate America is getting hooked on open-source AI](../ai/community/corporate-america-is-getting-hooked-on-open-source.md)
   - [Discovery of a new OpenAI agent message board](../ai/community/discovery-of-a-new-openai-agent-message-board.md)
   - [Government Rails Site Hit Hours After CVE Patch](../ai/community/government-rails-site-hit-hours-after-cve-patch.md)
+  - [Show HN: Moadim.io – A scheduler for agents](../ai/community/show-hn-moadim-io-a-scheduler-for-agents.md)
   - [Show HN: TERMy – A fast terminal assistant that does not use LLMs](../ai/community/gioblu-npc-forge.md)
   - [The Rust React Compiler is now native in Vite](../web-development/community/the-rust-react-compiler-is-now-native-in-vite.md)
 
@@ -26456,4 +26454,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-09-05T04:12:59.085419+05:30*
+*Index generated on 2026-09-05T10:25:23.462252+05:30*

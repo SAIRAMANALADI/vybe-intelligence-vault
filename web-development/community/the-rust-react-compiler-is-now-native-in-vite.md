@@ -5,11 +5,11 @@ source_type: hackernews
 source_name: Hacker News Web Development
 source_url: https://blog.master.dev/react-now-rusted-all-the-way-out
 hn_url: https://news.ycombinator.com/item?id=49567873
-score: 88
+score: 126
 author: acusti
-comments_count: 17
+comments_count: 24
 published_at: '2026-09-04T23:19:09+05:30'
-collected_at: '2026-09-05T03:56:43.329989+05:30'
+collected_at: '2026-09-05T10:09:07.581235+05:30'
 tags:
 - frontend_ui
 - hackernews
@@ -17,8 +17,8 @@ tags:
 status: active
 resource_id: hackernews:the-rust-react-compiler-is-now-native-in-vite
 first_seen: '2026-09-05T00:35:23.025683+05:30'
-last_seen: '2026-09-05T03:56:43.329989+05:30'
-last_checked: '2026-09-05T03:56:43.329989+05:30'
+last_seen: '2026-09-05T10:09:07.581235+05:30'
+last_checked: '2026-09-05T10:09:07.581235+05:30'
 health_score: 100
 ---
 
@@ -26,7 +26,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by acusti. Score: 88, Comments: 17.
+Hacker News story by acusti. Score: 126, Comments: 24.
 Original Link: https://blog.master.dev/react-now-rusted-all-the-way-out/
 
 ## Why It Matters
@@ -36,8 +36,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: acusti
-- Score: 88 Upvotes
-- Comments: 17 Discussions
+- Score: 126 Upvotes
+- Comments: 24 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49567873
 - Original Article: https://blog.master.dev/react-now-rusted-all-the-way-out
 

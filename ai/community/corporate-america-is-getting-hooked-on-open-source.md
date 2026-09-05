@@ -15,13 +15,14 @@ tags:
 - anthropic
 - hackernews
 - openai
-status: active
+status: inactive
 resource_id: hackernews:corporate-america-is-getting-hooked-on-open-source
 first_seen: '2026-09-05T00:35:26.993275+05:30'
 last_seen: '2026-09-05T03:56:45.299403+05:30'
 last_checked: '2026-09-05T03:56:45.299403+05:30'
 health_score: 100
 ---
+
 
 # Corporate America is getting hooked on open-source AI
 

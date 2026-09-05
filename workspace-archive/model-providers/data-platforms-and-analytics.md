@@ -1,10 +1,10 @@
 ---
-title: Code & data
+title: Data platforms and analytics
 archive_category: model-providers
 source_category: ai/companies
-source_url: https://microsoft.com/en-us/research/tools
-resource_id: blog:code-data
-local_vault_path: ai/companies/code-data.md
+source_url: https://microsoft.com/en-us/research/research-area/data-platform-analytics
+resource_id: blog:data-platforms-and-analytics
+local_vault_path: ai/companies/data-platforms-and-analytics.md
 quality_score: 70
 archive_score: 80
 archive_tier: useful
@@ -17,7 +17,7 @@ selection_reason:
 - Valuable developer reference
 ---
 
-# Code & data
+# Data platforms and analytics
 
 ## Why This Is In The Archive
 
@@ -29,7 +29,7 @@ selection_reason:
 
 ## Summary
 
-Recent update from Microsoft Research Blog Blog: Code & data
+Recent update from Microsoft Research Blog Blog: Data platforms and analytics
 
 ## Use Cases
 
@@ -39,8 +39,8 @@ Recent update from Microsoft Research Blog Blog: Code & data
 
 ## Source
 
-Original source URL: https://microsoft.com/en-us/research/tools
+Original source URL: https://microsoft.com/en-us/research/research-area/data-platform-analytics
 
 ## Local Vault File
 
-Path: [code-data.md](../../ai/companies/code-data.md)
+Path: [data-platforms-and-analytics.md](../../ai/companies/data-platforms-and-analytics.md)
