@@ -1,5 +1,5 @@
 {
-  "total_files": 101959,
+  "total_files": 101958,
   "categories": {
     "agent-frameworks": 4331,
     "agent-instructions": 11,
@@ -16,7 +16,7 @@
     "learning-paths": 109,
     "llm-app-templates": 322,
     "mcp-registry": 270,
-    "model-providers": 2644,
+    "model-providers": 2643,
     "observability": 1221,
     "project-ideas": 117,
     "prompt-libraries": 203,
@@ -26,5 +26,5 @@
     "vector-databases": 8093,
     "webdev-3d-creative": 146
   },
-  "last_updated": "2026-09-05T21:10:57.069035+05:30"
+  "last_updated": "2026-09-06T00:13:02.538211+05:30"
 }

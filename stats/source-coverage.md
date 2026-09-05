@@ -307,7 +307,7 @@ Distribution of original signal ingestion sources across processed URLs:
 | collusion.wiki | 1 |
 | eebench.org | 1 |
 | sylvainkalache.com | 1 |
-| kk.org | 1 |
+| sofiabelen.github.io | 1 |
 | githubstatus.com | 1 |
 | incident.io | 1 |
 | sysdebug.com | 1 |

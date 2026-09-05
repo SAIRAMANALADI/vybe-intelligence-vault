@@ -20,7 +20,7 @@ This index groups the workspace archive categories into high-level thematic clus
 - **[Evals and Benchmarks](../evals-and-benchmarks/README.md)** (21853 files): Evaluation tools and benchmarks for LLMs, RAG systems, agents, prompts, hallucinations, and SWE tasks.
 - **[Observability](../observability/README.md)** (1221 files): LLMOps observability, tracing, prompt logs, latency tracking, cost tracking, and production monitoring.
 - **[Guardrails and Security](../guardrails-security/README.md)** (12054 files): Prompt injection defenses, jailbreak detection, LLM firewalls, PII redaction, agent security, and MCP security warnings.
-- **[Model Providers](../model-providers/README.md)** (2644 files): Public metadata and documentation links for model APIs and provider ecosystems.
+- **[Model Providers](../model-providers/README.md)** (2643 files): Public metadata and documentation links for model APIs and provider ecosystems.
 - **[Inference and Local LLM](../inference-local-llm/README.md)** (1343 files): Local inference tools, model serving, quantization, GGUF models, Ollama, llama.cpp, vLLM, and LM Studio.
 
 ## Prompt Libraries & Automation Workflows
@@ -44,4 +44,4 @@ This index groups the workspace archive categories into high-level thematic clus
 - **[Startup Builder](../startup-builder/README.md)** (198 files): AI startup ideas, SaaS ideas, MVP templates, launch checklists, pricing examples, landing pages, and growth automation.
 
 ---
-*Last updated: 2026-09-05 21:10 IST*
+*Last updated: 2026-09-06 00:13 IST*

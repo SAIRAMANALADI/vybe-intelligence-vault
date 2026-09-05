@@ -1,7 +1,7 @@
 {
   "status": "healthy",
-  "last_generated_at": "2026-09-05T21:10:56.979041+05:30",
-  "total_items": 101959,
+  "last_generated_at": "2026-09-06T00:13:02.465034+05:30",
+  "total_items": 101958,
   "category_counts": {
     "ai-coding-agents": 4218,
     "agent-instructions": 11,
@@ -12,7 +12,7 @@
     "evals-and-benchmarks": 21853,
     "observability": 1221,
     "guardrails-security": 12054,
-    "model-providers": 2644,
+    "model-providers": 2643,
     "inference-local-llm": 1343,
     "vector-databases": 8093,
     "datasets": 15136,

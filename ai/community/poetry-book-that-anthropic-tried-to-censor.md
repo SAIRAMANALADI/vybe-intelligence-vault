@@ -14,13 +14,14 @@ tags:
 - anthropic
 - hackernews
 - reddit
-status: active
+status: inactive
 resource_id: hackernews:poetry-book-that-anthropic-tried-to-censor
 first_seen: '2026-09-05T20:52:13.753299+05:30'
 last_seen: '2026-09-05T20:52:13.753299+05:30'
 last_checked: '2026-09-05T20:52:13.753299+05:30'
 health_score: 100
 ---
+
 
 # Poetry book that Anthropic tried to censor
 

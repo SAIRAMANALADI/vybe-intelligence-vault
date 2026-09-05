@@ -5952,6 +5952,7 @@ Resources organized by keyword tags.
   - [AI handles incidents, engineers lose touch with their systems](../ai/community/ai-handles-incidents-engineers-lose-touch-with-the.md)
   - [Can AI design circuit boards yet?](../ai/community/can-ai-design-circuit-boards-yet.md)
   - [Discovery of a new OpenAI agent message board](../ai/community/discovery-of-a-new-openai-agent-message-board.md)
+  - [Visualizing Rust's Vtables: How dyn Trait Works In Memory](../ai/community/visualizing-rust-s-vtables-how-dyn-trait-works-in.md)
 
 ## animation
 
@@ -6397,7 +6398,6 @@ Resources organized by keyword tags.
   - [Phishing Email Detection Using Large Language Models](../ai/research/arxiv-2512-10104.md)
   - [Plan Pointers and Record-Directive Form in Budgeted Verification of Inherited Agent Memory](../ai/agents/arxiv-2609-03450.md)
   - [Plausible but Not Valid: A Psychometric Audit of LLMs as Synthetic Survey Respondents](../ai/research/arxiv-2608-14606.md)
-  - [Poetry book that Anthropic tried to censor](../ai/community/poetry-book-that-anthropic-tried-to-censor.md)
   - [Poker Arena: Multi-Axis Profiling of Strategic Reasoning and Memory in LLMs](../ai/research/arxiv-2606-13815.md)
   - [PolicyGuide: From Guarding One Action to Guiding the Whole Workflow for Policy-Compliant LLM Agents](../ai/agents/arxiv-2608-19861.md)
   - [PolyComp: A Polycube-based Benchmark for Compositional 3D Spatial Reasoning in Multimodal Models](../ai/research/arxiv-2608-14741.md)
@@ -26095,7 +26095,6 @@ Resources organized by keyword tags.
   - [Plausibility-Driven Prioritization of Candidate Biomedical Annotations](../ai/rag/arxiv-2607-20163.md)
   - [PlayStation Architecture | A Practical Analysis](../ai/rag/playstation-architecture-a-practical-analysis.md)
   - [Playing Games with My Heart: An Evaluation of AI Companion Apps](../ai/rag/arxiv-2605-08093.md)
-  - [Poetry book that Anthropic tried to censor](../ai/community/poetry-book-that-anthropic-tried-to-censor.md)
   - [Poison to Detect: Detection of Targeted Overfitting in Federated Learning](../ai/research/arxiv-2509-11974.md)
   - [PoisonedRAG: Knowledge Corruption Attacks to Retrieval-Augmented Generation of Large Language Models](../ai/research/poisonedrag-knowledge-corruption-attacks-to-retrie.md)
   - [Poisson-Gamma Dynamical Systems with Time-varying Transition Dynamics](../ai/rag/arxiv-2609-00896.md)
@@ -27042,6 +27041,7 @@ Resources organized by keyword tags.
   - [Visual Sketchpad: Sketching as a Visual Chain of Thought for Multimodal Language Models](../ai/research/visual-sketchpad-sketching-as-a-visual-chain-of-th.md)
   - [Visual prompt engineering for video models](../ai/research/arxiv-2607-25537.md)
   - [Visualizing "We the People": Bridging the Perception Gap through Pluralistic Data Storytelling](../ai/research/arxiv-2606-24635.md)
+  - [Visualizing Rust's Vtables: How dyn Trait Works In Memory](../ai/community/visualizing-rust-s-vtables-how-dyn-trait-works-in.md)
   - [VivekMalhan666/Toasts-library](../ai/resources/vivekmalhan666-toasts-library.md)
   - [VlogReward: Learning Multi-Dimensional Evaluation for Vlog Editing](../ai/research/arxiv-2607-22632.md)
   - [VoiceDesigner: Text-to-Voice Generation and Editing via Unified Diffusion Modeling and Data Augmentation](../ai/rag/arxiv-2608-13613.md)
@@ -48830,7 +48830,6 @@ Resources organized by keyword tags.
   - [Platform Marketplace](../ai/rag/platform-marketplace.md)
   - [PlayStation Architecture | A Practical Analysis](../ai/rag/playstation-architecture-a-practical-analysis.md)
   - [Pods101.html](../ai/rag/pods101-html.md)
-  - [Poetry book that Anthropic tried to censor](../ai/community/poetry-book-that-anthropic-tried-to-censor.md)
   - [PolyQ: Codesigning End-to-End Quantization Framework for Scalable Edge CPU LLM Inference](../ai/rag/arxiv-2607-14618.md)
   - [Posit Community](../ai/resources/posit-community.md)
   - [Posit Open Source](../ai/rag/posit-open-source.md)
@@ -49405,6 +49404,7 @@ Resources organized by keyword tags.
   - [dannyblaker/rag-tutorial](../ai/rag/dannyblaker-rag-tutorial.md)
   - [dart compile](../ai/rag/dart-compile.md)
   - [data.gouv.fr : Plateforme ouverte des données publiques françaises](../ai/rag/data-gouv-fr-plateforme-ouverte-des-donnees-publiq.md)
+  - [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md)
   - [daveebbelaar/ai-cookbook](../ai/agents/daveebbelaar-ai-cookbook.md)
   - [dblp: computer science bibliography](../ai/resources/dblp-computer-science-bibliography.md)
   - [deepagents · PyPI](../ai/agents/deepagents-pypi.md)
@@ -58066,4 +58066,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-09-05T21:08:38.026388+05:30*
+*Index generated on 2026-09-06T00:11:14.512649+05:30*
