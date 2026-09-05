@@ -10,11 +10,11 @@ Semantic search, vector embeddings, chunking strategies, reranking, hybrid searc
 Qdrant, Pinecone, Milvus, pgvector, llamaindex, LangChain.
 
 ## Recommended Resources from the Vault
-*   [Hard-ReLU Gradient Descent Selects an Event-Free Sensitivity Limit](https://arxiv.org/abs/2608.30960)
 *   [Reward-guided Fine-Tuning of One-Step Generative Models via Wasserstein Gradient Flow](https://arxiv.org/abs/2608.29647)
 *   [Gated Graph Attention Networks with Learnable Temperature](https://arxiv.org/abs/2605.29803)
 *   [Benchmarking the Benchmarks: Evaluating Automated Safety Benchmarks for Small Language Models](https://arxiv.org/abs/2608.17183)
 *   [From Tokens to Watt-hours: Analytical Energy Estimation for LLM Inference on Modern GPUs](https://arxiv.org/abs/2607.26571)
+*   [Transformer-Based Inverse Microrheology for Experimental Mechanics at Ultra-High Strain Rates](https://arxiv.org/abs/2506.11936)
 
 ## Project Ideas
 *   PDF QA script that processes papers and saves vector embeddings to pgvector.
