@@ -15,13 +15,14 @@ tags:
 - ai
 - hackernews
 - openai
-status: active
+status: inactive
 resource_id: hackernews:discovery-of-a-new-openai-agent-message-board
 first_seen: '2026-09-04T18:19:57.503524+05:30'
 last_seen: '2026-09-06T23:55:30.193764+05:30'
 last_checked: '2026-09-06T23:55:30.193764+05:30'
 health_score: 100
 ---
+
 
 # Discovery of a new OpenAI agent message board
 

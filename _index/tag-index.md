@@ -1599,7 +1599,6 @@ Resources organized by keyword tags.
   - [Discovering Efficient and Explainable Communication Topologies for LLM-based Multi-Agent Systems via Causal Inference](../ai/agents/arxiv-2608-12921.md)
   - [Discovering Machine Correlates of Consciousness](../ai/agents/arxiv-2608-28824.md)
   - [Discovering physical mechanisms from experiment-simulation mismatches](../ai/agents/arxiv-2604-26703.md)
-  - [Discovery of a new OpenAI agent message board](../ai/community/discovery-of-a-new-openai-agent-message-board.md)
   - [Discriminative World Models for Web Agents](../ai/agents/arxiv-2609-02885.md)
   - [Disentangled Unsupervised Skill Discovery for Efficient Hierarchical Reinforcement Learning](../ai/agents/arxiv-2410-11251.md)
   - [Disentangling Forced and Internal Climate Variability in Single Realizations using Dynamic Mode Decomposition with Control](../ai/agents/arxiv-2607-18298.md)
@@ -5393,7 +5392,6 @@ Resources organized by keyword tags.
   - [Wan-Streamer v0.2: Higher Resolution, Same Latency](../ai/agents/arxiv-2607-04443.md)
   - [WattCouncil: Context-Aware Household Energy Scenario Generation With Governed LLMs](../ai/agents/arxiv-2607-10720.md)
   - [WaymoQA: A Multi-View Visual Question Answering Dataset for Safety-Critical Reasoning in Autonomous Driving](../ai/rag/arxiv-2511-20022.md)
-  - [We monitor internal coding agents for misalignment](../ai/community/we-monitor-internal-coding-agents-for-misalignment.md)
   - [We now support VLMs in smolagents!](../ai/agents/huggingface-blog-smolagents-can-see.md)
   - [WeAgent-MMSearch: Native Text-Vision Interaction for Multimodal Search Agents](../ai/rag/arxiv-2608-28062.md)
   - [WeClawArena: An Auditable Sandbox and Benchmark for Cross-User Agents Collaboration and Security in Human-Centered Agent Networks](../ai/agents/arxiv-2608-03499.md)
@@ -5950,7 +5948,6 @@ Resources organized by keyword tags.
 
 ## ai
 
-  - [Discovery of a new OpenAI agent message board](../ai/community/discovery-of-a-new-openai-agent-message-board.md)
   - [Research acceleration: The view inside OpenAI](../ai/community/research-acceleration-the-view-inside-openai.md)
 
 ## animation
@@ -22783,6 +22780,7 @@ Resources organized by keyword tags.
   - [Service Workers Nightly](../ai/rag/service-workers-nightly.md)
   - [Shared Physics Responses Recover Hidden Rankings in Neural Operator Libraries](../ai/research/arxiv-2608-20441.md)
   - [Shibuya](../ai/resources/shibuya.md)
+  - [Show HN: Mador – Make any DOM reactive with a tiny 80-line Proxy state tuple](../web-development/community/marsbos-mador.md)
   - [Significant Other AI: Identity, Memory, and Emotional Regulation as Long-Term Relational Intelligence](../ai/research/arxiv-2512-00418.md)
   - [Silent Failures in Multimodal Agentic Search:A Diagnostic Taxonomy and Cross-Judge Evaluation](../ai/agents/arxiv-2607-19793.md)
   - [Similar Models Learn Differently: Final-Window Pretraining Shapes Post-Training Beyond SFT](../ai/research/arxiv-2607-25063.md)
@@ -22877,6 +22875,7 @@ Resources organized by keyword tags.
   - [Vercel · GitHub](../ai/agents/vercel-github.md)
   - [Verifiable Self-Evolution for Open-Ended Dialogue Skills via Future-Feedback Prediction](../ai/agents/arxiv-2607-18973.md)
   - [VibeSearchBench: Benchmarking Long-horizon Proactive Search in the Wild](../ai/agents/arxiv-2605-27882.md)
+  - [Vidact – a compiler that turns React into direct DOM operations](../web-development/community/vidact-a-compiler-that-turns-react-into-direct-dom.md)
   - [Video2Reaction: Mapping Video to Audience Reaction Distribution in the Wild](../ai/agents/arxiv-2607-06875.md)
   - [Vinci2: Providing Proactive Assistance in Continuous Egocentric Videos](../ai/rag/arxiv-2607-11523.md)
   - [Virtual Sensing to Enable Real-Time Monitoring of Inaccessible Locations & Unmeasurable Parameters](../ai/research/arxiv-2412-00107.md)
@@ -24754,7 +24753,6 @@ Resources organized by keyword tags.
   - [Discourse | Where Tech Companies Build Communities](../ai/resources/discourse-where-tech-companies-build-communities.md)
   - [Discovering Functionally Selective Brain Regions with a Deep Topographic Multimodal Model](../ai/rag/arxiv-2606-09770.md)
   - [Discovery and inference beyond linearity for epidemiological data by integrating Bayesian regression, tree ensembles and Shapley values](../ai/research/arxiv-2505-00571.md)
-  - [Discovery of a new OpenAI agent message board](../ai/community/discovery-of-a-new-openai-agent-message-board.md)
   - [Disentangling Forced and Internal Climate Variability in Single Realizations using Dynamic Mode Decomposition with Control](../ai/agents/arxiv-2607-18298.md)
   - [Distributed General-Purpose Agent Networks: Architecture, Key Mechanisms, and Prototypes](../ai/agents/arxiv-2606-17368.md)
   - [Distributed Training using an Intelligent Network](../ai/rag/arxiv-2608-26453.md)
@@ -26369,6 +26367,7 @@ Resources organized by keyword tags.
   - [Retrofitters, pragmatists and activists: Public interest litigation for accountable automated decision-making](../ai/rag/arxiv-2511-03211.md)
   - [Revealing Multi-View Hallucination in Large Vision-Language Models](../ai/research/arxiv-2603-23934.md)
   - [Reversal Q-Learning](../ai/rag/arxiv-2606-17551.md)
+  - [Reverse engineering the storage format for an undocumented database](../ai/community/reverse-engineering-the-storage-format-for-an-undo.md)
   - [Review Before Trust: Source-Grounded Integrity Gates for AI-Assisted Personal Health Records](../ai/research/arxiv-2608-29965.md)
   - [Revisiting One-Zero and Two-Zero Neutrino Mass Textures in Light of Recent Oscillation and Cosmological Data](../ai/research/arxiv-2607-08384.md)
   - [Revisiting the shutdown problem](../ai/agents/arxiv-2606-08296.md)
@@ -26517,6 +26516,7 @@ Resources organized by keyword tags.
   - [ShielDroid: A Hybrid Approach Integrating Machine and Deep Learning for Android Malware Detection](../ai/research/arxiv-2608-03250.md)
   - [Shielding for Higher-Order Safety](../ai/research/arxiv-2608-03662.md)
   - [Short-circuit evaluation - Wikipedia](../ai/resources/short-circuit-evaluation-wikipedia.md)
+  - [Show HN: Mador – Make any DOM reactive with a tiny 80-line Proxy state tuple](../web-development/community/marsbos-mador.md)
   - [Show Me How You Reason and I'll Tell You Who You Are: Reasoning Graphs for Robust LLM Authorship Attribution](../ai/rag/arxiv-2607-14905.md)
   - [Shows | web.dev](../ai/resources/shows-web-dev.md)
   - [Shubhamsaboo/awesome-llm-apps](../ai/rag/shubhamsaboo-awesome-llm-apps.md)
@@ -27036,6 +27036,7 @@ Resources organized by keyword tags.
   - [Vespa Demos](../ai/rag/vespa-demos.md)
   - [Vibe Coding and Web Application Security: A Twin-Prompt Study](../ai/agents/arxiv-2608-20963.md)
   - [VibeThinker-3B: Exploring the Frontier of Verifiable Reasoning in Small Language Models](../ai/rag/arxiv-2606-16140.md)
+  - [Vidact – a compiler that turns React into direct DOM operations](../web-development/community/vidact-a-compiler-that-turns-react-into-direct-dom.md)
   - [Virtual Classroom Software | BigBlueButton](../ai/rag/virtual-classroom-software-bigbluebutton.md)
   - [Visible to the Court: How AI Is (and Isn't) Litigated in U.S. Federal Court Opinions](../ai/rag/arxiv-2607-23888.md)
   - [Visual Sketchpad: Sketching as a Visual Chain of Thought for Multimodal Language Models](../ai/research/visual-sketchpad-sketching-as-a-visual-chain-of-th.md)
@@ -27054,7 +27055,6 @@ Resources organized by keyword tags.
   - [Watch your steps: Dormant Adversarial Behaviors that Activate upon LLM Finetuning](../ai/research/arxiv-2505-16567.md)
   - [Water in the West | Water Programs](../ai/resources/water-in-the-west-water-programs.md)
   - [WattCouncil: Context-Aware Household Energy Scenario Generation With Governed LLMs](../ai/agents/arxiv-2607-10720.md)
-  - [We monitor internal coding agents for misalignment](../ai/community/we-monitor-internal-coding-agents-for-misalignment.md)
   - [Weaviate Database | Weaviate Documentation](../ai/rag/weaviate-database-weaviate-documentation.md)
   - [Web & Application Development - Linux Foundation - Education](../ai/rag/web-application-development-linux-foundation-educa.md)
   - [Web Application Security | Working Groups | Discover W3C groups | W3C](../ai/resources/web-application-security-working-groups-discover-w.md)
@@ -34124,7 +34124,6 @@ Resources organized by keyword tags.
   - [DexterSQL: Deep Schema Exploration and Rule-based Correction for Text-to-SQL Generation](../ai/research/arxiv-2608-11889.md)
   - [Diagram-MMU: A Multi-Modal Benchmark for Scientific Diagrams](../ai/agents/arxiv-2608-12262.md)
   - [Discourse | Where Tech Companies Build Communities](../ai/resources/discourse-where-tech-companies-build-communities.md)
-  - [Discovery of a new OpenAI agent message board](../ai/community/discovery-of-a-new-openai-agent-message-board.md)
   - [Distinct Profiles of Run-to-Run Score Reliability and Expert-Panel Alignment Across Four LLM Evaluators of Simulated Japanese-Language AI-to-AI Counseling](../ai/research/arxiv-2507-02950.md)
   - [Distributed Attacks in Persistent-State AI Control](../ai/agents/arxiv-2607-02514.md)
   - [Do AI chatbots find what experts would? Effects of model, user role, and sample size on study retrieval for medical questions](../ai/rag/arxiv-2608-13786.md)
@@ -34545,7 +34544,6 @@ Resources organized by keyword tags.
   - [Visual Studio Code - The open source AI code editor | Your home for multi-agent development](../ai/agents/visual-studio-code-the-open-source-ai-code-editor.md)
   - [Vowel Signs Are Not Letters: A Pre-tokenization Ceiling on Multilingual Tokenizer Fertility](../ai/research/arxiv-2608-26449.md)
   - [WavePhaseNet: A DFT-Based Method for Constructing Semantic Conceptual Hierarchy Structures (SCHS)](../ai/research/arxiv-2602-14419.md)
-  - [We monitor internal coding agents for misalignment](../ai/community/we-monitor-internal-coding-agents-for-misalignment.md)
   - [Web & Application Development - Linux Foundation - Education](../ai/rag/web-application-development-linux-foundation-educa.md)
   - [Welcome - GraphRAG](../ai/rag/welcome-graphrag.md)
   - [Welcome GPT OSS, the new open-source model family from OpenAI!](../ai/models/huggingface-blog-welcome-openai-gpt-oss.md)
@@ -45594,6 +45592,7 @@ Resources organized by keyword tags.
   - [Reversal Q-Learning](../ai/rag/arxiv-2606-17551.md)
   - [Reverse Flow Matching: A Unified Framework for Online Reinforcement Learning with Diffusion and Flow Policies](../ai/rag/arxiv-2601-08136.md)
   - [Reverse N-Wise Output-Oriented Testing for AI/ML and Quantum Computing Systems](../ai/rag/arxiv-2602-14275.md)
+  - [Reverse engineering the storage format for an undocumented database](../ai/community/reverse-engineering-the-storage-format-for-an-undo.md)
   - [Review your order history - Google Play Help](../ai/rag/review-your-order-history-google-play-help.md)
   - [Revisiting Predictive Process Monitoring in the Age of Foundation Models: A Comparative Study of Sequence, Tabular, and LLM Approaches](../ai/rag/arxiv-2607-27797.md)
   - [Revisiting data-driven dynamic security assessment with a tabular foundation model](../ai/rag/arxiv-2607-16031.md)
@@ -47890,6 +47889,11 @@ Resources organized by keyword tags.
   - [🧑‍🍳 Cookbook | Haystack](../ai/rag/cookbook-haystack.md)
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
+## react
+
+  - [Show HN: Mador – Make any DOM reactive with a tiny 80-line Proxy state tuple](../web-development/community/marsbos-mador.md)
+  - [Vidact – a compiler that turns React into direct DOM operations](../web-development/community/vidact-a-compiler-that-turns-react-into-direct-dom.md)
+
 ## reddit
 
   - ["I understand your perspective": LLM Persuasion through the Lens of Communicative Action Theory](../ai/rag/arxiv-2606-08076.md)
@@ -50020,6 +50024,7 @@ Resources organized by keyword tags.
   - [ResearchStudio-Reel: Automate the Last Mile of Research from Paper to Poster, Video, and Blog](../ai/agents/arxiv-2607-04438.md)
   - [Resources - Linux Foundation - Education](../ai/rag/resources-linux-foundation-education.md)
   - [Retrieval-Based Cross-Domain Generalization in Optical Networks via Global Features](../ai/rag/arxiv-2608-00044.md)
+  - [Reverse engineering the storage format for an undocumented database](../ai/community/reverse-engineering-the-storage-format-for-an-undo.md)
   - [Review of Explainable Decision Support and Adaptive Human-Machine Interfaces for Automation Transparency in Maritime Autonomous Surface Ships](../ai/agents/arxiv-2509-15959.md)
   - [Revisiting Outage for Edge Inference Systems](../ai/agents/arxiv-2504-03686.md)
   - [Robot guide with multi-agent control and automatic scenario generation with LLM](../ai/agents/arxiv-2509-10317.md)
@@ -58067,4 +58072,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-09-07T00:11:39.390915+05:30*
+*Index generated on 2026-09-07T03:58:52.598590+05:30*

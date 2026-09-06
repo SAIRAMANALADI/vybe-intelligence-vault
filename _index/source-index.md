@@ -22591,9 +22591,10 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [Discovery of a new OpenAI agent message board](../ai/community/discovery-of-a-new-openai-agent-message-board.md)
   - [Research acceleration: The view inside OpenAI](../ai/community/research-acceleration-the-view-inside-openai.md)
-  - [We monitor internal coding agents for misalignment](../ai/community/we-monitor-internal-coding-agents-for-misalignment.md)
+  - [Reverse engineering the storage format for an undocumented database](../ai/community/reverse-engineering-the-storage-format-for-an-undo.md)
+  - [Show HN: Mador – Make any DOM reactive with a tiny 80-line Proxy state tuple](../web-development/community/marsbos-mador.md)
+  - [Vidact – a compiler that turns React into direct DOM operations](../web-development/community/vidact-a-compiler-that-turns-react-into-direct-dom.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -26448,4 +26449,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-09-07T00:11:39.678147+05:30*
+*Index generated on 2026-09-07T03:58:52.887052+05:30*

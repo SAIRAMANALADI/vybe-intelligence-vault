@@ -14,13 +14,14 @@ tags:
 - agents
 - hackernews
 - openai
-status: active
+status: inactive
 resource_id: hackernews:we-monitor-internal-coding-agents-for-misalignment
 first_seen: '2026-09-06T23:55:27.868293+05:30'
 last_seen: '2026-09-06T23:55:27.868293+05:30'
 last_checked: '2026-09-06T23:55:27.868293+05:30'
 health_score: 100
 ---
+
 
 # We monitor internal coding agents for misalignment
 
