@@ -22590,12 +22590,11 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [100s of flights cancelled at UK airports due to ATC issue](../ai/community/100s-of-flights-cancelled-at-uk-airports-due-to-at.md)
   - [I-have-ADHD: A skill to stop coding agents from burying the answer](../ai/community/ayghri-i-have-adhd.md)
   - [Muse: Meta's personal AI agent, features and capabilities](../ai/community/muse-meta-s-personal-ai-agent-features-and-capabil.md)
   - [Show HN: LLM Attention Visualization](../ai/community/show-hn-llm-attention-visualization.md)
+  - [Tao: Open math problems being non-renewably mined by AI](../ai/community/tao-open-math-problems-being-non-renewably-mined-b.md)
   - [The two Christian saints who are the Buddha](../ai/community/the-two-christian-saints-who-are-the-buddha.md)
-  - [There's a new "Google Jail" for independent wikis](../ai/community/there-s-a-new-google-jail-for-independent-wikis.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -26456,4 +26455,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-09-09T01:16:20.771008+05:30*
+*Index generated on 2026-09-09T04:33:10.661598+05:30*

@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://github.com/ayghri/i-have-adhd
 hn_url: https://news.ycombinator.com/item?id=49610631
-score: 165
+score: 264
 author: domhudson
-comments_count: 131
+comments_count: 204
 published_at: '2026-09-08T19:43:26+05:30'
-collected_at: '2026-09-09T00:59:50.808923+05:30'
+collected_at: '2026-09-09T04:17:00.073802+05:30'
 tags:
 - agents
 - hackernews
 status: active
 resource_id: github:ayghri/i-have-adhd
 first_seen: '2026-09-09T00:59:50.808923+05:30'
-last_seen: '2026-09-09T00:59:50.808923+05:30'
-last_checked: '2026-09-09T00:59:50.808923+05:30'
+last_seen: '2026-09-09T04:17:00.073802+05:30'
+last_checked: '2026-09-09T04:17:00.073802+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by domhudson. Score: 165, Comments: 131.
+Hacker News story by domhudson. Score: 264, Comments: 204.
 Original Link: https://github.com/ayghri/i-have-adhd
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: domhudson
-- Score: 165 Upvotes
-- Comments: 131 Discussions
+- Score: 264 Upvotes
+- Comments: 204 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49610631
 - Original Article: https://github.com/ayghri/i-have-adhd
 

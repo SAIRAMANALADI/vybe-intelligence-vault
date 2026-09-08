@@ -304,10 +304,9 @@ Distribution of original signal ingestion sources across processed URLs:
 | unistra.fr | 2 |
 | anaconda.com | 2 |
 | globalprivacyassembly.com | 2 |
-| weirdgloop.org | 1 |
 | signoregalilei.com | 1 |
 | ishamf.dev | 1 |
-| bbc.com | 1 |
+| mathstodon.xyz | 1 |
 | githubstatus.com | 1 |
 | incident.io | 1 |
 | sysdebug.com | 1 |

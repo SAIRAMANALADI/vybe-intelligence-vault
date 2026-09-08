@@ -13,13 +13,14 @@ collected_at: '2026-09-09T00:59:52.335521+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:there-s-a-new-google-jail-for-independent-wikis
 first_seen: '2026-09-08T18:29:13.650204+05:30'
 last_seen: '2026-09-09T00:59:52.335521+05:30'
 last_checked: '2026-09-09T00:59:52.335521+05:30'
 health_score: 100
 ---
+
 
 # There's a new "Google Jail" for independent wikis
 

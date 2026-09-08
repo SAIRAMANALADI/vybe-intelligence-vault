@@ -5948,10 +5948,9 @@ Resources organized by keyword tags.
 
 ## ai
 
-  - [100s of flights cancelled at UK airports due to ATC issue](../ai/community/100s-of-flights-cancelled-at-uk-airports-due-to-at.md)
   - [Muse: Meta's personal AI agent, features and capabilities](../ai/community/muse-meta-s-personal-ai-agent-features-and-capabil.md)
+  - [Tao: Open math problems being non-renewably mined by AI](../ai/community/tao-open-math-problems-being-non-renewably-mined-b.md)
   - [The two Christian saints who are the Buddha](../ai/community/the-two-christian-saints-who-are-the-buddha.md)
-  - [There's a new "Google Jail" for independent wikis](../ai/community/there-s-a-new-google-jail-for-independent-wikis.md)
 
 ## animation
 
@@ -23878,7 +23877,6 @@ Resources organized by keyword tags.
   - [1. GEPA Overview - DSPy](../ai/rag/1-gepa-overview-dspy.md)
   - [10 Best CrewAI Projects You Must Build in 2026](../ai/rag/10-best-crewai-projects-you-must-build-in-2026.md)
   - [100 Years of Stanford Engineering](../ai/rag/100-years-of-stanford-engineering.md)
-  - [100s of flights cancelled at UK airports due to ATC issue](../ai/community/100s-of-flights-cancelled-at-uk-airports-due-to-at.md)
   - [15 updates from Google I﻿/﻿O 2026: Powering the agentic web with new capabilities, tools, and features in Chrome | Blog](../ai/agents/15-updates-from-google-i-o-2026-powering-the-agent.md)
   - [17 U.S. Code § 512 - Limitations on liability relating to material online | U.S. Code | US Law | LII / Legal Information](../ai/rag/17-u-s-code-ss-512-limitations-on-liability-relati.md)
   - [2025 Stack Overflow Developer Survey](../ai/rag/2025-stack-overflow-developer-survey.md)
@@ -26070,6 +26068,7 @@ Resources organized by keyword tags.
   - [Partial Contracts Suffice: Sound, LLM-Inferred Regression Verification](../ai/research/arxiv-2607-10291.md)
   - [Participatory Moral AI Is Not Neutral: The Invisible Hand of Developers](../ai/agents/arxiv-2608-14522.md)
   - [Participatory provenance as representational auditing for AI-mediated public consultation](../ai/rag/arxiv-2604-20711.md)
+  - [ParticleMedia/RAGTruth](../ai/rag/particlemedia-ragtruth.md)
   - [Passkeys for Developers](../ai/rag/passkeys-for-developers.md)
   - [Patch-Based 3D Variational Autoencoder for Super-Resolution of Turbulent Channel Flow](../ai/rag/arxiv-2507-22082.md)
   - [Patient-centered data science: an integrative framework for evaluating and predicting clinical outcomes in the digital health era](../ai/agents/arxiv-2408-02677.md)
@@ -26710,6 +26709,7 @@ Resources organized by keyword tags.
   - [Talk to Posit Sales - We're Here to Help You](../ai/resources/talk-to-posit-sales-we-re-here-to-help-you.md)
   - [Taming Curvature: Architecture Warm-Up for Stable Transformer Training](../ai/research/arxiv-2606-16768.md)
   - [Tanium Developer Portal](../ai/rag/tanium-developer-portal.md)
+  - [Tao: Open math problems being non-renewably mined by AI](../ai/community/tao-open-math-problems-being-non-renewably-mined-b.md)
   - [Target-Guided Selective Reweighting for Physics-Informed Neural Network Inverse Problems: A Transfer Learning Approach](../ai/research/arxiv-2607-05271.md)
   - [Taxlifier: Leveraging Disease Taxonomy for Enhanced Multi-Label Classification in Chest Radiography](../ai/rag/arxiv-2607-05628.md)
   - [Taxonomy-Driven Analysis of Open-Source AI Risk Mitigation Tools](../ai/rag/arxiv-2608-07446.md)
@@ -26842,7 +26842,6 @@ Resources organized by keyword tags.
   - [TheAgentCompany/TheAgentCompany](../ai/agents/theagentcompany-theagentcompany.md)
   - [Theoretical Foundations of $\max$@$k$ Reinforcement Learning](../ai/agents/arxiv-2607-17823.md)
   - [Theory-to-Practice Gap for Neural Networks and Neural Operators](../ai/research/arxiv-2503-18219.md)
-  - [There's a new "Google Jail" for independent wikis](../ai/community/there-s-a-new-google-jail-for-independent-wikis.md)
   - [Think at 5 Hz, Act at 20 Hz: Asynchronous Fast-Slow Vision-Language-Action Inference for Closed-Loop Driving](../ai/agents/arxiv-2607-15621.md)
   - [Thinking Outside the [Chat]Box: Bridging Computer Science and Industrial Design for Cognitive-Inclusive Generative AI](../ai/rag/arxiv-2606-14306.md)
   - [Three-dimensional Conditional Diffusion Models for Cosmological 21 cm Lightcone Emulation](../ai/research/arxiv-2605-29016.md)
@@ -27261,7 +27260,6 @@ Resources organized by keyword tags.
   - [data.gouv.fr : Plateforme ouverte des données publiques françaises](../ai/rag/data-gouv-fr-plateforme-ouverte-des-donnees-publiq.md)
   - [databrickslabs/doc-qa](../ai/resources/databrickslabs-doc-qa.md)
   - [datacamp/rdocumentation-2.0](../ai/resources/datacamp-rdocumentation-2-0.md)
-  - [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md)
   - [datawhalechina/hello-agents](../ai/rag/datawhalechina-hello-agents.md)
   - [datawhalechina/wow-rag](../ai/rag/datawhalechina-wow-rag.md)
   - [daveebbelaar/ai-cookbook](../ai/agents/daveebbelaar-ai-cookbook.md)
@@ -58091,4 +58089,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-09-09T01:16:20.546350+05:30*
+*Index generated on 2026-09-09T04:33:10.370230+05:30*
