@@ -4,15 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ParticleMedia/RAGTruth
-collected_at: '2026-09-06T23:56:11.267194+05:30'
-published_at: '2026-08-29T11:00:59Z'
+collected_at: '2026-09-08T18:30:16.842862+05:30'
+published_at: '2026-09-07T22:13:28Z'
 tags:
 - benchmark
-- dataset
 - github-repo
 - python
 - rag
-stars: 269
+stars: 270
 language: Python
 status: active
 license: MIT
@@ -20,9 +19,9 @@ archived: false
 created_at: '2023-12-26T05:41:01Z'
 pushed_at: '2024-12-02T21:28:34Z'
 resource_id: github:particlemedia/ragtruth
-first_seen: '2026-09-06T23:56:11.267194+05:30'
-last_seen: '2026-09-06T23:56:11.267194+05:30'
-last_checked: '2026-09-06T23:56:11.267194+05:30'
+first_seen: '2026-09-08T18:30:16.842862+05:30'
+last_seen: '2026-09-08T18:30:16.842862+05:30'
+last_checked: '2026-09-08T18:30:16.842862+05:30'
 health_score: 100
 ---
 
@@ -30,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-*   Introduces RAGTruth, a specialized corpus for evaluating and quantifying hallucination in Retrieval-Augmented Language Models (RAGs).
-*   Aims to facilitate the development of more trustworthy RAG systems by providing a benchmark for factual consistency.
-*   Provides a dataset specifically designed to expose and analyze instances of unsupported or incorrect information generation by RAG models.
+*   Introduces RAGTruth, a specialized corpus for quantifying and analyzing hallucinations.
+*   Specifically designed to evaluate and improve the factual consistency of Retrieval-Augmented Language Models (RAG).
+*   Aids in developing trustworthy RAG systems by providing a benchmark for hallucination mitigation.
 
 ## Why It Matters
 
@@ -41,11 +40,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: ParticleMedia
-- Stars: 269
+- Stars: 270
 - Forks: 35
 - Language: Python
 - Topics: None
-- Last Updated: 2026-08-29T11:00:59Z
+- Last Updated: 2026-09-07T22:13:28Z
 - License: MIT
 - Archived: No
 - Created At: 2023-12-26T05:41:01Z

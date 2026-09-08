@@ -13,13 +13,14 @@ collected_at: '2026-09-08T10:17:17.374991+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:show-hn-jigsaw-haiku
 first_seen: '2026-09-08T10:17:17.374991+05:30'
 last_seen: '2026-09-08T10:17:17.374991+05:30'
 last_checked: '2026-09-08T10:17:17.374991+05:30'
 health_score: 100
 ---
+
 
 # Show HN: Jigsaw Haiku
 

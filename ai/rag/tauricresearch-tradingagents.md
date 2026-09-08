@@ -1,74 +1,52 @@
 ---
-title: TauricResearch/TradingAgents
+title: Multi-Agents LLM Financial Trading Framework
 category: ai/rag
-source_type: github
-source_name: GitHub Discovery
-source_url: https://github.com/TauricResearch/TradingAgents
-collected_at: '2026-09-03T10:17:32.846951+05:30'
-published_at: '2026-09-03T04:43:43Z'
+source_type: hackernews
+source_name: Hacker News AI
+source_url: https://github.com/tauricresearch/tradingagents
+hn_url: https://news.ycombinator.com/item?id=49605822
+score: 80
+author: fittingopposite
+comments_count: 52
+published_at: '2026-09-08T10:50:23+05:30'
+collected_at: '2026-09-08T18:29:15.248972+05:30'
 tags:
 - agents
-- github-repo
 - hackernews
-- openai
-- python
-- rag
-- workflows
-stars: 102343
-language: Python
+- llm
 status: active
-license: Apache-2.0
-archived: false
-created_at: '2024-12-28T03:31:08Z'
-pushed_at: '2026-09-01T05:38:45Z'
 resource_id: github:tauricresearch/tradingagents
 first_seen: '2026-09-03T10:17:32.846951+05:30'
-last_seen: '2026-09-03T10:17:32.846951+05:30'
-last_checked: '2026-09-03T10:17:32.846951+05:30'
+last_seen: '2026-09-08T18:29:15.248972+05:30'
+last_checked: '2026-09-08T18:29:15.248972+05:30'
 health_score: 100
 ---
 
-# TauricResearch/TradingAgents
+# Multi-Agents LLM Financial Trading Framework
 
 ## Summary
 
-- **Framework Overview**: Open-source Python-based multi-agent LLM system (`TauricResearch/TradingAgents`) designed for financial trading, leveraging large language models (LLMs) to simulate and optimize trading strategies.
-
-- **Core Components**: Implements specialized agents (e.g., market analysts, risk managers, execution brokers) that collaborate via structured communication protocols to emulate real-world trading workflows.
-
-- **Technical Stack**: Built on Python with integrations for financial data APIs, backtesting engines, and LLM APIs (e.g., OpenAI, local models) for dynamic decision-making and adaptive strategy refinement.
+Hacker News story by fittingopposite. Score: 80, Comments: 52.
+Original Link: https://github.com/TauricResearch/TradingAgents
 
 ## Why It Matters
 
-Explain why this repository is useful for advanced web development, 3D frontend, animations, UI systems, or creative development.
+This is a trending discussion or resource collected from the Hacker News community. It highlights community sentiment, product launches, or technical writeups.
 
-## Repository Details
+## Discussion Details
 
-- Owner: TauricResearch
-- Stars: 102343
-- Forks: 19695
-- Language: Python
-- Topics: agent, finance, llm, multiagent, trading
-- Last Updated: 2026-09-03T04:43:43Z
-- License: Apache-2.0
-- Archived: No
-- Created At: 2024-12-28T03:31:08Z
-- Pushed At: 2026-09-01T05:38:45Z
+- Author: fittingopposite
+- Score: 80 Upvotes
+- Comments: 52 Discussions
+- Hacker News Link: https://news.ycombinator.com/item?id=49605822
+- Original Article: https://github.com/tauricresearch/tradingagents
 
-## Possible Use Cases
+## Implementation Notes
 
-- Learn implementation patterns
-- Extract reusable components
-- Study architecture
-- Build similar project
-- Add to skill file references
+Review community comments to extract technical caveats, alternative recommendations, or project launch workflows.
 
-## Related Skills
+## Related Tags
 
-- Frontend Development
-- JavaScript
-- HTML/CSS
-
-## Source
-
-Original source: https://github.com/TauricResearch/TradingAgents
+- agents
+- hackernews
+- llm

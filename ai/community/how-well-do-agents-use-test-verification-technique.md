@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://danluu.com/agentic-testing
 hn_url: https://news.ycombinator.com/item?id=49605246
-score: 18
+score: 119
 author: vinhnx
-comments_count: 1
+comments_count: 45
 published_at: '2026-09-08T08:28:16+05:30'
-collected_at: '2026-09-08T10:17:16.065202+05:30'
+collected_at: '2026-09-08T18:29:14.640710+05:30'
 tags:
 - agents
 - hackernews
 status: active
 resource_id: hackernews:how-well-do-agents-use-test-verification-technique
 first_seen: '2026-09-08T10:17:16.065202+05:30'
-last_seen: '2026-09-08T10:17:16.065202+05:30'
-last_checked: '2026-09-08T10:17:16.065202+05:30'
+last_seen: '2026-09-08T18:29:14.640710+05:30'
+last_checked: '2026-09-08T18:29:14.640710+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by vinhnx. Score: 18, Comments: 1.
+Hacker News story by vinhnx. Score: 119, Comments: 45.
 Original Link: https://danluu.com/agentic-testing/
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: vinhnx
-- Score: 18 Upvotes
-- Comments: 1 Discussions
+- Score: 119 Upvotes
+- Comments: 45 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49605246
 - Original Article: https://danluu.com/agentic-testing
 

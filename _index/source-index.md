@@ -21681,7 +21681,6 @@ Resources organized by publisher feed and query sources.
   - [Graphics & multimedia](../ai/companies/graphics-multimedia.md)
   - [Human language technologies](../ai/companies/human-language-technologies.md)
   - [Human-computer interaction](../ai/companies/human-computer-interaction.md)
-  - [In-region inference, open models, and new European infrastructure for sovereign AI.](../ai/companies/mistral/in-region-inference-open-models-and-new-european-i.md)
   - [Intelligence Age](../ai/companies/openai/intelligence-age.md)
   - [Jul 27, 2026AnnouncementsOur position on open-weights models](../ai/companies/anthropic/jul-27-2026announcementsour-position-on-open-weigh.md)
   - [Jul 30, 2026AnnouncementsInvestigating three real-world incidents in our cybersecurity evaluations](../ai/companies/anthropic/jul-30-2026announcementsinvestigating-three-real-w.md)
@@ -21689,6 +21688,7 @@ Resources organized by publisher feed and query sources.
   - [Mistral Medium 3.5](../ai/companies/mistral/mistral-medium-3-5.md)
   - [Mistral OCR 4](../ai/companies/mistral/mistral-ocr-4.md)
   - [Mistral Small 4](../ai/companies/mistral/mistral-small-4.md)
+  - [Mistral raises €3B to make sovereign, open-weight AI the technology frontier](../ai/companies/mistral/mistral-raises-eur3b-to-make-sovereign-open-weight.md)
   - [Mistral x HUMAIN](../ai/companies/mistral/mistral-x-humain.md)
   - [NewsDiscover our latest AI breakthroughs, projects, and updates](../ai/companies/deepmind/newsdiscover-our-latest-ai-breakthroughs-projects.md)
   - [Publications](../ai/companies/publications.md)
@@ -21880,7 +21880,6 @@ Resources organized by publisher feed and query sources.
   - [TIGER-AI-Lab/VLM2Vec](../ai/rag/tiger-ai-lab-vlm2vec.md)
   - [TIMAN-group/PlugMem](../ai/rag/timan-group-plugmem.md)
   - [TatarinBlack/ai-runtime-security-sandbox](../ai/rag/tatarinblack-ai-runtime-security-sandbox.md)
-  - [TauricResearch/TradingAgents](../ai/rag/tauricresearch-tradingagents.md)
   - [TecharoHQ/anubis](../ai/rag/techarohq-anubis.md)
   - [Tencent/AI-Infra-Guard](../ai/agents/tencent-ai-infra-guard.md)
   - [Tencent/AICGSecEval](../ai/agents/tencent-aicgseceval.md)
@@ -22592,8 +22591,11 @@ Resources organized by publisher feed and query sources.
 ## Unknown Source (type: hackernews)
 
   - [Arm Mali G2-Ultra NX GPU: desktop-class mobile gameplay with AI-native graphics](../ai/community/arm-mali-g2-ultra-nx-gpu-desktop-class-mobile-game.md)
+  - [End-to-end infrastructure for training and inferencing open weight models](../ai/community/end-to-end-infrastructure-for-training-and-inferen.md)
   - [How well do agents use test/verification techniques?](../ai/community/how-well-do-agents-use-test-verification-technique.md)
-  - [Show HN: Jigsaw Haiku](../ai/community/show-hn-jigsaw-haiku.md)
+  - [Multi-Agents LLM Financial Trading Framework](../ai/rag/tauricresearch-tradingagents.md)
+  - [The VMs Powering Mobile Agents (Instinct, Claude Code)](../ai/community/the-vms-powering-mobile-agents-instinct-claude-cod.md)
+  - [There's a new "Google Jail" for independent wikis](../ai/community/there-s-a-new-google-jail-for-independent-wikis.md)
   - [Trusting-Trust Attack against an Entire Linux Distribution](../ai/community/arxiv-2607-24888.md)
 
 ## Unknown Source (type: huggingface)
@@ -25035,6 +25037,7 @@ Resources organized by publisher feed and query sources.
   - [Licences and regulators when holding money as Interest and Stocks | Wise Help Centre](../ai/resources/licences-and-regulators-when-holding-money-as-inte.md)
   - [Licenses List - Creative Commons](../ai/resources/licenses-list-creative-commons.md)
   - [Life and work - The State of Developer Ecosystem in 2025](../ai/resources/life-and-work-the-state-of-developer-ecosystem-in.md)
+  - [LightRAG](../ai/rag/lightrag.md)
   - [Lightbox2](../ai/resources/lightbox2.md)
   - [Lighthouse | Chrome for Developers](../ai/resources/lighthouse-chrome-for-developers.md)
   - [Lightweight Cryptography | CSRC](../ai/rag/lightweight-cryptography-csrc.md)
@@ -25107,7 +25110,7 @@ Resources organized by publisher feed and query sources.
   - [MedGemma: Our most capable open models for health AI development](../ai/rag/medgemma-our-most-capable-open-models-for-health-a.md)
   - [Media Types](../ai/rag/media-types.md)
   - [MediaWiki](../ai/resources/mediawiki.md)
-  - [Medium](../ai/rag/medium-2.md)
+  - [Medium](../ai/rag/medium.md)
   - [Medium Help Center](../ai/rag/medium-help-center.md)
   - [Medium Members Can Listen To Any Medium Story With The Speechify Play Button | Speechify](../ai/rag/medium-members-can-listen-to-any-medium-story-with.md)
   - [Medium Privacy Policy - Effective date December 31, 2019 through August 31, 2020 – Medium Help Center](../ai/rag/medium-privacy-policy-effective-date-december-31-2.md)
@@ -25858,6 +25861,7 @@ Resources organized by publisher feed and query sources.
   - [Top 23 rag Open-Source Projects | LibHunt](../ai/rag/top-23-rag-open-source-projects-libhunt.md)
   - [Top 7 GitHub Repos to Master Retrieval-Augmented Generation](../ai/rag/top-7-github-repos-to-master-retrieval-augmented-g.md)
   - [Top Open Source Github Repositories for creating your own RAG | Resemble AI](../ai/rag/top-open-source-github-repositories-for-creating-y.md)
+  - [Top RAG open-source projects (2026) | Trendshift](../ai/rag/top-rag-open-source-projects-2026-trendshift.md)
   - [Top free game assets - itch.io](../ai/rag/top-free-game-assets-itch-io.md)
   - [Top game assets tagged Fonts - itch.io](../ai/resources/top-game-assets-tagged-fonts-itch-io.md)
   - [Top game assets tagged No AI - itch.io](../ai/rag/top-game-assets-tagged-no-ai-itch-io.md)
@@ -26449,4 +26453,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-09-08T10:33:26.646722+05:30*
+*Index generated on 2026-09-08T18:45:41.264927+05:30*
