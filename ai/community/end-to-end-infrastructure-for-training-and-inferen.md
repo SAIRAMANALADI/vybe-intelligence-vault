@@ -13,13 +13,14 @@ collected_at: '2026-09-08T18:29:14.046408+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:end-to-end-infrastructure-for-training-and-inferen
 first_seen: '2026-09-08T18:29:14.046408+05:30'
 last_seen: '2026-09-08T18:29:14.046408+05:30'
 last_checked: '2026-09-08T18:29:14.046408+05:30'
 health_score: 100
 ---
+
 
 # End-to-end infrastructure for training and inferencing open weight models
 

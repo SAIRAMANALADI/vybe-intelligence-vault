@@ -3,7 +3,7 @@ title: Learn more
 archive_category: evals-and-benchmarks
 source_category: ai/companies/deepmind
 source_url: https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations
-resource_id: blog:learn-more
+resource_id: blog:learn-more-9fd8a482
 local_vault_path: ai/companies/deepmind/learn-more.md
 quality_score: 70
 archive_score: 84

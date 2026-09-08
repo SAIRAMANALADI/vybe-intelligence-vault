@@ -32,7 +32,7 @@ selection_reason:
 
 ## Summary
 
-Trending Hugging Face dataset: huggingface/documentation-images (Likes: 183, Downloads: 1974680)
+Trending Hugging Face dataset: huggingface/documentation-images (Likes: 184, Downloads: 1974680)
 
 ## Use Cases
 

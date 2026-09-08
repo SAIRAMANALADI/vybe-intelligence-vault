@@ -22590,13 +22590,12 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [Arm Mali G2-Ultra NX GPU: desktop-class mobile gameplay with AI-native graphics](../ai/community/arm-mali-g2-ultra-nx-gpu-desktop-class-mobile-game.md)
-  - [End-to-end infrastructure for training and inferencing open weight models](../ai/community/end-to-end-infrastructure-for-training-and-inferen.md)
-  - [How well do agents use test/verification techniques?](../ai/community/how-well-do-agents-use-test-verification-technique.md)
-  - [Multi-Agents LLM Financial Trading Framework](../ai/rag/tauricresearch-tradingagents.md)
-  - [The VMs Powering Mobile Agents (Instinct, Claude Code)](../ai/community/the-vms-powering-mobile-agents-instinct-claude-cod.md)
+  - [100s of flights cancelled at UK airports due to ATC issue](../ai/community/100s-of-flights-cancelled-at-uk-airports-due-to-at.md)
+  - [I-have-ADHD: A skill to stop coding agents from burying the answer](../ai/community/ayghri-i-have-adhd.md)
+  - [Muse: Meta's personal AI agent, features and capabilities](../ai/community/muse-meta-s-personal-ai-agent-features-and-capabil.md)
+  - [Show HN: LLM Attention Visualization](../ai/community/show-hn-llm-attention-visualization.md)
+  - [The two Christian saints who are the Buddha](../ai/community/the-two-christian-saints-who-are-the-buddha.md)
   - [There's a new "Google Jail" for independent wikis](../ai/community/there-s-a-new-google-jail-for-independent-wikis.md)
-  - [Trusting-Trust Attack against an Entire Linux Distribution](../ai/community/arxiv-2607-24888.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -23246,6 +23245,7 @@ Resources organized by publisher feed and query sources.
   - [SOTA OCR with Core ML and dots.ocr](../ai/models/huggingface-blog-dots-ocr-ne.md)
   - [SafeCoder vs. Closed-source Code Assistants](../ai/models/huggingface-blog-safecoder-vs-closed-source-code-assistants.md)
   - [Safetensors is Joining the PyTorch Foundation](../ai/models/huggingface-blog-safetensors-joins-pytorch-foundation.md)
+  - [Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic](../ai/models/huggingface-blog-multiversecomputingcai-safety-for-whom.md)
   - [Same Cluster, 33 Points More Utilization: What Changed Was the Order](../ai/models/huggingface-blog-dharma-ai-gpu-management-pt2.md)
   - [Say hello to `hf`: a faster, friendlier Hugging Face CLI ✨](../ai/models/huggingface-blog-hf-cli.md)
   - [Scaleway on Hugging Face Inference Providers 🔥](../ai/models/huggingface-blog-inference-providers-scaleway.md)
@@ -23530,10 +23530,12 @@ Resources organized by publisher feed and query sources.
   - [Large Language Models Empowered Personalized Web Agents](../ai/research/large-language-models-empowered-personalized-web-a.md)
   - [Large language models (LLMs) as agents for augmented democracy](../ai/research/large-language-models-llms-as-agents-for-augmented.md)
   - [LightRAG: Simple and Fast Retrieval-Augmented Generation](../ai/research/lightrag-simple-and-fast-retrieval-augmented-gener.md)
+  - [LinearRAG: Linear Graph Retrieval Augmented Generation on Large-scale Corpora](../ai/research/linearrag-linear-graph-retrieval-augmented-generat.md)
   - [MLR-Copilot: Autonomous Machine Learning Research based on Large Language Models Agents](../ai/research/mlr-copilot-autonomous-machine-learning-research-b.md)
   - [MME: A Comprehensive Evaluation Benchmark for Multimodal Large Language Models](../ai/research/mme-a-comprehensive-evaluation-benchmark-for-multi.md)
   - [MTRAG: A Multi-Turn Conversational Benchmark for Evaluating Retrieval-Augmented Generation Systems](../ai/research/mtrag-a-multi-turn-conversational-benchmark-for-ev.md)
   - [MedRAG: Enhancing Retrieval-augmented Generation with Knowledge Graph-Elicited Reasoning for Healthcare Copilot](../ai/research/medrag-enhancing-retrieval-augmented-generation-wi.md)
+  - [Medical Graph RAG: Evidence-based Medical Large Language Model via Graph Retrieval-Augmented Generation](../ai/research/medical-graph-rag-evidence-based-medical-large-lan.md)
   - [MultiHop-RAG: Benchmarking Retrieval-Augmented Generation for Multi-Hop Queries](../ai/research/multihop-rag-benchmarking-retrieval-augmented-gene.md)
   - [New frontiers in artificial intelligence for biodiversity research and conservation with multimodal language models](../ai/research/new-frontiers-in-artificial-intelligence-for-biodi.md)
   - [On protecting the data privacy of Large Language Models (LLMs) and LLM agents: A literature review](../ai/research/on-protecting-the-data-privacy-of-large-language-m.md)
@@ -23546,7 +23548,9 @@ Resources organized by publisher feed and query sources.
   - [RePrompt: Planning by Automatic Prompt Engineering for Large Language Models Agents](../ai/research/reprompt-planning-by-automatic-prompt-engineering.md)
   - [Reka Core, Flash, and Edge: A Series of Powerful Multimodal Language Models](../ai/research/reka-core-flash-and-edge-a-series-of-powerful-mult.md)
   - [Rethinking Mixture-of-Agents: Is Mixing Different Large Language Models Beneficial?](../ai/research/rethinking-mixture-of-agents-is-mixing-different-l.md)
+  - [Retrieval augmented generation for 10 large language models and its generalizability in assessing medical fitness](../ai/research/retrieval-augmented-generation-for-10-large-langua.md)
   - [Retrieval-Augmented Generation (RAG) Chatbots for Education: A Survey of Applications](../ai/research/retrieval-augmented-generation-rag-chatbots-for-ed.md)
+  - [Retrieval-Augmented Generation (RAG) in Healthcare: A Comprehensive Review](../ai/research/retrieval-augmented-generation-rag-in-healthcare-a.md)
   - [Retrieval-Augmented Generation for AI-Generated Content: A Survey](../ai/research/retrieval-augmented-generation-for-ai-generated-co.md)
   - [Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](../ai/research/retrieval-augmented-generation-for-knowledge-inten.md)
   - [Retrieval-Augmented Generation for Large Language Models: A Survey](../ai/research/retrieval-augmented-generation-for-large-language.md)
@@ -23554,6 +23558,7 @@ Resources organized by publisher feed and query sources.
   - [Stop Looking for Important Tokens in Multimodal Language Models: Duplication Matters More](../ai/research/stop-looking-for-important-tokens-in-multimodal-la.md)
   - [Text2Outfit: Controllable Outfit Generation With Multimodal Language Models](../ai/research/text2outfit-controllable-outfit-generation-with-mu.md)
   - [The Good and The Bad: Exploring Privacy Issues in Retrieval-Augmented Generation (RAG)](../ai/research/the-good-and-the-bad-exploring-privacy-issues-in-r.md)
+  - [Towards Trustworthy Retrieval Augmented Generation for Large Language Models: A Survey](../ai/research/towards-trustworthy-retrieval-augmented-generation.md)
   - [Understanding Long Videos with Multimodal Language Models](../ai/research/understanding-long-videos-with-multimodal-language.md)
   - [VDocRAG: Retrieval-Augmented Generation over Visually-Rich Documents](../ai/research/vdocrag-retrieval-augmented-generation-over-visual.md)
   - [ViDoRAG: Visual Document Retrieval-Augmented Generation via Dynamic Iterative Reasoning Agents](../ai/research/vidorag-visual-document-retrieval-augmented-genera.md)
@@ -25037,7 +25042,6 @@ Resources organized by publisher feed and query sources.
   - [Licences and regulators when holding money as Interest and Stocks | Wise Help Centre](../ai/resources/licences-and-regulators-when-holding-money-as-inte.md)
   - [Licenses List - Creative Commons](../ai/resources/licenses-list-creative-commons.md)
   - [Life and work - The State of Developer Ecosystem in 2025](../ai/resources/life-and-work-the-state-of-developer-ecosystem-in.md)
-  - [LightRAG](../ai/rag/lightrag.md)
   - [Lightbox2](../ai/resources/lightbox2.md)
   - [Lighthouse | Chrome for Developers](../ai/resources/lighthouse-chrome-for-developers.md)
   - [Lightweight Cryptography | CSRC](../ai/rag/lightweight-cryptography-csrc.md)
@@ -25861,7 +25865,6 @@ Resources organized by publisher feed and query sources.
   - [Top 23 rag Open-Source Projects | LibHunt](../ai/rag/top-23-rag-open-source-projects-libhunt.md)
   - [Top 7 GitHub Repos to Master Retrieval-Augmented Generation](../ai/rag/top-7-github-repos-to-master-retrieval-augmented-g.md)
   - [Top Open Source Github Repositories for creating your own RAG | Resemble AI](../ai/rag/top-open-source-github-repositories-for-creating-y.md)
-  - [Top RAG open-source projects (2026) | Trendshift](../ai/rag/top-rag-open-source-projects-2026-trendshift.md)
   - [Top free game assets - itch.io](../ai/rag/top-free-game-assets-itch-io.md)
   - [Top game assets tagged Fonts - itch.io](../ai/resources/top-game-assets-tagged-fonts-itch-io.md)
   - [Top game assets tagged No AI - itch.io](../ai/rag/top-game-assets-tagged-no-ai-itch-io.md)
@@ -26453,4 +26456,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-09-08T18:45:41.264927+05:30*
+*Index generated on 2026-09-09T01:16:20.771008+05:30*

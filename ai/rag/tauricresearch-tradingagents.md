@@ -14,13 +14,14 @@ tags:
 - agents
 - hackernews
 - llm
-status: active
+status: inactive
 resource_id: github:tauricresearch/tradingagents
 first_seen: '2026-09-03T10:17:32.846951+05:30'
 last_seen: '2026-09-08T18:29:15.248972+05:30'
 last_checked: '2026-09-08T18:29:15.248972+05:30'
 health_score: 100
 ---
+
 
 # Multi-Agents LLM Financial Trading Framework
 

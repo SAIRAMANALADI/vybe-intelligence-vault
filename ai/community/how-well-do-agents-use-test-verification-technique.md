@@ -13,13 +13,14 @@ collected_at: '2026-09-08T18:29:14.640710+05:30'
 tags:
 - agents
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:how-well-do-agents-use-test-verification-technique
 first_seen: '2026-09-08T10:17:16.065202+05:30'
 last_seen: '2026-09-08T18:29:14.640710+05:30'
 last_checked: '2026-09-08T18:29:14.640710+05:30'
 health_score: 100
 ---
+
 
 # How well do agents use test/verification techniques?
 

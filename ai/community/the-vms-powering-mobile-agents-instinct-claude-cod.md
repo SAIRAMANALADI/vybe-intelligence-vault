@@ -14,13 +14,14 @@ tags:
 - agents
 - anthropic
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:the-vms-powering-mobile-agents-instinct-claude-cod
 first_seen: '2026-09-08T18:29:17.095776+05:30'
 last_seen: '2026-09-08T18:29:17.095776+05:30'
 last_checked: '2026-09-08T18:29:17.095776+05:30'
 health_score: 100
 ---
+
 
 # The VMs Powering Mobile Agents (Instinct, Claude Code)
 
