@@ -14,13 +14,14 @@ tags:
 - frontend_ui
 - hackernews
 - react
-status: active
+status: inactive
 resource_id: github:marsbos/mador
 first_seen: '2026-09-07T03:42:33.672550+05:30'
 last_seen: '2026-09-07T03:42:33.672550+05:30'
 last_checked: '2026-09-07T03:42:33.672550+05:30'
 health_score: 100
 ---
+
 
 # Show HN: Mador – Make any DOM reactive with a tiny 80-line Proxy state tuple
 

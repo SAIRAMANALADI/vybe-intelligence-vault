@@ -21670,7 +21670,7 @@ Resources organized by publisher feed and query sources.
   - [Audio & acoustics](../ai/companies/audio-acoustics.md)
   - [Aug 25, 2026AnnouncementsFunding better evaluations of AI’s impact on wellbeing](../ai/companies/anthropic/aug-25-2026announcementsfunding-better-evaluations.md)
   - [Aug 27, 2026Announcements Expanding our support for scientists](../ai/companies/anthropic/aug-27-2026announcements-expanding-our-support-for.md)
-  - [Aug 31, 2026Improving our alignment and security efforts](../ai/companies/anthropic/aug-31-2026improving-our-alignment-and-security-ef.md)
+  - [Aug 31, 2026AnnouncementsImproving our alignment and security efforts](../ai/companies/anthropic/aug-31-2026announcementsimproving-our-alignment-an.md)
   - [Aug 4, 2026AnnouncementsMariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer](../ai/companies/anthropic/aug-4-2026announcementsmariano-florentino-tino-cue.md)
   - [Aug 7, 2026ProductImproving Fable 5's biology safeguards](../ai/companies/anthropic/aug-7-2026productimproving-fable-5-s-biology-safeg.md)
   - [Code, datasets and models](../ai/companies/code-datasets-and-models.md)
@@ -22591,10 +22591,10 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [Research acceleration: The view inside OpenAI](../ai/community/research-acceleration-the-view-inside-openai.md)
-  - [Reverse engineering the storage format for an undocumented database](../ai/community/reverse-engineering-the-storage-format-for-an-undo.md)
-  - [Show HN: Mador – Make any DOM reactive with a tiny 80-line Proxy state tuple](../web-development/community/marsbos-mador.md)
-  - [Vidact – a compiler that turns React into direct DOM operations](../web-development/community/vidact-a-compiler-that-turns-react-into-direct-dom.md)
+  - [Arm Mali G2-Ultra NX GPU: desktop-class mobile gameplay with AI-native graphics](../ai/community/arm-mali-g2-ultra-nx-gpu-desktop-class-mobile-game.md)
+  - [How well do agents use test/verification techniques?](../ai/community/how-well-do-agents-use-test-verification-technique.md)
+  - [Show HN: Jigsaw Haiku](../ai/community/show-hn-jigsaw-haiku.md)
+  - [Trusting-Trust Attack against an Entire Linux Distribution](../ai/community/arxiv-2607-24888.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -26449,4 +26449,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-09-07T03:58:52.887052+05:30*
+*Index generated on 2026-09-08T10:33:26.646722+05:30*

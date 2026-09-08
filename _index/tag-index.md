@@ -2545,6 +2545,7 @@ Resources organized by keyword tags.
   - [How to programmatically estimate baud rate of an FSK-2 signal in C#? - Signal Processing Stack Exchange](../ai/rag/how-to-programmatically-estimate-baud-rate-of-an-f.md)
   - [How to run gpt-oss locally with Ollama](../ai/agents/how-to-run-gpt-oss-locally-with-ollama.md)
   - [How we closed 1,500 GitHub issues in one month](../ai/agents/how-we-closed-1500-github-issues-in-one-month.md)
+  - [How well do agents use test/verification techniques?](../ai/community/how-well-do-agents-use-test-verification-technique.md)
   - [HugAgent: A Human Simulation Benchmark for Individual-Level Reasoning](../ai/rag/arxiv-2510-15144.md)
   - [Hugging Face · GitHub](../ai/agents/hugging-face-github.md)
   - [Human AI Construction of Bayesian Networks for Operational Decision Support -- A Virtual Survey Approach](../ai/agents/arxiv-2607-14141.md)
@@ -5948,7 +5949,9 @@ Resources organized by keyword tags.
 
 ## ai
 
-  - [Research acceleration: The view inside OpenAI](../ai/community/research-acceleration-the-view-inside-openai.md)
+  - [Arm Mali G2-Ultra NX GPU: desktop-class mobile gameplay with AI-native graphics](../ai/community/arm-mali-g2-ultra-nx-gpu-desktop-class-mobile-game.md)
+  - [Show HN: Jigsaw Haiku](../ai/community/show-hn-jigsaw-haiku.md)
+  - [Trusting-Trust Attack against an Entire Linux Distribution](../ai/community/arxiv-2607-24888.md)
 
 ## animation
 
@@ -6043,7 +6046,7 @@ Resources organized by keyword tags.
   - [Auditing Alignment Controllability in LLMs via Political Axes](../ai/research/arxiv-2607-23519.md)
   - [Aug 25, 2026AnnouncementsFunding better evaluations of AI’s impact on wellbeing](../ai/companies/anthropic/aug-25-2026announcementsfunding-better-evaluations.md)
   - [Aug 27, 2026Announcements Expanding our support for scientists](../ai/companies/anthropic/aug-27-2026announcements-expanding-our-support-for.md)
-  - [Aug 31, 2026Improving our alignment and security efforts](../ai/companies/anthropic/aug-31-2026improving-our-alignment-and-security-ef.md)
+  - [Aug 31, 2026AnnouncementsImproving our alignment and security efforts](../ai/companies/anthropic/aug-31-2026announcementsimproving-our-alignment-an.md)
   - [Aug 4, 2026AnnouncementsMariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer](../ai/companies/anthropic/aug-4-2026announcementsmariano-florentino-tino-cue.md)
   - [Aug 7, 2026ProductImproving Fable 5's biology safeguards](../ai/companies/anthropic/aug-7-2026productimproving-fable-5-s-biology-safeg.md)
   - [Authoring Agent Skills: A Software-Engineering Approach](../ai/agents/arxiv-2607-25032.md)
@@ -6641,7 +6644,7 @@ Resources organized by keyword tags.
 
   - [Aug 25, 2026AnnouncementsFunding better evaluations of AI’s impact on wellbeing](../ai/companies/anthropic/aug-25-2026announcementsfunding-better-evaluations.md)
   - [Aug 27, 2026Announcements Expanding our support for scientists](../ai/companies/anthropic/aug-27-2026announcements-expanding-our-support-for.md)
-  - [Aug 31, 2026Improving our alignment and security efforts](../ai/companies/anthropic/aug-31-2026improving-our-alignment-and-security-ef.md)
+  - [Aug 31, 2026AnnouncementsImproving our alignment and security efforts](../ai/companies/anthropic/aug-31-2026announcementsimproving-our-alignment-an.md)
   - [Aug 4, 2026AnnouncementsMariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer](../ai/companies/anthropic/aug-4-2026announcementsmariano-florentino-tino-cue.md)
   - [Aug 7, 2026ProductImproving Fable 5's biology safeguards](../ai/companies/anthropic/aug-7-2026productimproving-fable-5-s-biology-safeg.md)
   - [Jul 27, 2026AnnouncementsOur position on open-weights models](../ai/companies/anthropic/jul-27-2026announcementsour-position-on-open-weigh.md)
@@ -16513,7 +16516,7 @@ Resources organized by keyword tags.
   - [Audio & acoustics](../ai/companies/audio-acoustics.md)
   - [Aug 25, 2026AnnouncementsFunding better evaluations of AI’s impact on wellbeing](../ai/companies/anthropic/aug-25-2026announcementsfunding-better-evaluations.md)
   - [Aug 27, 2026Announcements Expanding our support for scientists](../ai/companies/anthropic/aug-27-2026announcements-expanding-our-support-for.md)
-  - [Aug 31, 2026Improving our alignment and security efforts](../ai/companies/anthropic/aug-31-2026improving-our-alignment-and-security-ef.md)
+  - [Aug 31, 2026AnnouncementsImproving our alignment and security efforts](../ai/companies/anthropic/aug-31-2026announcementsimproving-our-alignment-an.md)
   - [Aug 4, 2026AnnouncementsMariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer](../ai/companies/anthropic/aug-4-2026announcementsmariano-florentino-tino-cue.md)
   - [Aug 7, 2026ProductImproving Fable 5's biology safeguards](../ai/companies/anthropic/aug-7-2026productimproving-fable-5-s-biology-safeg.md)
   - [Code, datasets and models](../ai/companies/code-datasets-and-models.md)
@@ -22780,7 +22783,6 @@ Resources organized by keyword tags.
   - [Service Workers Nightly](../ai/rag/service-workers-nightly.md)
   - [Shared Physics Responses Recover Hidden Rankings in Neural Operator Libraries](../ai/research/arxiv-2608-20441.md)
   - [Shibuya](../ai/resources/shibuya.md)
-  - [Show HN: Mador – Make any DOM reactive with a tiny 80-line Proxy state tuple](../web-development/community/marsbos-mador.md)
   - [Significant Other AI: Identity, Memory, and Emotional Regulation as Long-Term Relational Intelligence](../ai/research/arxiv-2512-00418.md)
   - [Silent Failures in Multimodal Agentic Search:A Diagnostic Taxonomy and Cross-Judge Evaluation](../ai/agents/arxiv-2607-19793.md)
   - [Similar Models Learn Differently: Final-Window Pretraining Shapes Post-Training Beyond SFT](../ai/research/arxiv-2607-25063.md)
@@ -22875,7 +22877,6 @@ Resources organized by keyword tags.
   - [Vercel · GitHub](../ai/agents/vercel-github.md)
   - [Verifiable Self-Evolution for Open-Ended Dialogue Skills via Future-Feedback Prediction](../ai/agents/arxiv-2607-18973.md)
   - [VibeSearchBench: Benchmarking Long-horizon Proactive Search in the Wild](../ai/agents/arxiv-2605-27882.md)
-  - [Vidact – a compiler that turns React into direct DOM operations](../web-development/community/vidact-a-compiler-that-turns-react-into-direct-dom.md)
   - [Video2Reaction: Mapping Video to Audience Reaction Distribution in the Wild](../ai/agents/arxiv-2607-06875.md)
   - [Vinci2: Providing Proactive Assistance in Continuous Egocentric Videos](../ai/rag/arxiv-2607-11523.md)
   - [Virtual Sensing to Enable Real-Time Monitoring of Inaccessible Locations & Unmeasurable Parameters](../ai/research/arxiv-2412-00107.md)
@@ -24195,6 +24196,7 @@ Resources organized by keyword tags.
   - [Architecture and Affordances of PLAUD: Performative Latents and Unsupervised DDSP](../ai/research/arxiv-2608-13724.md)
   - [Are You Thinking What I am Thinking? : Examining Conceptual Separation in Neural Architectures](../ai/research/arxiv-2609-00764.md)
   - [Ari Juels](../ai/rag/ari-juels.md)
+  - [Arm Mali G2-Ultra NX GPU: desktop-class mobile gameplay with AI-native graphics](../ai/community/arm-mali-g2-ultra-nx-gpu-desktop-class-mobile-game.md)
   - [Arnold: A multi-task, multi-embodiment muscle transformer policy](../ai/rag/arxiv-2508-18066.md)
   - [Ars Technica (@arstechnica@mastodon.social) - Mastodon](../ai/resources/ars-technica-arstechnica-mastodon-social-mastodon.md)
   - [Ars Technica - YouTube](../ai/resources/ars-technica-youtube.md)
@@ -24377,7 +24379,6 @@ Resources organized by keyword tags.
   - [C2PA | Verifying Media Content Sources](../ai/resources/c2pa-verifying-media-content-sources.md)
   - [CADET: Context-Conditioned Ads CTR Prediction With a Decoder-Only Transformer](../ai/rag/arxiv-2602-11410.md)
   - [CAF-Gen: A Multi-Agent System for Enriching Argumentation Structures](../ai/agents/arxiv-2606-06646.md)
-  - [CALLE-AI/awesome-phone-call-agents](../ai/agents/calle-ai-awesome-phone-call-agents.md)
   - [CAPRA: Scaling Feedback on Software Architecture Deliverables with a Multi-Agent LLM System](../ai/agents/arxiv-2606-18976.md)
   - [CASD - Centre d'accès sécurisé aux données](../ai/rag/casd-centre-d-acces-securise-aux-donnees.md)
   - [CAW | Your Partner in Product Engineering](../ai/resources/caw-your-partner-in-product-engineering.md)
@@ -25348,6 +25349,7 @@ Resources organized by keyword tags.
   - [How to use the CrUX BigQuery dataset | Chrome UX Report | Chrome for Developers](../ai/resources/how-to-use-the-crux-bigquery-dataset-chrome-ux-rep.md)
   - [How we optimized Dash's relevance judge with DSPy - Dropbox](../ai/rag/how-we-optimized-dash-s-relevance-judge-with-dspy.md)
   - [How web bloat impacts users with slow connections](../ai/rag/how-web-bloat-impacts-users-with-slow-connections.md)
+  - [How well do agents use test/verification techniques?](../ai/community/how-well-do-agents-use-test-verification-technique.md)
   - [How we’re helping kids and families safely learn, grow and play online](../ai/resources/how-were-helping-kids-and-families-safely-learn-gr.md)
   - [Hp30 & Hp60 - Kp-Index](../ai/rag/hp30-hp60-kp-index.md)
   - [Human Vision Constrained Super-Resolution](../ai/research/arxiv-2411-17513.md)
@@ -26333,7 +26335,6 @@ Resources organized by keyword tags.
   - [Reproducing Human Individual Motor Signatures: A Data-Driven Approach for Repetitive Motion](../ai/agents/arxiv-2503-15225.md)
   - [Research Assistant: AstraZeneca's Agentic System for R&D](../ai/agents/arxiv-2608-12395.md)
   - [Research Policy Handbook | DoResearch](../ai/agents/research-policy-handbook-doresearch.md)
-  - [Research acceleration: The view inside OpenAI](../ai/community/research-acceleration-the-view-inside-openai.md)
   - [Research on Cross-media Science and Technology Information Data Retrieval](../ai/research/arxiv-2204-04887.md)
   - [Research on Domain Information Mining and Theme Evolution of Scientific Papers](../ai/research/arxiv-2204-08476.md)
   - [Research on Intellectual Property Resource Profile and Evolution Law](../ai/research/arxiv-2204-06221.md)
@@ -26367,7 +26368,6 @@ Resources organized by keyword tags.
   - [Retrofitters, pragmatists and activists: Public interest litigation for accountable automated decision-making](../ai/rag/arxiv-2511-03211.md)
   - [Revealing Multi-View Hallucination in Large Vision-Language Models](../ai/research/arxiv-2603-23934.md)
   - [Reversal Q-Learning](../ai/rag/arxiv-2606-17551.md)
-  - [Reverse engineering the storage format for an undocumented database](../ai/community/reverse-engineering-the-storage-format-for-an-undo.md)
   - [Review Before Trust: Source-Grounded Integrity Gates for AI-Assisted Personal Health Records](../ai/research/arxiv-2608-29965.md)
   - [Revisiting One-Zero and Two-Zero Neutrino Mass Textures in Light of Recent Oscillation and Cosmological Data](../ai/research/arxiv-2607-08384.md)
   - [Revisiting the shutdown problem](../ai/agents/arxiv-2606-08296.md)
@@ -26516,7 +26516,7 @@ Resources organized by keyword tags.
   - [ShielDroid: A Hybrid Approach Integrating Machine and Deep Learning for Android Malware Detection](../ai/research/arxiv-2608-03250.md)
   - [Shielding for Higher-Order Safety](../ai/research/arxiv-2608-03662.md)
   - [Short-circuit evaluation - Wikipedia](../ai/resources/short-circuit-evaluation-wikipedia.md)
-  - [Show HN: Mador – Make any DOM reactive with a tiny 80-line Proxy state tuple](../web-development/community/marsbos-mador.md)
+  - [Show HN: Jigsaw Haiku](../ai/community/show-hn-jigsaw-haiku.md)
   - [Show Me How You Reason and I'll Tell You Who You Are: Reasoning Graphs for Robust LLM Authorship Attribution](../ai/rag/arxiv-2607-14905.md)
   - [Shows | web.dev](../ai/resources/shows-web-dev.md)
   - [Shubhamsaboo/awesome-llm-apps](../ai/rag/shubhamsaboo-awesome-llm-apps.md)
@@ -26922,6 +26922,7 @@ Resources organized by keyword tags.
   - [Trust Legal Provisions (TLP) – IETF Trust](../ai/resources/trust-legal-provisions-tlp-ietf-trust.md)
   - [Trust Region On-Policy Distillation](../ai/rag/arxiv-2606-01249.md)
   - [Trusted open source for enterprises | Canonical](../ai/rag/trusted-open-source-for-enterprises-canonical.md)
+  - [Trusting-Trust Attack against an Entire Linux Distribution](../ai/community/arxiv-2607-24888.md)
   - [Trustworthy AI in Digital Health: A Comprehensive Review of Robustness and Explainability](../ai/research/arxiv-2608-02238.md)
   - [Trustworthy Agent Network: Trust in Agent Networks Must Be Baked In, Not Bolted On](../ai/agents/arxiv-2605-19035.md)
   - [Trustworthy Networks Program | NIST](../ai/rag/trustworthy-networks-program-nist.md)
@@ -27036,7 +27037,6 @@ Resources organized by keyword tags.
   - [Vespa Demos](../ai/rag/vespa-demos.md)
   - [Vibe Coding and Web Application Security: A Twin-Prompt Study](../ai/agents/arxiv-2608-20963.md)
   - [VibeThinker-3B: Exploring the Frontier of Verifiable Reasoning in Small Language Models](../ai/rag/arxiv-2606-16140.md)
-  - [Vidact – a compiler that turns React into direct DOM operations](../web-development/community/vidact-a-compiler-that-turns-react-into-direct-dom.md)
   - [Virtual Classroom Software | BigBlueButton](../ai/rag/virtual-classroom-software-bigbluebutton.md)
   - [Visible to the Court: How AI Is (and Isn't) Litigated in U.S. Federal Court Opinions](../ai/rag/arxiv-2607-23888.md)
   - [Visual Sketchpad: Sketching as a Visual Chain of Thought for Multimodal Language Models](../ai/research/visual-sketchpad-sketching-as-a-visual-chain-of-th.md)
@@ -27250,6 +27250,7 @@ Resources organized by keyword tags.
   - [data.gouv.fr : Plateforme ouverte des données publiques françaises](../ai/rag/data-gouv-fr-plateforme-ouverte-des-donnees-publiq.md)
   - [databrickslabs/doc-qa](../ai/resources/databrickslabs-doc-qa.md)
   - [datacamp/rdocumentation-2.0](../ai/resources/datacamp-rdocumentation-2-0.md)
+  - [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md)
   - [datawhalechina/hello-agents](../ai/rag/datawhalechina-hello-agents.md)
   - [datawhalechina/wow-rag](../ai/rag/datawhalechina-wow-rag.md)
   - [daveebbelaar/ai-cookbook](../ai/agents/daveebbelaar-ai-cookbook.md)
@@ -34409,7 +34410,6 @@ Resources organized by keyword tags.
   - [Rehan-Ul-Haq/openai-agents-sdk-tutorial](../ai/agents/rehan-ul-haq-openai-agents-sdk-tutorial.md)
   - [Release policy - Docs by LangChain](../ai/agents/release-policy-docs-by-langchain.md)
   - [Replit – Build apps and sites with AI - Replit](../ai/rag/replit-build-apps-and-sites-with-ai-replit.md)
-  - [Research acceleration: The view inside OpenAI](../ai/community/research-acceleration-the-view-inside-openai.md)
   - [Research | OpenAI](../ai/rag/research-openai.md)
   - [Resources - Linux Foundation - Education](../ai/rag/resources-linux-foundation-education.md)
   - [Retrieval Augmented Generation (RAG) with Deep Agents - Docs by LangChain](../ai/rag/rag-with-deep-agents-docs-by-langchain.md)
@@ -45592,7 +45592,6 @@ Resources organized by keyword tags.
   - [Reversal Q-Learning](../ai/rag/arxiv-2606-17551.md)
   - [Reverse Flow Matching: A Unified Framework for Online Reinforcement Learning with Diffusion and Flow Policies](../ai/rag/arxiv-2601-08136.md)
   - [Reverse N-Wise Output-Oriented Testing for AI/ML and Quantum Computing Systems](../ai/rag/arxiv-2602-14275.md)
-  - [Reverse engineering the storage format for an undocumented database](../ai/community/reverse-engineering-the-storage-format-for-an-undo.md)
   - [Review your order history - Google Play Help](../ai/rag/review-your-order-history-google-play-help.md)
   - [Revisiting Predictive Process Monitoring in the Age of Foundation Models: A Comparative Study of Sequence, Tabular, and LLM Approaches](../ai/rag/arxiv-2607-27797.md)
   - [Revisiting data-driven dynamic security assessment with a tabular foundation model](../ai/rag/arxiv-2607-16031.md)
@@ -47889,11 +47888,6 @@ Resources organized by keyword tags.
   - [🧑‍🍳 Cookbook | Haystack](../ai/rag/cookbook-haystack.md)
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
-## react
-
-  - [Show HN: Mador – Make any DOM reactive with a tiny 80-line Proxy state tuple](../web-development/community/marsbos-mador.md)
-  - [Vidact – a compiler that turns React into direct DOM operations](../web-development/community/vidact-a-compiler-that-turns-react-into-direct-dom.md)
-
 ## reddit
 
   - ["I understand your perspective": LLM Persuasion through the Lens of Communicative Action Theory](../ai/rag/arxiv-2606-08076.md)
@@ -49686,7 +49680,6 @@ Resources organized by keyword tags.
   - [Building AI That Works: ESnet's Pragmatic Approach to AI-Driven Operational Excellence](../ai/rag/arxiv-2607-22948.md)
   - [Building RAG-based LLM Applications for Production](../ai/rag/building-rag-based-llm-applications-for-production.md)
   - [Building Your Own RAG System from Scratch: A Step-by-Step Guide | by Anish Chitturu | Medium](../ai/rag/building-your-own-rag-system-from-scratch-a-step-b.md)
-  - [CALLE-AI/awesome-phone-call-agents](../ai/agents/calle-ai-awesome-phone-call-agents.md)
   - [CAW | Your Partner in Product Engineering](../ai/resources/caw-your-partner-in-product-engineering.md)
   - [CI/CD for Skills — SuperML.org](../ai/agents/ci-cd-for-skills-superml-org.md)
   - [CIPHER: A Decoupled Exploration-Selection Framework for Test-Time Scaling of Data Science Agents](../ai/rag/arxiv-2607-14386.md)
@@ -50024,7 +50017,6 @@ Resources organized by keyword tags.
   - [ResearchStudio-Reel: Automate the Last Mile of Research from Paper to Poster, Video, and Blog](../ai/agents/arxiv-2607-04438.md)
   - [Resources - Linux Foundation - Education](../ai/rag/resources-linux-foundation-education.md)
   - [Retrieval-Based Cross-Domain Generalization in Optical Networks via Global Features](../ai/rag/arxiv-2608-00044.md)
-  - [Reverse engineering the storage format for an undocumented database](../ai/community/reverse-engineering-the-storage-format-for-an-undo.md)
   - [Review of Explainable Decision Support and Adaptive Human-Machine Interfaces for Automation Transparency in Maritime Autonomous Surface Ships](../ai/agents/arxiv-2509-15959.md)
   - [Revisiting Outage for Edge Inference Systems](../ai/agents/arxiv-2504-03686.md)
   - [Robot guide with multi-agent control and automatic scenario generation with LLM](../ai/agents/arxiv-2509-10317.md)
@@ -58072,4 +58064,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-09-07T03:58:52.598590+05:30*
+*Index generated on 2026-09-08T10:33:26.365667+05:30*

@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - openai
-status: active
+status: inactive
 resource_id: hackernews:research-acceleration-the-view-inside-openai
 first_seen: '2026-09-06T23:55:28.544326+05:30'
 last_seen: '2026-09-07T03:42:36.648848+05:30'
 last_checked: '2026-09-07T03:42:36.648848+05:30'
 health_score: 100
 ---
+
 
 # Research acceleration: The view inside OpenAI
 

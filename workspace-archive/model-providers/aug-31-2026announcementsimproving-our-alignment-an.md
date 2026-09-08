@@ -1,10 +1,10 @@
 ---
-title: Aug 31, 2026Improving our alignment and security efforts
+title: Aug 31, 2026AnnouncementsImproving our alignment and security efforts
 archive_category: model-providers
 source_category: ai/companies/anthropic
 source_url: https://anthropic.com/news/improving-alignment-security-efforts
-resource_id: blog:aug-31-2026improving-our-alignment-and-security-ef
-local_vault_path: ai/companies/anthropic/aug-31-2026improving-our-alignment-and-security-ef.md
+resource_id: blog:aug-31-2026announcementsimproving-our-alignment-an
+local_vault_path: ai/companies/anthropic/aug-31-2026announcementsimproving-our-alignment-an.md
 quality_score: 70
 archive_score: 82
 archive_tier: useful
@@ -19,7 +19,7 @@ selection_reason:
 - Valuable developer reference
 ---
 
-# Aug 31, 2026Improving our alignment and security efforts
+# Aug 31, 2026AnnouncementsImproving our alignment and security efforts
 
 ## Why This Is In The Archive
 
@@ -32,7 +32,7 @@ selection_reason:
 
 ## Summary
 
-Recent update from Anthropic News Blog: Aug 31, 2026Improving our alignment and security efforts
+Recent update from Anthropic News Blog: Aug 31, 2026AnnouncementsImproving our alignment and security efforts
 
 ## Use Cases
 
@@ -46,4 +46,4 @@ Original source URL: https://anthropic.com/news/improving-alignment-security-eff
 
 ## Local Vault File
 
-Path: [aug-31-2026improving-our-alignment-and-security-ef.md](../../ai/companies/anthropic/aug-31-2026improving-our-alignment-and-security-ef.md)
+Path: [aug-31-2026announcementsimproving-our-alignment-an.md](../../ai/companies/anthropic/aug-31-2026announcementsimproving-our-alignment-an.md)

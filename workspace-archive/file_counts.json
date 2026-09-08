@@ -1,5 +1,5 @@
 {
-  "total_files": 101960,
+  "total_files": 101958,
   "categories": {
     "agent-frameworks": 4331,
     "agent-instructions": 11,
@@ -16,15 +16,15 @@
     "learning-paths": 109,
     "llm-app-templates": 322,
     "mcp-registry": 270,
-    "model-providers": 2644,
+    "model-providers": 2643,
     "observability": 1221,
     "project-ideas": 117,
     "prompt-libraries": 203,
     "public-apis": 50,
-    "rag-systems": 22489,
+    "rag-systems": 22488,
     "startup-builder": 198,
     "vector-databases": 8093,
     "webdev-3d-creative": 146
   },
-  "last_updated": "2026-09-07T04:01:10.964574+05:30"
+  "last_updated": "2026-09-08T10:35:32.379720+05:30"
 }

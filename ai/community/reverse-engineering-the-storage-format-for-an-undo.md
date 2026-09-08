@@ -14,13 +14,14 @@ tags:
 - hackernews
 - rag
 - scripts
-status: active
+status: inactive
 resource_id: hackernews:reverse-engineering-the-storage-format-for-an-undo
 first_seen: '2026-09-07T03:42:35.912681+05:30'
 last_seen: '2026-09-07T03:42:35.912681+05:30'
 last_checked: '2026-09-07T03:42:35.912681+05:30'
 health_score: 100
 ---
+
 
 # Reverse engineering the storage format for an undocumented database
 
