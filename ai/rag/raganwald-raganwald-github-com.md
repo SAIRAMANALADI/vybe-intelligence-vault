@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/raganwald/raganwald.github.com
-collected_at: '2026-09-08T18:30:16.874148+05:30'
+collected_at: '2026-09-09T10:22:33.150892+05:30'
 published_at: '2026-07-08T15:07:53Z'
 tags:
 - github-repo
@@ -17,9 +17,9 @@ archived: false
 created_at: '2012-02-19T03:15:00Z'
 pushed_at: '2026-07-08T15:06:30Z'
 resource_id: github:raganwald/raganwald.github.com
-first_seen: '2026-09-08T18:30:16.874148+05:30'
-last_seen: '2026-09-08T18:30:16.874148+05:30'
-last_checked: '2026-09-08T18:30:16.874148+05:30'
+first_seen: '2026-09-09T10:22:33.150892+05:30'
+last_seen: '2026-09-09T10:22:33.150892+05:30'
+last_checked: '2026-09-09T10:22:33.150892+05:30'
 health_score: 100
 ---
 
@@ -27,7 +27,8 @@ health_score: 100
 
 ## Summary
 
-*   Jekyll-based static site generator source for `raganwald.com`.
+*   Jekyll source repository for a GitHub Pages-deployed static website.
+*   Primary
 
 ## Why It Matters
 
@@ -37,7 +38,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: raganwald
 - Stars: 30
-- Forks: 60
+- Forks: 59
 - Language: HTML
 - Topics: None
 - Last Updated: 2026-07-08T15:07:53Z

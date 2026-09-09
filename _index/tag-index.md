@@ -3367,7 +3367,7 @@ Resources organized by keyword tags.
   - [Multimodality as Supervision: Self-Supervised Specialization to the Test Environment via Multimodality](../ai/rag/arxiv-2607-14721.md)
   - [Multiplayer Interactive World Models with Representation Autoencoders](../ai/agents/arxiv-2607-05352.md)
   - [Multiview Representation Learning via Distributed Joint Latent Space Structuring](../ai/agents/arxiv-2504-18455.md)
-  - [Muse: Meta's personal AI agent, features and capabilities](../ai/community/muse-meta-s-personal-ai-agent-features-and-capabil.md)
+  - [Muse – Meta’s personal AI agent](../ai/community/muse-meta-s-personal-ai-agent-features-and-capabil.md)
   - [Musical Agent Systems: MACAT and MACataRT](../ai/agents/arxiv-2502-00023.md)
   - [MutMem-V2: Cryptographically Authorized Mutation in Persistent Agent Memory Portable Verification and Reproducible Evidence](../ai/agents/arxiv-2609-01235.md)
   - [MutMem: Cryptographically Authorized Mutation in Persistent Agent Memory](../ai/rag/arxiv-2608-02843.md)
@@ -5948,9 +5948,9 @@ Resources organized by keyword tags.
 
 ## ai
 
-  - [Muse: Meta's personal AI agent, features and capabilities](../ai/community/muse-meta-s-personal-ai-agent-features-and-capabil.md)
+  - [Muse – Meta’s personal AI agent](../ai/community/muse-meta-s-personal-ai-agent-features-and-capabil.md)
   - [Tao: Open math problems being non-renewably mined by AI](../ai/community/tao-open-math-problems-being-non-renewably-mined-b.md)
-  - [The two Christian saints who are the Buddha](../ai/community/the-two-christian-saints-who-are-the-buddha.md)
+  - [Tension wood: A 'muscle' that can both bend and straighten plants](../ai/community/tension-wood-a-muscle-that-can-both-bend-and-strai.md)
 
 ## animation
 
@@ -6268,6 +6268,7 @@ Resources organized by keyword tags.
   - [How We Use n8n to Build and Control AI Agents – Keeping Business in Focus | beezwax blog](../ai/rag/how-we-use-n8n-to-build-and-control-ai-agents-keep.md)
   - [How to Implement RAG (Retrieval Augmented Generation) in 2025 | Complete Tutorial](../ai/rag/how-to-implement-rag-retrieval-augmented-generatio.md)
   - [HyDRA: Hybrid Dynamic Routing Architecture for Heterogeneous LLM Pools](../ai/research/arxiv-2605-17106.md)
+  - [I resigned from Anthropic today](../ai/community/i-resigned-from-anthropic-today.md)
   - [IPO Finance Agent: Evaluation of LLM Financial Analysts beyond Finance Agent v2, with Automated Rubric Generation -- the Case of the SpaceX (SPCX) IPO](../ai/agents/arxiv-2606-23032.md)
   - [IRWOZ 2.0: A Large Language Model-driven Dialogue Dataset for Industrial Robot Conversations](../ai/research/arxiv-2609-04030.md)
   - [Identifying Implicit Bias in LLM-based Chat AI Toward People with Intellectual Disabilities](../ai/research/arxiv-2607-26062.md)
@@ -20318,6 +20319,7 @@ Resources organized by keyword tags.
   - [Parameterized Quantum Circuits as Feature Maps: Representation Quality and Readout Effects in Multispectral Land-Cover Classification](../ai/research/arxiv-2604-26675.md)
   - [ParasGB: A Graph Benchmark Suite for Parasitic Estimation on AMS Circuits](../ai/research/arxiv-2607-23225.md)
   - [ParetoPilot: Zero-Surrogate Offline Multi-Objective Optimization via Infer-Perturb-Guide Diffusion](../ai/research/arxiv-2606-04468.md)
+  - [ParticleMedia/RAGTruth](../ai/rag/particlemedia-ragtruth.md)
   - [Partition of Unity Neural Networks for Interpretable Classification with Explicit Class Regions](../ai/research/arxiv-2602-00511.md)
   - [Partition-Aware Unlearning for Removing Spurious Correlations in Large Vision-Language Models](../ai/research/arxiv-2608-29996.md)
   - [Patch-based Memory Gate Model in Time Series Foundation Model](../ai/research/arxiv-2509-18751.md)
@@ -23883,6 +23885,7 @@ Resources organized by keyword tags.
   - [2026 Fields and Abacus Medals | Quanta Magazine](../ai/resources/2026-fields-and-abacus-medals-quanta-magazine.md)
   - [2026 | CVPR Art](../ai/rag/2026-cvpr-art.md)
   - [24*I:cset_awesome*](../ai/agents/24-i-cset-awesome.md)
+  - [27.5KB language-agnostic WebGPU syntax highlighter](../web-development/community/27-5kb-language-agnostic-webgpu-syntax-highlighter.md)
   - [40th General Assembly of the European Seismological Commission - ESC 2026](../ai/resources/40th-general-assembly-of-the-european-seismologica.md)
   - [6G Native AI and Channel Foundation Models](../ai/rag/arxiv-2608-14591.md)
   - [7 Best GitHub Repositories For Mastering RAG Systems](../ai/rag/7-best-github-repositories-for-mastering-rag-syste.md)
@@ -25373,6 +25376,7 @@ Resources organized by keyword tags.
   - [Hybrid-Field Sparse Channel Representation and Recovery for XL-RIS-Assisted mmWave MIMO Systems](../ai/rag/arxiv-2608-00052.md)
   - [HybridCodeAuthorship: A Benchmark Dataset for Line-Level Code Authorship Detection](../ai/rag/arxiv-2606-12620.md)
   - [HyperPotter: Spell the Charm of High-Order Interactions in Audio Deepfake Detection](../ai/rag/arxiv-2602-05670.md)
+  - [I resigned from Anthropic today](../ai/community/i-resigned-from-anthropic-today.md)
   - [I'm Sorry Driver, I'm Afraid I Can't Do That: Appraising the Safety of LLMs within Automotive Contexts](../ai/research/arxiv-2606-14327.md)
   - [I-have-ADHD: A skill to stop coding agents from burying the answer](../ai/community/ayghri-i-have-adhd.md)
   - [IA générative : LUCIE remisée, Linagora s'attaque au RAG](../ai/rag/ia-generative-lucie-remisee-linagora-s-attaque-au.md)
@@ -25867,7 +25871,7 @@ Resources organized by keyword tags.
   - [Multimodal Large Language Models Predict Urban Safety Perception but Encode Non-Neutral Demographic Priors](../ai/research/arxiv-2503-00610.md)
   - [Multimodal Molecular Representation Learning with Graph Neural Networks, Deep & Cross Networks, and SMILES Embeddings](../ai/rag/arxiv-2607-05736.md)
   - [Multinex: Lightweight Low-light Image Enhancement via Multi-prior Retinex](../ai/research/arxiv-2604-10359.md)
-  - [Muse: Meta's personal AI agent, features and capabilities](../ai/community/muse-meta-s-personal-ai-agent-features-and-capabil.md)
+  - [Muse – Meta’s personal AI agent](../ai/community/muse-meta-s-personal-ai-agent-features-and-capabil.md)
   - [Music-Source-Separation-Training (MSST): A Unified Framework for Training and Evaluating Music Demixing Models](../ai/research/arxiv-2607-23395.md)
   - [Mutual information and sensitivity analysis for feature selection in customer targeting: a comparative study](../ai/research/arxiv-2608-20447.md)
   - [Mémo pour Télétravail](../ai/rag/memo-pour-teletravail.md)
@@ -26068,7 +26072,6 @@ Resources organized by keyword tags.
   - [Partial Contracts Suffice: Sound, LLM-Inferred Regression Verification](../ai/research/arxiv-2607-10291.md)
   - [Participatory Moral AI Is Not Neutral: The Invisible Hand of Developers](../ai/agents/arxiv-2608-14522.md)
   - [Participatory provenance as representational auditing for AI-mediated public consultation](../ai/rag/arxiv-2604-20711.md)
-  - [ParticleMedia/RAGTruth](../ai/rag/particlemedia-ragtruth.md)
   - [Passkeys for Developers](../ai/rag/passkeys-for-developers.md)
   - [Patch-Based 3D Variational Autoencoder for Super-Resolution of Turbulent Channel Flow](../ai/rag/arxiv-2507-22082.md)
   - [Patient-centered data science: an integrative framework for evaluating and predicting clinical outcomes in the digital health era](../ai/agents/arxiv-2408-02677.md)
@@ -26740,6 +26743,7 @@ Resources organized by keyword tags.
   - [Ten Simple Rules for Taking Advantage of Git and GitHub | PLOS Computational Biology](../ai/rag/ten-simple-rules-for-taking-advantage-of-git-and-g.md)
   - [Ten Years at the Frontiers of Energy Science | Department of Energy](../ai/rag/ten-years-at-the-frontiers-of-energy-science-depar.md)
   - [Tencent/WeKnora](../ai/rag/tencent-weknora.md)
+  - [Tension wood: A 'muscle' that can both bend and straighten plants](../ai/community/tension-wood-a-muscle-that-can-both-bend-and-strai.md)
   - [Tensor Methods for Language Models: From Token Representation to Training, Adaptation, Inference, Compression, and Interpretability](../ai/rag/arxiv-2608-30505.md)
   - [Tensor Train Diffusion: Leveraging Low-Rank Structures for High-Dimensional Score-Based Sampling](../ai/rag/arxiv-2607-06841.md)
   - [TensorFlow](../ai/agents/tensorflow.md)
@@ -26837,7 +26841,6 @@ Resources organized by keyword tags.
   - [The knowledge layer for AI | GitBook](../ai/agents/the-knowledge-layer-for-ai-gitbook.md)
   - [The safety failures we are not instrumenting: a perspective on hidden safety-critical challenges in modern AI systems](../ai/research/arxiv-2607-19292.md)
   - [The state of RPKI: Q4 2018](../ai/resources/the-state-of-rpki-q4-2018.md)
-  - [The two Christian saints who are the Buddha](../ai/community/the-two-christian-saints-who-are-the-buddha.md)
   - [The unreasonable effectiveness of simple HTML – Terence Eden’s Blog](../ai/resources/the-unreasonable-effectiveness-of-simple-html-tere.md)
   - [TheAgentCompany/TheAgentCompany](../ai/agents/theagentcompany-theagentcompany.md)
   - [Theoretical Foundations of $\max$@$k$ Reinforcement Learning](../ai/agents/arxiv-2607-17823.md)
@@ -50464,6 +50467,7 @@ Resources organized by keyword tags.
   - [$\mu_0$: A Scalable 3D Interaction-Trace World Model](../ai/research/arxiv-2606-13769.md)
   - [15 updates from Google I﻿/﻿O 2026: Powering the agentic web with new capabilities, tools, and features in Chrome | Blog](../ai/agents/15-updates-from-google-i-o-2026-powering-the-agent.md)
   - [2026 | CVPR Art](../ai/rag/2026-cvpr-art.md)
+  - [27.5KB language-agnostic WebGPU syntax highlighter](../web-development/community/27-5kb-language-agnostic-webgpu-syntax-highlighter.md)
   - [7 Best GitHub Repositories For Mastering RAG Systems](../ai/rag/7-best-github-repositories-for-mastering-rag-syste.md)
   - [A Comparative Analysis of MLP and Kolmogorov-Arnold Networks (KAN) for Faster-than-Nyquist (FTN) Signaling Detection](../ai/research/arxiv-2608-02062.md)
   - [A Repeated Measurements Approach to $SoH$ Battery Modelling of Cyclic Aged Data in a Laboratory Environment](../ai/research/arxiv-2608-19879.md)
@@ -53619,6 +53623,10 @@ Resources organized by keyword tags.
   - [🔥 Introduction - Mojo 🔥 GPU Puzzles](../ai/rag/introduction-mojo-gpu-puzzles.md)
   - [🧑‍🍳 Cookbook | Haystack](../ai/rag/cookbook-haystack.md)
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
+
+## webgpu
+
+  - [27.5KB language-agnostic WebGPU syntax highlighter](../web-development/community/27-5kb-language-agnostic-webgpu-syntax-highlighter.md)
 
 ## workflows
 
@@ -58089,4 +58097,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-09-09T04:33:10.370230+05:30*
+*Index generated on 2026-09-09T10:37:52.746893+05:30*

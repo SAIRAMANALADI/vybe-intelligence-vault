@@ -22590,11 +22590,13 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
+  - [27.5KB language-agnostic WebGPU syntax highlighter](../web-development/community/27-5kb-language-agnostic-webgpu-syntax-highlighter.md)
+  - [I resigned from Anthropic today](../ai/community/i-resigned-from-anthropic-today.md)
   - [I-have-ADHD: A skill to stop coding agents from burying the answer](../ai/community/ayghri-i-have-adhd.md)
-  - [Muse: Meta's personal AI agent, features and capabilities](../ai/community/muse-meta-s-personal-ai-agent-features-and-capabil.md)
+  - [Muse – Meta’s personal AI agent](../ai/community/muse-meta-s-personal-ai-agent-features-and-capabil.md)
   - [Show HN: LLM Attention Visualization](../ai/community/show-hn-llm-attention-visualization.md)
   - [Tao: Open math problems being non-renewably mined by AI](../ai/community/tao-open-math-problems-being-non-renewably-mined-b.md)
-  - [The two Christian saints who are the Buddha](../ai/community/the-two-christian-saints-who-are-the-buddha.md)
+  - [Tension wood: A 'muscle' that can both bend and straighten plants](../ai/community/tension-wood-a-muscle-that-can-both-bend-and-strai.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -26455,4 +26457,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-09-09T04:33:10.661598+05:30*
+*Index generated on 2026-09-09T10:37:52.949330+05:30*
