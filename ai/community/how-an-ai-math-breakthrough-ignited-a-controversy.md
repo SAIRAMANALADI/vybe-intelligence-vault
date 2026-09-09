@@ -13,13 +13,14 @@ collected_at: '2026-09-09T18:33:23.288842+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:how-an-ai-math-breakthrough-ignited-a-controversy
 first_seen: '2026-09-09T18:33:23.288842+05:30'
 last_seen: '2026-09-09T18:33:23.288842+05:30'
 last_checked: '2026-09-09T18:33:23.288842+05:30'
 health_score: 100
 ---
+
 
 # How An AI math breakthrough ignited a controversy
 

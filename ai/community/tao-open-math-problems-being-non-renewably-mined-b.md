@@ -13,13 +13,14 @@ collected_at: '2026-09-09T18:33:26.225176+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:tao-open-math-problems-being-non-renewably-mined-b
 first_seen: '2026-09-09T04:17:02.451723+05:30'
 last_seen: '2026-09-09T18:33:26.225176+05:30'
 last_checked: '2026-09-09T18:33:26.225176+05:30'
 health_score: 100
 ---
+
 
 # Tao: Open math problems being non-renewably mined by AI
 

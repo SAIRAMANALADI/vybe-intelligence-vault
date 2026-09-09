@@ -21662,7 +21662,6 @@ Resources organized by publisher feed and query sources.
 ## Unknown Source (type: company_blog)
 
   - [AI Adoption](../ai/companies/openai/ai-adoption.md)
-  - [Agentic Search. More accurate and efficient results from your AI systems.](../ai/companies/mistral/agentic-search-more-accurate-and-efficient-results.md)
   - [AlphaEarthMap our planet in unprecedented detail](../ai/companies/deepmind/alphaearthmap-our-planet-in-unprecedented-detail.md)
   - [AlphaEvolveDesign advanced algorithms for math and applications in computing](../ai/companies/deepmind/alphaevolvedesign-advanced-algorithms-for-math-and.md)
   - [Applied AI](../ai/companies/openai/applied-ai.md)
@@ -21690,6 +21689,7 @@ Resources organized by publisher feed and query sources.
   - [Mistral Small 4](../ai/companies/mistral/mistral-small-4.md)
   - [Mistral raises €3B to make sovereign, open-weight AI the technology frontier](../ai/companies/mistral/mistral-raises-eur3b-to-make-sovereign-open-weight.md)
   - [Mistral x HUMAIN](../ai/companies/mistral/mistral-x-humain.md)
+  - [Modernizing complex legacy code with AI agents.](../ai/companies/mistral/modernizing-complex-legacy-code-with-ai-agents.md)
   - [NewsDiscover our latest AI breakthroughs, projects, and updates](../ai/companies/deepmind/newsdiscover-our-latest-ai-breakthroughs-projects.md)
   - [Publications](../ai/companies/publications.md)
   - [ResearchIntroducing Robostral Navigate Robostral Navigate, our first model built for embodied navigation. July 8, 2026By Mistral AI](../ai/companies/mistral/researchintroducing-robostral-navigate-robostral-n.md)
@@ -22590,13 +22590,13 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [27.5KB language-agnostic WebGPU syntax highlighter](../web-development/community/27-5kb-language-agnostic-webgpu-syntax-highlighter.md)
-  - [How An AI math breakthrough ignited a controversy](../ai/community/how-an-ai-math-breakthrough-ignited-a-controversy.md)
-  - [I-have-ADHD: A skill to stop coding agents from burying the answer](../ai/community/ayghri-i-have-adhd.md)
+  - [Apple Introduces AirPods 5](../ai/community/apple-introduces-airpods-5.md)
+  - [Better AI code comment detector](../ai/community/better-ai-code-comment-detector.md)
   - [Muse – Meta’s personal AI agent](../ai/community/muse-meta-s-personal-ai-agent-features-and-capabil.md)
-  - [Tao: Open math problems being non-renewably mined by AI](../ai/community/tao-open-math-problems-being-non-renewably-mined-b.md)
-  - [Tension wood: A 'muscle' that can both bend and straighten plants](../ai/community/tension-wood-a-muscle-that-can-both-bend-and-strai.md)
-  - [“Tweet” and the bird logo apparently enter the public domain](../ai/community/tweet-and-the-bird-logo-apparently-enter-the-publi.md)
+  - [Procedural Graphs: Self-Evolving Execution Structures for LLM Agents](../ai/community/procedural-graphs-self-evolving-execution-structur.md)
+  - [Show HN: Self-hosted company OS, Claude Code and Codex agents in departments](../ai/community/otodock-oto-dock.md)
+  - [Tailwind Labs is joining Shopify](../ai/community/tailwind-labs-is-joining-shopify.md)
+  - [Understanding the recent DDoS attack against Read the Docs](../ai/community/understanding-the-recent-ddos-attack-against-read.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -22971,6 +22971,7 @@ Resources organized by publisher feed and query sources.
   - [Huggy Lingo: Using Machine Learning to Improve Language Metadata on the Hugging Face Hub](../ai/models/huggingface-blog-huggy-lingo.md)
   - [Hyperparameter Search with Transformers and Ray Tune](../ai/models/huggingface-blog-ray-tune.md)
   - [IBM and UC Berkeley Diagnose Why Enterprise Agents Fail Using IT-Bench and MAST](../ai/agents/huggingface-blog-ibm-research-itbenchandmast.md)
+  - [IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license](../ai/models/huggingface-blog-ibm-research-ibm-releases-sota-granite-time-series.md)
   - [Illustrating Reinforcement Learning from Human Feedback (RLHF)](../ai/models/huggingface-blog-rlhf.md)
   - [Image Classification with AutoTrain](../ai/models/huggingface-blog-autotrain-image-classification.md)
   - [Image Similarity with Hugging Face Datasets and Transformers](../ai/models/huggingface-blog-image-similarity.md)
@@ -23223,7 +23224,6 @@ Resources organized by publisher feed and query sources.
   - [Reachy Mini - The Open-Source Robot for Today's and Tomorrow's AI Builders](../ai/models/huggingface-blog-reachy-mini.md)
   - [Reachy Mini goes fully local](../ai/models/huggingface-blog-local-reachy-mini-conversation.md)
   - [Real-Time AI Sound Generation on Arm: A Personal Tool for Creative Freedom](../ai/models/huggingface-blog-arm-ai-sound-gen-on-arm.md)
-  - [Real-Time Intelligence with IBM Time Series Models on Confluent](../ai/models/huggingface-blog-ibm-research-real-time-intelligence.md)
   - [Rearchitecting Hugging Face Uploads and Downloads](../ai/models/huggingface-blog-rearchitecting-uploads-and-downloads.md)
   - [Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets](../ai/rag/huggingface-blog-amazon-strands-lerobot-streaming-data-loop.md)
   - [Red-Teaming Large Language Models](../ai/models/huggingface-blog-red-teaming.md)
@@ -23648,6 +23648,7 @@ Resources organized by publisher feed and query sources.
   - [Our Journey with Caching](../web-development/nextjs/our-journey-with-caching.md)
   - [React 19 Upgrade Guide](../web-development/react-19-upgrade-guide.md)
   - [React 19.2](../web-development/react-19-2.md)
+  - [React 19.3](../ai/rag/react-19-3.md)
   - [React Canaries: Enabling Incremental Feature Rollout Outside Meta](../web-development/react-canaries-enabling-incremental-feature-rollou.md)
   - [React Compiler Beta Release](../web-development/react-compiler-beta-release.md)
   - [React Compiler v1.0](../web-development/react-compiler-v1-0.md)
@@ -25446,7 +25447,6 @@ Resources organized by publisher feed and query sources.
   - [RAG Evaluation Tools: Weights & Biases vs Ragas vs DeepEval](../ai/rag/rag-evaluation-tools-weights-biases-vs-ragas-vs-de.md)
   - [RAG Retrieval Augmented Generation: Complete Guide 2025](../ai/rag/rag-retrieval-augmented-generation-complete-guide.md)
   - [RAG System with LangChain and LangGraph - GeeksforGeeks](../ai/rag/rag-system-with-langchain-and-langgraph-geeksforge.md)
-  - [RAG Techniques, Beginner to Advanced: Practical Patterns, Code, and Resources | martinuke0's Blog](../ai/rag/rag-techniques-beginner-to-advanced-practical-patt.md)
   - [RAG Tools | Awesome RAG](../ai/rag/rag-tools-awesome-rag.md)
   - [RAG · Hugging Face](../ai/rag/huggingface-transformers-master.md)
   - [RAG-powered document chat with Google Drive, OpenAI, and Pinecone Assistant | n8n workflow template](../ai/rag/rag-powered-document-chat-with-google-drive-openai.md)
@@ -26457,4 +26457,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-09-09T18:49:39.400981+05:30*
+*Index generated on 2026-09-10T01:08:42.620519+05:30*

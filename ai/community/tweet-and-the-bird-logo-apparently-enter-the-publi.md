@@ -13,13 +13,14 @@ collected_at: '2026-09-09T18:33:25.717774+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:tweet-and-the-bird-logo-apparently-enter-the-publi
 first_seen: '2026-09-09T18:33:25.717774+05:30'
 last_seen: '2026-09-09T18:33:25.717774+05:30'
 last_checked: '2026-09-09T18:33:25.717774+05:30'
 health_score: 100
 ---
+
 
 # “Tweet” and the bird logo apparently enter the public domain
 

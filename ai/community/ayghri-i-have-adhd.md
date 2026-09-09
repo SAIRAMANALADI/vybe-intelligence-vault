@@ -13,13 +13,14 @@ collected_at: '2026-09-09T18:33:25.596609+05:30'
 tags:
 - agents
 - hackernews
-status: active
+status: inactive
 resource_id: github:ayghri/i-have-adhd
 first_seen: '2026-09-09T00:59:50.808923+05:30'
 last_seen: '2026-09-09T18:33:25.596609+05:30'
 last_checked: '2026-09-09T18:33:25.596609+05:30'
 health_score: 100
 ---
+
 
 # I-have-ADHD: A skill to stop coding agents from burying the answer
 

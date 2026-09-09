@@ -14,13 +14,14 @@ tags:
 - hackernews
 - threejs
 - webgpu
-status: active
+status: inactive
 resource_id: hackernews:27-5kb-language-agnostic-webgpu-syntax-highlighter
 first_seen: '2026-09-09T10:20:53.833777+05:30'
 last_seen: '2026-09-09T18:33:26.329295+05:30'
 last_checked: '2026-09-09T18:33:26.329295+05:30'
 health_score: 100
 ---
+
 
 # 27.5KB language-agnostic WebGPU syntax highlighter
 
