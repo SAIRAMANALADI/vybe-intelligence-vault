@@ -7,7 +7,7 @@ Auto-generated weekly report from the local AI + Web Development Harvester.
 ## Ecosystem Shifts & Project Velocity
 
 ### Ecosystem Shift Synthesis (Last 7 Days)
-During this cycle, we discovered **1009** new resources across our source networks.
+During this cycle, we discovered **1004** new resources across our source networks.
 
 ## AI Trend Summary
 
@@ -48,21 +48,21 @@ This week had strong activity around frontend tools.
 | leaderboard | 32 |
 | huggingface | 29 |
 | meta-ai | 24 |
-| paper | 21 |
 | hackernews | 20 |
+| paper | 20 |
 | github-repo | 19 |
 | augmented | 17 |
 | generation | 17 |
 
 ## Weekly Community Updates
 
-1. [Tailwind Labs is joining Shopify](../../ai/community/tailwind-labs-is-joining-shopify.md) ([Source](https://tailwindcss.com/blog/tailwind-is-joining-shopify)) (HN Score: 661) - `ai/community`
-2. [Muse – Meta’s personal AI agent](../../ai/community/muse-meta-s-personal-ai-agent-features-and-capabil.md) ([Source](https://ai.meta.com/muse)) (HN Score: 614) - `ai/community`
-3. [Apple Introduces AirPods 5](../../ai/community/apple-introduces-airpods-5.md) ([Source](https://apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation)) (HN Score: 152) - `ai/community`
-4. [Understanding the recent DDoS attack against Read the Docs](../../ai/community/understanding-the-recent-ddos-attack-against-read.md) ([Source](https://about.readthedocs.com/blog/2026/09/2026-ddos-attack)) (HN Score: 85) - `ai/community`
-5. [Better AI code comment detector](../../ai/community/better-ai-code-comment-detector.md) ([Source](https://entropicthoughts.com/better-ai-comment-classifier)) (HN Score: 31) - `ai/community`
-6. [Procedural Graphs: Self-Evolving Execution Structures for LLM Agents](../../ai/community/procedural-graphs-self-evolving-execution-structur.md) ([Source](https://academy.dair.ai/papers/procedural-graphs-self-evolving-execution-structures-for-llm-agents-2609.09153)) (HN Score: 16) - `ai/community`
-7. [Show HN: Self-hosted company OS, Claude Code and Codex agents in departments](../../ai/community/otodock-oto-dock.md) ([Source](https://github.com/otodock/oto-dock)) (HN Score: 12) - `ai/community`
+1. [Shopify acquires Tailwind](../../ai/community/tailwind-labs-is-joining-shopify.md) ([Source](https://tailwindcss.com/blog/tailwind-is-joining-shopify)) (HN Score: 813) - `ai/community`
+2. [Muse – Meta’s personal AI agent](../../ai/community/muse-meta-s-personal-ai-agent-features-and-capabil.md) ([Source](https://ai.meta.com/muse)) (HN Score: 634) - `ai/community`
+3. [AirPods 5](../../ai/community/apple-introduces-airpods-5.md) ([Source](https://apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation)) (HN Score: 326) - `ai/community`
+4. [Understanding the recent DDoS attack against Read the Docs](../../ai/community/understanding-the-recent-ddos-attack-against-read.md) ([Source](https://about.readthedocs.com/blog/2026/09/2026-ddos-attack)) (HN Score: 133) - `ai/community`
+5. [Procedural Graphs: Self-Evolving Execution Structures for LLM Agents](../../ai/community/procedural-graphs-self-evolving-execution-structur.md) ([Source](https://arxiv.org/abs/2609.09153)) (HN Score: 38) - `ai/community`
+6. [Show HN: Self-hosted company OS, Claude Code and Codex agents in departments](../../ai/community/otodock-oto-dock.md) ([Source](https://github.com/otodock/oto-dock)) (HN Score: 32) - `ai/community`
+7. [Microsoft says email spammers are adopting ASCII smuggling](../../ai/community/microsoft-says-email-spammers-are-adopting-ascii-s.md) ([Source](https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers)) (HN Score: 25) - `ai/community`
 8. [sentence-transformers/all-MiniLM-L6-v2](../../ai/rag/huggingface-sentence-transformers-all-minilm-l6-v2.md) ([Source](https://huggingface.co/sentence-transformers/all-minilm-l6-v2)) - `ai/rag`
 9. [cross-encoder/ms-marco-MiniLM-L6-v2](../../ai/rag/huggingface-cross-encoder-ms-marco-minilm-l6-v2.md) ([Source](https://huggingface.co/cross-encoder/ms-marco-minilm-l6-v2)) - `ai/rag`
 10. [BAAI/bge-small-en-v1.5](../../ai/rag/huggingface-baai-bge-small-en-v1-5.md) ([Source](https://huggingface.co/baai/bge-small-en-v1.5)) - `ai/rag`
@@ -1127,18 +1127,18 @@ No updates collected under this section this week.
 5. [braincrew-lab/langgraph-mcp-agents](../../ai/agents/braincrew-lab-langgraph-mcp-agents.md) ([Source](https://github.com/braincrew-lab/langgraph-mcp-agents)) (Stars: 0, Language: Unknown) - `ai/agents`
 6. [CALLE-AI/awesome-phone-call-agents](../../ai/agents/calle-ai-awesome-phone-call-agents.md) ([Source](https://github.com/calle-ai/awesome-phone-call-agents)) (Stars: 0, Language: Unknown) - `ai/agents`
 7. [ai-boost/awesome-harness-engineering](../../ai/agents/ai-boost-awesome-harness-engineering.md) ([Source](https://github.com/ai-boost/awesome-harness-engineering)) (Stars: 0, Language: Unknown) - `ai/agents`
-8. [Azure/agent-innovator-lab](../../ai/rag/azure-agent-innovator-lab.md) ([Source](https://github.com/azure/agent-innovator-lab)) (Stars: 0, Language: Unknown) - `ai/rag`
-9. [ragnarokoffline/ragnarokoffline.github.io](../../ai/rag/ragnarokoffline-ragnarokoffline-github-io.md) ([Source](https://github.com/ragnarokoffline/ragnarokoffline.github.io)) (Stars: 0, Language: Unknown) - `ai/rag`
-10. [malonge/RaGOO](../../ai/rag/malonge-ragoo.md) ([Source](https://github.com/malonge/ragoo)) (Stars: 0, Language: Unknown) - `ai/rag`
+8. [datawhalechina/llm-universe](../../ai/rag/datawhalechina-llm-universe.md) ([Source](https://github.com/datawhalechina/llm-universe)) (Stars: 0, Language: Unknown) - `ai/rag`
+9. [Azure/agent-innovator-lab](../../ai/rag/azure-agent-innovator-lab.md) ([Source](https://github.com/azure/agent-innovator-lab)) (Stars: 0, Language: Unknown) - `ai/rag`
+10. [ragnarokoffline/ragnarokoffline.github.io](../../ai/rag/ragnarokoffline-ragnarokoffline-github-io.md) ([Source](https://github.com/ragnarokoffline/ragnarokoffline.github.io)) (Stars: 0, Language: Unknown) - `ai/rag`
 11. [IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow](../../ai/rag/icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow.md) ([Source](https://github.com/icensraghomework/icensraghomework-classroom01-rag1-hw01_workflow)) (Stars: 0, Language: Unknown) - `ai/rag`
 12. [IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow](../../ai/rag/icensraghomework-icensraghomework-classroom01-rag2-hw02-workflow.md) ([Source](https://github.com/icensraghomework/icensraghomework-classroom01-rag2-hw02_workflow)) (Stars: 0, Language: Unknown) - `ai/rag`
 13. [ParticleMedia/RAGTruth](../../ai/rag/particlemedia-ragtruth.md) ([Source](https://github.com/particlemedia/ragtruth)) (Stars: 0, Language: Unknown) - `ai/rag`
 14. [Tencent/WeKnora](../../ai/rag/tencent-weknora.md) ([Source](https://github.com/tencent/weknora)) (Stars: 0, Language: Unknown) - `ai/rag`
 15. [datawhalechina/all-in-rag](../../ai/rag/datawhalechina-all-in-rag.md) ([Source](https://github.com/datawhalechina/all-in-rag)) (Stars: 0, Language: Unknown) - `ai/rag`
-16. [IcensRAGHomework/icensraghomework-classroom01-rag3-hw03_workflow](../../ai/rag/icensraghomework-icensraghomework-classroom01-rag3-hw03-workflow.md) ([Source](https://github.com/icensraghomework/icensraghomework-classroom01-rag3-hw03_workflow)) (Stars: 0, Language: Unknown) - `ai/rag`
-17. [datawhalechina/llm-universe](../../ai/rag/datawhalechina-llm-universe.md) ([Source](https://github.com/datawhalechina/llm-universe)) (Stars: 0, Language: Unknown) - `ai/rag`
-18. [SylphAI-Inc/GithubChat](../../ai/rag/sylphai-inc-githubchat.md) ([Source](https://github.com/sylphai-inc/githubchat)) (Stars: 0, Language: Unknown) - `ai/rag`
-19. [raganwald/raganwald.github.com](../../ai/rag/raganwald-raganwald-github-com.md) ([Source](https://github.com/raganwald/raganwald.github.com)) (Stars: 0, Language: Unknown) - `ai/rag`
+16. [SylphAI-Inc/GithubChat](../../ai/rag/sylphai-inc-githubchat.md) ([Source](https://github.com/sylphai-inc/githubchat)) (Stars: 0, Language: Unknown) - `ai/rag`
+17. [IcensRAGHomework/icensraghomework-classroom01-rag3-hw03_workflow](../../ai/rag/icensraghomework-icensraghomework-classroom01-rag3-hw03-workflow.md) ([Source](https://github.com/icensraghomework/icensraghomework-classroom01-rag3-hw03_workflow)) (Stars: 0, Language: Unknown) - `ai/rag`
+18. [raganwald/raganwald.github.com](../../ai/rag/raganwald-raganwald-github-com.md) ([Source](https://github.com/raganwald/raganwald.github.com)) (Stars: 0, Language: Unknown) - `ai/rag`
+19. [malonge/RaGOO](../../ai/rag/malonge-ragoo.md) ([Source](https://github.com/malonge/ragoo)) (Stars: 0, Language: Unknown) - `ai/rag`
 
 ## Most Updated Skills
 
@@ -1160,4 +1160,4 @@ No updates collected under this section this week.
 
 ## Generated At
 
-2026-09-10T01:08:35.932023+05:30
+2026-09-10T04:25:54.046883+05:30

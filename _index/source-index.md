@@ -22590,12 +22590,12 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [Apple Introduces AirPods 5](../ai/community/apple-introduces-airpods-5.md)
-  - [Better AI code comment detector](../ai/community/better-ai-code-comment-detector.md)
+  - [AirPods 5](../ai/community/apple-introduces-airpods-5.md)
+  - [Microsoft says email spammers are adopting ASCII smuggling](../ai/community/microsoft-says-email-spammers-are-adopting-ascii-s.md)
   - [Muse – Meta’s personal AI agent](../ai/community/muse-meta-s-personal-ai-agent-features-and-capabil.md)
   - [Procedural Graphs: Self-Evolving Execution Structures for LLM Agents](../ai/community/procedural-graphs-self-evolving-execution-structur.md)
+  - [Shopify acquires Tailwind](../ai/community/tailwind-labs-is-joining-shopify.md)
   - [Show HN: Self-hosted company OS, Claude Code and Codex agents in departments](../ai/community/otodock-oto-dock.md)
-  - [Tailwind Labs is joining Shopify](../ai/community/tailwind-labs-is-joining-shopify.md)
   - [Understanding the recent DDoS attack against Read the Docs](../ai/community/understanding-the-recent-ddos-attack-against-read.md)
 
 ## Unknown Source (type: huggingface)
@@ -26457,4 +26457,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-09-10T01:08:42.620519+05:30*
+*Index generated on 2026-09-10T04:26:00.888373+05:30*

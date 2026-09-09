@@ -4,7 +4,7 @@ Distribution of original signal ingestion sources across processed URLs:
 
 | Source Domain | Resource Count |
 | :--- | ---: |
-| arxiv | 21709 |
+| arxiv | 21710 |
 | github | 1015 |
 | huggingface | 912 |
 | nextjs.org | 77 |
@@ -168,6 +168,7 @@ Distribution of original signal ingestion sources across processed URLs:
 | tubitak.gov.tr | 3 |
 | torproject.org | 3 |
 | images.cnrs.fr | 3 |
+| arstechnica.com | 2 |
 | git-scm.com | 2 |
 | barchart.com | 2 |
 | jamsadr.com | 2 |
@@ -304,8 +305,6 @@ Distribution of original signal ingestion sources across processed URLs:
 | anaconda.com | 2 |
 | globalprivacyassembly.com | 2 |
 | about.readthedocs.com | 1 |
-| entropicthoughts.com | 1 |
-| academy.dair.ai | 1 |
 | githubstatus.com | 1 |
 | incident.io | 1 |
 | sysdebug.com | 1 |
@@ -414,7 +413,6 @@ Distribution of original signal ingestion sources across processed URLs:
 | parsintl.com | 1 |
 | cursor.com | 1 |
 | archive.org | 1 |
-| arstechnica.com | 1 |
 | httparchive.org | 1 |
 | alphaxiv.org | 1 |
 | jupyterlab.rtfd.io | 1 |

@@ -1,15 +1,15 @@
 ---
-title: Tailwind Labs is joining Shopify
+title: Shopify acquires Tailwind
 category: ai/community
 source_type: hackernews
 source_name: Hacker News AI
 source_url: https://tailwindcss.com/blog/tailwind-is-joining-shopify
 hn_url: https://news.ycombinator.com/item?id=49626190
-score: 661
+score: 813
 author: EdwinHoksberg
-comments_count: 274
+comments_count: 325
 published_at: '2026-09-09T18:57:11+05:30'
-collected_at: '2026-09-10T00:52:28.944363+05:30'
+collected_at: '2026-09-10T04:09:26.150549+05:30'
 tags:
 - ai
 - frontend_ui
@@ -17,16 +17,16 @@ tags:
 status: active
 resource_id: hackernews:tailwind-labs-is-joining-shopify
 first_seen: '2026-09-10T00:52:28.944363+05:30'
-last_seen: '2026-09-10T00:52:28.944363+05:30'
-last_checked: '2026-09-10T00:52:28.944363+05:30'
+last_seen: '2026-09-10T04:09:26.150549+05:30'
+last_checked: '2026-09-10T04:09:26.150549+05:30'
 health_score: 100
 ---
 
-# Tailwind Labs is joining Shopify
+# Shopify acquires Tailwind
 
 ## Summary
 
-Hacker News story by EdwinHoksberg. Score: 661, Comments: 274.
+Hacker News story by EdwinHoksberg. Score: 813, Comments: 325.
 Original Link: https://tailwindcss.com/blog/tailwind-is-joining-shopify
 
 ## Why It Matters
@@ -36,8 +36,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: EdwinHoksberg
-- Score: 661 Upvotes
-- Comments: 274 Discussions
+- Score: 813 Upvotes
+- Comments: 325 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49626190
 - Original Article: https://tailwindcss.com/blog/tailwind-is-joining-shopify
 

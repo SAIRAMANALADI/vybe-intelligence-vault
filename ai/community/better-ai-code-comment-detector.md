@@ -13,13 +13,14 @@ collected_at: '2026-09-10T00:52:32.265478+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:better-ai-code-comment-detector
 first_seen: '2026-09-10T00:52:32.265478+05:30'
 last_seen: '2026-09-10T00:52:32.265478+05:30'
 last_checked: '2026-09-10T00:52:32.265478+05:30'
 health_score: 100
 ---
+
 
 # Better AI code comment detector
 

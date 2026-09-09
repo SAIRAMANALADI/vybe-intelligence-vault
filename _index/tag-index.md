@@ -5948,10 +5948,10 @@ Resources organized by keyword tags.
 
 ## ai
 
-  - [Apple Introduces AirPods 5](../ai/community/apple-introduces-airpods-5.md)
-  - [Better AI code comment detector](../ai/community/better-ai-code-comment-detector.md)
+  - [AirPods 5](../ai/community/apple-introduces-airpods-5.md)
+  - [Microsoft says email spammers are adopting ASCII smuggling](../ai/community/microsoft-says-email-spammers-are-adopting-ascii-s.md)
   - [Muse – Meta’s personal AI agent](../ai/community/muse-meta-s-personal-ai-agent-features-and-capabil.md)
-  - [Tailwind Labs is joining Shopify](../ai/community/tailwind-labs-is-joining-shopify.md)
+  - [Shopify acquires Tailwind](../ai/community/tailwind-labs-is-joining-shopify.md)
   - [Understanding the recent DDoS attack against Read the Docs](../ai/community/understanding-the-recent-ddos-attack-against-read.md)
 
 ## animation
@@ -22789,6 +22789,7 @@ Resources organized by keyword tags.
   - [Service Workers Nightly](../ai/rag/service-workers-nightly.md)
   - [Shared Physics Responses Recover Hidden Rankings in Neural Operator Libraries](../ai/research/arxiv-2608-20441.md)
   - [Shibuya](../ai/resources/shibuya.md)
+  - [Shopify acquires Tailwind](../ai/community/tailwind-labs-is-joining-shopify.md)
   - [Significant Other AI: Identity, Memory, and Emotional Regulation as Long-Term Relational Intelligence](../ai/research/arxiv-2512-00418.md)
   - [Silent Failures in Multimodal Agentic Search:A Diagnostic Taxonomy and Cross-Judge Evaluation](../ai/agents/arxiv-2607-19793.md)
   - [Similar Models Learn Differently: Final-Window Pretraining Shapes Post-Training Beyond SFT](../ai/research/arxiv-2607-25063.md)
@@ -22820,7 +22821,6 @@ Resources organized by keyword tags.
   - [TTHE: Test-Time Harness Evolution](../ai/agents/arxiv-2607-08124.md)
   - [TacForcing: Streaming Action Generation with Execution-Time Tactile Feedback](../ai/rag/arxiv-2608-25798.md)
   - [Tag-teaming turbulence: Frontier trains AI to model cosmic storms](../ai/rag/tag-teaming-turbulence-frontier-trains-ai-to-model.md)
-  - [Tailwind Labs is joining Shopify](../ai/community/tailwind-labs-is-joining-shopify.md)
   - [Target-Guided Selective Reweighting for Physics-Informed Neural Network Inverse Problems: A Transfer Learning Approach](../ai/research/arxiv-2607-05271.md)
   - [Teaching AI to speak our design language - Inside Atlassian](../ai/rag/teaching-ai-to-speak-our-design-language-inside-at.md)
   - [Tembo - Move coding agents to the cloud](../ai/rag/tembo-move-coding-agents-to-the-cloud.md)
@@ -24141,6 +24141,7 @@ Resources organized by keyword tags.
   - [Agentomics: Economic Foundations for the Valuation, Attribution, and Pricing of AI Agents in Human-AI Workflows](../ai/agents/arxiv-2606-14769.md)
   - [Agents That Teach: Towards Designing Incidental Learning Back into AI-Assisted Software Development](../ai/rag/arxiv-2607-06101.md)
   - [Ai2: Truly open breakthrough AI](../ai/rag/ai2-truly-open-breakthrough-ai.md)
+  - [AirPods 5](../ai/community/apple-introduces-airpods-5.md)
   - [AlayaWorld: Interactive Long-Horizon World Modeling - Full Technical Report (v1.1)](../ai/research/arxiv-2608-13492.md)
   - [AlayaWorld: Interactive Long-Horizon World Modeling -- Full Technical Report](../ai/research/arxiv-2607-18367.md)
   - [Algebraic Decomposition Theory for Transformer Length Generalization](../ai/research/arxiv-2608-13433.md)
@@ -24191,7 +24192,6 @@ Resources organized by keyword tags.
   - [App Privacy Details - App Store - Apple Developer](../ai/resources/app-privacy-details-app-store-apple-developer.md)
   - [App Store - Apple](../ai/rag/app-store-apple.md)
   - [AppendiGrade: An XAI-Enhanced Deep Learning Framework for Grading Appendicitis in Ultrasound with Gaussian Blur and Grad-CAM](../ai/research/arxiv-2608-17923.md)
-  - [Apple Introduces AirPods 5](../ai/community/apple-introduces-airpods-5.md)
   - [Apple Support - YouTube](../ai/resources/apple-support-youtube.md)
   - [Apple Vision Pro - Apple](../ai/resources/apple-vision-pro-apple.md)
   - [AppleCare - Apple](../ai/rag/applecare-apple.md)
@@ -24295,7 +24295,6 @@ Resources organized by keyword tags.
   - [Bernstein-Schur Kernels: Random Features by Sketched Modulation and Radial Randomization](../ai/rag/arxiv-2606-11255.md)
   - [Best Arm Identification with Minimal Regret](../ai/rag/arxiv-2409-18909.md)
   - [Best Practices for LLM Evaluation | Databricks Blog](../ai/rag/best-practices-for-llm-evaluation-databricks-blog.md)
-  - [Better AI code comment detector](../ai/community/better-ai-code-comment-detector.md)
   - [Better Adherence, Richer Context: A Field Evaluation of LLM-Powered Conversational Voice Diaries for Sleep](../ai/research/arxiv-2606-18596.md)
   - [Better Stack - 30x cheaper than Datadog, Exceptional support](../ai/rag/better-stack-30x-cheaper-than-datadog-exceptional.md)
   - [Beware What You Autocomplete: Forensic Attribution of Backdoored Code Completions](../ai/research/arxiv-2607-08011.md)
@@ -25813,6 +25812,7 @@ Resources organized by keyword tags.
   - [Microsoft Learn: Build with answers in reach](../ai/resources/microsoft-learn-build-with-answers-in-reach.md)
   - [Microsoft Terms of Use | Microsoft Legal](../ai/rag/microsoft-terms-of-use-microsoft-legal.md)
   - [Microsoft for Developers Blog - Microsoft for Developers](../ai/rag/microsoft-for-developers-blog-microsoft-for-develo.md)
+  - [Microsoft says email spammers are adopting ASCII smuggling](../ai/community/microsoft-says-email-spammers-are-adopting-ascii-s.md)
   - [MimicIK: Real-Time Generative Inverse Kinematics from Teleoperation with FK Consistency](../ai/research/arxiv-2606-15148.md)
   - [Minimax Alternating Regret for the Experts Problem and Online Convex Optimization](../ai/research/arxiv-2608-25182.md)
   - [Minimax and Adaptive Covariance Matrix Estimation under Differential Privacy](../ai/research/arxiv-2603-19703.md)
@@ -26527,6 +26527,7 @@ Resources organized by keyword tags.
   - [Shared SFT Lessons Across Alignment, Model Organisms, and Toy Models](../ai/research/arxiv-2607-26173.md)
   - [ShielDroid: A Hybrid Approach Integrating Machine and Deep Learning for Android Malware Detection](../ai/research/arxiv-2608-03250.md)
   - [Shielding for Higher-Order Safety](../ai/research/arxiv-2608-03662.md)
+  - [Shopify acquires Tailwind](../ai/community/tailwind-labs-is-joining-shopify.md)
   - [Short-circuit evaluation - Wikipedia](../ai/resources/short-circuit-evaluation-wikipedia.md)
   - [Show HN: Self-hosted company OS, Claude Code and Codex agents in departments](../ai/community/otodock-oto-dock.md)
   - [Show Me How You Reason and I'll Tell You Who You Are: Reasoning Graphs for Robust LLM Authorship Attribution](../ai/rag/arxiv-2607-14905.md)
@@ -26707,7 +26708,6 @@ Resources organized by keyword tags.
   - [TabPFN Extensions for Interpretable Geotechnical Modelling](../ai/rag/arxiv-2603-21033.md)
   - [Tabular Deep Learning for Algorithmic Trading: Cross-Regime Bayesian Optimisation for Equity Signal Generation](../ai/research/arxiv-2608-27076.md)
   - [Tail-Aware Information-Theoretic Bounds for LLM Alignment under Heavy-Tailed Rewards](../ai/research/arxiv-2604-10727.md)
-  - [Tailwind Labs is joining Shopify](../ai/community/tailwind-labs-is-joining-shopify.md)
   - [Taking the Whys Seriously: Limitations of Counterfactual Explanations in Justification and Recourse](../ai/research/arxiv-2608-30956.md)
   - [Talk to Posit Sales - We're Here to Help You](../ai/resources/talk-to-posit-sales-we-re-here-to-help-you.md)
   - [Taming Curvature: Architecture Warm-Up for Stable Transformer Training](../ai/research/arxiv-2606-16768.md)
@@ -37614,7 +37614,6 @@ Resources organized by keyword tags.
   - [Probing the limitations of multimodal language models for chemistry and materials research](../ai/research/probing-the-limitations-of-multimodal-language-mod.md)
   - [Procedural Content Generation via Generative Artificial Intelligence](../ai/research/arxiv-2407-09013.md)
   - [Procedural Fairness in Multi-Agent Bandits](../ai/agents/arxiv-2601-10600.md)
-  - [Procedural Graphs: Self-Evolving Execution Structures for LLM Agents](../ai/community/procedural-graphs-self-evolving-execution-structur.md)
   - [Process Optimization Under Uncertainty for Improving the Bond Quality of Polymer Filaments in Fused Filament Fabrication](../ai/research/arxiv-2608-18431.md)
   - [Product Privacy | Policy](../ai/rag/product-privacy-policy.md)
   - [Prof-K: Probabilistic One-Pass Filtering for Efficient Top-k Selection](../ai/research/arxiv-2608-12573.md)
@@ -55414,7 +55413,6 @@ Resources organized by keyword tags.
   - [llms.txt directory - Find llms.txt files across the web](../ai/rag/llms-txt-directory-find-llms-txt-files-across-the.md)
   - [llmware-ai/llmware](../ai/rag/llmware-ai-llmware.md)
   - [lttemplates - Templates in ltx-talk - TeX - LaTeX Stack Exchange](../ai/agents/lttemplates-templates-in-ltx-talk-tex-latex-stack.md)
-  - [malonge/RaGOO](../ai/rag/malonge-ragoo.md)
   - [martinfowler.com](../ai/resources/martinfowler-com.md)
   - [mayooear/ai-pdf-chatbot-langchain](../ai/rag/mayooear-ai-pdf-chatbot-langchain.md)
   - [mem0ai/mem0](../ai/rag/mem0ai-mem0.md)
@@ -58080,4 +58078,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-09-10T01:08:42.354901+05:30*
+*Index generated on 2026-09-10T04:26:00.593225+05:30*
