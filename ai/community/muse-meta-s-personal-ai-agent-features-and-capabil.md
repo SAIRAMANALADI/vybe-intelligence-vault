@@ -5,20 +5,20 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://ai.meta.com/muse
 hn_url: https://news.ycombinator.com/item?id=49615537
-score: 391
+score: 557
 author: yks
-comments_count: 413
+comments_count: 609
 published_at: '2026-09-09T00:55:00+05:30'
-collected_at: '2026-09-09T10:20:52.916049+05:30'
+collected_at: '2026-09-09T18:33:23.142241+05:30'
 tags:
 - agents
 - ai
 - hackernews
 status: active
-resource_id: hackernews:muse-meta-s-personal-ai-agent-features-and-capabil
+resource_id: hackernews:muse-metas-personal-ai-agent
 first_seen: '2026-09-09T00:59:51.716700+05:30'
-last_seen: '2026-09-09T10:20:52.916049+05:30'
-last_checked: '2026-09-09T10:20:52.916049+05:30'
+last_seen: '2026-09-09T18:33:23.142241+05:30'
+last_checked: '2026-09-09T18:33:23.142241+05:30'
 health_score: 100
 ---
 
@@ -26,7 +26,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by yks. Score: 391, Comments: 413.
+Hacker News story by yks. Score: 557, Comments: 609.
 Original Link: https://ai.meta.com/muse/
 
 ## Why It Matters
@@ -36,8 +36,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: yks
-- Score: 391 Upvotes
-- Comments: 413 Discussions
+- Score: 557 Upvotes
+- Comments: 609 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49615537
 - Original Article: https://ai.meta.com/muse
 

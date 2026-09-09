@@ -6,11 +6,11 @@ This index groups resources by direct developer use-cases and design goals.
 - [Mintlify · GitHub](https://github.com/mintlify) (Category: `ai-coding-agents` | [`Local File`](../../ai/resources/mintlify-github.md))
 - [firecrawl/firecrawl-mcp-server](https://github.com/firecrawl/firecrawl-mcp-server) (Category: `mcp-registry` | [`Local File`](../../ai/resources/firecrawl-firecrawl-mcp-server.md))
 - [Detecting AI Coding Agents in Open Source: A Validated Multi-Method Census of 180 Million Repositories](https://arxiv.org/abs/2606.24429) (Category: `ai-coding-agents` | [`Local File`](../../ai/agents/arxiv-2606-24429.md))
-- [greensock/gsap-skills](https://github.com/greensock/gsap-skills) (Category: `ai-coding-agents` | [`Local File`](../../ai/agents/greensock-gsap-skills.md))
 - [SonarSource/sonarqube-mcp-server](https://github.com/SonarSource/sonarqube-mcp-server) (Category: `mcp-registry` | [`Local File`](../../ai/agents/sonarsource-sonarqube-mcp-server.md))
 - [golf-mcp/golf](https://github.com/golf-mcp/golf) (Category: `mcp-registry` | [`Local File`](../../ai/agents/golf-mcp-golf.md))
 - [redhat-data-and-ai/template-mcp-server](https://github.com/redhat-data-and-ai/template-mcp-server) (Category: `mcp-registry` | [`Local File`](../../ai/agents/redhat-data-and-ai-template-mcp-server.md))
 - [ElevenLabs · GitHub](https://github.com/elevenlabs) (Category: `mcp-registry` | [`Local File`](../../ai/rag/elevenlabs-github.md))
+- [SylphxAI/pdf-reader-mcp](https://github.com/SylphxAI/pdf-reader-mcp) (Category: `mcp-registry` | [`Local File`](../../ai/rag/sylphxai-pdf-reader-mcp.md))
 
 ## Orchestrating Multi-Agent Logic
 
@@ -101,4 +101,4 @@ This index groups resources by direct developer use-cases and design goals.
 - [Can Large Language Models Identify Meaningful Touchpoints in Conversion Attribution?](https://arxiv.org/abs/2608.28649) (Category: `learning-paths` | [`Local File`](../../ai/rag/arxiv-2608-28649.md))
 
 ---
-*Last updated: 2026-09-09 10:39 IST*
+*Last updated: 2026-09-09 18:51 IST*

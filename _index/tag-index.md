@@ -5948,9 +5948,11 @@ Resources organized by keyword tags.
 
 ## ai
 
+  - [How An AI math breakthrough ignited a controversy](../ai/community/how-an-ai-math-breakthrough-ignited-a-controversy.md)
   - [Muse – Meta’s personal AI agent](../ai/community/muse-meta-s-personal-ai-agent-features-and-capabil.md)
   - [Tao: Open math problems being non-renewably mined by AI](../ai/community/tao-open-math-problems-being-non-renewably-mined-b.md)
   - [Tension wood: A 'muscle' that can both bend and straighten plants](../ai/community/tension-wood-a-muscle-that-can-both-bend-and-strai.md)
+  - [“Tweet” and the bird logo apparently enter the public domain](../ai/community/tweet-and-the-bird-logo-apparently-enter-the-publi.md)
 
 ## animation
 
@@ -6268,7 +6270,6 @@ Resources organized by keyword tags.
   - [How We Use n8n to Build and Control AI Agents – Keeping Business in Focus | beezwax blog](../ai/rag/how-we-use-n8n-to-build-and-control-ai-agents-keep.md)
   - [How to Implement RAG (Retrieval Augmented Generation) in 2025 | Complete Tutorial](../ai/rag/how-to-implement-rag-retrieval-augmented-generatio.md)
   - [HyDRA: Hybrid Dynamic Routing Architecture for Heterogeneous LLM Pools](../ai/research/arxiv-2605-17106.md)
-  - [I resigned from Anthropic today](../ai/community/i-resigned-from-anthropic-today.md)
   - [IPO Finance Agent: Evaluation of LLM Financial Analysts beyond Finance Agent v2, with Automated Rubric Generation -- the Case of the SpaceX (SPCX) IPO](../ai/agents/arxiv-2606-23032.md)
   - [IRWOZ 2.0: A Large Language Model-driven Dialogue Dataset for Industrial Robot Conversations](../ai/research/arxiv-2609-04030.md)
   - [Identifying Implicit Bias in LLM-based Chat AI Toward People with Intellectual Disabilities](../ai/research/arxiv-2607-26062.md)
@@ -20319,7 +20320,6 @@ Resources organized by keyword tags.
   - [Parameterized Quantum Circuits as Feature Maps: Representation Quality and Readout Effects in Multispectral Land-Cover Classification](../ai/research/arxiv-2604-26675.md)
   - [ParasGB: A Graph Benchmark Suite for Parasitic Estimation on AMS Circuits](../ai/research/arxiv-2607-23225.md)
   - [ParetoPilot: Zero-Surrogate Offline Multi-Objective Optimization via Infer-Perturb-Guide Diffusion](../ai/research/arxiv-2606-04468.md)
-  - [ParticleMedia/RAGTruth](../ai/rag/particlemedia-ragtruth.md)
   - [Partition of Unity Neural Networks for Interpretable Classification with Explicit Class Regions](../ai/research/arxiv-2602-00511.md)
   - [Partition-Aware Unlearning for Removing Spurious Correlations in Large Vision-Language Models](../ai/research/arxiv-2608-29996.md)
   - [Patch-based Memory Gate Model in Time Series Foundation Model](../ai/research/arxiv-2509-18751.md)
@@ -25336,6 +25336,7 @@ Resources organized by keyword tags.
   - [Homepage | MIT CS3](../ai/rag/homepage-mit-cs3.md)
   - [Host Mattermost on Your Own Infrastructure](../ai/rag/host-mattermost-on-your-own-infrastructure.md)
   - [Housing Potential Common Data Model and City Digital Twin](../ai/research/arxiv-2605-05535.md)
+  - [How An AI math breakthrough ignited a controversy](../ai/community/how-an-ai-math-breakthrough-ignited-a-controversy.md)
   - [How Annotation Trains Annotators: Competence Development in Social Influence Recognition](../ai/research/arxiv-2604-02951.md)
   - [How Anthropic teams use Claude Code | Claude by Anthropic](../ai/agents/how-anthropic-teams-use-claude-code-claude-by-anth.md)
   - [How Can Machine Learning Emulators Best Support Climate Science?](../ai/research/arxiv-2603-22320.md)
@@ -25376,7 +25377,6 @@ Resources organized by keyword tags.
   - [Hybrid-Field Sparse Channel Representation and Recovery for XL-RIS-Assisted mmWave MIMO Systems](../ai/rag/arxiv-2608-00052.md)
   - [HybridCodeAuthorship: A Benchmark Dataset for Line-Level Code Authorship Detection](../ai/rag/arxiv-2606-12620.md)
   - [HyperPotter: Spell the Charm of High-Order Interactions in Audio Deepfake Detection](../ai/rag/arxiv-2602-05670.md)
-  - [I resigned from Anthropic today](../ai/community/i-resigned-from-anthropic-today.md)
   - [I'm Sorry Driver, I'm Afraid I Can't Do That: Appraising the Safety of LLMs within Automotive Contexts](../ai/research/arxiv-2606-14327.md)
   - [I-have-ADHD: A skill to stop coding agents from burying the answer](../ai/community/ayghri-i-have-adhd.md)
   - [IA générative : LUCIE remisée, Linagora s'attaque au RAG](../ai/rag/ia-generative-lucie-remisee-linagora-s-attaque-au.md)
@@ -26529,7 +26529,6 @@ Resources organized by keyword tags.
   - [ShielDroid: A Hybrid Approach Integrating Machine and Deep Learning for Android Malware Detection](../ai/research/arxiv-2608-03250.md)
   - [Shielding for Higher-Order Safety](../ai/research/arxiv-2608-03662.md)
   - [Short-circuit evaluation - Wikipedia](../ai/resources/short-circuit-evaluation-wikipedia.md)
-  - [Show HN: LLM Attention Visualization](../ai/community/show-hn-llm-attention-visualization.md)
   - [Show Me How You Reason and I'll Tell You Who You Are: Reasoning Graphs for Robust LLM Authorship Attribution](../ai/rag/arxiv-2607-14905.md)
   - [Shows | web.dev](../ai/resources/shows-web-dev.md)
   - [Shubhamsaboo/awesome-llm-apps](../ai/rag/shubhamsaboo-awesome-llm-apps.md)
@@ -26742,7 +26741,6 @@ Resources organized by keyword tags.
   - [Temporal Motif-aware Graph Test-time Adaptation for OOD Blockchain Anomaly Detection](../ai/rag/arxiv-2605-29526.md)
   - [Ten Simple Rules for Taking Advantage of Git and GitHub | PLOS Computational Biology](../ai/rag/ten-simple-rules-for-taking-advantage-of-git-and-g.md)
   - [Ten Years at the Frontiers of Energy Science | Department of Energy](../ai/rag/ten-years-at-the-frontiers-of-energy-science-depar.md)
-  - [Tencent/WeKnora](../ai/rag/tencent-weknora.md)
   - [Tension wood: A 'muscle' that can both bend and straighten plants](../ai/community/tension-wood-a-muscle-that-can-both-bend-and-strai.md)
   - [Tensor Methods for Language Models: From Token Representation to Training, Adaptation, Inference, Compression, and Interpretability](../ai/rag/arxiv-2608-30505.md)
   - [Tensor Train Diffusion: Leveraging Low-Rank Structures for High-Dimensional Score-Based Sampling](../ai/rag/arxiv-2607-06841.md)
@@ -27214,7 +27212,6 @@ Resources organized by keyword tags.
   - [addyosmani/agent-skills](../ai/agents/addyosmani-agent-skills.md)
   - [adongwanai/AgentGuide](../ai/rag/adongwanai-agentguide.md)
   - [affaan-m/agentshield](../ai/agents/affaan-m-agentshield.md)
-  - [ai-boost/awesome-harness-engineering](../ai/agents/ai-boost-awesome-harness-engineering.md)
   - [airweave-ai/airweave](../ai/rag/airweave-ai-airweave.md)
   - [aiwaves-cn/agents](../ai/rag/aiwaves-cn-agents.md)
   - [akaxlh/MB-GMN](../ai/rag/akaxlh-mb-gmn.md)
@@ -27304,7 +27301,6 @@ Resources organized by keyword tags.
   - [googleapis/googleapis](../ai/resources/googleapis-googleapis.md)
   - [gptme/gptme-agent-template](../ai/agents/gptme-gptme-agent-template.md)
   - [graspologic-org/graspologic](../ai/rag/graspologic-org-graspologic.md)
-  - [greensock/gsap-skills](../ai/agents/greensock-gsap-skills.md)
   - [home - h-node.org](../ai/rag/home-h-node-org.md)
   - [hoodini/ai-agents-skills](../ai/agents/hoodini-ai-agents-skills.md)
   - [huggingface (Hugging Face)](../ai/rag/huggingface-hugging-face.md)
@@ -27472,6 +27468,7 @@ Resources organized by keyword tags.
   - [âPowerWash Simulator App - App Store](../ai/rag/apowerwash-simulator-app-app-store.md)
   - [âShakeNet App - App Store](../ai/resources/ashakenet-app-app-store.md)
   - [הטכניון - מכון טכנולוגי לישראל](../ai/resources/htknyvn-mkvn-tknvlvgy-lyshrl.md)
+  - [“Tweet” and the bird logo apparently enter the public domain](../ai/community/tweet-and-the-bird-logo-apparently-enter-the-publi.md)
   - [라떼군 이야기 - YouTube](../ai/resources/raddegun-iyagi-youtube.md)
   - [목록 > 학사공지 > footer < KAIST](../ai/resources/mogrog-hagsagongji-footer-kaist.md)
   - [카이스트 총동문회](../ai/resources/kaiseuteu-congdongmunhoe.md)
@@ -28015,10 +28012,6 @@ Resources organized by keyword tags.
 ## lean
 
   - [mistralai/LeanstralSafeVerify](../ai/agents/mistralai-leanstralsafeverify.md)
-
-## llm
-
-  - [Show HN: LLM Attention Visualization](../ai/community/show-hn-llm-attention-visualization.md)
 
 ## mdx
 
@@ -49034,7 +49027,6 @@ Resources organized by keyword tags.
   - [Set up Gemini Code Assist Standard and Enterprise | Gemini for Google Cloud | Google Cloud Documentation](../ai/agents/set-up-gemini-code-assist-standard-and-enterprise.md)
   - [Settings.Secure | API reference | Android Developers](../ai/rag/settings-secure-api-reference-android-developers.md)
   - [Shopping & Ordering Support | Verizon Customer Support](../ai/resources/shopping-ordering-support-verizon-customer-support.md)
-  - [Show HN: LLM Attention Visualization](../ai/community/show-hn-llm-attention-visualization.md)
   - [Sierra - YouTube](../ai/resources/sierra-youtube.md)
   - [Sign in](../ai/rag/sign-in.md)
   - [Sign in to MED SSO (SU, SHC, LPCH)](../ai/resources/sign-in-to-med-sso-su-shc-lpch.md)
@@ -49967,7 +49959,6 @@ Resources organized by keyword tags.
   - [Model Spec (2025/02/12)](../ai/rag/model-spec-2025-02-12.md)
   - [Monsoonal imprint on late Quaternary landscapes of the Rub’ al Khali Desert | Communications Earth & Environment](../ai/rag/monsoonal-imprint-on-late-quaternary-landscapes-of.md)
   - [Motif: Discovering and Automating Personal Web Workflows](../ai/agents/arxiv-2607-10531.md)
-  - [MuhammadUsmanGM/claude-code-best-practices](../ai/agents/muhammadusmangm-claude-code-best-practices.md)
   - [Multi-Layer Context Camouflaging: A Semantic Superposition and Contextual Lamination Framework for Malpractice-Resilient Online Assessment](../ai/research/arxiv-2608-13100.md)
   - [Multi-Modal Agents for Power Distribution Defect Detection: An Evaluation of Foundation Models](../ai/agents/arxiv-2606-12969.md)
   - [N(CO)$^2$: Neural Combinatorial Optimization with Chance Constraints to Solve Stochastic Orienteering](../ai/research/arxiv-2606-18514.md)
@@ -50251,7 +50242,6 @@ Resources organized by keyword tags.
   - [okahu-demos/crewai-travel-agent](../ai/agents/okahu-demos-crewai-travel-agent.md)
   - [platform/system/update_engine - Git at Google](../ai/rag/platform-system-update-engine-git-at-google.md)
   - [plusai-solutions/ai-scrum-master-template](../ai/agents/plusai-solutions-ai-scrum-master-template.md)
-  - [ragnarokoffline/ragnarokoffline.github.io](../ai/rag/ragnarokoffline-ragnarokoffline-github-io.md)
   - [real analysis - Hölder continuity of scaling paths - Mathematics Stack Exchange](../ai/rag/real-analysis-holder-continuity-of-scaling-paths-m.md)
   - [research process - How do researchers stay organized when working on multiple papers at once? - Academia Stack Exchange](../ai/resources/research-process-how-do-researchers-stay-organized.md)
   - [ritik-prog/n8n-automation-templates-5000](../ai/rag/ritik-prog-n8n-automation-templates-5000.md)
@@ -55104,7 +55094,6 @@ Resources organized by keyword tags.
   - [Tembo - Move coding agents to the cloud](../ai/rag/tembo-move-coding-agents-to-the-cloud.md)
   - [Temporary Authority, Permanent Effects: Commit-Time Authorization for LLM Agents](../ai/agents/arxiv-2607-10487.md)
   - [Ten Simple Rules for Taking Advantage of Git and GitHub | PLOS Computational Biology](../ai/rag/ten-simple-rules-for-taking-advantage-of-git-and-g.md)
-  - [Tencent/WeKnora](../ai/rag/tencent-weknora.md)
   - [Tensor playground](../ai/resources/tensor-playground.md)
   - [TensorFlow](../ai/agents/tensorflow.md)
   - [TensorFlow.js API](../ai/rag/tensorflow-js-api.md)
@@ -55432,6 +55421,7 @@ Resources organized by keyword tags.
   - [llms.txt directory - Find llms.txt files across the web](../ai/rag/llms-txt-directory-find-llms-txt-files-across-the.md)
   - [llmware-ai/llmware](../ai/rag/llmware-ai-llmware.md)
   - [lttemplates - Templates in ltx-talk - TeX - LaTeX Stack Exchange](../ai/agents/lttemplates-templates-in-ltx-talk-tex-latex-stack.md)
+  - [malonge/RaGOO](../ai/rag/malonge-ragoo.md)
   - [martinfowler.com](../ai/resources/martinfowler-com.md)
   - [mayooear/ai-pdf-chatbot-langchain](../ai/rag/mayooear-ai-pdf-chatbot-langchain.md)
   - [mem0ai/mem0](../ai/rag/mem0ai-mem0.md)
@@ -58097,4 +58087,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-09-09T10:37:52.746893+05:30*
+*Index generated on 2026-09-09T18:49:39.110355+05:30*

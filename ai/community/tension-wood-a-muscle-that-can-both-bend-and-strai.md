@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://phys.org/news/2026-09-trees-muscle-posture-newly-role.html
 hn_url: https://news.ycombinator.com/item?id=49546964
-score: 66
+score: 138
 author: mdp2021
-comments_count: 8
+comments_count: 35
 published_at: '2026-09-03T12:59:40+05:30'
-collected_at: '2026-09-09T10:20:52.740999+05:30'
+collected_at: '2026-09-09T18:33:24.039375+05:30'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: hackernews:tension-wood-a-muscle-that-can-both-bend-and-strai
 first_seen: '2026-09-09T10:20:52.740999+05:30'
-last_seen: '2026-09-09T10:20:52.740999+05:30'
-last_checked: '2026-09-09T10:20:52.740999+05:30'
+last_seen: '2026-09-09T18:33:24.039375+05:30'
+last_checked: '2026-09-09T18:33:24.039375+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by mdp2021. Score: 66, Comments: 8.
+Hacker News story by mdp2021. Score: 138, Comments: 35.
 Original Link: https://phys.org/news/2026-09-trees-muscle-posture-newly-role.html
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: mdp2021
-- Score: 66 Upvotes
-- Comments: 8 Discussions
+- Score: 138 Upvotes
+- Comments: 35 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49546964
 - Original Article: https://phys.org/news/2026-09-trees-muscle-posture-newly-role.html
 

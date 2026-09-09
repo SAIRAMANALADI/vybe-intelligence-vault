@@ -13,13 +13,14 @@ collected_at: '2026-09-09T10:20:54.430521+05:30'
 tags:
 - anthropic
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:i-resigned-from-anthropic-today
 first_seen: '2026-09-09T10:20:54.430521+05:30'
 last_seen: '2026-09-09T10:20:54.430521+05:30'
 last_checked: '2026-09-09T10:20:54.430521+05:30'
 health_score: 100
 ---
+
 
 # I resigned from Anthropic today
 

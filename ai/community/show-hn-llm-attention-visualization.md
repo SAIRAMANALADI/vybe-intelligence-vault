@@ -14,13 +14,14 @@ tags:
 - hackernews
 - llm
 - reddit
-status: active
+status: inactive
 resource_id: hackernews:show-hn-llm-attention-visualization
 first_seen: '2026-09-09T00:59:50.562145+05:30'
 last_seen: '2026-09-09T10:20:56.346947+05:30'
 last_checked: '2026-09-09T10:20:56.346947+05:30'
 health_score: 100
 ---
+
 
 # Show HN: LLM Attention Visualization
 
