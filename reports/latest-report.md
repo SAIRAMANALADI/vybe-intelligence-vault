@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-09-11T01:02:45.070959+05:30`
+Generated at: `2026-09-11T04:30:09.256163+05:30`
 
 ## Executive Summary
 
@@ -8,37 +8,34 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## ✨ New Discoveries
 
-- **Shopify moves back to Native from React Native** - Score: `522` in category `web-development/community` ([Link](https://shopify.engineering/back-to-native)) ([File](../web-development/community/shopify-moves-back-to-native-from-react-native.md))
-- **More questions about whether researchers can trust OpenAI with unpublished math** - Score: `292` in category `ai/community` ([Link](https://mathstodon.xyz/@andreasthom/117240535270608201)) ([File](../ai/community/more-questions-about-whether-researchers-can-trust.md))
-- **>10x More Efficient Pretraining** - Score: `92` in category `ai/community` ([Link](https://magic.dev/blog/pretraining)) ([File](../ai/community/10x-more-efficient-pretraining.md))
-- **AI 2027 (2025)** - Score: `28` in category `ai/community` ([Link](https://ai-2027.com)) ([File](../ai/community/ai-2027-2025.md))
-- **Aug 14, 2026AnnouncementsHow Claude’s text watermark works** - Score: `0` in category `ai/companies/anthropic` ([Link](https://anthropic.com/news/claude-text-watermark)) ([File](../ai/companies/anthropic/aug-14-2026announcementshow-claudes-text-watermark.md))
+- **Detecting and countering misuse of AI: September 2026** - Score: `50` in category `ai/community` ([Link](https://anthropic.com/threat-intelligence-report-september-2026)) ([File](../ai/community/detecting-and-countering-misuse-of-ai-september-20.md))
+- **OpenAI Agents API** - Score: `50` in category `ai/community` ([Link](https://developers.openai.com/api/docs/guides/agents-api/overview)) ([File](../ai/community/openai-agents-api.md))
 
 ## Top Trending Resources
 
-- **reworkd/AgentGPT** - Score: `0` (0), Rank Change: `+3137` ([File](../ai/rag/reworkd-agentgpt.md))
-- **ragnarokoffline/ragnarokoffline.github.io** - Score: `0` (0), Rank Change: `+14` ([File](../ai/rag/ragnarokoffline-ragnarokoffline-github-io.md))
-- **datawhalechina/llm-universe** - Score: `0` (0), Rank Change: `+1024` ([File](../ai/rag/datawhalechina-llm-universe.md))
-- **datawhalechina/all-in-rag** - Score: `0` (0), Rank Change: `+14` ([File](../ai/rag/datawhalechina-all-in-rag.md))
-- **Data platforms and analytics** - Score: `0` (0), Rank Change: `+14` ([File](../ai/companies/data-platforms-and-analytics.md))
-- **Search & information retrieval** - Score: `0` (0), Rank Change: `+14` ([File](../ai/companies/search-information-retrieval.md))
-- **Human language technologies** - Score: `0` (0), Rank Change: `+14` ([File](../ai/companies/human-language-technologies.md))
-- **Human-computer interaction** - Score: `0` (0), Rank Change: `+14` ([File](../ai/companies/human-computer-interaction.md))
-- **Graphics & multimedia** - Score: `0` (0), Rank Change: `+14` ([File](../ai/companies/graphics-multimedia.md))
-- **Computer vision** - Score: `0` (0), Rank Change: `+14` ([File](../ai/companies/computer-vision.md))
+- **More questions about whether researchers can trust OpenAI with unpublished math** - Score: `528` (+236), Rank Change: `0` ([File](../ai/community/more-questions-about-whether-researchers-can-trust.md))
+- **Shopify moves back to Native from React Native** - Score: `637` (+115), Rank Change: `0` ([File](../web-development/community/shopify-moves-back-to-native-from-react-native.md))
+- **Compute-efficient pretraining and scaling to trillion-parameter models** - Score: `106` (+14), Rank Change: `0` ([File](../ai/community/10x-more-efficient-pretraining.md))
+- **IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow** - Score: `0` (0), Rank Change: `+2217` ([File](../ai/rag/icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow.md))
+- **datawhalechina/all-in-rag** - Score: `0` (0), Rank Change: `+1` ([File](../ai/rag/datawhalechina-all-in-rag.md))
+- **raganwald/raganwald.github.com** - Score: `0` (0), Rank Change: `+1025` ([File](../ai/rag/raganwald-raganwald-github-com.md))
+- **React Canaries: Enabling Incremental Feature Rollout Outside Meta** - Score: `0` (0), Rank Change: `+84` ([File](../web-development/react-canaries-enabling-incremental-feature-rollou.md))
+- **Sunsetting Create React App** - Score: `0` (0), Rank Change: `+84` ([File](../ai/rag/sunsetting-create-react-app.md))
+- **React 19.3** - Score: `0` (0), Rank Change: `+84` ([File](../ai/rag/react-19-3.md))
+- **Good Pretraining, Bad SFT: Checkpoint Quality Across the Training Stack** - Score: `0` (0), Rank Change: `+80` ([File](../ai/research/arxiv-2609-08966.md))
 
 ## 🚀 Fastest Rising Tools
 
-- **reworkd/AgentGPT** - (Rank Change: `+3137`) ([File](../ai/rag/reworkd-agentgpt.md))
-- **datawhalechina/llm-universe** - (Rank Change: `+1024`) ([File](../ai/rag/datawhalechina-llm-universe.md))
-- **Applied AI** - (Rank Change: `+876`) ([File](../ai/companies/openai/applied-ai.md))
-- **AI Adoption** - (Rank Change: `+876`) ([File](../ai/companies/openai/ai-adoption.md))
-- **Global Affairs** - (Rank Change: `+876`) ([File](../ai/companies/openai/global-affairs.md))
-- **Intelligence Age** - (Rank Change: `+876`) ([File](../ai/companies/openai/intelligence-age.md))
-- **Engineering** - (Rank Change: `+876`) ([File](../ai/companies/openai/engineering.md))
-- **Next.js 5: Universal Webpack, CSS Imports, Plugins and Zones** - (Rank Change: `+21`) ([File](../web-development/nextjs/next-js-5-universal-webpack-css-imports-plugins-an.md))
-- **Next.js 5.1: Faster Page Resolution, Environment Config & More** - (Rank Change: `+21`) ([File](../web-development/nextjs/next-js-5-1-faster-page-resolution-environment-con.md))
-- **Next.js 6 and Nextjs.org** - (Rank Change: `+21`) ([File](../web-development/nextjs/next-js-6-and-nextjs-org.md))
+- **IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow** - (Rank Change: `+2217`) ([File](../ai/rag/icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow.md))
+- **raganwald/raganwald.github.com** - (Rank Change: `+1025`) ([File](../ai/rag/raganwald-raganwald-github-com.md))
+- **React Canaries: Enabling Incremental Feature Rollout Outside Meta** - (Rank Change: `+84`) ([File](../web-development/react-canaries-enabling-incremental-feature-rollou.md))
+- **Sunsetting Create React App** - (Rank Change: `+84`) ([File](../ai/rag/sunsetting-create-react-app.md))
+- **React 19.3** - (Rank Change: `+84`) ([File](../ai/rag/react-19-3.md))
+- **Good Pretraining, Bad SFT: Checkpoint Quality Across the Training Stack** - (Rank Change: `+80`) ([File](../ai/research/arxiv-2609-08966.md))
+- **amazon/chronos-2** - (Rank Change: `+10`) ([File](../ai/models/huggingface-amazon-chronos-2.md))
+- **sentence-transformers/all-mpnet-base-v2** - (Rank Change: `+10`) ([File](../ai/rag/huggingface-sentence-transformers-all-mpnet-base-v2.md))
+- **google-t5/t5-small** - (Rank Change: `+10`) ([File](../ai/models/huggingface-google-t5-t5-small.md))
+- **BAAI/bge-m3** - (Rank Change: `+10`) ([File](../ai/rag/huggingface-baai-bge-m3.md))
 
 ## 🔄 Essential Tier Transitions
 
@@ -49,7 +46,4 @@ No resources left the Essential tier in this run.
 
 ## 💤 Recently Inactive Resources
 
-- **Shopify acquires Tailwind** (Category: `ai/community`) ([File](../ai/community/tailwind-labs-is-joining-shopify.md))
-- **AirPods 5** (Category: `ai/community`) ([File](../ai/community/apple-introduces-airpods-5.md))
-- **Samsung Debuts zHBM Prototype, Stacking Memory Directly on AI Accelerators** (Category: `ai/community`) ([File](../ai/community/samsung-debuts-zhbm-prototype-stacking-memory-dire.md))
-- **Object storage is all you need** (Category: `ai/community`) ([File](../ai/community/object-storage-is-all-you-need.md))
+- **AI 2027 (2025)** (Category: `ai/community`) ([File](../ai/community/ai-2027-2025.md))

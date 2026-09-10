@@ -23769,9 +23769,10 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [>10x More Efficient Pretraining](../ai/community/10x-more-efficient-pretraining.md)
-  - [AI 2027 (2025)](../ai/community/ai-2027-2025.md)
+  - [Compute-efficient pretraining and scaling to trillion-parameter models](../ai/community/10x-more-efficient-pretraining.md)
+  - [Detecting and countering misuse of AI: September 2026](../ai/community/detecting-and-countering-misuse-of-ai-september-20.md)
   - [More questions about whether researchers can trust OpenAI with unpublished math](../ai/community/more-questions-about-whether-researchers-can-trust.md)
+  - [OpenAI Agents API](../ai/community/openai-agents-api.md)
   - [Shopify moves back to Native from React Native](../web-development/community/shopify-moves-back-to-native-from-react-native.md)
 
 ## Unknown Source (type: huggingface)
@@ -27634,4 +27635,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-09-11T01:00:17.637281+05:30*
+*Index generated on 2026-09-11T04:27:40.708772+05:30*

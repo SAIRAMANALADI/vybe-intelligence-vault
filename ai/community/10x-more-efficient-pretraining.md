@@ -1,31 +1,31 @@
 ---
-title: '>10x More Efficient Pretraining'
+title: Compute-efficient pretraining and scaling to trillion-parameter models
 category: ai/community
 source_type: hackernews
 source_name: Hacker News AI
 source_url: https://magic.dev/blog/pretraining
 hn_url: https://news.ycombinator.com/item?id=49613072
-score: 92
+score: 106
 author: ronfriedhaber
-comments_count: 50
+comments_count: 59
 published_at: '2026-09-08T22:29:53+05:30'
-collected_at: '2026-09-11T00:43:49.371831+05:30'
+collected_at: '2026-09-11T04:11:17.195030+05:30'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: hackernews:10x-more-efficient-pretraining
 first_seen: '2026-09-11T00:43:49.371831+05:30'
-last_seen: '2026-09-11T00:43:49.371831+05:30'
-last_checked: '2026-09-11T00:43:49.371831+05:30'
+last_seen: '2026-09-11T04:11:17.195030+05:30'
+last_checked: '2026-09-11T04:11:17.195030+05:30'
 health_score: 100
 ---
 
-# >10x More Efficient Pretraining
+# Compute-efficient pretraining and scaling to trillion-parameter models
 
 ## Summary
 
-Hacker News story by ronfriedhaber. Score: 92, Comments: 50.
+Hacker News story by ronfriedhaber. Score: 106, Comments: 59.
 Original Link: https://magic.dev/blog/pretraining#
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: ronfriedhaber
-- Score: 92 Upvotes
-- Comments: 50 Discussions
+- Score: 106 Upvotes
+- Comments: 59 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49613072
 - Original Article: https://magic.dev/blog/pretraining
 

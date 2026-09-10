@@ -26,7 +26,7 @@ Distribution of original signal ingestion sources across processed URLs:
 | learn.microsoft.com | 14 |
 | gohugo.io | 13 |
 | geeksforgeeks.org | 13 |
-| anthropic.com | 11 |
+| anthropic.com | 12 |
 | developer.mozilla.org | 11 |
 | mistral.ai | 10 |
 | deepmind.google | 10 |
@@ -166,6 +166,7 @@ Distribution of original signal ingestion sources across processed URLs:
 | tubitak.gov.tr | 3 |
 | torproject.org | 3 |
 | images.cnrs.fr | 3 |
+| developers.openai.com | 2 |
 | git-scm.com | 2 |
 | barchart.com | 2 |
 | jamsadr.com | 2 |
@@ -306,7 +307,6 @@ Distribution of original signal ingestion sources across processed URLs:
 | shopify.engineering | 1 |
 | mathstodon.xyz | 1 |
 | magic.dev | 1 |
-| ai-2027.com | 1 |
 | githubstatus.com | 1 |
 | incident.io | 1 |
 | sysdebug.com | 1 |
@@ -496,7 +496,6 @@ Distribution of original signal ingestion sources across processed URLs:
 | docs.nvidia.com | 1 |
 | kaist.ac.kr | 1 |
 | aix.kaist.ac.kr | 1 |
-| developers.openai.com | 1 |
 | blogs.nvidia.com | 1 |
 | mlai-kaist.com | 1 |
 | vivekmalhan-cb919.vercel.app | 1 |

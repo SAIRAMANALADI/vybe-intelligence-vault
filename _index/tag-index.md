@@ -3719,6 +3719,7 @@ Resources organized by keyword tags.
   - [Open-source DeepResearch – Freeing our search agents](../ai/agents/huggingface-blog-open-deep-research.md)
   - [Open-source LLMs administer maximum electric shocks in a Milgram-like obedience experiment](../ai/agents/arxiv-2605-21401.md)
   - [Open-source LLMs as LangChain Agents](../ai/agents/huggingface-blog-open-source-llms-as-agents.md)
+  - [OpenAI Agents API](../ai/community/openai-agents-api.md)
   - [OpenAI · GitHub](../ai/agents/openai-github.md)
   - [OpenAIs HealthBench in Action: Evaluating an LLM-Based Medical Assistant on Realistic Clinical Queries](../ai/rag/arxiv-2509-02594.md)
   - [OpenAg: Democratizing Agricultural Intelligence](../ai/agents/arxiv-2506-04571.md)
@@ -6197,9 +6198,10 @@ Resources organized by keyword tags.
 
 ## ai
 
-  - [>10x More Efficient Pretraining](../ai/community/10x-more-efficient-pretraining.md)
-  - [AI 2027 (2025)](../ai/community/ai-2027-2025.md)
+  - [Compute-efficient pretraining and scaling to trillion-parameter models](../ai/community/10x-more-efficient-pretraining.md)
+  - [Detecting and countering misuse of AI: September 2026](../ai/community/detecting-and-countering-misuse-of-ai-september-20.md)
   - [More questions about whether researchers can trust OpenAI with unpublished math](../ai/community/more-questions-about-whether-researchers-can-trust.md)
+  - [OpenAI Agents API](../ai/community/openai-agents-api.md)
 
 ## animation
 
@@ -6406,6 +6408,7 @@ Resources organized by keyword tags.
   - [DeltaML-Bench: Evaluating Machine Learning Agents on Real-World Research Repositories](../ai/agents/arxiv-2608-19653.md)
   - [Designing a Robust LLM-Based Evaluation System for Agentic AI in Drug Discovery Through Human Alignment](../ai/agents/arxiv-2608-21057.md)
   - [Detecting AI Coding Agents in Open Source: A Validated Multi-Method Census of 180 Million Repositories](../ai/agents/arxiv-2606-24429.md)
+  - [Detecting and countering misuse of AI: September 2026](../ai/community/detecting-and-countering-misuse-of-ai-september-20.md)
   - [Diagnosing Tool-Selection Reasoning in LLM Agents with Canary Tools](../ai/rag/arxiv-2608-04719.md)
   - [Diagram-MMU: A Multi-Modal Benchmark for Scientific Diagrams](../ai/agents/arxiv-2608-12262.md)
   - [Dissecting model behavior through agent trajectories](../ai/agents/arxiv-2606-17454.md)
@@ -24937,7 +24940,6 @@ Resources organized by keyword tags.
   - [7 Best GitHub Repositories For Mastering RAG Systems](../ai/rag/7-best-github-repositories-for-mastering-rag-syste.md)
   - [7 Steps to Build a Simple RAG System from Scratch - KDnuggets](../ai/rag/7-steps-to-build-a-simple-rag-system-from-scratch.md)
   - [<mark> HTML mark text element - HTML | MDN](../ai/resources/mark-html-mark-text-element-html-mdn.md)
-  - [>10x More Efficient Pretraining](../ai/community/10x-more-efficient-pretraining.md)
   - [A CEFR-Inspired Classification Framework with Fuzzy C-Means To Automate Assessment of Programming Skills in Scratch](../ai/research/arxiv-2604-00730.md)
   - [A Causal Model for Locating and Unlocking Sandbagging in Model Organisms](../ai/research/arxiv-2608-29461.md)
   - [A Comparative Analysis of Machine Learning Models for Long and Short-Term Forecasting of the Egyptian Stock Market: A Focus on EGX30](../ai/research/arxiv-2607-14391.md)
@@ -25056,7 +25058,6 @@ Resources organized by keyword tags.
   - [AGDN: Learning to Solve Traveling Salesman Problem with Anisotropic Graph Diffusion Network](../ai/research/arxiv-2606-19185.md)
   - [AGRICAM: A Track-Mounted Crop Pollination Monitoring Robot](../ai/rag/arxiv-2608-29237.md)
   - [AI & Vectors | Supabase Docs](../ai/rag/ai-vectors-supabase-docs.md)
-  - [AI 2027 (2025)](../ai/community/ai-2027-2025.md)
   - [AI Adoption Across a Multinational Workforce: Sociotechnical Conditions for GenAI Acceptance in Human Resources](../ai/research/arxiv-2606-17887.md)
   - [AI Document Parsing Software: AI-Ready Data at Scale | LlamaIndex](../ai/rag/ai-document-parsing-software-ai-ready-data-at-scal.md)
   - [AI Fiction in the Wild](../ai/research/arxiv-2606-22748.md)
@@ -25626,6 +25627,7 @@ Resources organized by keyword tags.
   - [Compte Wise : compte multidevise | Compte en devise étrangère](../ai/resources/compte-wise-compte-multidevise-compte-en-devise-et.md)
   - [Computational Approaches to Understanding Large Language Model Impact on Writing and Information Ecosystems](../ai/research/arxiv-2506-17467.md)
   - [Computational Safety for Generative AI: A Hypothesis Testing Perspective](../ai/research/arxiv-2502-12445.md)
+  - [Compute-efficient pretraining and scaling to trillion-parameter models](../ai/community/10x-more-efficient-pretraining.md)
   - [Computer Vision Based Neurology Brain Activity Rejection Architecture and Implementation](../ai/research/arxiv-2607-21654.md)
   - [Computing Actual Causes for Neural Network Predictions under Structured Causal Inputs](../ai/research/arxiv-2608-03772.md)
   - [Computing on the Fly: Navigating a Vision for the Future of Drone Computing](../ai/agents/arxiv-2607-19213.md)
@@ -25816,6 +25818,7 @@ Resources organized by keyword tags.
   - [Detecting Soft Skills in ML Engineering Roles CVs](../ai/research/arxiv-2608-10046.md)
   - [Detecting and Mitigating DDoS Attacks with AI: A Survey](../ai/research/arxiv-2503-17867.md)
   - [Detecting and Repairing Hallucinations in Retrieval-Augmented Generation](../ai/rag/arxiv-2608-29307.md)
+  - [Detecting and countering misuse of AI: September 2026](../ai/community/detecting-and-countering-misuse-of-ai-september-20.md)
   - [Deterministic Adam-Inspired Methods with Accelerated Convergence Rate](../ai/research/arxiv-2604-08742.md)
   - [Deutsches Gericht rasiert Googles "AI Overviews": Google haftet für unwahre KI-Antworten](../ai/rag/deutsches-gericht-rasiert-googles-ai-overviews-goo.md)
   - [DevOps Tutorial - GeeksforGeeks](../ai/resources/devops-tutorial-geeksforgeeks.md)
@@ -27119,6 +27122,7 @@ Resources organized by keyword tags.
   - [Open Source Security Foundation – Linux Foundation Projects](../ai/resources/open-source-security-foundation-linux-foundation-p.md)
   - [Open Subscription Platforms](../ai/rag/open-subscription-platforms.md)
   - [Open-Set Domain Adaptation Under Background Distribution Shift: Challenges and A Provably Efficient Solution](../ai/research/arxiv-2512-01152.md)
+  - [OpenAI Agents API](../ai/community/openai-agents-api.md)
   - [OpenAg: Democratizing Agricultural Intelligence](../ai/agents/arxiv-2506-04571.md)
   - [OpenAgenet / OAN White Paper: Open Infrastructure for Trusted Agent Interconnection](../ai/agents/arxiv-2606-03161.md)
   - [OpenAgenet / OAN Yellow Paper: Technical Architecture for Trust-Governed Resource Identity and Discovery](../ai/agents/arxiv-2606-03163.md)
@@ -28402,7 +28406,6 @@ Resources organized by keyword tags.
   - [data.gouv.fr : Plateforme ouverte des données publiques françaises](../ai/rag/data-gouv-fr-plateforme-ouverte-des-donnees-publiq.md)
   - [databrickslabs/doc-qa](../ai/resources/databrickslabs-doc-qa.md)
   - [datacamp/rdocumentation-2.0](../ai/resources/datacamp-rdocumentation-2-0.md)
-  - [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md)
   - [datawhalechina/hello-agents](../ai/rag/datawhalechina-hello-agents.md)
   - [datawhalechina/wow-rag](../ai/rag/datawhalechina-wow-rag.md)
   - [daveebbelaar/ai-cookbook](../ai/agents/daveebbelaar-ai-cookbook.md)
@@ -35777,6 +35780,7 @@ Resources organized by keyword tags.
   - [On the Use of LLMs for Specialised Terminology: A Good Alternative to Corpora?](../ai/research/arxiv-2607-24784.md)
   - [One Prompt Is Enough: Watermark Laundering Through Foundation Image Models](../ai/research/arxiv-2609-01249.md)
   - [One Surrogate to Fool Them All: Universal, Transferable, and Targeted Adversarial Attacks with CLIP](../ai/research/arxiv-2505-19840.md)
+  - [OpenAI Agents API](../ai/community/openai-agents-api.md)
   - [OpenAI · GitHub](../ai/agents/openai-github.md)
   - [OpenAIs HealthBench in Action: Evaluating an LLM-Based Medical Assistant on Realistic Clinical Queries](../ai/rag/arxiv-2509-02594.md)
   - [OpenGPT-4o-Image: A Comprehensive Dataset for Advanced Image Generation and Editing](../ai/rag/arxiv-2509-24900.md)
@@ -60241,4 +60245,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-09-11T01:00:17.391741+05:30*
+*Index generated on 2026-09-11T04:27:40.461418+05:30*
