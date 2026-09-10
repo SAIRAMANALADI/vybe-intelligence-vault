@@ -4,13 +4,13 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/Danielskry/Awesome-RAG
-collected_at: '2026-09-03T00:59:46.289131+05:30'
-published_at: '2026-09-01T16:56:30Z'
+collected_at: '2026-09-10T18:32:42.144081+05:30'
+published_at: '2026-09-10T11:30:27Z'
 tags:
 - github-repo
 - rag
 - unknown
-stars: 1356
+stars: 1359
 language: Unknown
 status: active
 license: CC0-1.0
@@ -18,9 +18,9 @@ archived: false
 created_at: '2024-04-12T14:45:44Z'
 pushed_at: '2026-07-09T14:58:23Z'
 resource_id: github:danielskry/awesome-rag
-first_seen: '2026-09-03T00:59:46.289131+05:30'
-last_seen: '2026-09-03T00:59:46.289131+05:30'
-last_checked: '2026-09-03T00:59:46.289131+05:30'
+first_seen: '2026-09-10T18:32:42.144081+05:30'
+last_seen: '2026-09-10T18:32:42.144081+05:30'
+last_checked: '2026-09-10T18:32:42.144081+05:30'
 health_score: 100
 ---
 
@@ -28,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Curated RAG Resources**: Comprehensive collection of Retrieval-Augmented Generation (RAG) applications, frameworks, and tools in generative AI, covering large language models (LLMs) and retrieval mechanisms.
-- **Multi-Topic Repository**: Focuses on artificial intelligence, generative AI, LLMs, and RAG-specific implementations, with active maintenance (last updated 2026-09-01).
-- **Open-Source Collaboration**: Hosted on GitHub with 1,356 stars and 201 forks, indicating community engagement and contributions to RAG advancements.
+*   Curates a comprehensive list of practical Retrieval-Augmented Generation (RAG) applications within the Generative AI domain.
+*   Focuses on implementations leveraging Large Language Models (LLMs) for enhanced content generation via external knowledge retrieval.
+*   Functions as a community-validated resource (1.3k+ stars) for exploring diverse RAG system architectures and use cases.
 
 ## Why It Matters
 
@@ -39,11 +39,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: Danielskry
-- Stars: 1356
-- Forks: 201
+- Stars: 1359
+- Forks: 203
 - Language: Unknown
 - Topics: artificial-intelligence, generative-ai, large-language-models, rag, retrieval-augmented-generation
-- Last Updated: 2026-09-01T16:56:30Z
+- Last Updated: 2026-09-10T11:30:27Z
 - License: CC0-1.0
 - Archived: No
 - Created At: 2024-04-12T14:45:44Z

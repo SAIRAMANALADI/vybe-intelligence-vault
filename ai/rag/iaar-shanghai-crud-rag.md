@@ -4,23 +4,23 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/IAAR-Shanghai/CRUD_RAG
-collected_at: '2026-09-03T01:00:01.358945+05:30'
-published_at: '2026-09-01T13:49:24Z'
+collected_at: '2026-09-10T18:32:57.222633+05:30'
+published_at: '2026-09-08T07:00:20Z'
 tags:
 - benchmark
 - github-repo
 - python
 - rag
-stars: 409
+stars: 410
 language: Python
 status: active
 archived: false
 created_at: '2024-01-26T08:37:25Z'
 pushed_at: '2025-05-20T08:38:28Z'
 resource_id: github:iaar-shanghai/crud_rag
-first_seen: '2026-09-03T01:00:01.358945+05:30'
-last_seen: '2026-09-03T01:00:01.358945+05:30'
-last_checked: '2026-09-03T01:00:01.358945+05:30'
+first_seen: '2026-09-10T18:32:57.222633+05:30'
+last_seen: '2026-09-10T18:32:57.222633+05:30'
+last_checked: '2026-09-10T18:32:57.222633+05:30'
 health_score: 100
 ---
 
@@ -28,9 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **Benchmark Suite**: CRUD-RAG provides a comprehensive Chinese benchmark for evaluating Retrieval-Augmented Generation (RAG) systems in Large Language Models (LLMs), covering diverse retrieval and generation tasks.
-- **Evaluation Framework**: Implements structured metrics for assessing RAG performance, including retrieval accuracy, generation quality, and end-to-end system efficiency in Chinese language contexts.
-- **Open-Source Toolkit**: Released as a Python-based repository with modular components for benchmarking, enabling reproducibility and extensibility for further research in RAG systems.
+*   **CRUD-RAG** is a comprehensive Chinese benchmark for evaluating Retrieval-Augmented Generation (RAG) capabilities of Large Language Models (LLMs).
+*   It specifically assesses LLM performance across "Create, Retrieve, Update, Delete" (CRUD) operations within a RAG framework.
+*   The benchmark provides a standardized evaluation suite for RAG systems operating in a Chinese language context.
 
 ## Why It Matters
 
@@ -39,11 +39,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: IAAR-Shanghai
-- Stars: 409
+- Stars: 410
 - Forks: 33
 - Language: Python
 - Topics: benchmark, large-language-models, retrieval-augmented-generation
-- Last Updated: 2026-09-01T13:49:24Z
+- Last Updated: 2026-09-08T07:00:20Z
 - Archived: No
 - Created At: 2024-01-26T08:37:25Z
 - Pushed At: 2025-05-20T08:38:28Z

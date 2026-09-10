@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow
-collected_at: '2026-09-09T18:34:14.955976+05:30'
+collected_at: '2026-09-10T18:31:42.157893+05:30'
 published_at: '2025-09-16T07:09:35Z'
 tags:
 - github-repo
@@ -18,9 +18,9 @@ archived: false
 created_at: '2024-12-13T09:33:23Z'
 pushed_at: '2025-02-06T08:58:10Z'
 resource_id: github:icensraghomework/icensraghomework-classroom01-rag2-hw02_workflow
-first_seen: '2026-09-09T18:34:14.955976+05:30'
-last_seen: '2026-09-09T18:34:14.955976+05:30'
-last_checked: '2026-09-09T18:34:14.955976+05:30'
+first_seen: '2026-09-10T18:31:42.157893+05:30'
+last_seen: '2026-09-10T18:31:42.157893+05:30'
+last_checked: '2026-09-10T18:31:42.157893+05:30'
 health_score: 100
 ---
 
@@ -28,9 +28,7 @@ health_score: 100
 
 ## Summary
 
-*   Python-based repository implementing a Retrieval Augmented Generation (RAG) workflow.
-*   Developed within a GitHub Classroom environment, indicating an educational assignment context.
-*   Designated as "RAG2-HW02," signifying a specific component of a structured RAG curriculum.
+*   Implements a Retrieval-Augmented Generation (RAG) workflow, indicated by `
 
 ## Why It Matters
 

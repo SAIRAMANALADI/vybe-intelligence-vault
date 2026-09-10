@@ -22851,7 +22851,9 @@ Resources organized by publisher feed and query sources.
   - [Aug 31, 2026AnnouncementsImproving our alignment and security efforts](../ai/companies/anthropic/aug-31-2026announcementsimproving-our-alignment-an.md)
   - [Aug 4, 2026AnnouncementsMariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer](../ai/companies/anthropic/aug-4-2026announcementsmariano-florentino-tino-cue.md)
   - [Aug 7, 2026ProductImproving Fable 5's biology safeguards](../ai/companies/anthropic/aug-7-2026productimproving-fable-5-s-biology-safeg.md)
+  - [Cloudera and Mistral Partner to Bring Specialized, Sovereign Intelligence to Enterprise Data](../ai/companies/mistral/cloudera-and-mistral-partner-to-bring-specialized.md)
   - [Code, datasets and models](../ai/companies/code-datasets-and-models.md)
+  - [CompanyMistral x HUMAIN August 24, 2026By Mistral](../ai/companies/mistral/companymistral-x-humain-august-24-2026by-mistral.md)
   - [Computer vision](../ai/companies/computer-vision.md)
   - [Data platforms and analytics](../ai/companies/data-platforms-and-analytics.md)
   - [Engineering](../ai/companies/openai/engineering.md)
@@ -22867,12 +22869,10 @@ Resources organized by publisher feed and query sources.
   - [Mistral OCR 4](../ai/companies/mistral/mistral-ocr-4.md)
   - [Mistral Small 4](../ai/companies/mistral/mistral-small-4.md)
   - [Mistral raises €3B to make sovereign, open-weight AI the technology frontier](../ai/companies/mistral/mistral-raises-eur3b-to-make-sovereign-open-weight.md)
-  - [Mistral x HUMAIN](../ai/companies/mistral/mistral-x-humain.md)
   - [Modernizing complex legacy code with AI agents.](../ai/companies/mistral/modernizing-complex-legacy-code-with-ai-agents.md)
   - [NewsDiscover our latest AI breakthroughs, projects, and updates](../ai/companies/deepmind/newsdiscover-our-latest-ai-breakthroughs-projects.md)
   - [Publications](../ai/companies/publications.md)
   - [ResearchIntroducing Robostral Navigate Robostral Navigate, our first model built for embodied navigation. July 8, 2026By Mistral AI](../ai/companies/mistral/researchintroducing-robostral-navigate-robostral-n.md)
-  - [ResearchLeanstral 1.5: Proof Abundance for AllJuly 2, 2026By Leanstral Team at Mistral AI](../ai/companies/mistral/researchleanstral-1-5-proof-abundance-for-alljuly.md)
   - [Responsible Scaling Policy](../ai/companies/anthropic/responsible-scaling-policy.md)
   - [SIMA 2An agent that plays, reasons, and learns with you](../ai/companies/deepmind/sima-2an-agent-that-plays-reasons-and-learns-with.md)
   - [Search & information retrieval](../ai/companies/search-information-retrieval.md)
@@ -23769,11 +23769,10 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [A Stupid Idea for AI Alignment We Came with by Looking at Specification Gaming](../ai/community/a-stupid-idea-for-ai-alignment-we-came-with-by-loo.md)
   - [AirPods 5](../ai/community/apple-introduces-airpods-5.md)
+  - [Object storage is all you need](../ai/community/object-storage-is-all-you-need.md)
+  - [Samsung Debuts zHBM Prototype, Stacking Memory Directly on AI Accelerators](../ai/community/samsung-debuts-zhbm-prototype-stacking-memory-dire.md)
   - [Shopify acquires Tailwind](../ai/community/tailwind-labs-is-joining-shopify.md)
-  - [Training a 3.8B LLM to 0.384 CORE for $998 – Hugo Vergnes](../ai/community/training-a-3-8b-llm-to-0-384-core-for-998-hugo-ver.md)
-  - [Understanding the recent DDoS attack against Read the Docs](../ai/community/understanding-the-recent-ddos-attack-against-read.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -24402,6 +24401,7 @@ Resources organized by publisher feed and query sources.
   - [Reachy Mini goes fully local](../ai/models/huggingface-blog-local-reachy-mini-conversation.md)
   - [Real-Time AI Sound Generation on Arm: A Personal Tool for Creative Freedom](../ai/models/huggingface-blog-arm-ai-sound-gen-on-arm.md)
   - [Rearchitecting Hugging Face Uploads and Downloads](../ai/models/huggingface-blog-rearchitecting-uploads-and-downloads.md)
+  - [Rebuilding AUTOMATIC1111 with Gradio Workflow](../ai/models/huggingface-blog-gradio-workflow-1111.md)
   - [Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets](../ai/rag/huggingface-blog-amazon-strands-lerobot-streaming-data-loop.md)
   - [Red-Teaming Large Language Models](../ai/models/huggingface-blog-red-teaming.md)
   - [Releasing Outlines-core 0.1.0: structured generation in Rust and Python](../ai/models/huggingface-blog-outlines-core.md)
@@ -27634,4 +27634,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-09-10T10:44:59.617978+05:30*
+*Index generated on 2026-09-10T18:47:01.067469+05:30*

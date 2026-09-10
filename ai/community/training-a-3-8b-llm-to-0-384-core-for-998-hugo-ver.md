@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - llm
-status: active
+status: inactive
 resource_id: hackernews:training-a-3-8b-llm-to-0-384-core-for-998-hugo-ver
 first_seen: '2026-09-10T10:23:26.570718+05:30'
 last_seen: '2026-09-10T10:23:26.570718+05:30'
 last_checked: '2026-09-10T10:23:26.570718+05:30'
 health_score: 100
 ---
+
 
 # Training a 3.8B LLM to 0.384 CORE for $998 – Hugo Vergnes
 

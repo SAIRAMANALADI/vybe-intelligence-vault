@@ -117,9 +117,9 @@ This index groups files by resource kind (e.g. frameworks, templates, prompts, e
 - [Mistral raises €3B to make sovereign, open-weight AI the technology frontier](https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier) (Tier: `useful` | [`Local File`](../../ai/companies/mistral/mistral-raises-eur3b-to-make-sovereign-open-weight.md))
 - [Mistral OCR 4](https://mistral.ai/news/ocr-4) (Tier: `useful` | [`Local File`](../../ai/companies/mistral/mistral-ocr-4.md))
 - [Mistral Medium 3.5](https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5) (Tier: `useful` | [`Local File`](../../ai/companies/mistral/mistral-medium-3-5.md))
-- [ResearchLeanstral 1.5: Proof Abundance for AllJuly 2, 2026By Leanstral Team at Mistral AI](https://mistral.ai/news/leanstral-1-5) (Tier: `useful` | [`Local File`](../../ai/companies/mistral/researchleanstral-1-5-proof-abundance-for-alljuly.md))
 - [Voxtral TTS](https://mistral.ai/news/voxtral-tts) (Tier: `useful` | [`Local File`](../../ai/companies/mistral/voxtral-tts.md))
 - [ResearchIntroducing Robostral Navigate Robostral Navigate, our first model built for embodied navigation. July 8, 2026By Mistral AI](https://mistral.ai/news/robostral-navigate) (Tier: `useful` | [`Local File`](../../ai/companies/mistral/researchintroducing-robostral-navigate-robostral-n.md))
+- [CompanyMistral x HUMAIN August 24, 2026By Mistral](https://mistral.ai/news/mistral-x-humain) (Tier: `useful` | [`Local File`](../../ai/companies/mistral/companymistral-x-humain-august-24-2026by-mistral.md))
 
 ## TEMPLATE
 
@@ -182,4 +182,4 @@ This index groups files by resource kind (e.g. frameworks, templates, prompts, e
 - [KNOWPLAN: Knowledge-Driven AI Agents for Smart Degree Pathway Planning](https://arxiv.org/abs/2608.06530) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2608-06530.md))
 
 ---
-*Last updated: 2026-09-10 10:47 IST*
+*Last updated: 2026-09-10 18:48 IST*

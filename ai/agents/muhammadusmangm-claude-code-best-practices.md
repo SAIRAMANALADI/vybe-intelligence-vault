@@ -4,12 +4,13 @@ category: ai/agents
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/MuhammadUsmanGM/claude-code-best-practices
-collected_at: '2026-09-09T18:36:50.060515+05:30'
+collected_at: '2026-09-10T18:34:17.219368+05:30'
 published_at: '2026-09-06T14:32:50Z'
 tags:
 - agents
 - anthropic
 - github-repo
+- hackernews
 - shell
 - workflows
 stars: 79
@@ -20,9 +21,9 @@ archived: false
 created_at: '2026-03-22T10:51:35Z'
 pushed_at: '2026-06-24T15:23:05Z'
 resource_id: github:muhammadusmangm/claude-code-best-practices
-first_seen: '2026-09-09T18:36:50.060515+05:30'
-last_seen: '2026-09-09T18:36:50.060515+05:30'
-last_checked: '2026-09-09T18:36:50.060515+05:30'
+first_seen: '2026-09-10T18:34:17.219368+05:30'
+last_seen: '2026-09-10T18:34:17.219368+05:30'
+last_checked: '2026-09-10T18:34:17.219368+05:30'
 health_score: 100
 ---
 
@@ -30,9 +31,9 @@ health_score: 100
 
 ## Summary
 
-*   Establishes best practices for Claude Code development, covering setup, CLAUDE.md templating, and workflow optimization.
-*   Details multi-agent patterns and cost optimization strategies for Anthropic's Claude LLM applications.
-*   Provides developer tools and CLI guidance for agentic AI system design and implementation with Claude.
+*   Establishes best practices for Claude Code, detailing setup, CLAUDE.md templating, and workflow optimization.
+*   Outlines multi-agent patterns and cost optimization strategies for Anthropic Claude-based agentic AI development.
+*   Serves as a technical guide for implementing LLM-driven developer tools within the Claude ecosystem, including CLI usage.
 
 ## Why It Matters
 

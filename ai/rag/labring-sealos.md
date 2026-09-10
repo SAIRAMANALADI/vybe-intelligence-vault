@@ -4,24 +4,24 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/labring/sealos
-collected_at: '2026-09-03T01:00:36.384049+05:30'
-published_at: '2026-09-02T09:36:41Z'
+collected_at: '2026-09-10T18:33:32.212232+05:30'
+published_at: '2026-09-10T05:53:50Z'
 tags:
 - agents
 - github-repo
 - rag
 - typescript
-stars: 18337
+stars: 18343
 language: TypeScript
 status: active
 license: NOASSERTION
 archived: false
 created_at: '2018-08-15T12:22:50Z'
-pushed_at: '2026-09-02T09:36:35Z'
+pushed_at: '2026-09-10T03:25:57Z'
 resource_id: github:labring/sealos
-first_seen: '2026-09-03T01:00:36.384049+05:30'
-last_seen: '2026-09-03T01:00:36.384049+05:30'
-last_checked: '2026-09-03T01:00:36.384049+05:30'
+first_seen: '2026-09-10T18:33:32.212232+05:30'
+last_seen: '2026-09-10T18:33:32.212232+05:30'
+last_checked: '2026-09-10T18:33:32.212232+05:30'
 health_score: 100
 ---
 
@@ -29,11 +29,9 @@ health_score: 100
 
 ## Summary
 
-- **Sealos**: A Kubernetes distribution and cloud OS toolkit written in TypeScript and Go, enabling deployment of GitHub/AI-generated projects as production-grade Kubernetes clusters with automated HA (High Availability) via `kubeadm` and `IPVS` load balancing.
-
-- **AI-Powered Operations**: Integrates AI-driven lifecycle management to auto-deploy, scale, and maintain applications, ensuring continuous uptime with minimal manual intervention.
-
-- **Multi-Environment Support**: Supports Docker-based containerization, bare-metal/VM deployments, and hybrid cloud setups, leveraging `containerd` and `IPVS` for optimized networking and cluster orchestration.
+*   AI-driven platform for deploying and continuously operating containerized applications, including AI coding agents, leveraging GitHub integration.
+*   Kubernetes-native orchestrator employing `kubeadm` for cluster provisioning, `IPVS` for load balancing, and high-availability (HA) configurations.
+*   Implemented primarily in Go and TypeScript, integrating Docker for containerization within a CloudOS context.
 
 ## Why It Matters
 
@@ -42,15 +40,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: labring
-- Stars: 18337
-- Forks: 2479
+- Stars: 18343
+- Forks: 2481
 - Language: TypeScript
 - Topics: cloudos, container, docker, golang, install, ipvs, kubeadm, kubernetes, kubernetes-ha
-- Last Updated: 2026-09-02T09:36:41Z
+- Last Updated: 2026-09-10T05:53:50Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2018-08-15T12:22:50Z
-- Pushed At: 2026-09-02T09:36:35Z
+- Pushed At: 2026-09-10T03:25:57Z
 
 ## Possible Use Cases
 

@@ -4,24 +4,22 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/bangoc123/retrieval-backend-with-rag
-collected_at: '2026-09-03T00:59:36.333952+05:30'
-published_at: '2026-08-22T07:32:26Z'
+collected_at: '2026-09-10T18:32:32.152849+05:30'
+published_at: '2026-09-06T09:26:44Z'
 tags:
-- benchmark
 - github-repo
 - python
 - rag
-- workflows
-stars: 267
+stars: 266
 language: Python
 status: active
 archived: false
 created_at: '2024-06-13T03:43:42Z'
 pushed_at: '2025-10-03T03:29:43Z'
 resource_id: github:bangoc123/retrieval-backend-with-rag
-first_seen: '2026-09-03T00:59:36.333952+05:30'
-last_seen: '2026-09-03T00:59:36.333952+05:30'
-last_checked: '2026-09-03T00:59:36.333952+05:30'
+first_seen: '2026-09-10T18:32:32.152849+05:30'
+last_seen: '2026-09-10T18:32:32.152849+05:30'
+last_checked: '2026-09-10T18:32:32.152849+05:30'
 health_score: 100
 ---
 
@@ -29,11 +27,9 @@ health_score: 100
 
 ## Summary
 
-- **Vietnamese RAG Implementation**: Demonstrates best practices for Retrieval-Augmented Generation (RAG) specifically tailored for Vietnamese language processing, including data preprocessing, embedding models, and retrieval strategies optimized for Vietnamese text.
-
-- **Modular Python Architecture**: Provides a scalable backend framework in Python, integrating components like vector databases (e.g., FAISS, Chroma), retrieval pipelines, and LLM interfaces (e.g., Hugging Face Transformers) for efficient Vietnamese RAG workflows.
-
-- **Evaluation & Deployment Tools**: Includes evaluation metrics (e.g., retrieval accuracy, response relevance) and deployment scripts (Docker, FastAPI) to benchmark and operationalize Vietnamese RAG systems in production environments.
+*   Focuses on optimizing Retrieval-Augmented Generation (RAG) for the Vietnamese language.
+*   Implements a dedicated retrieval backend system for RAG architectures.
+*   Developed using Python, leveraging common ML/NLP frameworks.
 
 ## Why It Matters
 
@@ -42,11 +38,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: bangoc123
-- Stars: 267
+- Stars: 266
 - Forks: 96
 - Language: Python
 - Topics: None
-- Last Updated: 2026-08-22T07:32:26Z
+- Last Updated: 2026-09-06T09:26:44Z
 - Archived: No
 - Created At: 2024-06-13T03:43:42Z
 - Pushed At: 2025-10-03T03:29:43Z

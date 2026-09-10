@@ -5,11 +5,11 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://tailwindcss.com/blog/tailwind-is-joining-shopify
 hn_url: https://news.ycombinator.com/item?id=49626190
-score: 950
+score: 1070
 author: EdwinHoksberg
-comments_count: 376
+comments_count: 415
 published_at: '2026-09-09T18:57:11+05:30'
-collected_at: '2026-09-10T10:23:25.602262+05:30'
+collected_at: '2026-09-10T18:30:22.022490+05:30'
 tags:
 - ai
 - frontend_ui
@@ -17,8 +17,8 @@ tags:
 status: active
 resource_id: hackernews:shopify-acquires-tailwind
 first_seen: '2026-09-10T00:52:28.944363+05:30'
-last_seen: '2026-09-10T10:23:25.602262+05:30'
-last_checked: '2026-09-10T10:23:25.602262+05:30'
+last_seen: '2026-09-10T18:30:22.022490+05:30'
+last_checked: '2026-09-10T18:30:22.022490+05:30'
 health_score: 100
 ---
 
@@ -26,7 +26,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by EdwinHoksberg. Score: 950, Comments: 376.
+Hacker News story by EdwinHoksberg. Score: 1070, Comments: 415.
 Original Link: https://tailwindcss.com/blog/tailwind-is-joining-shopify
 
 ## Why It Matters
@@ -36,8 +36,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: EdwinHoksberg
-- Score: 950 Upvotes
-- Comments: 376 Discussions
+- Score: 1070 Upvotes
+- Comments: 415 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49626190
 - Original Article: https://tailwindcss.com/blog/tailwind-is-joining-shopify
 

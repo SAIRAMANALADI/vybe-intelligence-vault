@@ -1,10 +1,10 @@
 ---
-title: Mistral x HUMAIN
+title: CompanyMistral x HUMAIN August 24, 2026By Mistral
 archive_category: model-providers
 source_category: ai/companies/mistral
 source_url: https://mistral.ai/news/mistral-x-humain
-resource_id: blog:mistral-x-humain
-local_vault_path: ai/companies/mistral/mistral-x-humain.md
+resource_id: blog:companymistral-x-humain-august-24-2026by-mistral
+local_vault_path: ai/companies/mistral/companymistral-x-humain-august-24-2026by-mistral.md
 quality_score: 70
 archive_score: 82
 archive_tier: useful
@@ -20,7 +20,7 @@ selection_reason:
 - Valuable developer reference
 ---
 
-# Mistral x HUMAIN
+# CompanyMistral x HUMAIN August 24, 2026By Mistral
 
 ## Why This Is In The Archive
 
@@ -33,7 +33,7 @@ selection_reason:
 
 ## Summary
 
-Recent update from Mistral AI News Blog: Mistral x HUMAIN
+Recent update from Mistral AI News Blog: CompanyMistral x HUMAIN August 24, 2026By Mistral
 
 ## Use Cases
 
@@ -47,4 +47,4 @@ Original source URL: https://mistral.ai/news/mistral-x-humain
 
 ## Local Vault File
 
-Path: [mistral-x-humain.md](../../ai/companies/mistral/mistral-x-humain.md)
+Path: [companymistral-x-humain-august-24-2026by-mistral.md](../../ai/companies/mistral/companymistral-x-humain-august-24-2026by-mistral.md)

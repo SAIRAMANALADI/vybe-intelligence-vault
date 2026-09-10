@@ -13,13 +13,14 @@ collected_at: '2026-09-10T10:23:27.941664+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:a-stupid-idea-for-ai-alignment-we-came-with-by-loo
 first_seen: '2026-09-10T10:23:27.941664+05:30'
 last_seen: '2026-09-10T10:23:27.941664+05:30'
 last_checked: '2026-09-10T10:23:27.941664+05:30'
 health_score: 100
 ---
+
 
 # A Stupid Idea for AI Alignment We Came with by Looking at Specification Gaming
 
