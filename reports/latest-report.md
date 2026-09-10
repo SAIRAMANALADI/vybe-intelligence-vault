@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-09-10T22:17:15.581321+05:30`
+Generated at: `2026-09-11T01:02:45.070959+05:30`
 
 ## Executive Summary
 
@@ -8,33 +8,37 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## ✨ New Discoveries
 
-- **[QUALITY] - ** - Score: `0` in category `` ([File](../.github/ISSUE_TEMPLATE/quality-feedback.md))
+- **Shopify moves back to Native from React Native** - Score: `522` in category `web-development/community` ([Link](https://shopify.engineering/back-to-native)) ([File](../web-development/community/shopify-moves-back-to-native-from-react-native.md))
+- **More questions about whether researchers can trust OpenAI with unpublished math** - Score: `292` in category `ai/community` ([Link](https://mathstodon.xyz/@andreasthom/117240535270608201)) ([File](../ai/community/more-questions-about-whether-researchers-can-trust.md))
+- **>10x More Efficient Pretraining** - Score: `92` in category `ai/community` ([Link](https://magic.dev/blog/pretraining)) ([File](../ai/community/10x-more-efficient-pretraining.md))
+- **AI 2027 (2025)** - Score: `28` in category `ai/community` ([Link](https://ai-2027.com)) ([File](../ai/community/ai-2027-2025.md))
+- **Aug 14, 2026AnnouncementsHow Claude’s text watermark works** - Score: `0` in category `ai/companies/anthropic` ([Link](https://anthropic.com/news/claude-text-watermark)) ([File](../ai/companies/anthropic/aug-14-2026announcementshow-claudes-text-watermark.md))
 
 ## Top Trending Resources
 
-- **A Generalization of Amari's Bayesian Duality** - Score: `0` (0), Rank Change: `+35` ([File](../ai/research/arxiv-2609-09126.md))
-- **Hardware Trojan Threats to Multi-Chiplet Photonic Neural Network Accelerators** - Score: `0` (0), Rank Change: `+35` ([File](../ai/research/arxiv-2609-06796.md))
-- **Deep belief networks are exact** - Score: `0` (0), Rank Change: `+35` ([File](../ai/research/arxiv-2609-05572.md))
-- **datawhalechina/llm-universe** - Score: `0` (0), Rank Change: `+1005` ([File](../ai/rag/datawhalechina-llm-universe.md))
-- **raganwald/raganwald.github.com** - Score: `0` (0), Rank Change: `+1005` ([File](../ai/rag/raganwald-raganwald-github-com.md))
-- **malonge/RaGOO** - Score: `0` (0), Rank Change: `+1005` ([File](../ai/rag/malonge-ragoo.md))
-- **Learning-enabled Acceleration of Scenario-based Model Predictive Control** - Score: `0` (0), Rank Change: `+1005` ([File](../ai/rag/arxiv-2607-12775.md))
-- **Physically Consistent Parameter Inference: Transparent Machine Learning Emulation in High Energy Physics and Cosmology** - Score: `0` (0), Rank Change: `+1005` ([File](../ai/research/arxiv-2607-12726.md))
-- **Environment Parameter Gradient Theorem for Co-Design in Reinforcement Learning** - Score: `0` (0), Rank Change: `+1005` ([File](../ai/agents/arxiv-2607-12590.md))
-- **Bridging Ab Initio Symmetries and Global Nuclear Masses with Interpretable Neural Networks** - Score: `0` (0), Rank Change: `+1005` ([File](../ai/research/arxiv-2606-28287.md))
+- **reworkd/AgentGPT** - Score: `0` (0), Rank Change: `+3137` ([File](../ai/rag/reworkd-agentgpt.md))
+- **ragnarokoffline/ragnarokoffline.github.io** - Score: `0` (0), Rank Change: `+14` ([File](../ai/rag/ragnarokoffline-ragnarokoffline-github-io.md))
+- **datawhalechina/llm-universe** - Score: `0` (0), Rank Change: `+1024` ([File](../ai/rag/datawhalechina-llm-universe.md))
+- **datawhalechina/all-in-rag** - Score: `0` (0), Rank Change: `+14` ([File](../ai/rag/datawhalechina-all-in-rag.md))
+- **Data platforms and analytics** - Score: `0` (0), Rank Change: `+14` ([File](../ai/companies/data-platforms-and-analytics.md))
+- **Search & information retrieval** - Score: `0` (0), Rank Change: `+14` ([File](../ai/companies/search-information-retrieval.md))
+- **Human language technologies** - Score: `0` (0), Rank Change: `+14` ([File](../ai/companies/human-language-technologies.md))
+- **Human-computer interaction** - Score: `0` (0), Rank Change: `+14` ([File](../ai/companies/human-computer-interaction.md))
+- **Graphics & multimedia** - Score: `0` (0), Rank Change: `+14` ([File](../ai/companies/graphics-multimedia.md))
+- **Computer vision** - Score: `0` (0), Rank Change: `+14` ([File](../ai/companies/computer-vision.md))
 
 ## 🚀 Fastest Rising Tools
 
-- **infiniflow/ragflow** - (Rank Change: `+25430`) ([File](../ai/rag/infiniflow-ragflow-2.md))
-- **RUC-NLPIR/FlashRAG** - (Rank Change: `+25355`) ([File](../ai/rag/ruc-nlpir-flashrag-2.md))
-- **stanford-oval/storm** - (Rank Change: `+17139`) ([File](../ai/rag/stanford-oval-storm.md))
-- **datawhalechina/llm-universe** - (Rank Change: `+1005`) ([File](../ai/rag/datawhalechina-llm-universe.md))
-- **raganwald/raganwald.github.com** - (Rank Change: `+1005`) ([File](../ai/rag/raganwald-raganwald-github-com.md))
-- **malonge/RaGOO** - (Rank Change: `+1005`) ([File](../ai/rag/malonge-ragoo.md))
-- **Learning-enabled Acceleration of Scenario-based Model Predictive Control** - (Rank Change: `+1005`) ([File](../ai/rag/arxiv-2607-12775.md))
-- **Physically Consistent Parameter Inference: Transparent Machine Learning Emulation in High Energy Physics and Cosmology** - (Rank Change: `+1005`) ([File](../ai/research/arxiv-2607-12726.md))
-- **Environment Parameter Gradient Theorem for Co-Design in Reinforcement Learning** - (Rank Change: `+1005`) ([File](../ai/agents/arxiv-2607-12590.md))
-- **Bridging Ab Initio Symmetries and Global Nuclear Masses with Interpretable Neural Networks** - (Rank Change: `+1005`) ([File](../ai/research/arxiv-2606-28287.md))
+- **reworkd/AgentGPT** - (Rank Change: `+3137`) ([File](../ai/rag/reworkd-agentgpt.md))
+- **datawhalechina/llm-universe** - (Rank Change: `+1024`) ([File](../ai/rag/datawhalechina-llm-universe.md))
+- **Applied AI** - (Rank Change: `+876`) ([File](../ai/companies/openai/applied-ai.md))
+- **AI Adoption** - (Rank Change: `+876`) ([File](../ai/companies/openai/ai-adoption.md))
+- **Global Affairs** - (Rank Change: `+876`) ([File](../ai/companies/openai/global-affairs.md))
+- **Intelligence Age** - (Rank Change: `+876`) ([File](../ai/companies/openai/intelligence-age.md))
+- **Engineering** - (Rank Change: `+876`) ([File](../ai/companies/openai/engineering.md))
+- **Next.js 5: Universal Webpack, CSS Imports, Plugins and Zones** - (Rank Change: `+21`) ([File](../web-development/nextjs/next-js-5-universal-webpack-css-imports-plugins-an.md))
+- **Next.js 5.1: Faster Page Resolution, Environment Config & More** - (Rank Change: `+21`) ([File](../web-development/nextjs/next-js-5-1-faster-page-resolution-environment-con.md))
+- **Next.js 6 and Nextjs.org** - (Rank Change: `+21`) ([File](../web-development/nextjs/next-js-6-and-nextjs-org.md))
 
 ## 🔄 Essential Tier Transitions
 
@@ -45,5 +49,7 @@ No resources left the Essential tier in this run.
 
 ## 💤 Recently Inactive Resources
 
-No recently active resources transitioned to inactive.
-
+- **Shopify acquires Tailwind** (Category: `ai/community`) ([File](../ai/community/tailwind-labs-is-joining-shopify.md))
+- **AirPods 5** (Category: `ai/community`) ([File](../ai/community/apple-introduces-airpods-5.md))
+- **Samsung Debuts zHBM Prototype, Stacking Memory Directly on AI Accelerators** (Category: `ai/community`) ([File](../ai/community/samsung-debuts-zhbm-prototype-stacking-memory-dire.md))
+- **Object storage is all you need** (Category: `ai/community`) ([File](../ai/community/object-storage-is-all-you-need.md))

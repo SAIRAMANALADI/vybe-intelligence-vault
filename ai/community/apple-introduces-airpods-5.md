@@ -13,13 +13,14 @@ collected_at: '2026-09-10T18:30:24.002756+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:airpods-5
 first_seen: '2026-09-10T00:52:29.891308+05:30'
 last_seen: '2026-09-10T18:30:24.002756+05:30'
 last_checked: '2026-09-10T18:30:24.002756+05:30'
 health_score: 100
 ---
+
 
 # AirPods 5
 

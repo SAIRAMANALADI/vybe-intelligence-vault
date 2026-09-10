@@ -6197,9 +6197,9 @@ Resources organized by keyword tags.
 
 ## ai
 
-  - [AirPods 5](../ai/community/apple-introduces-airpods-5.md)
-  - [Samsung Debuts zHBM Prototype, Stacking Memory Directly on AI Accelerators](../ai/community/samsung-debuts-zhbm-prototype-stacking-memory-dire.md)
-  - [Shopify acquires Tailwind](../ai/community/tailwind-labs-is-joining-shopify.md)
+  - [>10x More Efficient Pretraining](../ai/community/10x-more-efficient-pretraining.md)
+  - [AI 2027 (2025)](../ai/community/ai-2027-2025.md)
+  - [More questions about whether researchers can trust OpenAI with unpublished math](../ai/community/more-questions-about-whether-researchers-can-trust.md)
 
 ## animation
 
@@ -6297,9 +6297,9 @@ Resources organized by keyword tags.
   - [AssemblyAI | AI models to transcribe and understand speech](../ai/agents/assemblyai-ai-models-to-transcribe-and-understand.md)
   - [AtomCite: Verification and Correction of Supplied Page-Level Citations in Multi-Page Documents](../ai/agents/arxiv-2609-05802.md)
   - [Auditing Alignment Controllability in LLMs via Political Axes](../ai/research/arxiv-2607-23519.md)
+  - [Aug 14, 2026AnnouncementsHow Claude’s text watermark works](../ai/companies/anthropic/aug-14-2026announcementshow-claudes-text-watermark.md)
   - [Aug 25, 2026AnnouncementsFunding better evaluations of AI’s impact on wellbeing](../ai/companies/anthropic/aug-25-2026announcementsfunding-better-evaluations.md)
   - [Aug 27, 2026Announcements Expanding our support for scientists](../ai/companies/anthropic/aug-27-2026announcements-expanding-our-support-for.md)
-  - [Aug 31, 2026AnnouncementsImproving our alignment and security efforts](../ai/companies/anthropic/aug-31-2026announcementsimproving-our-alignment-an.md)
   - [Aug 4, 2026AnnouncementsMariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer](../ai/companies/anthropic/aug-4-2026announcementsmariano-florentino-tino-cue.md)
   - [Aug 7, 2026ProductImproving Fable 5's biology safeguards](../ai/companies/anthropic/aug-7-2026productimproving-fable-5-s-biology-safeg.md)
   - [Authoring Agent Skills: A Software-Engineering Approach](../ai/agents/arxiv-2607-25032.md)
@@ -6906,9 +6906,9 @@ Resources organized by keyword tags.
 
 ## anthropic-news
 
+  - [Aug 14, 2026AnnouncementsHow Claude’s text watermark works](../ai/companies/anthropic/aug-14-2026announcementshow-claudes-text-watermark.md)
   - [Aug 25, 2026AnnouncementsFunding better evaluations of AI’s impact on wellbeing](../ai/companies/anthropic/aug-25-2026announcementsfunding-better-evaluations.md)
   - [Aug 27, 2026Announcements Expanding our support for scientists](../ai/companies/anthropic/aug-27-2026announcements-expanding-our-support-for.md)
-  - [Aug 31, 2026AnnouncementsImproving our alignment and security efforts](../ai/companies/anthropic/aug-31-2026announcementsimproving-our-alignment-an.md)
   - [Aug 4, 2026AnnouncementsMariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer](../ai/companies/anthropic/aug-4-2026announcementsmariano-florentino-tino-cue.md)
   - [Aug 7, 2026ProductImproving Fable 5's biology safeguards](../ai/companies/anthropic/aug-7-2026productimproving-fable-5-s-biology-safeg.md)
   - [Jul 27, 2026AnnouncementsOur position on open-weights models](../ai/companies/anthropic/jul-27-2026announcementsour-position-on-open-weigh.md)
@@ -17283,9 +17283,9 @@ Resources organized by keyword tags.
   - [Applied AI](../ai/companies/openai/applied-ai.md)
   - [Artificial intelligence](../ai/companies/artificial-intelligence.md)
   - [Audio & acoustics](../ai/companies/audio-acoustics.md)
+  - [Aug 14, 2026AnnouncementsHow Claude’s text watermark works](../ai/companies/anthropic/aug-14-2026announcementshow-claudes-text-watermark.md)
   - [Aug 25, 2026AnnouncementsFunding better evaluations of AI’s impact on wellbeing](../ai/companies/anthropic/aug-25-2026announcementsfunding-better-evaluations.md)
   - [Aug 27, 2026Announcements Expanding our support for scientists](../ai/companies/anthropic/aug-27-2026announcements-expanding-our-support-for.md)
-  - [Aug 31, 2026AnnouncementsImproving our alignment and security efforts](../ai/companies/anthropic/aug-31-2026announcementsimproving-our-alignment-an.md)
   - [Aug 4, 2026AnnouncementsMariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer](../ai/companies/anthropic/aug-4-2026announcementsmariano-florentino-tino-cue.md)
   - [Aug 7, 2026ProductImproving Fable 5's biology safeguards](../ai/companies/anthropic/aug-7-2026productimproving-fable-5-s-biology-safeg.md)
   - [Cloudera and Mistral Partner to Bring Specialized, Sovereign Intelligence to Enterprise Data](../ai/companies/mistral/cloudera-and-mistral-partner-to-bring-specialized.md)
@@ -23835,7 +23835,7 @@ Resources organized by keyword tags.
   - [Service Workers Nightly](../ai/rag/service-workers-nightly.md)
   - [Shared Physics Responses Recover Hidden Rankings in Neural Operator Libraries](../ai/research/arxiv-2608-20441.md)
   - [Shibuya](../ai/resources/shibuya.md)
-  - [Shopify acquires Tailwind](../ai/community/tailwind-labs-is-joining-shopify.md)
+  - [Shopify moves back to Native from React Native](../web-development/community/shopify-moves-back-to-native-from-react-native.md)
   - [Significant Other AI: Identity, Memory, and Emotional Regulation as Long-Term Relational Intelligence](../ai/research/arxiv-2512-00418.md)
   - [Silent Failures in Multimodal Agentic Search:A Diagnostic Taxonomy and Cross-Judge Evaluation](../ai/agents/arxiv-2607-19793.md)
   - [Similar Models Learn Differently: Final-Window Pretraining Shapes Post-Training Beyond SFT](../ai/research/arxiv-2607-25063.md)
@@ -24937,6 +24937,7 @@ Resources organized by keyword tags.
   - [7 Best GitHub Repositories For Mastering RAG Systems](../ai/rag/7-best-github-repositories-for-mastering-rag-syste.md)
   - [7 Steps to Build a Simple RAG System from Scratch - KDnuggets](../ai/rag/7-steps-to-build-a-simple-rag-system-from-scratch.md)
   - [<mark> HTML mark text element - HTML | MDN](../ai/resources/mark-html-mark-text-element-html-mdn.md)
+  - [>10x More Efficient Pretraining](../ai/community/10x-more-efficient-pretraining.md)
   - [A CEFR-Inspired Classification Framework with Fuzzy C-Means To Automate Assessment of Programming Skills in Scratch](../ai/research/arxiv-2604-00730.md)
   - [A Causal Model for Locating and Unlocking Sandbagging in Model Organisms](../ai/research/arxiv-2608-29461.md)
   - [A Comparative Analysis of Machine Learning Models for Long and Short-Term Forecasting of the Egyptian Stock Market: A Focus on EGX30](../ai/research/arxiv-2607-14391.md)
@@ -25055,6 +25056,7 @@ Resources organized by keyword tags.
   - [AGDN: Learning to Solve Traveling Salesman Problem with Anisotropic Graph Diffusion Network](../ai/research/arxiv-2606-19185.md)
   - [AGRICAM: A Track-Mounted Crop Pollination Monitoring Robot](../ai/rag/arxiv-2608-29237.md)
   - [AI & Vectors | Supabase Docs](../ai/rag/ai-vectors-supabase-docs.md)
+  - [AI 2027 (2025)](../ai/community/ai-2027-2025.md)
   - [AI Adoption Across a Multinational Workforce: Sociotechnical Conditions for GenAI Acceptance in Human Resources](../ai/research/arxiv-2606-17887.md)
   - [AI Document Parsing Software: AI-Ready Data at Scale | LlamaIndex](../ai/rag/ai-document-parsing-software-ai-ready-data-at-scal.md)
   - [AI Fiction in the Wild](../ai/research/arxiv-2606-22748.md)
@@ -25203,7 +25205,6 @@ Resources organized by keyword tags.
   - [Agentomics: Economic Foundations for the Valuation, Attribution, and Pricing of AI Agents in Human-AI Workflows](../ai/agents/arxiv-2606-14769.md)
   - [Agents That Teach: Towards Designing Incidental Learning Back into AI-Assisted Software Development](../ai/rag/arxiv-2607-06101.md)
   - [Ai2: Truly open breakthrough AI](../ai/rag/ai2-truly-open-breakthrough-ai.md)
-  - [AirPods 5](../ai/community/apple-introduces-airpods-5.md)
   - [AlayaWorld: Interactive Long-Horizon World Modeling - Full Technical Report (v1.1)](../ai/research/arxiv-2608-13492.md)
   - [AlayaWorld: Interactive Long-Horizon World Modeling -- Full Technical Report](../ai/research/arxiv-2607-18367.md)
   - [Algebraic Decomposition Theory for Transformer Length Generalization](../ai/research/arxiv-2608-13433.md)
@@ -26956,6 +26957,7 @@ Resources organized by keyword tags.
   - [MongoDB: The World’s Leading Modern Data Platform | MongoDB](../ai/rag/mongodb-the-worlds-leading-modern-data-platform-mo.md)
   - [Monsoonal imprint on late Quaternary landscapes of the Rub’ al Khali Desert | Communications Earth & Environment](../ai/rag/monsoonal-imprint-on-late-quaternary-landscapes-of.md)
   - [Moral Attitudes of Sentient ASI towards Humanity and Implications for AGI Development](../ai/research/arxiv-2607-14998.md)
+  - [More questions about whether researchers can trust OpenAI with unpublished math](../ai/community/more-questions-about-whether-researchers-can-trust.md)
   - [Motion Attribution for Video Generation](../ai/research/arxiv-2601-08828.md)
   - [Mozilla Hacks - YouTube](../ai/rag/mozilla-hacks-youtube.md)
   - [Mozilla Privacy](../ai/resources/mozilla-privacy.md)
@@ -27065,7 +27067,6 @@ Resources organized by keyword tags.
   - [OWASP AI Maturity Assessment | OWASP Foundation](../ai/rag/owasp-ai-maturity-assessment-owasp-foundation.md)
   - [OWASP API Security Project | OWASP Foundation](../ai/rag/owasp-api-security-project-owasp-foundation.md)
   - [OWASP/API-Security](../ai/resources/owasp-api-security.md)
-  - [Object storage is all you need](../ai/community/object-storage-is-all-you-need.md)
   - [Observation-Level Watermarking and Detection for Tabular Data](../ai/research/arxiv-2607-10554.md)
   - [Observations API - Langfuse](../ai/rag/observations-api-langfuse.md)
   - [Official App - GeeksforGeeks](../ai/resources/official-app-geeksforgeeks.md)
@@ -27575,7 +27576,6 @@ Resources organized by keyword tags.
   - [Safeguarding your data - Analytics Help](../ai/rag/safeguarding-your-data-analytics-help.md)
   - [Safety Alignment Illusion: The Cross-Lingual Safety Gap in LLMs](../ai/rag/arxiv-2608-18131.md)
   - [Sakana Fugu Technical Report](../ai/rag/arxiv-2606-21228.md)
-  - [Samsung Debuts zHBM Prototype, Stacking Memory Directly on AI Accelerators](../ai/community/samsung-debuts-zhbm-prototype-stacking-memory-dire.md)
   - [Sangam: Efficiently Serving Diffusion LLMs with the AR Stack](../ai/research/arxiv-2607-04206.md)
   - [SatIR: Scalable High-Recall Constraint-Satisfaction-Based Information Retrieval for Clinical Trials Matching](../ai/rag/arxiv-2604-08849.md)
   - [Saving GPU Hours in LLM Inference System Development and Online Workloads with Simulation and DBMS-Inspired Cache Replacement Policies](../ai/agents/arxiv-2411-07447.md)
@@ -27657,7 +27657,7 @@ Resources organized by keyword tags.
   - [Shared SFT Lessons Across Alignment, Model Organisms, and Toy Models](../ai/research/arxiv-2607-26173.md)
   - [ShielDroid: A Hybrid Approach Integrating Machine and Deep Learning for Android Malware Detection](../ai/research/arxiv-2608-03250.md)
   - [Shielding for Higher-Order Safety](../ai/research/arxiv-2608-03662.md)
-  - [Shopify acquires Tailwind](../ai/community/tailwind-labs-is-joining-shopify.md)
+  - [Shopify moves back to Native from React Native](../web-development/community/shopify-moves-back-to-native-from-react-native.md)
   - [Short-circuit evaluation - Wikipedia](../ai/resources/short-circuit-evaluation-wikipedia.md)
   - [Show Me How You Reason and I'll Tell You Who You Are: Reasoning Graphs for Robust LLM Authorship Attribution](../ai/rag/arxiv-2607-14905.md)
   - [Shows | web.dev](../ai/resources/shows-web-dev.md)
@@ -28402,6 +28402,7 @@ Resources organized by keyword tags.
   - [data.gouv.fr : Plateforme ouverte des données publiques françaises](../ai/rag/data-gouv-fr-plateforme-ouverte-des-donnees-publiq.md)
   - [databrickslabs/doc-qa](../ai/resources/databrickslabs-doc-qa.md)
   - [datacamp/rdocumentation-2.0](../ai/resources/datacamp-rdocumentation-2-0.md)
+  - [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md)
   - [datawhalechina/hello-agents](../ai/rag/datawhalechina-hello-agents.md)
   - [datawhalechina/wow-rag](../ai/rag/datawhalechina-wow-rag.md)
   - [daveebbelaar/ai-cookbook](../ai/agents/daveebbelaar-ai-cookbook.md)
@@ -28538,7 +28539,6 @@ Resources organized by keyword tags.
   - [rePIRL: Learn PRM with Inverse RL for LLM Reasoning](../ai/research/arxiv-2602-07832.md)
   - [real analysis - Hölder continuity of scaling paths - Mathematics Stack Exchange](../ai/rag/real-analysis-holder-continuity-of-scaling-paths-m.md)
   - [research process - How do researchers stay organized when working on multiple papers at once? - Academia Stack Exchange](../ai/resources/research-process-how-do-researchers-stay-organized.md)
-  - [reworkd/AgentGPT](../ai/rag/reworkd-agentgpt.md)
   - [rfc2616.txt](../ai/rag/rfc2616-txt.md)
   - [rfc5378.txt](../ai/rag/rfc5378-txt.md)
   - [rfc6480.html](../ai/rag/rfc6480-html.md)
@@ -35749,6 +35749,7 @@ Resources organized by keyword tags.
   - [Modular RAG: Transforming RAG Systems into LEGO-like Reconfigurable Frameworks](../ai/rag/modular-rag-transforming-rag-systems-into-lego-lik.md)
   - [MongoDB Vector Search | MongoDB](../ai/rag/mongodb-vector-search-mongodb.md)
   - [Monitor agent usage with OpenTelemetry](../ai/agents/monitor-agent-usage-with-opentelemetry.md)
+  - [More questions about whether researchers can trust OpenAI with unpublished math](../ai/community/more-questions-about-whether-researchers-can-trust.md)
   - [Multi-Channel Spread-Spectrum Code Watermarking](../ai/research/arxiv-2607-06009.md)
   - [MultiHop-RAG: Benchmarking Retrieval-Augmented Generation for Multi-Hop Queries](../ai/research/multihop-rag-benchmarking-retrieval-augmented-gene.md)
   - [Multimodal Evaluator Preference Collapse: Cross-Modal Contagion in Self-Evolving Agents](../ai/agents/arxiv-2606-16682.md)
@@ -46452,7 +46453,6 @@ Resources organized by keyword tags.
   - [OWASP AI Maturity Assessment | OWASP Foundation](../ai/rag/owasp-ai-maturity-assessment-owasp-foundation.md)
   - [OWASP API Security Project | OWASP Foundation](../ai/rag/owasp-api-security-project-owasp-foundation.md)
   - [Object Search in Partially-Known Environments via LLM-informed Model-based Planning and Prompt Selection](../ai/rag/arxiv-2603-23800.md)
-  - [Object storage is all you need](../ai/community/object-storage-is-all-you-need.md)
   - [Object-Centric Environment Modeling for Agentic Tasks](../ai/rag/arxiv-2607-02846.md)
   - [Objective-Behavior Alignment: Diagnostics for MORL Policy Selection](../ai/rag/arxiv-2606-21321.md)
   - [Oblivion: Self-Adaptive Agentic Memory Control through Decay-Driven Activation](../ai/rag/arxiv-2604-00131.md)
@@ -49880,6 +49880,10 @@ Resources organized by keyword tags.
   - [🔥 Introduction - Mojo 🔥 GPU Puzzles](../ai/rag/introduction-mojo-gpu-puzzles.md)
   - [🧑‍🍳 Cookbook | Haystack](../ai/rag/cookbook-haystack.md)
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
+
+## react
+
+  - [Shopify moves back to Native from React Native](../web-development/community/shopify-moves-back-to-native-from-react-native.md)
 
 ## reddit
 
@@ -57513,7 +57517,6 @@ Resources organized by keyword tags.
   - [raga-ai-hub/raga-llm-hub](../ai/rag/raga-ai-hub-raga-llm-hub.md)
   - [ray-project/llm-applications](../ai/rag/ray-project-llm-applications.md)
   - [research process - How do researchers stay organized when working on multiple papers at once? - Academia Stack Exchange](../ai/resources/research-process-how-do-researchers-stay-organized.md)
-  - [reworkd/AgentGPT](../ai/rag/reworkd-agentgpt.md)
   - [ritik-prog/n8n-automation-templates-5000](../ai/rag/ritik-prog-n8n-automation-templates-5000.md)
   - [run-llama/LlamaIndexTS](../ai/rag/run-llama-llamaindexts.md)
   - [run-llama/liteparse](../ai/resources/run-llama-liteparse.md)
@@ -60238,4 +60241,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-09-10T18:47:00.836836+05:30*
+*Index generated on 2026-09-11T01:00:17.391741+05:30*

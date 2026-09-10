@@ -13,13 +13,14 @@ collected_at: '2026-09-10T18:30:22.377607+05:30'
 tags:
 - hackernews
 - rag
-status: active
+status: inactive
 resource_id: hackernews:object-storage-is-all-you-need
 first_seen: '2026-09-10T18:30:22.377607+05:30'
 last_seen: '2026-09-10T18:30:22.377607+05:30'
 last_checked: '2026-09-10T18:30:22.377607+05:30'
 health_score: 100
 ---
+
 
 # Object storage is all you need
 

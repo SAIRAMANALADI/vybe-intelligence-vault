@@ -14,13 +14,14 @@ tags:
 - ai
 - frontend_ui
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:shopify-acquires-tailwind
 first_seen: '2026-09-10T00:52:28.944363+05:30'
 last_seen: '2026-09-10T18:30:22.022490+05:30'
 last_checked: '2026-09-10T18:30:22.022490+05:30'
 health_score: 100
 ---
+
 
 # Shopify acquires Tailwind
 

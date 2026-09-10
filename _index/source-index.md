@@ -22846,9 +22846,9 @@ Resources organized by publisher feed and query sources.
   - [Applied AI](../ai/companies/openai/applied-ai.md)
   - [Artificial intelligence](../ai/companies/artificial-intelligence.md)
   - [Audio & acoustics](../ai/companies/audio-acoustics.md)
+  - [Aug 14, 2026AnnouncementsHow Claude’s text watermark works](../ai/companies/anthropic/aug-14-2026announcementshow-claudes-text-watermark.md)
   - [Aug 25, 2026AnnouncementsFunding better evaluations of AI’s impact on wellbeing](../ai/companies/anthropic/aug-25-2026announcementsfunding-better-evaluations.md)
   - [Aug 27, 2026Announcements Expanding our support for scientists](../ai/companies/anthropic/aug-27-2026announcements-expanding-our-support-for.md)
-  - [Aug 31, 2026AnnouncementsImproving our alignment and security efforts](../ai/companies/anthropic/aug-31-2026announcementsimproving-our-alignment-an.md)
   - [Aug 4, 2026AnnouncementsMariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer](../ai/companies/anthropic/aug-4-2026announcementsmariano-florentino-tino-cue.md)
   - [Aug 7, 2026ProductImproving Fable 5's biology safeguards](../ai/companies/anthropic/aug-7-2026productimproving-fable-5-s-biology-safeg.md)
   - [Cloudera and Mistral Partner to Bring Specialized, Sovereign Intelligence to Enterprise Data](../ai/companies/mistral/cloudera-and-mistral-partner-to-bring-specialized.md)
@@ -23769,10 +23769,10 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [AirPods 5](../ai/community/apple-introduces-airpods-5.md)
-  - [Object storage is all you need](../ai/community/object-storage-is-all-you-need.md)
-  - [Samsung Debuts zHBM Prototype, Stacking Memory Directly on AI Accelerators](../ai/community/samsung-debuts-zhbm-prototype-stacking-memory-dire.md)
-  - [Shopify acquires Tailwind](../ai/community/tailwind-labs-is-joining-shopify.md)
+  - [>10x More Efficient Pretraining](../ai/community/10x-more-efficient-pretraining.md)
+  - [AI 2027 (2025)](../ai/community/ai-2027-2025.md)
+  - [More questions about whether researchers can trust OpenAI with unpublished math](../ai/community/more-questions-about-whether-researchers-can-trust.md)
+  - [Shopify moves back to Native from React Native](../web-development/community/shopify-moves-back-to-native-from-react-native.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -27634,4 +27634,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-09-10T18:47:01.067469+05:30*
+*Index generated on 2026-09-11T01:00:17.637281+05:30*
