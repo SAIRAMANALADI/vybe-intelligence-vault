@@ -1,166 +1,6 @@
 {
-  "generated_at": "2026-09-10T10:48:26.084384+05:30",
+  "generated_at": "2026-09-10T15:16:07.599541+05:30",
   "trending_resources": [
-    {
-      "id": "hackernews:understanding-the-recent-ddos-attack-against-read",
-      "title": "Understanding the recent DDoS attack against Read the Docs",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://about.readthedocs.com/blog/2026/09/2026-ddos-attack",
-      "file_path": "ai/community/understanding-the-recent-ddos-attack-against-read.md",
-      "score": 171,
-      "score_change": 38,
-      "rank_change": 1,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "github:datawhalechina/llm-universe",
-      "title": "datawhalechina/llm-universe",
-      "category": "ai/rag",
-      "source_type": "github",
-      "url": "https://github.com/datawhalechina/llm-universe",
-      "file_path": "ai/rag/datawhalechina-llm-universe.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 1008,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "github:raganwald/raganwald.github.com",
-      "title": "raganwald/raganwald.github.com",
-      "category": "ai/rag",
-      "source_type": "github",
-      "url": "https://github.com/raganwald/raganwald.github.com",
-      "file_path": "ai/rag/raganwald-raganwald-github-com.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 1006,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "github:datawhalechina/all-in-rag",
-      "title": "datawhalechina/all-in-rag",
-      "category": "ai/rag",
-      "source_type": "github",
-      "url": "https://github.com/datawhalechina/all-in-rag",
-      "file_path": "ai/rag/datawhalechina-all-in-rag.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 1015,
-      "new_resource": false,
-      "tier": "tier-3"
-    }
-  ],
-  "fastest_rising_tools": [
-    {
-      "id": "github:datawhalechina/all-in-rag",
-      "title": "datawhalechina/all-in-rag",
-      "category": "ai/rag",
-      "source_type": "github",
-      "url": "https://github.com/datawhalechina/all-in-rag",
-      "file_path": "ai/rag/datawhalechina-all-in-rag.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 1015,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "github:datawhalechina/llm-universe",
-      "title": "datawhalechina/llm-universe",
-      "category": "ai/rag",
-      "source_type": "github",
-      "url": "https://github.com/datawhalechina/llm-universe",
-      "file_path": "ai/rag/datawhalechina-llm-universe.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 1008,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "github:raganwald/raganwald.github.com",
-      "title": "raganwald/raganwald.github.com",
-      "category": "ai/rag",
-      "source_type": "github",
-      "url": "https://github.com/raganwald/raganwald.github.com",
-      "file_path": "ai/rag/raganwald-raganwald-github-com.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 1006,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "hackernews:understanding-the-recent-ddos-attack-against-read",
-      "title": "Understanding the recent DDoS attack against Read the Docs",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://about.readthedocs.com/blog/2026/09/2026-ddos-attack",
-      "file_path": "ai/community/understanding-the-recent-ddos-attack-against-read.md",
-      "score": 171,
-      "score_change": 38,
-      "rank_change": 1,
-      "new_resource": false,
-      "tier": "tier-3"
-    }
-  ],
-  "new_discoveries": [
-    {
-      "id": "hackernews:shopify-acquires-tailwind",
-      "title": "Shopify acquires Tailwind",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://tailwindcss.com/blog/tailwind-is-joining-shopify",
-      "file_path": "ai/community/tailwind-labs-is-joining-shopify.md",
-      "score": 950,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
-    {
-      "id": "hackernews:airpods-5",
-      "title": "AirPods 5",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation",
-      "file_path": "ai/community/apple-introduces-airpods-5.md",
-      "score": 414,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
-    {
-      "id": "hackernews:training-a-3-8b-llm-to-0-384-core-for-998-hugo-ver",
-      "title": "Training a 3.8B LLM to 0.384 CORE for $998 – Hugo Vergnes",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://hugovergnes.github.io/little-lm-3-8b",
-      "file_path": "ai/community/training-a-3-8b-llm-to-0-384-core-for-998-hugo-ver.md",
-      "score": 30,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
-    {
-      "id": "hackernews:a-stupid-idea-for-ai-alignment-we-came-with-by-loo",
-      "title": "A Stupid Idea for AI Alignment We Came with by Looking at Specification Gaming",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://slimemoldtimemold.com/2026/08/05/a-stupid-idea-for-ai-alignment-we-came-up-with-by-looking-at-the-list-of-specification-gaming-behaviours",
-      "file_path": "ai/community/a-stupid-idea-for-ai-alignment-we-came-with-by-loo.md",
-      "score": 22,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
     {
       "id": "arxiv:2607.12775",
       "title": "Learning-enabled Acceleration of Scenario-based Model Predictive Control",
@@ -170,8 +10,8 @@
       "file_path": "ai/rag/arxiv-2607-12775.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
+      "rank_change": 25,
+      "new_resource": false,
       "tier": "tier-3"
     },
     {
@@ -183,8 +23,8 @@
       "file_path": "ai/research/arxiv-2607-12726.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
+      "rank_change": 25,
+      "new_resource": false,
       "tier": "tier-3"
     },
     {
@@ -196,8 +36,8 @@
       "file_path": "ai/agents/arxiv-2607-12590.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
+      "rank_change": 25,
+      "new_resource": false,
       "tier": "tier-3"
     },
     {
@@ -209,8 +49,8 @@
       "file_path": "ai/research/arxiv-2606-28287.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
+      "rank_change": 25,
+      "new_resource": false,
       "tier": "tier-3"
     },
     {
@@ -222,8 +62,8 @@
       "file_path": "ai/rag/arxiv-2606-26498.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
+      "rank_change": 25,
+      "new_resource": false,
       "tier": "tier-3"
     },
     {
@@ -235,8 +75,8 @@
       "file_path": "ai/research/arxiv-2606-22473.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
+      "rank_change": 25,
+      "new_resource": false,
       "tier": "tier-3"
     },
     {
@@ -248,8 +88,8 @@
       "file_path": "ai/research/arxiv-2606-22079.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
+      "rank_change": 25,
+      "new_resource": false,
       "tier": "tier-3"
     },
     {
@@ -261,8 +101,8 @@
       "file_path": "ai/research/arxiv-2606-07463.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
+      "rank_change": 25,
+      "new_resource": false,
       "tier": "tier-3"
     },
     {
@@ -274,8 +114,8 @@
       "file_path": "ai/research/arxiv-2605-20434.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
+      "rank_change": 25,
+      "new_resource": false,
       "tier": "tier-3"
     },
     {
@@ -287,17 +127,151 @@
       "file_path": "ai/rag/arxiv-2605-19124.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
+      "rank_change": 25,
+      "new_resource": false,
+      "tier": "tier-3"
+    }
+  ],
+  "fastest_rising_tools": [
+    {
+      "id": "github:infiniflow/ragflow",
+      "title": "infiniflow/ragflow",
+      "category": "ai/rag",
+      "source_type": "github",
+      "url": "https://github.com/infiniflow/ragflow",
+      "file_path": "ai/rag/infiniflow-ragflow-2.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 25439,
+      "new_resource": false,
       "tier": "tier-3"
     },
     {
-      "id": "arxiv:2605.18276",
-      "title": "Geometric Dictionary Learning of Dynamical Systems with Optimal Transport",
+      "id": "github:ruc-nlpir/flashrag",
+      "title": "RUC-NLPIR/FlashRAG",
       "category": "ai/rag",
+      "source_type": "github",
+      "url": "https://github.com/ruc-nlpir/flashrag",
+      "file_path": "ai/rag/ruc-nlpir-flashrag-2.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 25360,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "github:stanford-oval/storm",
+      "title": "stanford-oval/storm",
+      "category": "ai/rag",
+      "source_type": "github",
+      "url": "https://github.com/stanford-oval/storm",
+      "file_path": "ai/rag/stanford-oval-storm.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 17141,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "github:sylphai-inc/githubchat",
+      "title": "SylphAI-Inc/GithubChat",
+      "category": "ai/rag",
+      "source_type": "github",
+      "url": "https://github.com/sylphai-inc/githubchat",
+      "file_path": "ai/rag/sylphai-inc-githubchat.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 1007,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "arxiv:2609.09153",
+      "title": "Procedural Graphs: Self-Evolving Execution Structures for LLM Agents",
+      "category": "ai/community",
       "source_type": "arxiv",
-      "url": "https://arxiv.org/abs/2605.18276",
-      "file_path": "ai/rag/arxiv-2605-18276.md",
+      "url": "https://arxiv.org/abs/2609.09153",
+      "file_path": "ai/community/procedural-graphs-self-evolving-execution-structur.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 1007,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "github:braincrew-lab/langgraph-mcp-agents",
+      "title": "braincrew-lab/langgraph-mcp-agents",
+      "category": "ai/agents",
+      "source_type": "github",
+      "url": "https://github.com/braincrew-lab/langgraph-mcp-agents",
+      "file_path": "ai/agents/braincrew-lab-langgraph-mcp-agents.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 1007,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "github:ai-boost/awesome-harness-engineering",
+      "title": "ai-boost/awesome-harness-engineering",
+      "category": "ai/agents",
+      "source_type": "github",
+      "url": "https://github.com/ai-boost/awesome-harness-engineering",
+      "file_path": "ai/agents/ai-boost-awesome-harness-engineering.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 1007,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "github:muhammadusmangm/claude-code-best-practices",
+      "title": "MuhammadUsmanGM/claude-code-best-practices",
+      "category": "ai/agents",
+      "source_type": "github",
+      "url": "https://github.com/muhammadusmangm/claude-code-best-practices",
+      "file_path": "ai/agents/muhammadusmangm-claude-code-best-practices.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 1007,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "github:greensock/gsap-skills",
+      "title": "greensock/gsap-skills",
+      "category": "ai/agents",
+      "source_type": "github",
+      "url": "https://github.com/greensock/gsap-skills",
+      "file_path": "ai/agents/greensock-gsap-skills.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 1007,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "github:tencent/weknora",
+      "title": "Tencent/WeKnora",
+      "category": "ai/rag",
+      "source_type": "github",
+      "url": "https://github.com/tencent/weknora",
+      "file_path": "ai/rag/tencent-weknora.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 1007,
+      "new_resource": false,
+      "tier": "tier-3"
+    }
+  ],
+  "new_discoveries": [
+    {
+      "id": "blog:quality",
+      "title": "[QUALITY] - ",
+      "category": "",
+      "source_type": "",
+      "url": "",
+      "file_path": ".github/ISSUE_TEMPLATE/quality-feedback.md",
       "score": 0,
       "score_change": 0,
       "rank_change": 0,
@@ -305,32 +279,7 @@
       "tier": "tier-3"
     }
   ],
-  "recently_inactive_resources": [
-    {
-      "id": "hackernews:muse-metas-personal-ai-agent",
-      "title": "Muse – Meta’s personal AI agent",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://ai.meta.com/muse",
-      "file_path": "ai/community/muse-meta-s-personal-ai-agent-features-and-capabil.md"
-    },
-    {
-      "id": "github:otodock/oto-dock",
-      "title": "Show HN: Self-hosted company OS, Claude Code and Codex agents in departments",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://github.com/otodock/oto-dock",
-      "file_path": "ai/community/otodock-oto-dock.md"
-    },
-    {
-      "id": "hackernews:microsoft-says-email-spammers-are-adopting-ascii-s",
-      "title": "Microsoft says email spammers are adopting ASCII smuggling",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers",
-      "file_path": "ai/community/microsoft-says-email-spammers-are-adopting-ascii-s.md"
-    }
-  ],
+  "recently_inactive_resources": [],
   "entered_essential": [],
   "left_essential": []
 }
