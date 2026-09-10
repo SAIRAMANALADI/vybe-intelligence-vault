@@ -10,6 +10,8 @@ New AI templates, platforms, context servers, and interface boilerplates for dev
 | [CASCADE: A Component Ablation and Corpus Audit of a Layered Local Defense for MCP-Based Systems](https://arxiv.org/abs/2604.17125) | `mcp-registry/` | 70 |
 | [Demixing Sparse Signals from Nonlinear Observations using Generalized Non-convex Regularization](https://arxiv.org/abs/2607.10618) | `mcp-registry/` | 70 |
 | [LLM-Guided Retrieval for Prediction of Molecular Perturbation Responses](https://arxiv.org/abs/2608.01734) | `mcp-registry/` | 70 |
+| [Hardware Trojan Threats to Multi-Chiplet Photonic Neural Network Accelerators](https://arxiv.org/abs/2609.06796) | `mcp-registry/` | 70 |
+| [MCPO: Modality-Contrastive Preference Optimization for Multimodal Chain-of-Thought Compression](https://arxiv.org/abs/2609.04947) | `mcp-registry/` | 70 |
 | [A Large-Scale Dataset of MCP Implementations on GitHub](https://arxiv.org/abs/2607.10123) | `mcp-registry/` | 70 |
 | [The Hitchhiker's Guide to Agentic AI: From Foundations to Systems](https://arxiv.org/abs/2606.24937) | `mcp-registry/` | 70 |
 | [EffGen: Enabling Small Language Models as Capable Autonomous Agents](https://arxiv.org/abs/2602.00887) | `mcp-registry/` | 70 |
@@ -22,7 +24,5 @@ New AI templates, platforms, context servers, and interface boilerplates for dev
 | [Unstructured Data Platform for GenAI | Unstructured](https://unstructured.io/) | `mcp-registry/` | 70 |
 | [Fern: Docs, SDKs, and CLIs for your API](https://buildwithfern.com/) | `mcp-registry/` | 70 |
 | [Accelerate AI Development with Databricks: Discover, Govern, and Build with MCP and Agent Bricks | Databricks Blog](https://www.databricks.com/blog/accelerate-ai-development-databricks-discover-govern-and-build-mcp-and-agent-bricks) | `mcp-registry/` | 70 |
-| [ElevenLabs · GitHub](https://github.com/elevenlabs) | `mcp-registry/` | 70 |
-| [From Privacy to Workflow Integrity: Communication-Graph Metadata in Autonomous Agent Interoperability](https://arxiv.org/abs/2606.07150) | `mcp-registry/` | 70 |
 
 More resources will appear as the harvester collects them.

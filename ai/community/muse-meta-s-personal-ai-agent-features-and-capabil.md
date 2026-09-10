@@ -14,13 +14,14 @@ tags:
 - agents
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:muse-metas-personal-ai-agent
 first_seen: '2026-09-09T00:59:51.716700+05:30'
 last_seen: '2026-09-10T04:09:29.448115+05:30'
 last_checked: '2026-09-10T04:09:29.448115+05:30'
 health_score: 100
 ---
+
 
 # Muse – Meta’s personal AI agent
 

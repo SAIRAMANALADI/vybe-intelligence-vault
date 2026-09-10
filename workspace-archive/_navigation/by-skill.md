@@ -151,9 +151,9 @@ This index groups curated resources by target developer skills.
 - [GoogleCloudPlatform/agent-starter-pack](https://github.com/GoogleCloudPlatform/agent-starter-pack) (Tier: `essential` | [`Local File`](../../ai/agents/googlecloudplatform-agent-starter-pack.md))
 - [MobilePA-Bench: Benchmarking Mobile Planner Agents on Complex Real-World Tasks](https://arxiv.org/abs/2608.23035) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2608-23035.md))
 - [ZoomV: Temporal Zoom-in for Efficient Long Video Understanding](https://arxiv.org/abs/2504.01407) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2504-01407.md))
+- [Latent Preference Modeling for Multi-Session Personalized Tool Calling](https://arxiv.org/abs/2604.17886) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2604-17886.md))
 - [TRACE: A Self-Evolving Skill Bank for Consistent, Limit-Aware LLM Agents](https://arxiv.org/abs/2608.22793) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2608-22793.md))
 - [Claw-SWE-Bench: A Benchmark for Evaluating OpenClaw-style Agent Harnesses on Coding Tasks](https://arxiv.org/abs/2606.12344) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2606-12344.md))
-- [Multi-Agent LLM Orchestration Achieves Deterministic, High-Quality Decision Support for Incident Response](https://arxiv.org/abs/2511.15755) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2511-15755.md))
 
 ## GLSL Shaders
 
@@ -216,10 +216,10 @@ This index groups curated resources by target developer skills.
 - [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app) (Tier: `essential` | [`Local File`](../../ai/rag/pathwaycom-llm-app.md))
 - [llamasearchai/OpenAGI-Customization](https://github.com/llamasearchai/OpenAGI-Customization) (Tier: `essential` | [`Local File`](../../ai/resources/llamasearchai-openagi-customization.md))
 - [Flama: a Python framework for development and deployment of production-ready APIs, machine learning, and LLM services](https://arxiv.org/abs/2608.18733) (Tier: `essential` | [`Local File`](../../ai/research/arxiv-2608-18733.md))
+- [Broken on Arrival: Silently Defective LLM Artifacts in Public Model Registries and How to Catch Them](https://arxiv.org/abs/2609.05881) (Tier: `essential` | [`Local File`](../../ai/research/arxiv-2609-05881.md))
 - [Introducing Gemma 3 270M: The compact model for hyper-efficient AI - Google Developers Blog](https://developers.googleblog.com/en/introducing-gemma-3-270m) (Tier: `essential` | [`Local File`](../../ai/rag/introducing-gemma-3-270m-the-compact-model-for-hyp.md))
 - [Flat Score, Amplified Failures: How the Error Budget Masks Damage in Quantized LLM Agents](https://arxiv.org/abs/2607.27275) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2607-27275.md))
 - [FlashDrive: Flash Vision-Language-Action Inference for Autonomous Driving](https://arxiv.org/abs/2608.12932) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2608-12932.md))
-- [HARP: Hadamard-Preconditioned Adaptive Rotation Processor for Extreme LLM Quantization](https://arxiv.org/abs/2605.29843) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2605-29843.md))
 
 ## MCP Integrations
 
@@ -249,10 +249,10 @@ This index groups curated resources by target developer skills.
 - [Job-a-Thon](https://practice.geeksforgeeks.org/events/rec/job-a-thon/) (Tier: `useful` | [`Local File`](../../ai/resources/job-a-thon.md))
 - [Counterfactual Bias Testing for Application Tracking System](https://arxiv.org/abs/2608.26899) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2608-26899.md))
 - [Lost in Phonation: Voice Quality Variation as an Evaluation Dimension for Speech Foundation Models](https://arxiv.org/abs/2510.25577) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2510-25577.md))
+- [Bias in the Tails: How Name-conditioned Evaluative Framing in Resume Summaries Destabilizes LLM-based Hiring](https://arxiv.org/abs/2604.19984) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2604-19984.md))
 - [Probabilistic Salary Prediction with Graph Attention Networks and a Mixture Density Network](https://arxiv.org/abs/2606.11663) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2606-11663.md))
 - [Understanding AI Anxiety in the Workplace: A Multimethod Investigation Using Fear Acquisition Theory and the Technology Acceptance Model](https://arxiv.org/abs/2608.14609) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2608-14609.md))
-- [Gender, Race, and Intersectional Bias in Resume Screening via Language Model Retrieval](https://arxiv.org/abs/2407.20371) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2407-20371.md))
-- [The Eric and Wendy Schmidt AI in Science Fellowship – University of Chicago](https://aiscience.uchicago.edu) (Tier: `useful` | [`Local File`](../../ai/rag/the-eric-and-wendy-schmidt-ai-in-science-fellowshi.md))
+- [PUID: A Personalized Deconfounding Framework for Recommender Systems under Hidden Confounding](https://arxiv.org/abs/2605.21066) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2605-21066.md))
 
 ## Model Optimization
 
@@ -260,10 +260,10 @@ This index groups curated resources by target developer skills.
 - [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app) (Tier: `essential` | [`Local File`](../../ai/rag/pathwaycom-llm-app.md))
 - [llamasearchai/OpenAGI-Customization](https://github.com/llamasearchai/OpenAGI-Customization) (Tier: `essential` | [`Local File`](../../ai/resources/llamasearchai-openagi-customization.md))
 - [Flama: a Python framework for development and deployment of production-ready APIs, machine learning, and LLM services](https://arxiv.org/abs/2608.18733) (Tier: `essential` | [`Local File`](../../ai/research/arxiv-2608-18733.md))
+- [Broken on Arrival: Silently Defective LLM Artifacts in Public Model Registries and How to Catch Them](https://arxiv.org/abs/2609.05881) (Tier: `essential` | [`Local File`](../../ai/research/arxiv-2609-05881.md))
 - [Introducing Gemma 3 270M: The compact model for hyper-efficient AI - Google Developers Blog](https://developers.googleblog.com/en/introducing-gemma-3-270m) (Tier: `essential` | [`Local File`](../../ai/rag/introducing-gemma-3-270m-the-compact-model-for-hyp.md))
 - [Flat Score, Amplified Failures: How the Error Budget Masks Damage in Quantized LLM Agents](https://arxiv.org/abs/2607.27275) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2607-27275.md))
 - [FlashDrive: Flash Vision-Language-Action Inference for Autonomous Driving](https://arxiv.org/abs/2608.12932) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2608-12932.md))
-- [HARP: Hadamard-Preconditioned Adaptive Rotation Processor for Extreme LLM Quantization](https://arxiv.org/abs/2605.29843) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2605-29843.md))
 
 ## Model Selection
 
@@ -326,10 +326,10 @@ This index groups curated resources by target developer skills.
 - [Protein Design with Agent Rosetta: A Case Study for Specialized Scientific Agents](https://arxiv.org/abs/2603.15952) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2603-15952.md))
 - [Dissociative Identity: Language Model Agents Lack Grounding for Reputation Mechanisms](https://arxiv.org/abs/2605.30169) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2605-30169.md))
 - [Visual prompt engineering for video models](https://arxiv.org/abs/2607.25537) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2607-25537.md))
+- [Reducing Hallucinations in LLM-based Scientific Literature Analysis Using Peer Context Outlier Detection](https://arxiv.org/abs/2604.01461) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2604-01461.md))
 - [LLM-as-Judge in Education: A Curriculum-Grounded Marking Pipeline](https://arxiv.org/abs/2606.17507) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2606-17507.md))
 - [ConnectED: A Curriculum-Aligned AI System for Vietnamese Instructional Lesson Planning and Student Learning](https://arxiv.org/abs/2607.28647) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2607-28647.md))
 - [Generative AI | Build AI-powered apps with speed, security, and scalability | Firebase](https://firebase.google.com/products/generative-ai) (Tier: `useful` | [`Local File`](../../ai/rag/generative-ai-build-ai-powered-apps-with-speed-sec.md))
-- [Multimodal Language Models as Text-to-Image Model Evaluators](https://arxiv.org/abs/2505.00759) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2505-00759.md))
 
 ## REST API Integration
 
@@ -448,9 +448,9 @@ This index groups curated resources by target developer skills.
 - [GoogleCloudPlatform/agent-starter-pack](https://github.com/GoogleCloudPlatform/agent-starter-pack) (Tier: `essential` | [`Local File`](../../ai/agents/googlecloudplatform-agent-starter-pack.md))
 - [MobilePA-Bench: Benchmarking Mobile Planner Agents on Complex Real-World Tasks](https://arxiv.org/abs/2608.23035) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2608-23035.md))
 - [ZoomV: Temporal Zoom-in for Efficient Long Video Understanding](https://arxiv.org/abs/2504.01407) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2504-01407.md))
+- [Latent Preference Modeling for Multi-Session Personalized Tool Calling](https://arxiv.org/abs/2604.17886) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2604-17886.md))
 - [TRACE: A Self-Evolving Skill Bank for Consistent, Limit-Aware LLM Agents](https://arxiv.org/abs/2608.22793) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2608-22793.md))
 - [Claw-SWE-Bench: A Benchmark for Evaluating OpenClaw-style Agent Harnesses on Coding Tasks](https://arxiv.org/abs/2606.12344) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2606-12344.md))
-- [Multi-Agent LLM Orchestration Achieves Deterministic, High-Quality Decision Support for Incident Response](https://arxiv.org/abs/2511.15755) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2511-15755.md))
 
 ## Structured Outputs
 
@@ -458,10 +458,10 @@ This index groups curated resources by target developer skills.
 - [Protein Design with Agent Rosetta: A Case Study for Specialized Scientific Agents](https://arxiv.org/abs/2603.15952) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2603-15952.md))
 - [Dissociative Identity: Language Model Agents Lack Grounding for Reputation Mechanisms](https://arxiv.org/abs/2605.30169) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2605-30169.md))
 - [Visual prompt engineering for video models](https://arxiv.org/abs/2607.25537) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2607-25537.md))
+- [Reducing Hallucinations in LLM-based Scientific Literature Analysis Using Peer Context Outlier Detection](https://arxiv.org/abs/2604.01461) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2604-01461.md))
 - [LLM-as-Judge in Education: A Curriculum-Grounded Marking Pipeline](https://arxiv.org/abs/2606.17507) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2606-17507.md))
 - [ConnectED: A Curriculum-Aligned AI System for Vietnamese Instructional Lesson Planning and Student Learning](https://arxiv.org/abs/2607.28647) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2607-28647.md))
 - [Generative AI | Build AI-powered apps with speed, security, and scalability | Firebase](https://firebase.google.com/products/generative-ai) (Tier: `useful` | [`Local File`](../../ai/rag/generative-ai-build-ai-powered-apps-with-speed-sec.md))
-- [Multimodal Language Models as Text-to-Image Model Evaluators](https://arxiv.org/abs/2505.00759) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2505-00759.md))
 
 ## TailwindCSS
 
@@ -530,4 +530,4 @@ This index groups curated resources by target developer skills.
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) (Tier: `essential` | [`Local File`](../../ai/rag/deepset-ai-haystack.md))
 
 ---
-*Last updated: 2026-09-10 04:27 IST*
+*Last updated: 2026-09-10 10:47 IST*

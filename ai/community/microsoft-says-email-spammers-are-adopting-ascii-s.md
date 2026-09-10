@@ -13,13 +13,14 @@ collected_at: '2026-09-10T04:09:28.811573+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:microsoft-says-email-spammers-are-adopting-ascii-s
 first_seen: '2026-09-10T04:09:28.811573+05:30'
 last_seen: '2026-09-10T04:09:28.811573+05:30'
 last_checked: '2026-09-10T04:09:28.811573+05:30'
 health_score: 100
 ---
+
 
 # Microsoft says email spammers are adopting ASCII smuggling
 

@@ -75,8 +75,8 @@ This index groups resources by direct developer use-cases and design goals.
 - [ElevenLabs · GitHub](https://github.com/elevenlabs) (Category: `frontend-ai-ui` | [`Local File`](../../ai/rag/elevenlabs-github.md))
 - [MobilePA-Bench: Benchmarking Mobile Planner Agents on Complex Real-World Tasks](https://arxiv.org/abs/2608.23035) (Category: `llm-app-templates` | [`Local File`](../../ai/agents/arxiv-2608-23035.md))
 - [ZoomV: Temporal Zoom-in for Efficient Long Video Understanding](https://arxiv.org/abs/2504.01407) (Category: `llm-app-templates` | [`Local File`](../../ai/agents/arxiv-2504-01407.md))
+- [Latent Preference Modeling for Multi-Session Personalized Tool Calling](https://arxiv.org/abs/2604.17886) (Category: `llm-app-templates` | [`Local File`](../../ai/agents/arxiv-2604-17886.md))
 - [TRACE: A Self-Evolving Skill Bank for Consistent, Limit-Aware LLM Agents](https://arxiv.org/abs/2608.22793) (Category: `llm-app-templates` | [`Local File`](../../ai/agents/arxiv-2608-22793.md))
-- [Claw-SWE-Bench: A Benchmark for Evaluating OpenClaw-style Agent Harnesses on Coding Tasks](https://arxiv.org/abs/2606.12344) (Category: `llm-app-templates` | [`Local File`](../../ai/agents/arxiv-2606-12344.md))
 
 ## WebGL / WebGPU 3D Experiences & Creative Design
 
@@ -101,4 +101,4 @@ This index groups resources by direct developer use-cases and design goals.
 - [Can Large Language Models Identify Meaningful Touchpoints in Conversion Attribution?](https://arxiv.org/abs/2608.28649) (Category: `learning-paths` | [`Local File`](../../ai/rag/arxiv-2608-28649.md))
 
 ---
-*Last updated: 2026-09-10 04:27 IST*
+*Last updated: 2026-09-10 10:47 IST*

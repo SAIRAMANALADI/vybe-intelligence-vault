@@ -32,7 +32,7 @@ selection_reason:
 
 ## Summary
 
-Trending Hugging Face model: google-t5/t5-small (Likes: 600, Downloads: 23855459)
+Trending Hugging Face model: google-t5/t5-small (Likes: 601, Downloads: 23855459)
 
 ## Use Cases
 

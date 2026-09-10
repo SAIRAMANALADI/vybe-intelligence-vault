@@ -4,29 +4,34 @@ Distribution of original signal ingestion sources across processed URLs:
 
 | Source Domain | Resource Count |
 | :--- | ---: |
-| arxiv | 21710 |
-| github | 1015 |
+| arxiv | 22888 |
+| github | 1014 |
+| huggingface | 912 |
+| nextjs.org | 77 |
 | semanticscholar.org | 68 |
 | youtube | 66 |
 | support.google.com | 59 |
-| huggingface | 25 |
+| react.dev | 25 |
 | apple.com | 23 |
 | developers.google.com | 23 |
-| react.dev | 22 |
 | doi.org | 20 |
 | developer.chrome.com | 20 |
 | cloud.google.com | 19 |
 | developer.android.com | 17 |
 | web.dev | 16 |
+| microsoft.com | 15 |
+| openai.com | 15 |
 | firebase.google.com | 14 |
 | support.apple.com | 14 |
 | learn.microsoft.com | 14 |
 | gohugo.io | 13 |
 | geeksforgeeks.org | 13 |
+| anthropic.com | 11 |
 | developer.mozilla.org | 11 |
+| mistral.ai | 10 |
+| deepmind.google | 10 |
 | code.visualstudio.com | 10 |
 | sbert.net | 10 |
-| openai.com | 10 |
 | atlassian.com | 10 |
 | nist.gov | 10 |
 | cloudflare.com | 9 |
@@ -59,9 +64,7 @@ Distribution of original signal ingestion sources across processed URLs:
 | github.blog | 5 |
 | w3c.github.io | 5 |
 | nodejs.org | 5 |
-| microsoft.com | 5 |
 | datacamp.com | 5 |
-| deepmind.google | 5 |
 | neo4j.com | 5 |
 | docs.aws.amazon.com | 5 |
 | collabnix.com | 5 |
@@ -108,7 +111,6 @@ Distribution of original signal ingestion sources across processed URLs:
 | tech.cornell.edu | 4 |
 | csrc.nist.gov | 4 |
 | tailwindcss.com | 3 |
-| ai.meta.com | 3 |
 | analyticsvidhya.com | 3 |
 | policies.google.com | 3 |
 | source.android.com | 3 |
@@ -165,8 +167,6 @@ Distribution of original signal ingestion sources across processed URLs:
 | tubitak.gov.tr | 3 |
 | torproject.org | 3 |
 | images.cnrs.fr | 3 |
-| nextjs.org | 3 |
-| arstechnica.com | 2 |
 | git-scm.com | 2 |
 | barchart.com | 2 |
 | jamsadr.com | 2 |
@@ -185,6 +185,7 @@ Distribution of original signal ingestion sources across processed URLs:
 | opencollective.com | 2 |
 | central.sonatype.com | 2 |
 | login.llamaindex.ai | 2 |
+| ai.meta.com | 2 |
 | algolia.com | 2 |
 | schmidtsciences.org | 2 |
 | pytorch.org | 2 |
@@ -232,7 +233,6 @@ Distribution of original signal ingestion sources across processed URLs:
 | news.cornell.edu | 2 |
 | research.cornell.edu | 2 |
 | compsust.net | 2 |
-| anthropic.com | 2 |
 | android-developers.googleblog.com | 2 |
 | linuxfoundation.org | 2 |
 | harvardbusiness.org | 2 |
@@ -304,6 +304,8 @@ Distribution of original signal ingestion sources across processed URLs:
 | anaconda.com | 2 |
 | globalprivacyassembly.com | 2 |
 | about.readthedocs.com | 1 |
+| hugovergnes.github.io | 1 |
+| slimemoldtimemold.com | 1 |
 | githubstatus.com | 1 |
 | incident.io | 1 |
 | sysdebug.com | 1 |
@@ -412,6 +414,7 @@ Distribution of original signal ingestion sources across processed URLs:
 | parsintl.com | 1 |
 | cursor.com | 1 |
 | archive.org | 1 |
+| arstechnica.com | 1 |
 | httparchive.org | 1 |
 | alphaxiv.org | 1 |
 | jupyterlab.rtfd.io | 1 |

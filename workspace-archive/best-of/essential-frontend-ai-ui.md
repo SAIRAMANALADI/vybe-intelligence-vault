@@ -48,6 +48,11 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `82` | **Path**: [`arxiv-2504-01407.md`](../../ai/agents/arxiv-2504-01407.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
+### [Latent Preference Modeling for Multi-Session Personalized Tool Calling](https://arxiv.org/abs/2604.17886)
+- **Category**: `ai/agents` | **Kind**: `FRAMEWORK` | **Tier**: `USEFUL`
+- **Score**: `82` | **Path**: [`arxiv-2604-17886.md`](../../ai/agents/arxiv-2604-17886.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
+
 ### [TRACE: A Self-Evolving Skill Bank for Consistent, Limit-Aware LLM Agents](https://arxiv.org/abs/2608.22793)
 - **Category**: `ai/agents` | **Kind**: `BENCHMARK` | **Tier**: `USEFUL`
 - **Score**: `82` | **Path**: [`arxiv-2608-22793.md`](../../ai/agents/arxiv-2608-22793.md)
@@ -61,11 +66,6 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 ### [Multi-Agent LLM Orchestration Achieves Deterministic, High-Quality Decision Support for Incident Response](https://arxiv.org/abs/2511.15755)
 - **Category**: `ai/agents` | **Kind**: `FRAMEWORK` | **Tier**: `USEFUL`
 - **Score**: `82` | **Path**: [`arxiv-2511-15755.md`](../../ai/agents/arxiv-2511-15755.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
-
-### [ATLAS: Dual-Horizon Diagnostic Evaluation for Industrial Tool-Use Agents](https://arxiv.org/abs/2608.30685)
-- **Category**: `ai/agents` | **Kind**: `FRAMEWORK` | **Tier**: `USEFUL`
-- **Score**: `82` | **Path**: [`arxiv-2608-30685.md`](../../ai/agents/arxiv-2608-30685.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
 
@@ -88,4 +88,4 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 *Curated by Harvester Engine*
 
-*Last updated: 2026-09-10 04:27 IST*
+*Last updated: 2026-09-10 10:47 IST*

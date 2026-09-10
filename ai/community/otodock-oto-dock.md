@@ -14,13 +14,14 @@ tags:
 - agents
 - anthropic
 - hackernews
-status: active
+status: inactive
 resource_id: github:otodock/oto-dock
 first_seen: '2026-09-10T00:52:31.230384+05:30'
 last_seen: '2026-09-10T04:09:29.692689+05:30'
 last_checked: '2026-09-10T04:09:29.692689+05:30'
 health_score: 100
 ---
+
 
 # Show HN: Self-hosted company OS, Claude Code and Codex agents in departments
 
