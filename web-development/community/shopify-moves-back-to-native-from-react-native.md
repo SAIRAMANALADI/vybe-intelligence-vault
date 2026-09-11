@@ -14,13 +14,14 @@ tags:
 - frontend_ui
 - hackernews
 - react
-status: active
+status: inactive
 resource_id: hackernews:shopify-is-moving-from-react-native-back-to-swift
 first_seen: '2026-09-11T00:43:48.359034+05:30'
 last_seen: '2026-09-11T18:24:59.991880+05:30'
 last_checked: '2026-09-11T18:24:59.991880+05:30'
 health_score: 100
 ---
+
 
 # Shopify is moving from React Native back to Swift and Kotlin
 

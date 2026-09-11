@@ -13,13 +13,14 @@ collected_at: '2026-09-11T18:24:59.180530+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:the-waymo-effect-how-ai-is-quietly-making-research
 first_seen: '2026-09-11T18:24:59.180530+05:30'
 last_seen: '2026-09-11T18:24:59.180530+05:30'
 last_checked: '2026-09-11T18:24:59.180530+05:30'
 health_score: 100
 ---
+
 
 # The Waymo effect: how AI is quietly making research less collaborative
 

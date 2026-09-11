@@ -14,13 +14,14 @@ tags:
 - ai
 - anthropic
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:moonshot-serves-claude-instead-of-kimi-and-collect
 first_seen: '2026-09-11T18:25:01.137653+05:30'
 last_seen: '2026-09-11T18:25:01.137653+05:30'
 last_checked: '2026-09-11T18:25:01.137653+05:30'
 health_score: 100
 ---
+
 
 # Moonshot serves Claude instead of Kimi and collects exchanges for model training
 

@@ -12,7 +12,7 @@ Welcome to your private local Intelligence Vault.
 - **ai/companies/mistral**: 10 files
 - **ai/companies/openai**: 5 files
 - **ai/models**: 806 files
-- **ai/rag**: 8534 files
+- **ai/rag**: 8529 files
 - **ai/releases**: 1 files
 - **ai/research**: 12693 files
 - **ai/resources**: 1537 files
@@ -20,7 +20,6 @@ Welcome to your private local Intelligence Vault.
 
 ## Web Development
 
-- **web-development/community**: 1 files
 - **web-development/framer-motion**: 3 files
 - **web-development/gsap**: 3 files
 - **web-development/nextjs**: 75 files
@@ -58,4 +57,4 @@ Welcome to your private local Intelligence Vault.
 - [Skill Index](skill-index.md)
 
 ---
-*Index generated on 2026-09-11T18:41:17.274967+05:30*
+*Index generated on 2026-09-12T01:00:54.559720+05:30*

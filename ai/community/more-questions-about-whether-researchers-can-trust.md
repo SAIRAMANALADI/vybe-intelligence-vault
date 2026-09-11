@@ -15,13 +15,14 @@ tags:
 - ai
 - hackernews
 - openai
-status: active
+status: inactive
 resource_id: hackernews:more-questions-about-whether-researchers-can-trust
 first_seen: '2026-09-11T00:43:47.990407+05:30'
 last_seen: '2026-09-11T18:25:01.485865+05:30'
 last_checked: '2026-09-11T18:25:01.485865+05:30'
 health_score: 100
 ---
+
 
 # More questions about whether researchers can trust OpenAI with unpublished math
 
