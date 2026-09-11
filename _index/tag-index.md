@@ -6283,10 +6283,10 @@ Resources organized by keyword tags.
 
 ## ai
 
+  - [A Design Space Exploration of Async/Await](../ai/community/a-design-space-exploration-of-async-await.md)
   - [A misalignment of AI in mathematics](../ai/community/a-misalignment-of-ai-in-mathematics.md)
+  - [CIA Releases President's Daily Briefs in Commemoration of 9/11](../ai/community/cia-releases-president-s-daily-briefs-in-commemora.md)
   - [Claude is only available to people over 18 years](../ai/community/claude-is-no-longer-available-for-minors.md)
-  - [Copying login keychains between Macs fails on Secure Enclave Macs with Tahoe](../ai/community/copying-login-keychains-between-macs-fails-on-secu.md)
-  - [Show HN: Hacker News, Without AI](../ai/community/show-hn-hacker-news-without-ai.md)
 
 ## animation
 
@@ -13843,6 +13843,7 @@ Resources organized by keyword tags.
   - [Partial Symmetry Detection for 3D Geometry using Contrastive Learning with Geodesic Point Cloud Patches](../ai/research/arxiv-2312-08230.md)
   - [Participatory provenance as representational auditing for AI-mediated public consultation](../ai/rag/arxiv-2604-20711.md)
   - [Particle GFlowNets: Rethinking Generative Marginalization Models](../ai/research/arxiv-2609-11538.md)
+  - [ParticleMedia/RAGTruth](../ai/rag/particlemedia-ragtruth.md)
   - [Partition-Aware Unlearning for Removing Spurious Correlations in Large Vision-Language Models](../ai/research/arxiv-2608-29996.md)
   - [Partner-aware Peptide-Protein Interaction Prediction and Target-conditioned Peptide Generation](../ai/research/arxiv-2604-18467.md)
   - [Pass the Baton: Trajectory-Relayed On-Policy Distillation](../ai/rag/arxiv-2607-26057.md)
@@ -25326,6 +25327,7 @@ Resources organized by keyword tags.
   - [A Data-Driven Framework for Identifying and Prioritizing RPA Opportunities in Healthcare Processes](../ai/research/arxiv-2609-09137.md)
   - [A Dataset and Model for Imputing Water Surface Elevation on a Large and Extremely Sparse Spatiotemporal Graph](../ai/rag/arxiv-2609-11580.md)
   - [A Definition and Roadmap for World Models](../ai/research/arxiv-2607-06401.md)
+  - [A Design Space Exploration of Async/Await](../ai/community/a-design-space-exploration-of-async-await.md)
   - [A Distributionally Robust Optimisation Approach to Fair Credit Scoring](../ai/research/arxiv-2402-01811.md)
   - [A Docker Tutorial for Beginners](../ai/rag/a-docker-tutorial-for-beginners.md)
   - [A Dynamic Fusion Large Language Model for Traffic Flow Prediction](../ai/research/arxiv-2609-11314.md)
@@ -25847,6 +25849,7 @@ Resources organized by keyword tags.
   - [CAW | Your Partner in Product Engineering](../ai/resources/caw-your-partner-in-product-engineering.md)
   - [CFO.com | News for CFOs](../ai/rag/cfo-com-news-for-cfos.md)
   - [CHARMING PYTHON #19 (W-50039) -- Even More Functional Programming in Python --](../ai/resources/charming-python-19-w-50039-even-more-functional-pr.md)
+  - [CIA Releases President's Daily Briefs in Commemoration of 9/11](../ai/community/cia-releases-president-s-daily-briefs-in-commemora.md)
   - [CIDER Overview | CIDER](../ai/resources/cider-overview-cider.md)
   - [CIPHER: Causal Intervention Pathways for Healthcare Equity and Robustness](../ai/rag/arxiv-2607-02596.md)
   - [CIRCT](../ai/rag/circt.md)
@@ -26054,7 +26057,6 @@ Resources organized by keyword tags.
   - [Cookbooks | Cohere](../ai/rag/cookbooks-cohere.md)
   - [Cookies Policies | Linux Foundation](../ai/rag/cookies-policies-linux-foundation.md)
   - [Cookies policy | Magnific](../ai/rag/cookies-policy-magnific.md)
-  - [Copying login keychains between Macs fails on Secure Enclave Macs with Tahoe](../ai/community/copying-login-keychains-between-macs-fails-on-secu.md)
   - [Copyright Tools: Rightsholders and Creators - How YouTube Works](../ai/resources/copyright-tools-rightsholders-and-creators-how-you.md)
   - [Cornell AI Initiative](../ai/rag/cornell-ai-initiative.md)
   - [Cornell AI4S Initiative – Artificial Intelligence for Sustainability](../ai/resources/cornell-ai4s-initiative-artificial-intelligence-fo.md)
@@ -28061,7 +28063,6 @@ Resources organized by keyword tags.
   - [ShielDroid: A Hybrid Approach Integrating Machine and Deep Learning for Android Malware Detection](../ai/research/arxiv-2608-03250.md)
   - [Shielding for Higher-Order Safety](../ai/research/arxiv-2608-03662.md)
   - [Short-circuit evaluation - Wikipedia](../ai/resources/short-circuit-evaluation-wikipedia.md)
-  - [Show HN: Hacker News, Without AI](../ai/community/show-hn-hacker-news-without-ai.md)
   - [Show Me How You Reason and I'll Tell You Who You Are: Reasoning Graphs for Robust LLM Authorship Attribution](../ai/rag/arxiv-2607-14905.md)
   - [Shows | web.dev](../ai/resources/shows-web-dev.md)
   - [Shubhamsaboo/awesome-llm-apps](../ai/rag/shubhamsaboo-awesome-llm-apps.md)
@@ -30661,6 +30662,7 @@ Resources organized by keyword tags.
   - [A Data-Driven Interpolation Method on Smooth Manifolds via Diffusion Processes and Voronoi Tessellations](../ai/research/arxiv-2509-03758.md)
   - [A Data-Efficient Analytical Prior Machine Learning Framework for Sound Reduction Frequency Prediction in Helmholtz Resonators](../ai/research/arxiv-2608-16873.md)
   - [A Deep Reinforcement Learning Algorithm for the Vehicle Routing Problem with Stochastic Demands and Outsourcing](../ai/rag/arxiv-2607-16875.md)
+  - [A Design Space Exploration of Async/Await](../ai/community/a-design-space-exploration-of-async-await.md)
   - [A Digital Twin Framework for Traffic-Aware UAV Pavement Monitoring in Open-Traffic Conditions](../ai/rag/arxiv-2606-20742.md)
   - [A Docker Tutorial for Beginners](../ai/rag/a-docker-tutorial-for-beginners.md)
   - [A Dual-Hypothesis Reasoning Framework for LLM Guardrails](../ai/research/arxiv-2607-17575.md)
@@ -61033,4 +61035,4 @@ Resources organized by keyword tags.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-09-12T01:00:55.053668+05:30*
+*Index generated on 2026-09-12T04:28:18.991907+05:30*

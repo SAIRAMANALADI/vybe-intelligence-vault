@@ -5,20 +5,20 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://support.claude.com/en/articles/15171100-age-assurance-on-claude
 hn_url: https://news.ycombinator.com/item?id=49656225
-score: 416
+score: 533
 author: Muhammad523
-comments_count: 478
+comments_count: 573
 published_at: '2026-09-11T16:18:00+05:30'
-collected_at: '2026-09-12T00:44:08.599632+05:30'
+collected_at: '2026-09-12T04:11:57.504658+05:30'
 tags:
 - ai
 - anthropic
 - hackernews
 status: active
-resource_id: hackernews:claude-is-no-longer-available-for-minors
+resource_id: hackernews:claude-is-only-available-to-people-over-18-years
 first_seen: '2026-09-11T18:25:00.046946+05:30'
-last_seen: '2026-09-12T00:44:08.599632+05:30'
-last_checked: '2026-09-12T00:44:08.599632+05:30'
+last_seen: '2026-09-12T04:11:57.504658+05:30'
+last_checked: '2026-09-12T04:11:57.504658+05:30'
 health_score: 100
 ---
 
@@ -26,7 +26,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by Muhammad523. Score: 416, Comments: 478.
+Hacker News story by Muhammad523. Score: 533, Comments: 573.
 Original Link: https://support.claude.com/en/articles/15171100-age-assurance-on-claude
 
 ## Why It Matters
@@ -36,8 +36,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: Muhammad523
-- Score: 416 Upvotes
-- Comments: 478 Discussions
+- Score: 533 Upvotes
+- Comments: 573 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49656225
 - Original Article: https://support.claude.com/en/articles/15171100-age-assurance-on-claude
 

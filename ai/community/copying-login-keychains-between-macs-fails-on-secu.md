@@ -13,13 +13,14 @@ collected_at: '2026-09-12T00:44:10.977548+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:copying-login-keychains-between-macs-fails-on-secu
 first_seen: '2026-09-12T00:44:10.977548+05:30'
 last_seen: '2026-09-12T00:44:10.977548+05:30'
 last_checked: '2026-09-12T00:44:10.977548+05:30'
 health_score: 100
 ---
+
 
 # Copying login keychains between Macs fails on Secure Enclave Macs with Tahoe
 

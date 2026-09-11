@@ -24201,11 +24201,11 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
+  - [A Design Space Exploration of Async/Await](../ai/community/a-design-space-exploration-of-async-await.md)
   - [A misalignment of AI in mathematics](../ai/community/a-misalignment-of-ai-in-mathematics.md)
+  - [CIA Releases President's Daily Briefs in Commemoration of 9/11](../ai/community/cia-releases-president-s-daily-briefs-in-commemora.md)
   - [Claude is only available to people over 18 years](../ai/community/claude-is-no-longer-available-for-minors.md)
-  - [Copying login keychains between Macs fails on Secure Enclave Macs with Tahoe](../ai/community/copying-login-keychains-between-macs-fails-on-secu.md)
   - [Litelm: LiteLLM Without the Bloat](../ai/community/kennethwolters-litelm.md)
-  - [Show HN: Hacker News, Without AI](../ai/community/show-hn-hacker-news-without-ai.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -28067,4 +28067,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-09-12T01:00:55.301433+05:30*
+*Index generated on 2026-09-12T04:28:19.294632+05:30*

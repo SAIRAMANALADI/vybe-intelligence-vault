@@ -304,9 +304,9 @@ Distribution of original signal ingestion sources across processed URLs:
 | anaconda.com | 2 |
 | globalprivacyassembly.com | 2 |
 | support.claude.com | 1 |
-| unslop.news | 1 |
-| derflounder.wordpress.com | 1 |
 | mathandai.org | 1 |
+| cia.gov | 1 |
+| cel.cs.brown.edu | 1 |
 | githubstatus.com | 1 |
 | incident.io | 1 |
 | sysdebug.com | 1 |
