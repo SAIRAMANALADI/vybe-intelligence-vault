@@ -5,11 +5,11 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://developers.openai.com/api/docs/guides/agents-api/overview
 hn_url: https://news.ycombinator.com/item?id=49649213
-score: 50
+score: 186
 author: aquir
-comments_count: 44
+comments_count: 117
 published_at: '2026-09-11T01:13:22+05:30'
-collected_at: '2026-09-11T04:11:14.788372+05:30'
+collected_at: '2026-09-11T10:20:08.640084+05:30'
 tags:
 - agents
 - ai
@@ -18,8 +18,8 @@ tags:
 status: active
 resource_id: hackernews:openai-agents-api
 first_seen: '2026-09-11T04:11:14.788372+05:30'
-last_seen: '2026-09-11T04:11:14.788372+05:30'
-last_checked: '2026-09-11T04:11:14.788372+05:30'
+last_seen: '2026-09-11T10:20:08.640084+05:30'
+last_checked: '2026-09-11T10:20:08.640084+05:30'
 health_score: 100
 ---
 
@@ -27,7 +27,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by aquir. Score: 50, Comments: 44.
+Hacker News story by aquir. Score: 186, Comments: 117.
 Original Link: https://developers.openai.com/api/docs/guides/agents-api/overview
 
 ## Why It Matters
@@ -37,8 +37,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: aquir
-- Score: 50 Upvotes
-- Comments: 44 Discussions
+- Score: 186 Upvotes
+- Comments: 117 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49649213
 - Original Article: https://developers.openai.com/api/docs/guides/agents-api/overview
 

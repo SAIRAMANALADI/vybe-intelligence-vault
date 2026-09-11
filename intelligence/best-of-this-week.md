@@ -7,6 +7,7 @@ Curated highlights from the current week's collection, representing high-quality
 *   [HALLMARK: Diagnosing Three Failure Modes in LLM Citation Verifiers](https://arxiv.org/abs/2607.18360) (Score: 70) - Category: `ai-coding-agents/`
 *   [Specification - Model Context Protocol](https://modelcontextprotocol.io/specification/latest) (Score: 70) - Category: `ai-coding-agents/`
 *   [huangjia2019/ai-agents](https://github.com/huangjia2019/ai-agents) (Score: 70) - Category: `ai-coding-agents/`
+*   [Strangers to Themselves: What Language Models Say About Themselves Is Generic](https://arxiv.org/abs/2609.09899) (Score: 70) - Category: `ai-coding-agents/`
 *   [Evaluating Multimodal LLMs as Generalist Vision-Language-Action Agents for Drone Control: Commanding, Approaching, Tracking and Searching](https://arxiv.org/abs/2609.01404) (Score: 70) - Category: `ai-coding-agents/`
 *   [UniToolCall: Unifying Tool-Use Representation, Data, and Evaluation for LLM Agents](https://arxiv.org/abs/2604.11557) (Score: 70) - Category: `ai-coding-agents/`
 *   [Why Sampling Is Not Choosing: Intentionality, Agency, and Moral Responsibility in Large Language Models](https://arxiv.org/abs/2606.13441) (Score: 70) - Category: `ai-coding-agents/`
@@ -18,6 +19,5 @@ Curated highlights from the current week's collection, representing high-quality
 *   [Consistent Zero-Shot Imitation with Contrastive Goal Inference](https://arxiv.org/abs/2510.17059) (Score: 70) - Category: `ai-coding-agents/`
 *   [ARQ: Agentic CodeQL Query Refinement for C/C++ Vulnerability Detection](https://arxiv.org/abs/2608.20637) (Score: 70) - Category: `ai-coding-agents/`
 *   [TrojanGYM: A Detector-in-the-Loop LLM for Adaptive RTL Hardware Trojan Insertion](https://arxiv.org/abs/2601.17178) (Score: 70) - Category: `ai-coding-agents/`
-*   [Learning from Online User Feedback for Shopping Agents](https://arxiv.org/abs/2608.11604) (Score: 70) - Category: `ai-coding-agents/`
 
 More resources will appear as the harvester collects them.

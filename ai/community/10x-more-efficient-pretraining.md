@@ -13,13 +13,14 @@ collected_at: '2026-09-11T04:11:17.195030+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:10x-more-efficient-pretraining
 first_seen: '2026-09-11T00:43:49.371831+05:30'
 last_seen: '2026-09-11T04:11:17.195030+05:30'
 last_checked: '2026-09-11T04:11:17.195030+05:30'
 health_score: 100
 ---
+
 
 # Compute-efficient pretraining and scaling to trillion-parameter models
 

@@ -5,6 +5,7 @@ Academic preprints, benchmark publications, and evaluation frameworks for large 
 | Research / Paper | Vault Folder | Score |
 | :--- | :--- | :--- |
 | [HALLMARK: Diagnosing Three Failure Modes in LLM Citation Verifiers](https://arxiv.org/abs/2607.18360) | `ai-coding-agents/` | 70 |
+| [Strangers to Themselves: What Language Models Say About Themselves Is Generic](https://arxiv.org/abs/2609.09899) | `ai-coding-agents/` | 70 |
 | [Evaluating Multimodal LLMs as Generalist Vision-Language-Action Agents for Drone Control: Commanding, Approaching, Tracking and Searching](https://arxiv.org/abs/2609.01404) | `ai-coding-agents/` | 70 |
 | [UniToolCall: Unifying Tool-Use Representation, Data, and Evaluation for LLM Agents](https://arxiv.org/abs/2604.11557) | `ai-coding-agents/` | 70 |
 | [Why Sampling Is Not Choosing: Intentionality, Agency, and Moral Responsibility in Large Language Models](https://arxiv.org/abs/2606.13441) | `ai-coding-agents/` | 70 |
@@ -28,6 +29,5 @@ Academic preprints, benchmark publications, and evaluation frameworks for large 
 | [ObGynLongBench: Revealing the Evidence-to-EHR Gap in Longitudinal EHR Decision-Making](https://arxiv.org/abs/2609.07601) | `ai-coding-agents/` | 70 |
 | [An Analysis of the Coordination Gap between Joint and Modular Learning for Job Shop Scheduling with Transportation Resources](https://arxiv.org/abs/2604.24117) | `ai-coding-agents/` | 70 |
 | [The Illusion of Stochasticity in LLMs](https://arxiv.org/abs/2604.06543) | `ai-coding-agents/` | 70 |
-| [SynWeaver: Website-Prior Task and Trajectory Co-Synthesis for Web Agents](https://arxiv.org/abs/2608.12429) | `ai-coding-agents/` | 70 |
 
 More resources will appear as the harvester collects them.
