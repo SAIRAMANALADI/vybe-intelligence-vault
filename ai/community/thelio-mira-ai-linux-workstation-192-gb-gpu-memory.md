@@ -13,13 +13,14 @@ collected_at: '2026-09-11T10:20:09.405244+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:thelio-mira-ai-linux-workstation-192-gb-gpu-memory
 first_seen: '2026-09-11T10:20:09.405244+05:30'
 last_seen: '2026-09-11T10:20:09.405244+05:30'
 last_checked: '2026-09-11T10:20:09.405244+05:30'
 health_score: 100
 ---
+
 
 # Thelio Mira AI Linux Workstation: 192 GB GPU Memory
 

@@ -5,20 +5,20 @@ source_type: hackernews
 source_name: Hacker News Web Development
 source_url: https://shopify.engineering/back-to-native
 hn_url: https://news.ycombinator.com/item?id=49643982
-score: 900
+score: 1127
 author: fnthawar2
-comments_count: 609
+comments_count: 820
 published_at: '2026-09-10T19:39:31+05:30'
-collected_at: '2026-09-11T10:20:07.818433+05:30'
+collected_at: '2026-09-11T18:24:59.991880+05:30'
 tags:
 - frontend_ui
 - hackernews
 - react
 status: active
-resource_id: hackernews:shopify-moves-back-to-native-from-react-native
+resource_id: hackernews:shopify-is-moving-from-react-native-back-to-swift
 first_seen: '2026-09-11T00:43:48.359034+05:30'
-last_seen: '2026-09-11T10:20:07.818433+05:30'
-last_checked: '2026-09-11T10:20:07.818433+05:30'
+last_seen: '2026-09-11T18:24:59.991880+05:30'
+last_checked: '2026-09-11T18:24:59.991880+05:30'
 health_score: 100
 ---
 
@@ -26,7 +26,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by fnthawar2. Score: 900, Comments: 609.
+Hacker News story by fnthawar2. Score: 1127, Comments: 820.
 Original Link: https://shopify.engineering/back-to-native
 
 ## Why It Matters
@@ -36,8 +36,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: fnthawar2
-- Score: 900 Upvotes
-- Comments: 609 Discussions
+- Score: 1127 Upvotes
+- Comments: 820 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49643982
 - Original Article: https://shopify.engineering/back-to-native
 

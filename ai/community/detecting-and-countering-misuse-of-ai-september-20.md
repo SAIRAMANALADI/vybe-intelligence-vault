@@ -14,13 +14,14 @@ tags:
 - ai
 - anthropic
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:detecting-and-countering-misuse-of-ai-september-20
 first_seen: '2026-09-11T04:11:16.511679+05:30'
 last_seen: '2026-09-11T10:20:11.065681+05:30'
 last_checked: '2026-09-11T10:20:11.065681+05:30'
 health_score: 100
 ---
+
 
 # Detecting and countering misuse of AI: September 2026
 

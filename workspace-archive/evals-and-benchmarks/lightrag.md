@@ -6,7 +6,7 @@ source_url: https://lightrag.github.io/
 resource_id: blog:lightrag
 local_vault_path: ai/rag/lightrag.md
 quality_score: 70
-archive_score: 72
+archive_score: 74
 archive_tier: useful
 resource_kind: dataset
 importance: medium
@@ -30,7 +30,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 72 (useful)
+- Quality score: 70 | Archive score: 74 (useful)
 - Resource kind: dataset
 - Selection reasons:
   - Strong keyword match
@@ -38,7 +38,7 @@ selection_reason:
 
 ## Summary
 
-*   LightRAG employs a graph-enhanced indexing paradigm, leveraging LLMs to extract entities and
+*   LightRAG introduces a graph-enhanced text indexing paradigm, leveraging LLMs to extract entities and relationships from segmented documents into a knowledge graph, generating optimized key-value pairs for efficient retrieval and
 
 ## Use Cases
 

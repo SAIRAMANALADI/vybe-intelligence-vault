@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/analyticsworld1/RAG_Techniques2025-main
-collected_at: '2026-09-06T17:45:13.287229+05:30'
+collected_at: '2026-09-11T18:25:56.280839+05:30'
 published_at: '2025-04-21T16:40:43Z'
 tags:
 - github-repo
@@ -19,9 +19,9 @@ archived: false
 created_at: '2024-12-28T02:16:34Z'
 pushed_at: '2025-04-21T16:40:39Z'
 resource_id: github:analyticsworld1/rag_techniques2025-main
-first_seen: '2026-09-06T17:45:13.287229+05:30'
-last_seen: '2026-09-06T17:45:13.287229+05:30'
-last_checked: '2026-09-06T17:45:13.287229+05:30'
+first_seen: '2026-09-11T18:25:56.280839+05:30'
+last_seen: '2026-09-11T18:25:56.280839+05:30'
+last_checked: '2026-09-11T18:25:56.280839+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-*   Focuses on Retrieval-Augmented Generation (RAG) methodologies.
-*   Explores techniques within the domain of Generative AI (Gen AI).
-*   Content is primarily implemented or demonstrated via Jupyter Notebooks.
+*   Explores Retrieval-Augmented Generation (RAG) techniques.
+*   Focuses on methodologies within the Generative AI paradigm.
+*   Implementation examples are provided in Jupyter Notebook format.
 
 ## Why It Matters
 

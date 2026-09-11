@@ -40,7 +40,7 @@ selection_reason:
 
 ## Summary
 
-*   LangChain offers modular chains, LangGraph for stateful agentic workflows, and Lang
+*   Leading RAG frameworks in 2026, including LangChain, LlamaIndex
 
 ## Use Cases
 

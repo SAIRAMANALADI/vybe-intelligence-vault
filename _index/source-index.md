@@ -24201,11 +24201,12 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [Detecting and countering misuse of AI: September 2026](../ai/community/detecting-and-countering-misuse-of-ai-september-20.md)
+  - [Claude is no longer available for minors](../ai/community/claude-is-no-longer-available-for-minors.md)
+  - [Moonshot serves Claude instead of Kimi and collects exchanges for model training](../ai/community/moonshot-serves-claude-instead-of-kimi-and-collect.md)
   - [More questions about whether researchers can trust OpenAI with unpublished math](../ai/community/more-questions-about-whether-researchers-can-trust.md)
   - [OpenAI Agents API](../ai/community/openai-agents-api.md)
   - [Shopify is moving from React Native back to Swift and Kotlin](../web-development/community/shopify-moves-back-to-native-from-react-native.md)
-  - [Thelio Mira AI Linux Workstation: 192 GB GPU Memory](../ai/community/thelio-mira-ai-linux-workstation-192-gb-gpu-memory.md)
+  - [The Waymo effect: how AI is quietly making research less collaborative](../ai/community/the-waymo-effect-how-ai-is-quietly-making-research.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -26654,6 +26655,7 @@ Resources organized by publisher feed and query sources.
   - [Licences and regulators when holding money as Interest and Stocks | Wise Help Centre](../ai/resources/licences-and-regulators-when-holding-money-as-inte.md)
   - [Licenses List - Creative Commons](../ai/resources/licenses-list-creative-commons.md)
   - [Life and work - The State of Developer Ecosystem in 2025](../ai/resources/life-and-work-the-state-of-developer-ecosystem-in.md)
+  - [LightRAG](../ai/rag/lightrag.md)
   - [Lightbox2](../ai/resources/lightbox2.md)
   - [Lighthouse | Chrome for Developers](../ai/resources/lighthouse-chrome-for-developers.md)
   - [Lightweight Cryptography | CSRC](../ai/rag/lightweight-cryptography-csrc.md)
@@ -27054,6 +27056,7 @@ Resources organized by publisher feed and query sources.
   - [RAG](../ai/rag/rag.md)
   - [RAG Application Tutorial 2025: Build Production-Ready Retrieval Augmented Generation Systems · System Debug](../ai/rag/rag-application-tutorial-2025-build-production-rea.md)
   - [RAG Architecture with GitHub Copilot – Production System Design 2026 | Markaicode](../ai/rag/rag-architecture-with-github-copilot-production-sy.md)
+  - [RAG Chatbot Application🤖 | RAG](../ai/rag/rag-chatbot-application-rag.md)
   - [RAG Evaluation Tools: Weights & Biases vs Ragas vs DeepEval](../ai/rag/rag-evaluation-tools-weights-biases-vs-ragas-vs-de.md)
   - [RAG Retrieval Augmented Generation: Complete Guide 2025](../ai/rag/rag-retrieval-augmented-generation-complete-guide.md)
   - [RAG System with LangChain and LangGraph - GeeksforGeeks](../ai/rag/rag-system-with-langchain-and-langgraph-geeksforge.md)
@@ -27414,6 +27417,7 @@ Resources organized by publisher feed and query sources.
   - [The Apache Incubator](../ai/rag/the-apache-incubator.md)
   - [The Apache Software Foundation · GitHub](../ai/resources/the-apache-software-foundation-github.md)
   - [The Assembly and Executive Committee – Global Privacy Assembly](../ai/resources/the-assembly-and-executive-committee-global-privac.md)
+  - [The Best RAG Frameworks in 2026: A Comprehensive Guide to Building Superior Retrieval-Augmented Generation Systems | mar](../ai/rag/the-best-rag-frameworks-in-2026-a-comprehensive-gu.md)
   - [The Compass REST API](../ai/resources/the-compass-rest-api.md)
   - [The Complete Guide to RAG: Naive, Advanced, and Graph RAG in One Document | Mr. Latte](../ai/rag/the-complete-guide-to-rag-naive-advanced-and-graph.md)
   - [The Computer Vision Foundation – A non-profit organization that fosters and supports research in all aspects of computer](../ai/resources/the-computer-vision-foundation-a-non-profit-organi.md)
@@ -27453,6 +27457,7 @@ Resources organized by publisher feed and query sources.
   - [The Sovereign AI Platform for Agents](../ai/rag/the-sovereign-ai-platform-for-agents.md)
   - [The Stack Overflow Blog - Stack Overflow](../ai/rag/the-stack-overflow-blog-stack-overflow.md)
   - [The Synack Red Team | Synack](../ai/rag/the-synack-red-team-synack.md)
+  - [The Ultimate List of Python RAG Projects on GitHub · Technical news about AI, coding and all](../ai/rag/the-ultimate-list-of-python-rag-projects-on-github.md)
   - [The University of Texas at Austin](../ai/resources/the-university-of-texas-at-austin.md)
   - [The Wayback Machine – Internet Archive Help Center](../ai/resources/the-wayback-machine-internet-archive-help-center.md)
   - [The WebM Project | Developer Overview](../ai/rag/the-webm-project-developer-overview.md)
@@ -27476,6 +27481,7 @@ Resources organized by publisher feed and query sources.
   - [Top 23 rag Open-Source Projects | LibHunt](../ai/rag/top-23-rag-open-source-projects-libhunt.md)
   - [Top 7 GitHub Repos to Master Retrieval-Augmented Generation](../ai/rag/top-7-github-repos-to-master-retrieval-augmented-g.md)
   - [Top Open Source Github Repositories for creating your own RAG | Resemble AI](../ai/rag/top-open-source-github-repositories-for-creating-y.md)
+  - [Top RAG open-source projects (2026) | Trendshift](../ai/rag/top-rag-open-source-projects-2026-trendshift.md)
   - [Top free game assets - itch.io](../ai/rag/top-free-game-assets-itch-io.md)
   - [Top game assets tagged Fonts - itch.io](../ai/resources/top-game-assets-tagged-fonts-itch-io.md)
   - [Top game assets tagged No AI - itch.io](../ai/rag/top-game-assets-tagged-no-ai-itch-io.md)
@@ -28067,4 +28073,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-09-11T10:38:32.815736+05:30*
+*Index generated on 2026-09-11T18:41:18.171952+05:30*
