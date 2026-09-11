@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-09-11T04:30:09.256163+05:30`
+Generated at: `2026-09-11T08:54:48.472966+05:30`
 
 ## Executive Summary
 
@@ -8,34 +8,34 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## ✨ New Discoveries
 
-- **Detecting and countering misuse of AI: September 2026** - Score: `50` in category `ai/community` ([Link](https://anthropic.com/threat-intelligence-report-september-2026)) ([File](../ai/community/detecting-and-countering-misuse-of-ai-september-20.md))
-- **OpenAI Agents API** - Score: `50` in category `ai/community` ([Link](https://developers.openai.com/api/docs/guides/agents-api/overview)) ([File](../ai/community/openai-agents-api.md))
+- **Compute-efficient pretraining and scaling to trillion-parameter models** - Score: `106` in category `ai/community` ([Link](https://magic.dev/blog/pretraining)) ([File](../ai/community/10x-more-efficient-pretraining.md))
+- **[QUALITY] - ** - Score: `0` in category `` ([File](../.github/ISSUE_TEMPLATE/quality-feedback.md))
 
 ## Top Trending Resources
 
-- **More questions about whether researchers can trust OpenAI with unpublished math** - Score: `528` (+236), Rank Change: `0` ([File](../ai/community/more-questions-about-whether-researchers-can-trust.md))
-- **Shopify moves back to Native from React Native** - Score: `637` (+115), Rank Change: `0` ([File](../web-development/community/shopify-moves-back-to-native-from-react-native.md))
-- **Compute-efficient pretraining and scaling to trillion-parameter models** - Score: `106` (+14), Rank Change: `0` ([File](../ai/community/10x-more-efficient-pretraining.md))
-- **IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow** - Score: `0` (0), Rank Change: `+2217` ([File](../ai/rag/icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow.md))
-- **datawhalechina/all-in-rag** - Score: `0` (0), Rank Change: `+1` ([File](../ai/rag/datawhalechina-all-in-rag.md))
-- **raganwald/raganwald.github.com** - Score: `0` (0), Rank Change: `+1025` ([File](../ai/rag/raganwald-raganwald-github-com.md))
-- **React Canaries: Enabling Incremental Feature Rollout Outside Meta** - Score: `0` (0), Rank Change: `+84` ([File](../web-development/react-canaries-enabling-incremental-feature-rollou.md))
-- **Sunsetting Create React App** - Score: `0` (0), Rank Change: `+84` ([File](../ai/rag/sunsetting-create-react-app.md))
-- **React 19.3** - Score: `0` (0), Rank Change: `+84` ([File](../ai/rag/react-19-3.md))
-- **Good Pretraining, Bad SFT: Checkpoint Quality Across the Training Stack** - Score: `0` (0), Rank Change: `+80` ([File](../ai/research/arxiv-2609-08966.md))
+- **reworkd/AgentGPT** - Score: `0` (0), Rank Change: `+1005` ([File](../ai/rag/reworkd-agentgpt.md))
+- **ragnarokoffline/ragnarokoffline.github.io** - Score: `0` (0), Rank Change: `+1005` ([File](../ai/rag/ragnarokoffline-ragnarokoffline-github-io.md))
+- **datawhalechina/llm-universe** - Score: `0` (0), Rank Change: `+1005` ([File](../ai/rag/datawhalechina-llm-universe.md))
+- **freddy-schuetz/n8n-claw** - Score: `0` (0), Rank Change: `+1005` ([File](../ai/rag/freddy-schuetz-n8n-claw.md))
+- **Nicolepcx/ai-agents-the-definitive-guide** - Score: `0` (0), Rank Change: `+1005` ([File](../ai/agents/nicolepcx-ai-agents-the-definitive-guide.md))
+- **TIGER-AI-Lab/ClawBench** - Score: `0` (0), Rank Change: `+1005` ([File](../ai/agents/tiger-ai-lab-clawbench.md))
+- **slavakurilyak/awesome-ai-agents** - Score: `0` (0), Rank Change: `+1005` ([File](../ai/agents/slavakurilyak-awesome-ai-agents.md))
+- **MuhammadUsmanGM/claude-code-best-practices** - Score: `0` (0), Rank Change: `+1005` ([File](../ai/agents/muhammadusmangm-claude-code-best-practices.md))
+- **labring/sealos** - Score: `0` (0), Rank Change: `+1005` ([File](../ai/rag/labring-sealos.md))
+- **VoltAgent/awesome-ai-agent-papers** - Score: `0` (0), Rank Change: `+1005` ([File](../ai/rag/voltagent-awesome-ai-agent-papers.md))
 
 ## 🚀 Fastest Rising Tools
 
-- **IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow** - (Rank Change: `+2217`) ([File](../ai/rag/icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow.md))
-- **raganwald/raganwald.github.com** - (Rank Change: `+1025`) ([File](../ai/rag/raganwald-raganwald-github-com.md))
-- **React Canaries: Enabling Incremental Feature Rollout Outside Meta** - (Rank Change: `+84`) ([File](../web-development/react-canaries-enabling-incremental-feature-rollou.md))
-- **Sunsetting Create React App** - (Rank Change: `+84`) ([File](../ai/rag/sunsetting-create-react-app.md))
-- **React 19.3** - (Rank Change: `+84`) ([File](../ai/rag/react-19-3.md))
-- **Good Pretraining, Bad SFT: Checkpoint Quality Across the Training Stack** - (Rank Change: `+80`) ([File](../ai/research/arxiv-2609-08966.md))
-- **amazon/chronos-2** - (Rank Change: `+10`) ([File](../ai/models/huggingface-amazon-chronos-2.md))
-- **sentence-transformers/all-mpnet-base-v2** - (Rank Change: `+10`) ([File](../ai/rag/huggingface-sentence-transformers-all-mpnet-base-v2.md))
-- **google-t5/t5-small** - (Rank Change: `+10`) ([File](../ai/models/huggingface-google-t5-t5-small.md))
-- **BAAI/bge-m3** - (Rank Change: `+10`) ([File](../ai/rag/huggingface-baai-bge-m3.md))
+- **infiniflow/ragflow** - (Rank Change: `+25430`) ([File](../ai/rag/infiniflow-ragflow-2.md))
+- **RUC-NLPIR/FlashRAG** - (Rank Change: `+25355`) ([File](../ai/rag/ruc-nlpir-flashrag-2.md))
+- **stanford-oval/storm** - (Rank Change: `+17139`) ([File](../ai/rag/stanford-oval-storm.md))
+- **reworkd/AgentGPT** - (Rank Change: `+1005`) ([File](../ai/rag/reworkd-agentgpt.md))
+- **ragnarokoffline/ragnarokoffline.github.io** - (Rank Change: `+1005`) ([File](../ai/rag/ragnarokoffline-ragnarokoffline-github-io.md))
+- **datawhalechina/llm-universe** - (Rank Change: `+1005`) ([File](../ai/rag/datawhalechina-llm-universe.md))
+- **freddy-schuetz/n8n-claw** - (Rank Change: `+1005`) ([File](../ai/rag/freddy-schuetz-n8n-claw.md))
+- **Nicolepcx/ai-agents-the-definitive-guide** - (Rank Change: `+1005`) ([File](../ai/agents/nicolepcx-ai-agents-the-definitive-guide.md))
+- **TIGER-AI-Lab/ClawBench** - (Rank Change: `+1005`) ([File](../ai/agents/tiger-ai-lab-clawbench.md))
+- **slavakurilyak/awesome-ai-agents** - (Rank Change: `+1005`) ([File](../ai/agents/slavakurilyak-awesome-ai-agents.md))
 
 ## 🔄 Essential Tier Transitions
 
@@ -46,4 +46,5 @@ No resources left the Essential tier in this run.
 
 ## 💤 Recently Inactive Resources
 
-- **AI 2027 (2025)** (Category: `ai/community`) ([File](../ai/community/ai-2027-2025.md))
+No recently active resources transitioned to inactive.
+
