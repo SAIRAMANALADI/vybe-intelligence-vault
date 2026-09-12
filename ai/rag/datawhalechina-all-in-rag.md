@@ -4,24 +4,24 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/datawhalechina/all-in-rag
-collected_at: '2026-09-12T21:09:40.457576+05:30'
-published_at: '2026-09-12T14:29:26Z'
+collected_at: '2026-09-13T00:01:19.118579+05:30'
+published_at: '2026-09-12T16:47:53Z'
 tags:
 - github-repo
 - meta-ai
 - models
 - python
 - rag
-stars: 10997
+stars: 10999
 language: Python
 status: active
 archived: false
 created_at: '2025-06-05T08:12:35Z'
 pushed_at: '2026-09-04T08:15:30Z'
 resource_id: github:datawhalechina/all-in-rag
-first_seen: '2026-09-12T21:09:40.457576+05:30'
-last_seen: '2026-09-12T21:09:40.457576+05:30'
-last_checked: '2026-09-12T21:09:40.457576+05:30'
+first_seen: '2026-09-13T00:01:19.118579+05:30'
+last_seen: '2026-09-13T00:01:19.118579+05:30'
+last_checked: '2026-09-13T00:01:19.118579+05:30'
 health_score: 100
 ---
 
@@ -29,9 +29,9 @@ health_score: 100
 
 ## Summary
 
-*   Comprehensive RAG pipeline guide spanning foundational concepts to advanced multimodal applications.
-*   Integrates prominent RAG frameworks (LangChain, LlamaIndex) with diverse data stores (Milvus for vector, Neo4j for graph) for robust indexing.
-*   Explores practical LLM integrations (DeepSeek, Kimi-K2) and embedding models for full-stack RAG system development.
+*   Provides a full-stack RAG implementation guide, encompassing core components from embedding to LLM integration.
+*   Utilizes `langchain` and `llama-index` for RAG orchestration, integrating vector databases like `milvus` and graph databases like `neo4j` for retrieval.
+*   Explores diverse LLMs (e.g., `deepseek`, `kimi-k2`), various `embedding` models, and multimodal RAG architectures.
 
 ## Why It Matters
 
@@ -40,11 +40,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: datawhalechina
-- Stars: 10997
+- Stars: 10999
 - Forks: 5482
 - Language: Python
 - Topics: ai, deepseek, embedding, kimi-k2, langchain, llama-index, llm, milvus, multimodal, neo4j, python, rag
-- Last Updated: 2026-09-12T14:29:26Z
+- Last Updated: 2026-09-12T16:47:53Z
 - Archived: No
 - Created At: 2025-06-05T08:12:35Z
 - Pushed At: 2026-09-04T08:15:30Z

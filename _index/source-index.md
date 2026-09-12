@@ -24352,10 +24352,11 @@ Resources organized by publisher feed and query sources.
 
   - [A Design Space Exploration of Async/Await](../ai/community/a-design-space-exploration-of-async-await.md)
   - [A misalignment of AI in mathematics](../ai/community/a-misalignment-of-ai-in-mathematics.md)
-  - [LLMs are real, AI is fake](../ai/community/llms-are-real-ai-is-fake.md)
+  - [How Trail of Bits helps verify the integrity of Signal chats](../ai/community/how-trail-of-bits-helps-verify-the-integrity-of-si.md)
+  - [I fixed a tractor using John Deere's self-repair service. Farmers aren't sold](../ai/community/i-fixed-a-tractor-using-john-deere-s-self-repair-s.md)
+  - [LG denies TV spying claims, says tracking and snooping concerns 'not true'](../ai/community/lg-denies-tv-spying-claims-says-tracking-and-snoop.md)
   - [Nvidia is the central bank of AI](../ai/community/nvidia-is-the-central-bank-of-ai.md)
-  - [OpenAI agents carried out an undisclosed attack on RubyGems](../ai/community/openai-agents-carried-out-an-undisclosed-attack-on.md)
-  - [The Worst Spam Emails: Inside iLands' AI Agent Hustle](../ai/community/the-worst-spam-emails-inside-ilands-ai-agent-hustl.md)
+  - [The worst spam emails: iLands AI agent hustle](../ai/community/the-worst-spam-emails-inside-ilands-ai-agent-hustl.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -28218,4 +28219,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-09-12T21:25:17.933185+05:30*
+*Index generated on 2026-09-13T00:16:56.620653+05:30*

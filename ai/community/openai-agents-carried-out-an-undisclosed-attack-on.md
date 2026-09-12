@@ -15,13 +15,14 @@ tags:
 - ai
 - hackernews
 - openai
-status: active
+status: inactive
 resource_id: hackernews:openai-agents-carried-out-an-undisclosed-attack-on
 first_seen: '2026-09-12T10:14:25.288718+05:30'
 last_seen: '2026-09-12T21:09:02.998297+05:30'
 last_checked: '2026-09-12T21:09:02.998297+05:30'
 health_score: 100
 ---
+
 
 # OpenAI agents carried out an undisclosed attack on RubyGems
 
