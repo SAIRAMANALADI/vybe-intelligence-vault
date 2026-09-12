@@ -24352,11 +24352,9 @@ Resources organized by publisher feed and query sources.
 
   - [A Design Space Exploration of Async/Await](../ai/community/a-design-space-exploration-of-async-await.md)
   - [A misalignment of AI in mathematics](../ai/community/a-misalignment-of-ai-in-mathematics.md)
-  - [Altman tells staff OpenAI is open to slowing AI development](../ai/community/altman-tells-staff-openai-is-open-to-slowing-ai-de.md)
-  - [Crypto farm in Mexican mountains puts spotlight on cartel funding](../ai/community/crypto-farm-in-mexican-mountains-puts-spotlight-on.md)
-  - [Litelm: LiteLLM Without the Bloat](../ai/community/kennethwolters-litelm.md)
+  - [LLMs are real, AI is fake](../ai/community/llms-are-real-ai-is-fake.md)
+  - [Nvidia is the central bank of AI](../ai/community/nvidia-is-the-central-bank-of-ai.md)
   - [OpenAI agents carried out an undisclosed attack on RubyGems](../ai/community/openai-agents-carried-out-an-undisclosed-attack-on.md)
-  - [Resistance Training Prescription for Muscle Function, Hypertrophy in Health](../ai/community/resistance-training-prescription-for-muscle-functi.md)
   - [The Worst Spam Emails: Inside iLands' AI Agent Hustle](../ai/community/the-worst-spam-emails-inside-ilands-ai-agent-hustl.md)
 
 ## Unknown Source (type: huggingface)
@@ -25457,7 +25455,6 @@ Resources organized by publisher feed and query sources.
   - [1.5.4 Ownership and Use of Stanford Trademarks and Images | Administrative Guide](../ai/resources/1-5-4-ownership-and-use-of-stanford-trademarks-and.md)
   - [10 Best CrewAI Projects You Must Build in 2026](../ai/rag/10-best-crewai-projects-you-must-build-in-2026.md)
   - [100 Years of Stanford Engineering](../ai/rag/100-years-of-stanford-engineering.md)
-  - [15 Best Open-Source RAG Frameworks in 2026](../ai/rag/15-best-open-source-rag-frameworks-in-2026.md)
   - [15 updates from Google I﻿/﻿O 2026: Powering the agentic web with new capabilities, tools, and features in Chrome | Blog](../ai/agents/15-updates-from-google-i-o-2026-powering-the-agent.md)
   - [17 U.S. Code § 512 - Limitations on liability relating to material online | U.S. Code | US Law | LII / Legal Information](../ai/rag/17-u-s-code-ss-512-limitations-on-liability-relati.md)
   - [2.3 to 2.4 | Dovecot CE](../ai/rag/2-3-to-2-4-dovecot-ce.md)
@@ -27208,9 +27205,7 @@ Resources organized by publisher feed and query sources.
   - [RAG](../ai/rag/rag.md)
   - [RAG Application Tutorial 2025: Build Production-Ready Retrieval Augmented Generation Systems · System Debug](../ai/rag/rag-application-tutorial-2025-build-production-rea.md)
   - [RAG Architecture with GitHub Copilot – Production System Design 2026 | Markaicode](../ai/rag/rag-architecture-with-github-copilot-production-sy.md)
-  - [RAG Chatbot Application🤖 | RAG](../ai/rag/rag-chatbot-application-rag.md)
   - [RAG Evaluation Tools: Weights & Biases vs Ragas vs DeepEval](../ai/rag/rag-evaluation-tools-weights-biases-vs-ragas-vs-de.md)
-  - [RAG Learning Tutorial](../ai/rag/rag-learning-tutorial.md)
   - [RAG Retrieval Augmented Generation: Complete Guide 2025](../ai/rag/rag-retrieval-augmented-generation-complete-guide.md)
   - [RAG System with LangChain and LangGraph - GeeksforGeeks](../ai/rag/rag-system-with-langchain-and-langgraph-geeksforge.md)
   - [RAG Tools | Awesome RAG](../ai/rag/rag-tools-awesome-rag.md)
@@ -27609,7 +27604,6 @@ Resources organized by publisher feed and query sources.
   - [The Sovereign AI Platform for Agents](../ai/rag/the-sovereign-ai-platform-for-agents.md)
   - [The Stack Overflow Blog - Stack Overflow](../ai/rag/the-stack-overflow-blog-stack-overflow.md)
   - [The Synack Red Team | Synack](../ai/rag/the-synack-red-team-synack.md)
-  - [The Ultimate List of Python RAG Projects on GitHub · Technical news about AI, coding and all](../ai/rag/the-ultimate-list-of-python-rag-projects-on-github.md)
   - [The University of Texas at Austin](../ai/resources/the-university-of-texas-at-austin.md)
   - [The Wayback Machine – Internet Archive Help Center](../ai/resources/the-wayback-machine-internet-archive-help-center.md)
   - [The WebM Project | Developer Overview](../ai/rag/the-webm-project-developer-overview.md)
@@ -27633,7 +27627,6 @@ Resources organized by publisher feed and query sources.
   - [Top 23 rag Open-Source Projects | LibHunt](../ai/rag/top-23-rag-open-source-projects-libhunt.md)
   - [Top 7 GitHub Repos to Master Retrieval-Augmented Generation](../ai/rag/top-7-github-repos-to-master-retrieval-augmented-g.md)
   - [Top Open Source Github Repositories for creating your own RAG | Resemble AI](../ai/rag/top-open-source-github-repositories-for-creating-y.md)
-  - [Top RAG open-source projects (2026) | Trendshift](../ai/rag/top-rag-open-source-projects-2026-trendshift.md)
   - [Top free game assets - itch.io](../ai/rag/top-free-game-assets-itch-io.md)
   - [Top game assets tagged Fonts - itch.io](../ai/resources/top-game-assets-tagged-fonts-itch-io.md)
   - [Top game assets tagged No AI - itch.io](../ai/rag/top-game-assets-tagged-no-ai-itch-io.md)
@@ -27977,7 +27970,6 @@ Resources organized by publisher feed and query sources.
   - [[2603.25551] Voxtral TTS](../ai/rag/arxiv-2603-25551.md)
   - [[2605.13880] PREPING: Building Agent Memory without Tasks](../ai/rag/arxiv-2605-13880.md)
   - [[Feature] Code splitting on async import() statements. · Issue #16 · evanw/esbuild · GitHub](../ai/resources/evanw-esbuild.md)
-  - [[Hands-on] RAG Over GitHub Repos - by Avi Chawla](../ai/rag/hands-on-rag-over-github-repos-by-avi-chawla.md)
   - [[en_us] Blackwell Architecture](../ai/resources/en-us-blackwell-architecture.md)
   - [`langchain-google-genai` 4.0.0 Released! (Consolidated SDK, Vertex deprecations, and more) · langchain-ai/langchain-goog](../ai/rag/langchain-ai-langchain-google.md)
   - [abstract algebra - How to compute Krull dimension concretely - Mathematics Stack Exchange](../ai/resources/abstract-algebra-how-to-compute-krull-dimension-co.md)
@@ -28226,4 +28218,4 @@ Resources organized by publisher feed and query sources.
   - [🧩 Integrations | Haystack](../ai/rag/integrations-haystack.md)
 
 ---
-*Index generated on 2026-09-12T18:02:54.908961+05:30*
+*Index generated on 2026-09-12T21:25:17.933185+05:30*

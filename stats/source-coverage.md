@@ -5,7 +5,13 @@ Distribution of original signal ingestion sources across processed URLs:
 | Source Domain | Resource Count |
 | :--- | ---: |
 | arxiv | 23469 |
+<<<<<<< Updated upstream
 | github | 1015 |
+=======
+| github | 1014 |
+| huggingface | 913 |
+| nextjs.org | 77 |
+>>>>>>> Stashed changes
 | semanticscholar.org | 68 |
 | youtube | 66 |
 | support.google.com | 59 |
@@ -163,8 +169,11 @@ Distribution of original signal ingestion sources across processed URLs:
 | tubitak.gov.tr | 3 |
 | torproject.org | 3 |
 | images.cnrs.fr | 3 |
+<<<<<<< Updated upstream
 | nextjs.org | 3 |
 | reuters.com | 2 |
+=======
+>>>>>>> Stashed changes
 | git-scm.com | 2 |
 | barchart.com | 2 |
 | jamsadr.com | 2 |
@@ -306,8 +315,12 @@ Distribution of original signal ingestion sources across processed URLs:
 | mathandai.org | 1 |
 | rubyhack.ai | 1 |
 | cel.cs.brown.edu | 1 |
-| pmc.ncbi.nlm.nih.gov | 1 |
 | tedium.co | 1 |
+<<<<<<< Updated upstream
+=======
+| pluralistic.net | 1 |
+| economist.com | 1 |
+>>>>>>> Stashed changes
 | lightrag.github.io | 1 |
 | githubstatus.com | 1 |
 | incident.io | 1 |

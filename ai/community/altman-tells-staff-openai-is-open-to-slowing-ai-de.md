@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - openai
-status: active
+status: inactive
 resource_id: hackernews:altman-tells-staff-openai-is-open-to-slowing-ai-de
 first_seen: '2026-09-12T17:46:36.505632+05:30'
 last_seen: '2026-09-12T17:46:36.505632+05:30'
 last_checked: '2026-09-12T17:46:36.505632+05:30'
 health_score: 100
 ---
+
 
 # Altman tells staff OpenAI is open to slowing AI development
 

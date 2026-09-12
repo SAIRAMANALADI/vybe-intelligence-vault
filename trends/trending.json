@@ -1,46 +1,119 @@
 {
+<<<<<<< Updated upstream
   "generated_at": "2026-09-12T21:24:19.370191+05:30",
   "trending_resources": [
     {
       "id": "github:siyulilyqian/scipytutorial2025_rag",
       "title": "SiyuLilyQian/ScipyTutorial2025_RAG",
+=======
+  "generated_at": "2026-09-12T21:28:50.943816+05:30",
+  "trending_resources": [
+    {
+      "id": "hackernews:a-misalignment-of-ai-in-mathematics",
+      "title": "A misalignment of AI in mathematics",
+      "category": "ai/community",
+      "source_type": "hackernews",
+      "url": "https://mathandai.org",
+      "file_path": "ai/community/a-misalignment-of-ai-in-mathematics.md",
+      "score": 1092,
+      "score_change": 92,
+      "rank_change": 0,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "hackernews:openai-agents-carried-out-an-undisclosed-attack-on",
+      "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
+      "category": "ai/community",
+      "source_type": "hackernews",
+      "url": "https://rubyhack.ai",
+      "file_path": "ai/community/openai-agents-carried-out-an-undisclosed-attack-on.md",
+      "score": 849,
+      "score_change": 82,
+      "rank_change": 0,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "hackernews:the-worst-spam-emails-inside-ilands-ai-agent-hustl",
+      "title": "The Worst Spam Emails: Inside iLands' AI Agent Hustle",
+      "category": "ai/community",
+      "source_type": "hackernews",
+      "url": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang",
+      "file_path": "ai/community/the-worst-spam-emails-inside-ilands-ai-agent-hustl.md",
+      "score": 64,
+      "score_change": 51,
+      "rank_change": 2,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "hackernews:a-design-space-exploration-of-async-await",
+      "title": "A Design Space Exploration of Async/Await",
+      "category": "ai/community",
+      "source_type": "hackernews",
+      "url": "https://cel.cs.brown.edu/blog/design-space-async-await",
+      "file_path": "ai/community/a-design-space-exploration-of-async-await.md",
+      "score": 369,
+      "score_change": 49,
+      "rank_change": 0,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "github:datawhalechina/llm-universe",
+      "title": "datawhalechina/llm-universe",
+>>>>>>> Stashed changes
       "category": "ai/rag",
       "source_type": "github",
-      "url": "https://github.com/siyulilyqian/scipytutorial2025_rag",
-      "file_path": "ai/rag/siyulilyqian-scipytutorial2025-rag.md",
+      "url": "https://github.com/datawhalechina/llm-universe",
+      "file_path": "ai/rag/datawhalechina-llm-universe.md",
       "score": 0,
       "score_change": 0,
+<<<<<<< Updated upstream
       "rank_change": 2,
+=======
+      "rank_change": 18,
+>>>>>>> Stashed changes
       "new_resource": false,
       "tier": "tier-3"
     },
     {
-      "id": "github:dannyblaker/rag-tutorial",
-      "title": "dannyblaker/rag-tutorial",
+      "id": "github:datawhalechina/all-in-rag",
+      "title": "datawhalechina/all-in-rag",
       "category": "ai/rag",
       "source_type": "github",
-      "url": "https://github.com/dannyblaker/rag-tutorial",
-      "file_path": "ai/rag/dannyblaker-rag-tutorial.md",
+      "url": "https://github.com/datawhalechina/all-in-rag",
+      "file_path": "ai/rag/datawhalechina-all-in-rag.md",
       "score": 0,
       "score_change": 0,
+<<<<<<< Updated upstream
       "rank_change": 2,
+=======
+      "rank_change": 16,
+>>>>>>> Stashed changes
       "new_resource": false,
       "tier": "tier-3"
     },
     {
-      "id": "blog:7-best-github-repositories-for-mastering-rag-syste",
-      "title": "7 Best GitHub Repositories For Mastering RAG Systems",
-      "category": "ai/rag",
-      "source_type": "web",
-      "url": "https://analyticsvidhya.com/blog/2025/10/github-repositories-for-mastering-rag-systems",
-      "file_path": "ai/rag/7-best-github-repositories-for-mastering-rag-syste.md",
+      "id": "blog:data-platforms-and-analytics",
+      "title": "Data platforms and analytics",
+      "category": "ai/companies",
+      "source_type": "company_blog",
+      "url": "https://microsoft.com/en-us/research/research-area/data-platform-analytics",
+      "file_path": "ai/companies/data-platforms-and-analytics.md",
       "score": 0,
       "score_change": 0,
+<<<<<<< Updated upstream
       "rank_change": 2,
+=======
+      "rank_change": 20,
+>>>>>>> Stashed changes
       "new_resource": false,
       "tier": "tier-3"
     },
     {
+<<<<<<< Updated upstream
       "id": "blog:lightrag",
       "title": "LightRAG",
       "category": "ai/rag",
@@ -50,49 +123,179 @@
       "score": 0,
       "score_change": 0,
       "rank_change": 5,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "github:ragnarokoffline/ragnarokoffline.github.io",
-      "title": "ragnarokoffline/ragnarokoffline.github.io",
-      "category": "ai/rag",
-      "source_type": "github",
-      "url": "https://github.com/ragnarokoffline/ragnarokoffline.github.io",
-      "file_path": "ai/rag/ragnarokoffline-ragnarokoffline-github-io.md",
+=======
+      "id": "blog:search-information-retrieval",
+      "title": "Search & information retrieval",
+      "category": "ai/companies",
+      "source_type": "company_blog",
+      "url": "https://microsoft.com/en-us/research/research-area/search-information-retrieval",
+      "file_path": "ai/companies/search-information-retrieval.md",
       "score": 0,
       "score_change": 0,
-      "rank_change": 7,
+      "rank_change": 20,
+>>>>>>> Stashed changes
       "new_resource": false,
       "tier": "tier-3"
     },
     {
-      "id": "github:icensraghomework/icensraghomework-classroom01-rag1-hw01_workflow",
-      "title": "IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow",
-      "category": "ai/rag",
-      "source_type": "github",
-      "url": "https://github.com/icensraghomework/icensraghomework-classroom01-rag1-hw01_workflow",
-      "file_path": "ai/rag/icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow.md",
+      "id": "blog:human-language-technologies",
+      "title": "Human language technologies",
+      "category": "ai/companies",
+      "source_type": "company_blog",
+      "url": "https://microsoft.com/en-us/research/research-area/human-language-technologies",
+      "file_path": "ai/companies/human-language-technologies.md",
       "score": 0,
       "score_change": 0,
+<<<<<<< Updated upstream
       "rank_change": 7,
+=======
+      "rank_change": 20,
+>>>>>>> Stashed changes
       "new_resource": false,
       "tier": "tier-3"
     },
     {
-      "id": "github:icensraghomework/icensraghomework-classroom01-rag2-hw02_workflow",
-      "title": "IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow",
-      "category": "ai/rag",
-      "source_type": "github",
-      "url": "https://github.com/icensraghomework/icensraghomework-classroom01-rag2-hw02_workflow",
-      "file_path": "ai/rag/icensraghomework-icensraghomework-classroom01-rag2-hw02-workflow.md",
+      "id": "blog:human-computer-interaction",
+      "title": "Human-computer interaction",
+      "category": "ai/companies",
+      "source_type": "company_blog",
+      "url": "https://microsoft.com/en-us/research/research-area/human-computer-interaction",
+      "file_path": "ai/companies/human-computer-interaction.md",
       "score": 0,
       "score_change": 0,
+<<<<<<< Updated upstream
       "rank_change": 7,
+=======
+      "rank_change": 20,
+      "new_resource": false,
+      "tier": "tier-3"
+    }
+  ],
+  "fastest_rising_tools": [
+    {
+      "id": "blog:responsible-scaling-policy",
+      "title": "Responsible Scaling Policy",
+      "category": "ai/companies/anthropic",
+      "source_type": "company_blog",
+      "url": "https://anthropic.com/news/announcing-our-updated-responsible-scaling-policy",
+      "file_path": "ai/companies/anthropic/responsible-scaling-policy.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 94,
       "new_resource": false,
       "tier": "tier-3"
     },
     {
+      "id": "blog:jul-27-2026announcementsour-position-on-open-weigh",
+      "title": "Jul 27, 2026AnnouncementsOur position on open-weights models",
+      "category": "ai/companies/anthropic",
+      "source_type": "company_blog",
+      "url": "https://anthropic.com/news/position-open-weights-models",
+      "file_path": "ai/companies/anthropic/jul-27-2026announcementsour-position-on-open-weigh.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 94,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "blog:jul-30-2026announcementsinvestigating-three-real-w",
+      "title": "Jul 30, 2026AnnouncementsInvestigating three real-world incidents in our cybersecurity evaluations",
+      "category": "ai/companies/anthropic",
+      "source_type": "company_blog",
+      "url": "https://anthropic.com/news/investigating-incidents-cybersecurity-evals",
+      "file_path": "ai/companies/anthropic/jul-30-2026announcementsinvestigating-three-real-w.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 94,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "blog:aug-4-2026announcementsmariano-florentino-tino-cue",
+      "title": "Aug 4, 2026AnnouncementsMariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer",
+      "category": "ai/companies/anthropic",
+      "source_type": "company_blog",
+      "url": "https://anthropic.com/news/tino-cuellar",
+      "file_path": "ai/companies/anthropic/aug-4-2026announcementsmariano-florentino-tino-cue.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 94,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "blog:aug-7-2026productimproving-fable-5-s-biology-safeg",
+      "title": "Aug 7, 2026ProductImproving Fable 5's biology safeguards",
+      "category": "ai/companies/anthropic",
+      "source_type": "company_blog",
+      "url": "https://anthropic.com/news/improving-fable-5-s-biology-safeguards",
+      "file_path": "ai/companies/anthropic/aug-7-2026productimproving-fable-5-s-biology-safeg.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 94,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "blog:aug-14-2026announcementshow-claudes-text-watermark",
+      "title": "Aug 14, 2026AnnouncementsHow Claude’s text watermark works",
+      "category": "ai/companies/anthropic",
+      "source_type": "company_blog",
+      "url": "https://anthropic.com/news/claude-text-watermark",
+      "file_path": "ai/companies/anthropic/aug-14-2026announcementshow-claudes-text-watermark.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 94,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "blog:aug-25-2026announcementsfunding-better-evaluations",
+      "title": "Aug 25, 2026AnnouncementsFunding better evaluations of AI’s impact on wellbeing",
+      "category": "ai/companies/anthropic",
+      "source_type": "company_blog",
+      "url": "https://anthropic.com/news/wellbeing-research-grants",
+      "file_path": "ai/companies/anthropic/aug-25-2026announcementsfunding-better-evaluations.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 94,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "blog:aug-27-2026announcements-expanding-our-support-for",
+      "title": "Aug 27, 2026Announcements Expanding our support for scientists",
+      "category": "ai/companies/anthropic",
+      "source_type": "company_blog",
+      "url": "https://anthropic.com/news/expanding-support-for-scientists",
+      "file_path": "ai/companies/anthropic/aug-27-2026announcements-expanding-our-support-for.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 94,
+>>>>>>> Stashed changes
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+      "id": "blog:sep-1-2026announcementsdeveloping-enterprise-front",
+      "title": "Sep 1, 2026AnnouncementsDeveloping Enterprise Frontier Safeguards with our customers",
+      "category": "ai/companies/anthropic",
+      "source_type": "company_blog",
+      "url": "https://anthropic.com/news/enterprise-frontier-safeguards",
+      "file_path": "ai/companies/anthropic/sep-1-2026announcementsdeveloping-enterprise-front.md",
+      "score": 0,
+      "score_change": 0,
+<<<<<<< Updated upstream
+      "rank_change": 7,
+=======
+      "rank_change": 94,
+>>>>>>> Stashed changes
+      "new_resource": false,
+      "tier": "tier-3"
+    },
+    {
+<<<<<<< Updated upstream
       "id": "github:sylphai-inc/githubchat",
       "title": "SylphAI-Inc/GithubChat",
       "category": "ai/rag",
@@ -260,12 +463,24 @@
       "score": 0,
       "score_change": 0,
       "rank_change": 1011,
+=======
+      "id": "blog:applied-ai",
+      "title": "Applied AI",
+      "category": "ai/companies/openai",
+      "source_type": "company_blog",
+      "url": "https://openai.com/news/applied-ai",
+      "file_path": "ai/companies/openai/applied-ai.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 30,
+>>>>>>> Stashed changes
       "new_resource": false,
       "tier": "tier-3"
     }
   ],
   "new_discoveries": [
     {
+<<<<<<< Updated upstream
       "id": "blog:quality",
       "title": "[QUALITY] - ",
       "category": "",
@@ -273,13 +488,72 @@
       "url": "",
       "file_path": ".github/ISSUE_TEMPLATE/quality-feedback.md",
       "score": 0,
+=======
+      "id": "hackernews:llms-are-real-ai-is-fake",
+      "title": "LLMs are real, AI is fake",
+      "category": "ai/community",
+      "source_type": "hackernews",
+      "url": "https://pluralistic.net/2026/09/12/god-in-the-box",
+      "file_path": "ai/community/llms-are-real-ai-is-fake.md",
+      "score": 41,
+      "score_change": 0,
+      "rank_change": 0,
+      "new_resource": true,
+      "tier": "tier-3"
+    },
+    {
+      "id": "hackernews:nvidia-is-the-central-bank-of-ai",
+      "title": "Nvidia is the central bank of AI",
+      "category": "ai/community",
+      "source_type": "hackernews",
+      "url": "https://economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+      "file_path": "ai/community/nvidia-is-the-central-bank-of-ai.md",
+      "score": 19,
+>>>>>>> Stashed changes
       "score_change": 0,
       "rank_change": 0,
       "new_resource": true,
       "tier": "tier-3"
     }
   ],
+<<<<<<< Updated upstream
   "recently_inactive_resources": [],
+=======
+  "recently_inactive_resources": [
+    {
+      "id": "github:kennethwolters/litelm",
+      "title": "Litelm: LiteLLM Without the Bloat",
+      "category": "ai/community",
+      "source_type": "hackernews",
+      "url": "https://github.com/kennethwolters/litelm",
+      "file_path": "ai/community/kennethwolters-litelm.md"
+    },
+    {
+      "id": "hackernews:resistance-training-prescription-for-muscle-functi",
+      "title": "Resistance Training Prescription for Muscle Function, Hypertrophy in Health",
+      "category": "ai/community",
+      "source_type": "hackernews",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/pmc12965823",
+      "file_path": "ai/community/resistance-training-prescription-for-muscle-functi.md"
+    },
+    {
+      "id": "hackernews:crypto-farm-in-mexican-mountains-puts-spotlight-on",
+      "title": "Crypto farm in Mexican mountains puts spotlight on cartel funding",
+      "category": "ai/community",
+      "source_type": "hackernews",
+      "url": "https://reuters.com/world/americas/hidden-crypto-farm-mexican-mountains-puts-spotlight-cartel-funding-2026-09-12",
+      "file_path": "ai/community/crypto-farm-in-mexican-mountains-puts-spotlight-on.md"
+    },
+    {
+      "id": "hackernews:altman-tells-staff-openai-is-open-to-slowing-ai-de",
+      "title": "Altman tells staff OpenAI is open to slowing AI development",
+      "category": "ai/community",
+      "source_type": "hackernews",
+      "url": "https://reuters.com/business/altman-tells-staff-openai-is-open-slowing-ai-development-bloomberg-news-reports-2026-09-11",
+      "file_path": "ai/community/altman-tells-staff-openai-is-open-to-slowing-ai-de.md"
+    }
+  ],
+>>>>>>> Stashed changes
   "entered_essential": [],
   "left_essential": []
 }
