@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/datawhalechina/all-in-rag
-collected_at: '2026-09-12T04:12:42.032085+05:30'
-published_at: '2026-09-11T15:39:04Z'
+collected_at: '2026-09-12T10:15:54.867037+05:30'
+published_at: '2026-09-12T04:38:47Z'
 tags:
 - github-repo
 - hackernews
@@ -13,16 +13,16 @@ tags:
 - models
 - python
 - rag
-stars: 10977
+stars: 10980
 language: Python
 status: active
 archived: false
 created_at: '2025-06-05T08:12:35Z'
 pushed_at: '2026-09-04T08:15:30Z'
 resource_id: github:datawhalechina/all-in-rag
-first_seen: '2026-09-12T04:12:42.032085+05:30'
-last_seen: '2026-09-12T04:12:42.032085+05:30'
-last_checked: '2026-09-12T04:12:42.032085+05:30'
+first_seen: '2026-09-12T10:15:54.867037+05:30'
+last_seen: '2026-09-12T10:15:54.867037+05:30'
+last_checked: '2026-09-12T10:15:54.867037+05:30'
 health_score: 100
 ---
 
@@ -30,9 +30,9 @@ health_score: 100
 
 ## Summary
 
-*   Provides a full-stack guide for Retrieval-Augmented Generation (RAG) application development, emphasizing practical implementation.
-*   Integrates leading RAG frameworks (LangChain, LlamaIndex) with various LLMs (e.g., DeepSeek, Kimi-K2) and embedding models.
-*   Explores advanced retrieval strategies utilizing vector databases (Milvus) and graph databases (Neo4j), alongside multimodal RAG techniques.
+*   Provides a full-stack RAG implementation guide, leveraging `langchain` and `llama-index` for orchestration.
+*   Integrates vector databases like `Milvus` and graph databases like `Neo4j` for advanced retrieval strategies.
+*   Covers `embedding` techniques, `multimodal` RAG, and practical application with specific LLMs such as `DeepSeek` and `Kimi-K2` in Python.
 
 ## Why It Matters
 
@@ -41,11 +41,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: datawhalechina
-- Stars: 10977
-- Forks: 5469
+- Stars: 10980
+- Forks: 5471
 - Language: Python
 - Topics: ai, deepseek, embedding, kimi-k2, langchain, llama-index, llm, milvus, multimodal, neo4j, python, rag
-- Last Updated: 2026-09-11T15:39:04Z
+- Last Updated: 2026-09-12T04:38:47Z
 - Archived: No
 - Created At: 2025-06-05T08:12:35Z
 - Pushed At: 2026-09-04T08:15:30Z

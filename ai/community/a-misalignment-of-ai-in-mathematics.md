@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://mathandai.org
 hn_url: https://news.ycombinator.com/item?id=49662371
-score: 478
+score: 769
 author: meredydd
-comments_count: 545
+comments_count: 761
 published_at: '2026-09-11T23:15:12+05:30'
-collected_at: '2026-09-12T04:11:53.895799+05:30'
+collected_at: '2026-09-12T10:14:24.375389+05:30'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: hackernews:a-misalignment-of-ai-in-mathematics
 first_seen: '2026-09-12T00:44:08.293079+05:30'
-last_seen: '2026-09-12T04:11:53.895799+05:30'
-last_checked: '2026-09-12T04:11:53.895799+05:30'
+last_seen: '2026-09-12T10:14:24.375389+05:30'
+last_checked: '2026-09-12T10:14:24.375389+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by meredydd. Score: 478, Comments: 545.
+Hacker News story by meredydd. Score: 769, Comments: 761.
 Original Link: https://mathandai.org/
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: meredydd
-- Score: 478 Upvotes
-- Comments: 545 Discussions
+- Score: 769 Upvotes
+- Comments: 761 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49662371
 - Original Article: https://mathandai.org
 
