@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-09-12T04:31:50.447874+05:30`
+Generated at: `2026-09-12T08:59:34.137881+05:30`
 
 ## Executive Summary
 
@@ -8,35 +8,33 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## ✨ New Discoveries
 
-- **Claude is only available to people over 18 years** - Score: `533` in category `ai/community` ([Link](https://support.claude.com/en/articles/15171100-age-assurance-on-claude)) ([File](../ai/community/claude-is-no-longer-available-for-minors.md))
-- **CIA Releases President's Daily Briefs in Commemoration of 9/11** - Score: `75` in category `ai/community` ([Link](https://cia.gov/stories/story/cia-releases-presidents-daily-briefs-in-commemoration-of-the-25th-anniversary-of-9-11)) ([File](../ai/community/cia-releases-president-s-daily-briefs-in-commemora.md))
-- **A Design Space Exploration of Async/Await** - Score: `72` in category `ai/community` ([Link](https://cel.cs.brown.edu/blog/design-space-async-await)) ([File](../ai/community/a-design-space-exploration-of-async-await.md))
+- **[QUALITY] - ** - Score: `0` in category `` ([File](../.github/ISSUE_TEMPLATE/quality-feedback.md))
 
 ## Top Trending Resources
 
-- **A misalignment of AI in mathematics** - Score: `478` (+429), Rank Change: `+2` ([File](../ai/community/a-misalignment-of-ai-in-mathematics.md))
-- **Litelm: LiteLLM Without the Bloat** - Score: `78` (+53), Rank Change: `+2` ([File](../ai/community/kennethwolters-litelm.md))
-- **IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow** - Score: `0` (0), Rank Change: `+1011` ([File](../ai/rag/icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow.md))
-- **IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow** - Score: `0` (0), Rank Change: `+1012` ([File](../ai/rag/icensraghomework-icensraghomework-classroom01-rag2-hw02-workflow.md))
-- **ParticleMedia/RAGTruth** - Score: `0` (0), Rank Change: `+1011` ([File](../ai/rag/particlemedia-ragtruth.md))
-- **React Canaries: Enabling Incremental Feature Rollout Outside Meta** - Score: `0` (0), Rank Change: `+72` ([File](../web-development/react-canaries-enabling-incremental-feature-rollou.md))
-- **Sunsetting Create React App** - Score: `0` (0), Rank Change: `+72` ([File](../ai/rag/sunsetting-create-react-app.md))
-- **React 19.3** - Score: `0` (0), Rank Change: `+72` ([File](../ai/rag/react-19-3.md))
-- **How to train a new language model from scratch using Transformers and Tokenizers** - Score: `0` (0), Rank Change: `+82` ([File](../ai/models/huggingface-blog-how-to-train.md))
-- **How to generate text: using different decoding methods for language generation with Transformers** - Score: `0` (0), Rank Change: `+82` ([File](../ai/models/huggingface-blog-how-to-generate.md))
+- **raganwald/raganwald.github.com** - Score: `0` (0), Rank Change: `+1004` ([File](../ai/rag/raganwald-raganwald-github-com.md))
+- **langchain-ai/rag-from-scratch** - Score: `0` (0), Rank Change: `+1004` ([File](../ai/rag/langchain-ai-rag-from-scratch.md))
+- **analyticsworld1/RAG_Techniques2025-main** - Score: `0` (0), Rank Change: `+1004` ([File](../ai/rag/analyticsworld1-rag-techniques2025-main.md))
+- **dannyblaker/rag-tutorial** - Score: `0` (0), Rank Change: `+1004` ([File](../ai/rag/dannyblaker-rag-tutorial.md))
+- **7 Best GitHub Repositories For Mastering RAG Systems** - Score: `0` (0), Rank Change: `+1004` ([File](../ai/rag/7-best-github-repositories-for-mastering-rag-syste.md))
+- **ragnarokoffline/ragnarokoffline.github.io** - Score: `0` (0), Rank Change: `+1004` ([File](../ai/rag/ragnarokoffline-ragnarokoffline-github-io.md))
+- **SylphAI-Inc/GithubChat** - Score: `0` (0), Rank Change: `+1004` ([File](../ai/rag/sylphai-inc-githubchat.md))
+- **malonge/RaGOO** - Score: `0` (0), Rank Change: `+1004` ([File](../ai/rag/malonge-ragoo.md))
+- **Characterizing Language Generation in the Limit: Finite Witnesses and a Separation-Width Hierarchy** - Score: `0` (0), Rank Change: `+1004` ([File](../ai/research/arxiv-2609-10525.md))
+- **Physics-constrained neural networks for surrogate modeling of lossless periodic structures** - Score: `0` (0), Rank Change: `+1004` ([File](../ai/research/arxiv-2606-28119.md))
 
 ## 🚀 Fastest Rising Tools
 
-- **IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow** - (Rank Change: `+1012`) ([File](../ai/rag/icensraghomework-icensraghomework-classroom01-rag2-hw02-workflow.md))
-- **IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow** - (Rank Change: `+1011`) ([File](../ai/rag/icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow.md))
-- **ParticleMedia/RAGTruth** - (Rank Change: `+1011`) ([File](../ai/rag/particlemedia-ragtruth.md))
-- **Applied AI** - (Rank Change: `+101`) ([File](../ai/companies/openai/applied-ai.md))
-- **AI Adoption** - (Rank Change: `+101`) ([File](../ai/companies/openai/ai-adoption.md))
-- **Global Affairs** - (Rank Change: `+101`) ([File](../ai/companies/openai/global-affairs.md))
-- **Intelligence Age** - (Rank Change: `+101`) ([File](../ai/companies/openai/intelligence-age.md))
-- **Engineering** - (Rank Change: `+101`) ([File](../ai/companies/openai/engineering.md))
-- **How to train a new language model from scratch using Transformers and Tokenizers** - (Rank Change: `+82`) ([File](../ai/models/huggingface-blog-how-to-train.md))
-- **How to generate text: using different decoding methods for language generation with Transformers** - (Rank Change: `+82`) ([File](../ai/models/huggingface-blog-how-to-generate.md))
+- **infiniflow/ragflow** - (Rank Change: `+25429`) ([File](../ai/rag/infiniflow-ragflow-2.md))
+- **RUC-NLPIR/FlashRAG** - (Rank Change: `+25354`) ([File](../ai/rag/ruc-nlpir-flashrag-2.md))
+- **stanford-oval/storm** - (Rank Change: `+17138`) ([File](../ai/rag/stanford-oval-storm.md))
+- **raganwald/raganwald.github.com** - (Rank Change: `+1004`) ([File](../ai/rag/raganwald-raganwald-github-com.md))
+- **langchain-ai/rag-from-scratch** - (Rank Change: `+1004`) ([File](../ai/rag/langchain-ai-rag-from-scratch.md))
+- **analyticsworld1/RAG_Techniques2025-main** - (Rank Change: `+1004`) ([File](../ai/rag/analyticsworld1-rag-techniques2025-main.md))
+- **dannyblaker/rag-tutorial** - (Rank Change: `+1004`) ([File](../ai/rag/dannyblaker-rag-tutorial.md))
+- **7 Best GitHub Repositories For Mastering RAG Systems** - (Rank Change: `+1004`) ([File](../ai/rag/7-best-github-repositories-for-mastering-rag-syste.md))
+- **ragnarokoffline/ragnarokoffline.github.io** - (Rank Change: `+1004`) ([File](../ai/rag/ragnarokoffline-ragnarokoffline-github-io.md))
+- **SylphAI-Inc/GithubChat** - (Rank Change: `+1004`) ([File](../ai/rag/sylphai-inc-githubchat.md))
 
 ## 🔄 Essential Tier Transitions
 
@@ -47,5 +45,5 @@ No resources left the Essential tier in this run.
 
 ## 💤 Recently Inactive Resources
 
-- **Show HN: Hacker News, Without AI** (Category: `ai/community`) ([File](../ai/community/show-hn-hacker-news-without-ai.md))
-- **Copying login keychains between Macs fails on Secure Enclave Macs with Tahoe** (Category: `ai/community`) ([File](../ai/community/copying-login-keychains-between-macs-fails-on-secu.md))
+No recently active resources transitioned to inactive.
+
