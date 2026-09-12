@@ -13,13 +13,14 @@ collected_at: '2026-09-12T10:14:26.550892+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:ai-researchers-debate-how-close-we-are-to-recursiv
 first_seen: '2026-09-12T10:14:26.550892+05:30'
 last_seen: '2026-09-12T10:14:26.550892+05:30'
 last_checked: '2026-09-12T10:14:26.550892+05:30'
 health_score: 100
 ---
+
 
 # AI researchers debate how close we are to recursive self-improvement
 

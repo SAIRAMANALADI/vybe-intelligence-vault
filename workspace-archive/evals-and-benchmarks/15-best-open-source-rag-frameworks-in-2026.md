@@ -39,7 +39,7 @@ selection_reason:
 
 ## Summary
 
-*   RAG remains a critical technique in 2026 for enhancing LL
+*   RAG remains critical in 2026 for enhancing LLM capabilities across
 
 ## Use Cases
 

@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.analyticsvidhya.com/blog/2025/10/github-repositories-for-mastering-rag-systems/
-published_at: '2026-09-11T18:25:54.494292+05:30'
-collected_at: '2026-09-11T18:25:54.494300+05:30'
+published_at: '2026-09-12T17:47:31.611288+05:30'
+collected_at: '2026-09-12T17:47:31.611301+05:30'
 tags:
 - agents
 - anthropic
@@ -26,9 +26,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:7-best-github-repositories-for-mastering-rag-syste
-first_seen: '2026-09-11T18:25:54.494300+05:30'
-last_seen: '2026-09-11T18:25:54.494300+05:30'
-last_checked: '2026-09-11T18:25:54.494300+05:30'
+first_seen: '2026-09-12T17:47:31.611301+05:30'
+last_seen: '2026-09-12T17:47:31.611301+05:30'
+last_checked: '2026-09-12T17:47:31.611301+05:30'
 health_score: 100
 ---
 
@@ -36,9 +36,9 @@ health_score: 100
 
 ## Summary
 
-*   Retrieval-Augmented Generation (RAG) systems augment Large Language Models (LLMs) by dynamically retrieving external, context-specific data to mitigate knowledge cut-off and hallucination, operating through pipelines that integrate document retrieval with LLM response generation.
-*   Prominent open-source RAG frameworks like LangChain, Haystack, and LlamaIndex offer modular architectures for constructing RAG pipelines, providing components for data connectors, text chunking, embedding generation, vector store integration (e.g., FAISS, Pinecone), and diverse retrieval strategies (e.g., BM25, dense retrieval).
-*   Specialized RAG implementations address distinct technical requirements: RAGFlow focuses on deep
+*   Retrieval-Augmented Generation (RAG) systems enhance Large Language Models (LLMs) by dynamically retrieving external, contextually relevant data from knowledge sources, mitigating knowledge cut-off and hallucination for improved response accuracy and domain specificity.
+*   RAG frameworks are architecturally modular and pipeline-centric, integrating components such as document loaders, text chunkers, embedding models, vector stores, sophisticated retrievers, and LLM generators to orchestrate context-aware response synthesis.
+*   Key open-source RAG toolkits (e.g., LangChain, Haystack, L
 
 ## Why It Matters
 
@@ -48,7 +48,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-09-11T18:25:54.494292+05:30
+- Published: 2026-09-12T17:47:31.611288+05:30
 
 ## Related Tags
 

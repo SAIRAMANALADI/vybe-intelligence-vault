@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://github.com/kennethwolters/litelm
 hn_url: https://news.ycombinator.com/item?id=49662767
-score: 110
+score: 151
 author: kennethwolters
-comments_count: 39
+comments_count: 51
 published_at: '2026-09-11T23:40:20+05:30'
-collected_at: '2026-09-12T10:14:25.831105+05:30'
+collected_at: '2026-09-12T17:46:35.082048+05:30'
 tags:
 - hackernews
 - llm
 status: active
 resource_id: github:kennethwolters/litelm
 first_seen: '2026-09-12T00:44:08.447368+05:30'
-last_seen: '2026-09-12T10:14:25.831105+05:30'
-last_checked: '2026-09-12T10:14:25.831105+05:30'
+last_seen: '2026-09-12T17:46:35.082048+05:30'
+last_checked: '2026-09-12T17:46:35.082048+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by kennethwolters. Score: 110, Comments: 39.
+Hacker News story by kennethwolters. Score: 151, Comments: 51.
 Original Link: https://github.com/kennethwolters/litelm
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: kennethwolters
-- Score: 110 Upvotes
-- Comments: 39 Discussions
+- Score: 151 Upvotes
+- Comments: 51 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49662767
 - Original Article: https://github.com/kennethwolters/litelm
 

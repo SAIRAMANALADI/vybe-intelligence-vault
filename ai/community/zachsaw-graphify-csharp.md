@@ -13,13 +13,14 @@ collected_at: '2026-09-12T10:14:26.186398+05:30'
 tags:
 - agents
 - hackernews
-status: active
+status: inactive
 resource_id: github:zachsaw/graphify-csharp
 first_seen: '2026-09-12T10:14:26.186398+05:30'
 last_seen: '2026-09-12T10:14:26.186398+05:30'
 last_checked: '2026-09-12T10:14:26.186398+05:30'
 health_score: 100
 ---
+
 
 # Show HN: Graphify C# – Compiler-accurate Find Usages for coding agents
 

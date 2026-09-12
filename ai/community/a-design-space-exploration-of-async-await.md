@@ -5,11 +5,11 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://cel.cs.brown.edu/blog/design-space-async-await
 hn_url: https://news.ycombinator.com/item?id=49626718
-score: 198
+score: 320
 author: wcrichton
-comments_count: 44
+comments_count: 84
 published_at: '2026-09-09T19:29:50+05:30'
-collected_at: '2026-09-12T10:14:25.056488+05:30'
+collected_at: '2026-09-12T17:46:33.042321+05:30'
 tags:
 - ai
 - hackernews
@@ -17,8 +17,8 @@ tags:
 status: active
 resource_id: hackernews:a-design-space-exploration-of-async-await
 first_seen: '2026-09-12T04:11:54.544095+05:30'
-last_seen: '2026-09-12T10:14:25.056488+05:30'
-last_checked: '2026-09-12T10:14:25.056488+05:30'
+last_seen: '2026-09-12T17:46:33.042321+05:30'
+last_checked: '2026-09-12T17:46:33.042321+05:30'
 health_score: 100
 ---
 
@@ -26,7 +26,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by wcrichton. Score: 198, Comments: 44.
+Hacker News story by wcrichton. Score: 320, Comments: 84.
 Original Link: https://cel.cs.brown.edu/blog/design-space-async-await/
 
 ## Why It Matters
@@ -36,8 +36,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: wcrichton
-- Score: 198 Upvotes
-- Comments: 44 Discussions
+- Score: 320 Upvotes
+- Comments: 84 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=49626718
 - Original Article: https://cel.cs.brown.edu/blog/design-space-async-await
 

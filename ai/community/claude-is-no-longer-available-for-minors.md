@@ -14,13 +14,14 @@ tags:
 - ai
 - anthropic
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:claude-is-only-available-to-people-over-18-years
 first_seen: '2026-09-11T18:25:00.046946+05:30'
 last_seen: '2026-09-12T10:14:27.617700+05:30'
 last_checked: '2026-09-12T10:14:27.617700+05:30'
 health_score: 100
 ---
+
 
 # Claude is only available to people over 18 years
 
